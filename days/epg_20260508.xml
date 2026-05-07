@@ -125,6 +125,8 @@
   </channel>
   <channel id="海洋频道"><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋</display-name><display-name lang="zh">CHANNEL00000662</display-name>
   </channel>
+  <channel id="齐河综合"><display-name lang="zh">齐河综合</display-name><display-name lang="zh">齐河综合</display-name><display-name lang="zh">CHANNEL00001056</display-name>
+  </channel>
   <channel id="CCTV风云足球"><display-name lang="zh">CCTV风云足球</display-name><display-name lang="zh">CCTV-风云足球</display-name><display-name lang="zh">风云足球</display-name>
   </channel>
   <channel id="定陶综合"><display-name lang="zh">定陶综合</display-name><display-name lang="zh">定陶综合</display-name><display-name lang="zh">CHANNEL00001063</display-name>
@@ -12707,5 +12709,27 @@
   <programme start="20260508225000 +0800" stop="20260508231500 +0800" channel="南通公共"><title lang="zh">江海联播</title><desc>南通广播电视台日播时政新闻栏目，与《南通新闻》并列为两档拳头新闻节目。围绕市委、市政府中心工作，发布权威政策信息，全面记录南通经济、社会、文化发展成就，是覆盖全市的权威新闻资讯平台。</desc>
   </programme>
   <programme start="20260508231500 +0800" stop="20260509000000 +0800" channel="南通公共"><title lang="zh">深夜影院</title><desc>电视台深夜时段开设的电影栏目，通常在23:00以后播出。以经典老片、文艺片、获奖影片为主，营造安静纯粹的观影氛围，满足夜班族、夜猫子等深夜收视群体的观剧需求。多采用单片播映形式，偶有主题策划或导演专题展映。</desc>
+  </programme>
+  <programme start="20260508063000 +0800" stop="20260508064000 +0800" channel="齐河综合"><title lang="zh">彩条ok</title>
+  </programme>
+  <programme start="20260508064000 +0800" stop="20260508065000 +0800" channel="齐河综合"><title lang="zh">彩条ok</title>
+  </programme>
+  <programme start="20260508065000 +0800" stop="20260508070000 +0800" channel="齐河综合"><title lang="zh">彩条ok</title>
+  </programme>
+  <programme start="20260508070000 +0800" stop="20260508071200 +0800" channel="齐河综合"><title lang="zh">齐河新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260508120300 +0800" stop="20260508121500 +0800" channel="齐河综合"><title lang="zh">齐河新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260508183000 +0800" stop="20260508185700 +0800" channel="齐河综合"><title lang="zh">山东新闻</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
+  </programme>
+  <programme start="20260508190000 +0800" stop="20260508193500 +0800" channel="齐河综合"><title lang="zh">中央新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260508194900 +0800" stop="20260508201900 +0800" channel="齐河综合"><title lang="zh">德州新闻</title><desc>《德州新闻》是山东省德州市的本地新闻节目，主要报道德州市的政治、经济、社会、文化等方面的新闻事件和动态。该节目旨在为观众提供及时、准确的本地新闻信息，帮助观众了解德州的发展变化。</desc>
+  </programme>
+  <programme start="20260508203400 +0800" stop="20260508204600 +0800" channel="齐河综合"><title lang="zh">齐河新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260508223800 +0800" stop="20260508225000 +0800" channel="齐河综合"><title lang="zh">齐河新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260508233800 +0800" stop="20260509063000 +0800" channel="齐河综合"><title lang="zh">彩条ok</title>
   </programme>
 </tv>
