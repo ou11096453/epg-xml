@@ -49,6 +49,8 @@
   </channel>
   <channel id="沂源综合"><display-name lang="zh">沂源综合</display-name><display-name lang="zh">沂源综合</display-name><display-name lang="zh">CHANNEL00001002</display-name>
   </channel>
+  <channel id="威海综合"><display-name lang="zh">威海综合</display-name><display-name lang="zh">威海新闻综合</display-name><display-name lang="zh">威海新闻</display-name><display-name lang="zh">CHANNEL00000274</display-name><display-name lang="zh">威海新闻频道</display-name><display-name lang="zh">WHTV-1</display-name>
+  </channel>
   <channel id="新疆卫视"><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆</display-name><display-name lang="zh">CHANNEL00000393</display-name>
   </channel>
   <channel id="嘉佳卡通"><display-name lang="zh">嘉佳卡通</display-name><display-name lang="zh">嘉佳卡通</display-name><display-name lang="zh">CHANNEL00000074</display-name>
@@ -12604,5 +12606,11 @@
   <programme start="20260509214000 +0800" stop="20260509215500 +0800" channel="河东综合"><title lang="zh">河东新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20260509234000 +0800" stop="20260510060000 +0800" channel="河东综合"><title lang="zh">再见</title><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
+  </programme>
+  <programme start="20260509114000 +0800" stop="20260509120000 +0800" channel="威海综合"><title lang="zh">重播直播威海</title>
+  </programme>
+  <programme start="20260509120000 +0800" stop="20260509122000 +0800" channel="威海综合"><title lang="zh">重播威海新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260509122000 +0800" stop="20260509123500 +0800" channel="威海综合"><title lang="zh">重播希望的田野</title>
   </programme>
 </tv>

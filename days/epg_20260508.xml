@@ -53,6 +53,8 @@
   </channel>
   <channel id="沂源综合"><display-name lang="zh">沂源综合</display-name><display-name lang="zh">沂源综合</display-name><display-name lang="zh">CHANNEL00001002</display-name>
   </channel>
+  <channel id="威海综合"><display-name lang="zh">威海综合</display-name><display-name lang="zh">威海新闻综合</display-name><display-name lang="zh">威海新闻</display-name><display-name lang="zh">CHANNEL00000274</display-name><display-name lang="zh">威海新闻频道</display-name><display-name lang="zh">WHTV-1</display-name>
+  </channel>
   <channel id="新疆卫视"><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆</display-name><display-name lang="zh">CHANNEL00000393</display-name>
   </channel>
   <channel id="嘉佳卡通"><display-name lang="zh">嘉佳卡通</display-name><display-name lang="zh">嘉佳卡通</display-name><display-name lang="zh">CHANNEL00000074</display-name>
@@ -14801,5 +14803,13 @@
   <programme start="20260508223657 +0800" stop="20260508235210 +0800" channel="32"><title lang="zh">动画片：《猪猪侠之竞速小英雄6》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20260508235210 +0800" stop="20260508235959 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者1》</title><desc>《喜羊羊与灰太狼》是一部面向儿童的动画系列片，讲述了喜羊羊和伙伴们与灰太狼斗智斗勇的故事。羊村守护者VIII心世界奇遇第13集继续讲述喜羊羊和伙伴们的冒险历程，通过生动有趣的情节和精美的画面，向孩子们传递友谊、勇气和正能量。</desc>
+  </programme>
+  <programme start="20260508062900 +0800" stop="20260508070000 +0800" channel="威海综合"><title lang="zh">重播希望的田野</title>
+  </programme>
+  <programme start="20260508114000 +0800" stop="20260508120000 +0800" channel="威海综合"><title lang="zh">重播直播威海</title>
+  </programme>
+  <programme start="20260508120000 +0800" stop="20260508122000 +0800" channel="威海综合"><title lang="zh">重播威海新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260508122000 +0800" stop="20260508123500 +0800" channel="威海综合"><title lang="zh">重播希望的田野</title>
   </programme>
 </tv>
