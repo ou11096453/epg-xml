@@ -215,6 +215,8 @@
   </channel>
   <channel id="生活时尚"><display-name lang="zh">生活时尚</display-name><display-name lang="zh">生活时尚</display-name><display-name lang="zh">CHANNEL00002019</display-name>
   </channel>
+  <channel id="武城综合"><display-name lang="zh">武城综合</display-name><display-name lang="zh">武城综合</display-name><display-name lang="zh">CHANNEL00001059</display-name>
+  </channel>
   <channel id="CCTV电视指南"><display-name lang="zh">CCTV电视指南</display-name><display-name lang="zh">CCTV-电视指南</display-name><display-name lang="zh">电视指南</display-name>
   </channel>
   <channel id="CCTV15"><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV15音乐</display-name><display-name lang="zh">CHANNEL00000346</display-name><display-name lang="zh">CCTV-15</display-name><display-name lang="zh">CCTV-15音乐</display-name><display-name lang="zh">CCTV 15</display-name><display-name lang="zh">CCTV-15 高清</display-name><display-name lang="zh">CCTV15 高清</display-name>
@@ -12502,5 +12504,9 @@
   <programme start="20260510221500 +0800" stop="20260510225000 +0800" channel="南通公共"><title lang="zh">城市日历</title><desc>南通广播电视台创办于1999年的民生新闻栏目，以“打开城市日历，记录明天历史”为口号。聚焦百姓冷暖、透视社会热点、传递生活资讯、帮扶弱势群体，是南通地区收视率最高、美誉度最好的电视节目之一。</desc>
   </programme>
   <programme start="20260510225000 +0800" stop="20260511000000 +0800" channel="南通公共"><title lang="zh">深夜影院</title><desc>电视台深夜时段开设的电影栏目，通常在23:00以后播出。以经典老片、文艺片、获奖影片为主，营造安静纯粹的观影氛围，满足夜班族、夜猫子等深夜收视群体的观剧需求。多采用单片播映形式，偶有主题策划或导演专题展映。</desc>
+  </programme>
+  <programme start="20260510073200 +0800" stop="20260510075000 +0800" channel="武城综合"><title lang="zh">武城新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260510120000 +0800" stop="20260510121600 +0800" channel="武城综合"><title lang="zh">武城新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
 </tv>
