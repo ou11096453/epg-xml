@@ -11,6 +11,10 @@
   </channel>
   <channel id="济南都市"><display-name lang="zh">济南都市</display-name><display-name lang="zh">济南都市</display-name><display-name lang="zh">CHANNEL00000062</display-name><display-name lang="zh">济南都市频道</display-name>
   </channel>
+  <channel id="济宁综合"><display-name lang="zh">济宁综合</display-name><display-name lang="zh">济宁综合</display-name><display-name lang="zh">CHANNEL00000240</display-name><display-name lang="zh">济宁综合频道</display-name>
+  </channel>
+  <channel id="济宁公共"><display-name lang="zh">济宁公共</display-name><display-name lang="zh">济宁公共</display-name><display-name lang="zh">CHANNEL00000241</display-name><display-name lang="zh">济宁公共频道</display-name>
+  </channel>
   <channel id="甘肃卫视"><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃</display-name><display-name lang="zh">CHANNEL00000349</display-name>
   </channel>
   <channel id="CCTV9"><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV9纪录</display-name><display-name lang="zh">CHANNEL00000319</display-name><display-name lang="zh">CCTV-9</display-name><display-name lang="zh">CCTV-9纪录</display-name><display-name lang="zh">CCTV 9</display-name><display-name lang="zh">CCTV-9 高清</display-name><display-name lang="zh">CCTV9 高清</display-name>
@@ -150,6 +154,8 @@
   <channel id="CCTV高尔夫网球"><display-name lang="zh">CCTV高尔夫网球</display-name><display-name lang="zh">CCTV-高尔夫网球</display-name><display-name lang="zh">高尔夫网球</display-name>
   </channel>
   <channel id="南通综合"><display-name lang="zh">南通综合</display-name><display-name lang="zh">南通一套</display-name><display-name lang="zh">南通新闻</display-name><display-name lang="zh">南通新闻综合</display-name>
+  </channel>
+  <channel id="济宁生活"><display-name lang="zh">济宁生活</display-name><display-name lang="zh">济宁生活</display-name><display-name lang="zh">CHANNEL00000239</display-name><display-name lang="zh">济宁生活频道</display-name>
   </channel>
   <channel id="CCTV风云剧场"><display-name lang="zh">CCTV风云剧场</display-name><display-name lang="zh">CCTV-风云剧场</display-name><display-name lang="zh">风云剧场</display-name>
   </channel>
@@ -14857,5 +14863,101 @@
   <programme start="20260511223855 +0800" stop="20260511235213 +0800" channel="32"><title lang="zh">《猪猪侠之竞速小英雄6》</title>
   </programme>
   <programme start="20260511235213 +0800" stop="20260511235959 +0800" channel="32"><title lang="zh">《喜羊羊与灰太狼羊村守护者1》</title><desc>《喜羊羊与灰太狼》是一部面向儿童的动画系列片，讲述了喜羊羊和伙伴们与灰太狼斗智斗勇的故事。羊村守护者VIII心世界奇遇第13集继续讲述喜羊羊和伙伴们的冒险历程，通过生动有趣的情节和精美的画面，向孩子们传递友谊、勇气和正能量。</desc>
+  </programme>
+  <programme start="20260511070000 +0800" stop="20260511072100 +0800" channel="济宁综合"><title lang="zh">济宁新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260511072100 +0800" stop="20260511074000 +0800" channel="济宁综合"><title lang="zh">闫虹访谈</title>
+  </programme>
+  <programme start="20260511074000 +0800" stop="20260511081000 +0800" channel="济宁综合"><title lang="zh">直通县市区</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
+  </programme>
+  <programme start="20260511101000 +0800" stop="20260511120000 +0800" channel="济宁综合"><title lang="zh">欢乐英雄</title>
+  </programme>
+  <programme start="20260511120000 +0800" stop="20260511122000 +0800" channel="济宁综合"><title lang="zh">济宁新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260511122000 +0800" stop="20260511124000 +0800" channel="济宁综合"><title lang="zh">闫虹访谈</title>
+  </programme>
+  <programme start="20260511124000 +0800" stop="20260511132500 +0800" channel="济宁综合"><title lang="zh">直通县市区</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
+  </programme>
+  <programme start="20260511173000 +0800" stop="20260511181500 +0800" channel="济宁综合"><title lang="zh">闫虹访谈</title>
+  </programme>
+  <programme start="20260511181500 +0800" stop="20260511183000 +0800" channel="济宁综合"><title lang="zh">直通县市区</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
+  </programme>
+  <programme start="20260511183000 +0800" stop="20260511185500 +0800" channel="济宁综合"><title lang="zh">山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
+  </programme>
+  <programme start="20260511185500 +0800" stop="20260511190000 +0800" channel="济宁综合"><title lang="zh">济宁天气预报</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20260511190000 +0800" stop="20260511193000 +0800" channel="济宁综合"><title lang="zh">中央新闻联播</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260511193000 +0800" stop="20260511195000 +0800" channel="济宁综合"><title lang="zh">济宁新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260511195000 +0800" stop="20260511195500 +0800" channel="济宁综合"><title lang="zh">济宁党建</title>
+  </programme>
+  <programme start="20260511195500 +0800" stop="20260511200500 +0800" channel="济宁综合"><title lang="zh">天天有名医</title>
+  </programme>
+  <programme start="20260511200500 +0800" stop="20260511202000 +0800" channel="济宁综合"><title lang="zh">直通县市区</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
+  </programme>
+  <programme start="20260511202000 +0800" stop="20260511205000 +0800" channel="济宁综合"><title lang="zh">金声玉振</title><desc>从贾湖骨笛的远古清音，到民间社火的喧天锣鼓；从《诗经》"琴瑟在御"的雅致，到丝绸之路上的琵琶东传——中国器乐，这以音符谱写的文明史诗，承载着中华大地的集体记忆与情感密码。2025年，由中央广播电视总台倾力打造的《金声玉振——中国器乐大会》，将以开放的姿态、当代的表达，开启一场跨越时空的音乐对话。</desc>
+  </programme>
+  <programme start="20260511205000 +0800" stop="20260511213000 +0800" channel="济宁综合"><title lang="zh">直播民生</title>
+  </programme>
+  <programme start="20260511070000 +0800" stop="20260511072100 +0800" channel="济宁生活"><title lang="zh">直播民生</title>
+  </programme>
+  <programme start="20260511082000 +0800" stop="20260511100500 +0800" channel="济宁生活"><title lang="zh">欢乐英雄</title>
+  </programme>
+  <programme start="20260511120000 +0800" stop="20260511122200 +0800" channel="济宁生活"><title lang="zh">直播民生</title>
+  </programme>
+  <programme start="20260511122200 +0800" stop="20260511124200 +0800" channel="济宁生活"><title lang="zh">城事</title>
+  </programme>
+  <programme start="20260511124200 +0800" stop="20260511143000 +0800" channel="济宁生活"><title lang="zh">欢乐英雄</title>
+  </programme>
+  <programme start="20260511163000 +0800" stop="20260511180500 +0800" channel="济宁生活"><title lang="zh">欢乐英雄</title>
+  </programme>
+  <programme start="20260511180500 +0800" stop="20260511184000 +0800" channel="济宁生活"><title lang="zh">声远在线</title>
+  </programme>
+  <programme start="20260511184000 +0800" stop="20260511191000 +0800" channel="济宁生活"><title lang="zh">直播民生</title>
+  </programme>
+  <programme start="20260511191000 +0800" stop="20260511193000 +0800" channel="济宁生活"><title lang="zh">城事</title>
+  </programme>
+  <programme start="20260511193000 +0800" stop="20260511193500 +0800" channel="济宁生活"><title lang="zh">壹视点</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260511213000 +0800" stop="20260511214500 +0800" channel="济宁生活"><title lang="zh">今日关注</title><desc>《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+  </programme>
+  <programme start="20260511214500 +0800" stop="20260511220000 +0800" channel="济宁生活"><title lang="zh">直通县市区</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
+  </programme>
+  <programme start="20260511220000 +0800" stop="20260511222000 +0800" channel="济宁生活"><title lang="zh">济宁新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260511222000 +0800" stop="20260511222500 +0800" channel="济宁生活"><title lang="zh">济宁党建</title>
+  </programme>
+  <programme start="20260511222500 +0800" stop="20260511223000 +0800" channel="济宁生活"><title lang="zh">天天有名医</title>
+  </programme>
+  <programme start="20260511223000 +0800" stop="20260511233000 +0800" channel="济宁生活"><title lang="zh">济宁房产周刊</title>
+  </programme>
+  <programme start="20260511075500 +0800" stop="20260511081000 +0800" channel="济宁公共"><title lang="zh">金声玉振</title><desc>从贾湖骨笛的远古清音，到民间社火的喧天锣鼓；从《诗经》"琴瑟在御"的雅致，到丝绸之路上的琵琶东传——中国器乐，这以音符谱写的文明史诗，承载着中华大地的集体记忆与情感密码。2025年，由中央广播电视总台倾力打造的《金声玉振——中国器乐大会》，将以开放的姿态、当代的表达，开启一场跨越时空的音乐对话。</desc>
+  </programme>
+  <programme start="20260511081000 +0800" stop="20260511082000 +0800" channel="济宁公共"><title lang="zh">天天有名医</title>
+  </programme>
+  <programme start="20260511120000 +0800" stop="20260511121500 +0800" channel="济宁公共"><title lang="zh">金声玉振</title><desc>从贾湖骨笛的远古清音，到民间社火的喧天锣鼓；从《诗经》"琴瑟在御"的雅致，到丝绸之路上的琵琶东传——中国器乐，这以音符谱写的文明史诗，承载着中华大地的集体记忆与情感密码。2025年，由中央广播电视总台倾力打造的《金声玉振——中国器乐大会》，将以开放的姿态、当代的表达，开启一场跨越时空的音乐对话。</desc>
+  </programme>
+  <programme start="20260511121500 +0800" stop="20260511122000 +0800" channel="济宁公共"><title lang="zh">天天有名医</title>
+  </programme>
+  <programme start="20260511192500 +0800" stop="20260511194000 +0800" channel="济宁公共"><title lang="zh">金声玉振</title><desc>从贾湖骨笛的远古清音，到民间社火的喧天锣鼓；从《诗经》"琴瑟在御"的雅致，到丝绸之路上的琵琶东传——中国器乐，这以音符谱写的文明史诗，承载着中华大地的集体记忆与情感密码。2025年，由中央广播电视总台倾力打造的《金声玉振——中国器乐大会》，将以开放的姿态、当代的表达，开启一场跨越时空的音乐对话。</desc>
+  </programme>
+  <programme start="20260511194000 +0800" stop="20260511212000 +0800" channel="济宁公共"><title lang="zh">欢乐英雄</title>
   </programme>
 </tv>
