@@ -213,6 +213,8 @@
   </channel>
   <channel id="河东综合"><display-name lang="zh">河东综合</display-name><display-name lang="zh">河东综合</display-name><display-name lang="zh">CHANNEL00001109</display-name>
   </channel>
+  <channel id="法治天地"><display-name lang="zh">法治天地</display-name><display-name lang="zh">法治天地</display-name><display-name lang="zh">CHANNEL00002010</display-name>
+  </channel>
   <channel id="CCTV女性时尚"><display-name lang="zh">CCTV女性时尚</display-name><display-name lang="zh">CCTV-女性时尚</display-name><display-name lang="zh">女性时尚</display-name>
   </channel>
   <channel id="东营公共"><display-name lang="zh">东营公共</display-name><display-name lang="zh">东营公共</display-name><display-name lang="zh">CHANNEL00000227</display-name><display-name lang="zh">东营公共频道</display-name><display-name lang="zh">DYTV-2</display-name>
@@ -14272,5 +14274,93 @@
   <programme start="20260512225000 +0800" stop="20260512231200 +0800" channel="德州生活"><title lang="zh">直播德州</title>
   </programme>
   <programme start="20260512231200 +0800" stop="20260512233800 +0800" channel="德州生活"><title lang="zh">承诺在行动</title>
+  </programme>
+  <programme start="20260512000100 +0800" stop="20260512002700 +0800" channel="法治天地"><title lang="zh">记者调查</title>
+  </programme>
+  <programme start="20260512002700 +0800" stop="20260512011400 +0800" channel="法治天地"><title lang="zh">人间窘事</title>
+  </programme>
+  <programme start="20260512011400 +0800" stop="20260512021100 +0800" channel="法治天地"><title lang="zh">人间窘事</title>
+  </programme>
+  <programme start="20260512021100 +0800" stop="20260512023000 +0800" channel="法治天地"><title lang="zh">法治中国</title>
+  </programme>
+  <programme start="20260512023000 +0800" stop="20260512031000 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260512031000 +0800" stop="20260512033500 +0800" channel="法治天地"><title lang="zh">百姓英雄</title>
+  </programme>
+  <programme start="20260512033500 +0800" stop="20260512040800 +0800" channel="法治天地"><title lang="zh">庭审直播</title>
+  </programme>
+  <programme start="20260512040800 +0800" stop="20260512043400 +0800" channel="法治天地"><title lang="zh">记者调查</title>
+  </programme>
+  <programme start="20260512043400 +0800" stop="20260512052100 +0800" channel="法治天地"><title lang="zh">人间窘事</title>
+  </programme>
+  <programme start="20260512052100 +0800" stop="20260512061300 +0800" channel="法治天地"><title lang="zh">人间窘事</title>
+  </programme>
+  <programme start="20260512061300 +0800" stop="20260512064800 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260512064800 +0800" stop="20260512071700 +0800" channel="法治天地"><title lang="zh">记者调查</title>
+  </programme>
+  <programme start="20260512071700 +0800" stop="20260512073800 +0800" channel="法治天地"><title lang="zh">法治中国</title>
+  </programme>
+  <programme start="20260512073800 +0800" stop="20260512080700 +0800" channel="法治天地"><title lang="zh">庭审直播</title>
+  </programme>
+  <programme start="20260512080700 +0800" stop="20260512083100 +0800" channel="法治天地"><title lang="zh">百姓英雄</title>
+  </programme>
+  <programme start="20260512083100 +0800" stop="20260512090000 +0800" channel="法治天地"><title lang="zh">记者调查</title>
+  </programme>
+  <programme start="20260512090000 +0800" stop="20260512093200 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260512093200 +0800" stop="20260512101900 +0800" channel="法治天地"><title lang="zh">人间窘事</title>
+  </programme>
+  <programme start="20260512101900 +0800" stop="20260512111200 +0800" channel="法治天地"><title lang="zh">人间窘事</title>
+  </programme>
+  <programme start="20260512111200 +0800" stop="20260512114100 +0800" channel="法治天地"><title lang="zh">记者调查</title>
+  </programme>
+  <programme start="20260512114100 +0800" stop="20260512123000 +0800" channel="法治天地"><title lang="zh">法治中国</title>
+  </programme>
+  <programme start="20260512123000 +0800" stop="20260512130000 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260512130000 +0800" stop="20260512130300 +0800" channel="法治天地"><title lang="zh">公益微电影</title>
+  </programme>
+  <programme start="20260512130300 +0800" stop="20260512132700 +0800" channel="法治天地"><title lang="zh">百姓英雄</title>
+  </programme>
+  <programme start="20260512132700 +0800" stop="20260512135600 +0800" channel="法治天地"><title lang="zh">记者调查</title>
+  </programme>
+  <programme start="20260512135600 +0800" stop="20260512144300 +0800" channel="法治天地"><title lang="zh">人间窘事</title>
+  </programme>
+  <programme start="20260512144300 +0800" stop="20260512153500 +0800" channel="法治天地"><title lang="zh">人间窘事</title>
+  </programme>
+  <programme start="20260512153500 +0800" stop="20260512160600 +0800" channel="法治天地"><title lang="zh">记者调查</title>
+  </programme>
+  <programme start="20260512160600 +0800" stop="20260512163000 +0800" channel="法治天地"><title lang="zh">百姓英雄</title>
+  </programme>
+  <programme start="20260512163000 +0800" stop="20260512170000 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260512170000 +0800" stop="20260512170300 +0800" channel="法治天地"><title lang="zh">公益微电影</title>
+  </programme>
+  <programme start="20260512170300 +0800" stop="20260512175400 +0800" channel="法治天地"><title lang="zh">人间窘事</title>
+  </programme>
+  <programme start="20260512175400 +0800" stop="20260512181000 +0800" channel="法治天地"><title lang="zh">法治中国</title>
+  </programme>
+  <programme start="20260512181000 +0800" stop="20260512183500 +0800" channel="法治天地"><title lang="zh">百姓英雄</title>
+  </programme>
+  <programme start="20260512183500 +0800" stop="20260512190400 +0800" channel="法治天地"><title lang="zh">庭审直播</title>
+  </programme>
+  <programme start="20260512190400 +0800" stop="20260512193000 +0800" channel="法治天地"><title lang="zh">记者调查</title>
+  </programme>
+  <programme start="20260512193000 +0800" stop="20260512200400 +0800" channel="法治天地"><title lang="zh">法治新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260512200400 +0800" stop="20260512214300 +0800" channel="法治天地"><title lang="zh">人间窘事</title>
+  </programme>
+  <programme start="20260512214300 +0800" stop="20260512215700 +0800" channel="法治天地"><title lang="zh">法治中国</title>
+  </programme>
+  <programme start="20260512215700 +0800" stop="20260512220000 +0800" channel="法治天地"><title lang="zh">公益微电影</title>
+  </programme>
+  <programme start="20260512220000 +0800" stop="20260512223400 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260512223400 +0800" stop="20260512230000 +0800" channel="法治天地"><title lang="zh">禁毒视窗</title><desc>法治天地频道的日播禁毒专题栏目，由上海市司法局、上海市禁毒办与上海广播电视台合办。每期围绕一个真实案例，讲述吸毒人员的堕落与悔过历程，记录禁毒社工、戒毒民警帮助吸毒人员摆脱毒瘾回归社会的帮教过程。节目旨在普及禁毒知识，展现上海司法系统预防、打击毒品犯罪的工作成效。</desc>
+  </programme>
+  <programme start="20260512230000 +0800" stop="20260512233000 +0800" channel="法治天地"><title lang="zh">庭审直播</title>
+  </programme>
+  <programme start="20260512233000 +0800" stop="20260513000000 +0800" channel="法治天地"><title lang="zh">法治新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
 </tv>
