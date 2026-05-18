@@ -3,6 +3,8 @@
   </channel>
   <channel id="西藏卫视"><display-name lang="zh">西藏卫视</display-name><display-name lang="zh">西藏卫视</display-name><display-name lang="zh">西藏</display-name><display-name lang="zh">CHANNEL00000392</display-name>
   </channel>
+  <channel id="东营综合"><display-name lang="zh">东营综合</display-name><display-name lang="zh">东营新闻综合</display-name><display-name lang="zh">东营新闻</display-name><display-name lang="zh">CHANNEL00000226</display-name><display-name lang="zh">东营综合频道</display-name><display-name lang="zh">DYTV-1</display-name>
+  </channel>
   <channel id="兵团卫视"><display-name lang="zh">兵团卫视</display-name><display-name lang="zh">兵团卫视</display-name><display-name lang="zh">兵团</display-name><display-name lang="zh">CHANNEL00000394</display-name>
   </channel>
   <channel id="任城生活"><display-name lang="zh">任城生活</display-name><display-name lang="zh">任城生活</display-name><display-name lang="zh">CHANNEL00001112</display-name>
@@ -123,6 +125,8 @@
   </channel>
   <channel id="临清综合"><display-name lang="zh">临清综合</display-name><display-name lang="zh">临清综合</display-name><display-name lang="zh">CHANNEL00001103</display-name>
   </channel>
+  <channel id="海洋频道"><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋</display-name><display-name lang="zh">CHANNEL00000662</display-name>
+  </channel>
   <channel id="CCTV风云足球"><display-name lang="zh">CCTV风云足球</display-name><display-name lang="zh">CCTV-风云足球</display-name><display-name lang="zh">风云足球</display-name>
   </channel>
   <channel id="定陶综合"><display-name lang="zh">定陶综合</display-name><display-name lang="zh">定陶综合</display-name><display-name lang="zh">CHANNEL00001063</display-name>
@@ -144,6 +148,8 @@
   <channel id="济南娱乐"><display-name lang="zh">济南娱乐</display-name><display-name lang="zh">济南娱乐</display-name><display-name lang="zh">CHANNEL00000065</display-name><display-name lang="zh">济南娱乐频道</display-name>
   </channel>
   <channel id="乳山综合"><display-name lang="zh">乳山综合</display-name><display-name lang="zh">乳山综合</display-name><display-name lang="zh">CHANNEL00001049</display-name>
+  </channel>
+  <channel id="聊城民生"><display-name lang="zh">聊城民生</display-name><display-name lang="zh">聊城民生</display-name><display-name lang="zh">CHANNEL00000251</display-name>
   </channel>
   <channel id="梨园"><display-name lang="zh">梨园</display-name><display-name lang="zh">梨园</display-name><display-name lang="zh">CHANNEL00000656</display-name><display-name lang="zh">梨园频道</display-name>
   </channel>
@@ -194,6 +200,8 @@
   <channel id="CCTV女性时尚"><display-name lang="zh">CCTV女性时尚</display-name><display-name lang="zh">CCTV-女性时尚</display-name><display-name lang="zh">女性时尚</display-name>
   </channel>
   <channel id="环球旅游"><display-name lang="zh">环球旅游</display-name><display-name lang="zh">环球旅游</display-name><display-name lang="zh">CHANNEL00000643</display-name>
+  </channel>
+  <channel id="东营公共"><display-name lang="zh">东营公共</display-name><display-name lang="zh">东营公共</display-name><display-name lang="zh">CHANNEL00000227</display-name><display-name lang="zh">东营公共频道</display-name><display-name lang="zh">DYTV-2</display-name>
   </channel>
   <channel id="湖北卫视"><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北</display-name><display-name lang="zh">CHANNEL00000325</display-name>
   </channel>
@@ -356,6 +364,8 @@
   <channel id="CCTV14"><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV14少儿</display-name><display-name lang="zh">CHANNEL00000323</display-name><display-name lang="zh">CCTV-14</display-name><display-name lang="zh">CCTV-14少儿</display-name><display-name lang="zh">CCTV 14</display-name><display-name lang="zh">CCTV-14 高清</display-name><display-name lang="zh">CCTV14 高清</display-name>
   </channel>
   <channel id="CCTV卫生健康"><display-name lang="zh">CCTV卫生健康</display-name><display-name lang="zh">CCTV-卫生健康</display-name><display-name lang="zh">卫生健康</display-name>
+  </channel>
+  <channel id="居家购物"><display-name lang="zh">居家购物</display-name><display-name lang="zh">居家购物</display-name><display-name lang="zh">CHANNEL00000700</display-name>
   </channel>
   <channel id="日照科教"><display-name lang="zh">日照科教</display-name><display-name lang="zh">日照科教</display-name><display-name lang="zh">CHANNEL00000263</display-name><display-name lang="zh">日照科教频道</display-name><display-name lang="zh">RZTV-2</display-name>
   </channel>
@@ -12721,5 +12731,195 @@
   <programme start="20260519225000 +0800" stop="20260519231500 +0800" channel="南通公共"><title lang="zh">江海联播</title><desc>南通广播电视台日播时政新闻栏目，与《南通新闻》并列为两档拳头新闻节目。围绕市委、市政府中心工作，发布权威政策信息，全面记录南通经济、社会、文化发展成就，是覆盖全市的权威新闻资讯平台。</desc>
   </programme>
   <programme start="20260519231500 +0800" stop="20260520000000 +0800" channel="南通公共"><title lang="zh">深夜影院</title><desc>电视台深夜时段开设的电影栏目，通常在23:00以后播出。以经典老片、文艺片、获奖影片为主，营造安静纯粹的观影氛围，满足夜班族、夜猫子等深夜收视群体的观剧需求。多采用单片播映形式，偶有主题策划或导演专题展映。</desc>
+  </programme>
+  <programme start="20260519084300 +0800" stop="20260519091000 +0800" channel="海洋频道"><title lang="zh">中华养生</title>
+  </programme>
+  <programme start="20260519091000 +0800" stop="20260519102700 +0800" channel="海洋频道"><title lang="zh">合欢树下</title>
+  </programme>
+  <programme start="20260519102700 +0800" stop="20260519140000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260519140000 +0800" stop="20260519173000 +0800" channel="海洋频道"><title lang="zh">古文明探秘</title>
+  </programme>
+  <programme start="20260519173000 +0800" stop="20260519184000 +0800" channel="海洋频道"><title lang="zh">我爱威海</title>
+  </programme>
+  <programme start="20260519184000 +0800" stop="20260519192000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260519192000 +0800" stop="20260519202700 +0800" channel="海洋频道"><title lang="zh">我爱威海</title>
+  </programme>
+  <programme start="20260519202700 +0800" stop="20260519210200 +0800" channel="海洋频道"><title lang="zh">咱老百姓的故事</title>
+  </programme>
+  <programme start="20260519210200 +0800" stop="20260520000000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260519010000 +0800" stop="20260519020000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519020000 +0800" stop="20260519030000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519030000 +0800" stop="20260519040000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519040000 +0800" stop="20260519050000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519050000 +0800" stop="20260519060000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519060000 +0800" stop="20260519070000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519070000 +0800" stop="20260519080000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519080000 +0800" stop="20260519090000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519090000 +0800" stop="20260519100000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519100000 +0800" stop="20260519110000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519110000 +0800" stop="20260519120000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519120000 +0800" stop="20260519130000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519130000 +0800" stop="20260519140000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519140000 +0800" stop="20260519150000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519150000 +0800" stop="20260519160000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519160000 +0800" stop="20260519170000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519170000 +0800" stop="20260519180000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519180000 +0800" stop="20260519190000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519190000 +0800" stop="20260519200000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519200000 +0800" stop="20260519210000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519210000 +0800" stop="20260519220000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519220000 +0800" stop="20260519230000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519230000 +0800" stop="20260520000000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260519085000 +0800" stop="20260519130000 +0800" channel="聊城民生"><title lang="zh">温情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260519130000 +0800" stop="20260519175200 +0800" channel="聊城民生"><title lang="zh">纯情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260519175200 +0800" stop="20260519200000 +0800" channel="聊城民生"><title lang="zh">真情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260519200000 +0800" stop="20260519203000 +0800" channel="聊城民生"><title lang="zh">民生面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260519203000 +0800" stop="20260519204500 +0800" channel="聊城民生"><title lang="zh">今日开发区</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20260519204500 +0800" stop="20260519231000 +0800" channel="聊城民生"><title lang="zh">激情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260519231000 +0800" stop="20260519234000 +0800" channel="聊城民生"><title lang="zh">影视风云榜</title>
+  </programme>
+  <programme start="20260519234000 +0800" stop="20260520000000 +0800" channel="聊城民生"><title lang="zh">人间故事</title>
+  </programme>
+  <programme start="20260519070000 +0800" stop="20260519074000 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260519074000 +0800" stop="20260519082000 +0800" channel="东营综合"><title lang="zh">伟伟道来</title>
+  </programme>
+  <programme start="20260519082000 +0800" stop="20260519091000 +0800" channel="东营综合"><title lang="zh">民生零距离</title><desc>中央电视台国防军事频道青年军事体验节目，2020年开播，由吴杰主持。每期邀请军事爱好者与国防生走进演播室或军营，通过极限任务挑战、军事装备体验、兵种知识科普等形式，零距离感受国防力量。节目采用“知识挑战+真人秀”模式，涵盖步兵、装甲兵、空降兵、特战等兵种，展现当代军人的过硬本领与强军风貌。每周六17:25首播。</desc>
+  </programme>
+  <programme start="20260519091000 +0800" stop="20260519101500 +0800" channel="东营综合"><title lang="zh">第一集电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260519101500 +0800" stop="20260519105000 +0800" channel="东营综合"><title lang="zh">美丽东营</title>
+  </programme>
+  <programme start="20260519105000 +0800" stop="20260519120000 +0800" channel="东营综合"><title lang="zh">第二集电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260519120000 +0800" stop="20260519121500 +0800" channel="东营综合"><title lang="zh">东营新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260519121500 +0800" stop="20260519123000 +0800" channel="东营综合"><title lang="zh">联播东营</title>
+  </programme>
+  <programme start="20260519123000 +0800" stop="20260519130500 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260519130500 +0800" stop="20260519134000 +0800" channel="东营综合"><title lang="zh">艺林大会</title>
+  </programme>
+  <programme start="20260519134000 +0800" stop="20260519141000 +0800" channel="东营综合"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260519141000 +0800" stop="20260519144500 +0800" channel="东营综合"><title lang="zh">伟伟道来</title>
+  </programme>
+  <programme start="20260519144500 +0800" stop="20260519174600 +0800" channel="东营综合"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260519174600 +0800" stop="20260519180800 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260519180800 +0800" stop="20260519190000 +0800" channel="东营综合"><title lang="zh">伟伟道来</title>
+  </programme>
+  <programme start="20260519190000 +0800" stop="20260519193800 +0800" channel="东营综合"><title lang="zh">转播中央新闻联播</title><desc>转播中央电视台的新闻节目，包括《新闻联播》等重要新闻内容，及时传递国内外重大新闻事件和政策信息，为观众提供权威、全面的新闻资讯。</desc>
+  </programme>
+  <programme start="20260519193800 +0800" stop="20260519195500 +0800" channel="东营综合"><title lang="zh">东营新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260519195500 +0800" stop="20260519200000 +0800" channel="东营综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260519200000 +0800" stop="20260519201800 +0800" channel="东营综合"><title lang="zh">联播东营</title>
+  </programme>
+  <programme start="20260519201800 +0800" stop="20260519205000 +0800" channel="东营综合"><title lang="zh">民生零距离</title><desc>中央电视台国防军事频道青年军事体验节目，2020年开播，由吴杰主持。每期邀请军事爱好者与国防生走进演播室或军营，通过极限任务挑战、军事装备体验、兵种知识科普等形式，零距离感受国防力量。节目采用“知识挑战+真人秀”模式，涵盖步兵、装甲兵、空降兵、特战等兵种，展现当代军人的过硬本领与强军风貌。每周六17:25首播。</desc>
+  </programme>
+  <programme start="20260519205000 +0800" stop="20260519211300 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260519211300 +0800" stop="20260519213200 +0800" channel="东营综合"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260519213200 +0800" stop="20260519220000 +0800" channel="东营综合"><title lang="zh">艺林大会</title>
+  </programme>
+  <programme start="20260519220000 +0800" stop="20260519221800 +0800" channel="东营综合"><title lang="zh">东营新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260519221800 +0800" stop="20260519222300 +0800" channel="东营综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260519222300 +0800" stop="20260519224100 +0800" channel="东营综合"><title lang="zh">联播东营(重播)</title>
+  </programme>
+  <programme start="20260519224100 +0800" stop="20260520000000 +0800" channel="东营综合"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260519070000 +0800" stop="20260519090200 +0800" channel="东营公共"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260519090200 +0800" stop="20260519093200 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260519093200 +0800" stop="20260519100300 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260519100300 +0800" stop="20260519103900 +0800" channel="东营公共"><title lang="zh">艺林大会</title>
+  </programme>
+  <programme start="20260519103900 +0800" stop="20260519111000 +0800" channel="东营公共"><title lang="zh">美丽东营</title>
+  </programme>
+  <programme start="20260519111000 +0800" stop="20260519114000 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260519114000 +0800" stop="20260519121100 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260519121100 +0800" stop="20260519132200 +0800" channel="东营公共"><title lang="zh">幸福鉴定团</title>
+  </programme>
+  <programme start="20260519132200 +0800" stop="20260519142300 +0800" channel="东营公共"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260519142300 +0800" stop="20260519152400 +0800" channel="东营公共"><title lang="zh">新闻风云汇</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260519152400 +0800" stop="20260519162100 +0800" channel="东营公共"><title lang="zh">非常故事汇</title>
+  </programme>
+  <programme start="20260519162100 +0800" stop="20260519165400 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260519165400 +0800" stop="20260519173000 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260519173000 +0800" stop="20260519193000 +0800" channel="东营公共"><title lang="zh">经典影城</title>
+  </programme>
+  <programme start="20260519193000 +0800" stop="20260519195000 +0800" channel="东营公共"><title lang="zh">快乐宝贝</title>
+  </programme>
+  <programme start="20260519195000 +0800" stop="20260519202200 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260519202200 +0800" stop="20260519202800 +0800" channel="东营公共"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260519202800 +0800" stop="20260519204500 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260519204500 +0800" stop="20260519210200 +0800" channel="东营公共"><title lang="zh">美丽东营</title>
+  </programme>
+  <programme start="20260519210200 +0800" stop="20260519215900 +0800" channel="东营公共"><title lang="zh">新闻风云汇</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260519215900 +0800" stop="20260519224100 +0800" channel="东营公共"><title lang="zh">非常故事汇</title>
+  </programme>
+  <programme start="20260519224100 +0800" stop="20260520000000 +0800" channel="东营公共"><title lang="zh">天天影院</title><desc>电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
   </programme>
 </tv>
