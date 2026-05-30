@@ -15,6 +15,8 @@
   </channel>
   <channel id="济宁公共"><display-name lang="zh">济宁公共</display-name><display-name lang="zh">济宁公共</display-name><display-name lang="zh">CHANNEL00000241</display-name><display-name lang="zh">济宁公共频道</display-name>
   </channel>
+  <channel id="甘肃卫视"><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃</display-name><display-name lang="zh">CHANNEL00000349</display-name>
+  </channel>
   <channel id="CCTV9"><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV9纪录</display-name><display-name lang="zh">CHANNEL00000319</display-name><display-name lang="zh">CCTV-9</display-name><display-name lang="zh">CCTV-9纪录</display-name><display-name lang="zh">CCTV 9</display-name><display-name lang="zh">CCTV-9 高清</display-name><display-name lang="zh">CCTV9 高清</display-name>
   </channel>
   <channel id="济南鲁中"><display-name lang="zh">济南鲁中</display-name><display-name lang="zh">济南鲁中</display-name><display-name lang="zh">CHANNEL00000244</display-name>
@@ -59,6 +61,8 @@
   </channel>
   <channel id="天津文艺"><display-name lang="zh">天津文艺</display-name><display-name lang="zh">天津文艺</display-name>
   </channel>
+  <channel id="贵州卫视"><display-name lang="zh">贵州卫视</display-name><display-name lang="zh">贵州卫视</display-name><display-name lang="zh">贵州</display-name><display-name lang="zh">CHANNEL00000329</display-name>
+  </channel>
   <channel id="淄博文旅"><display-name lang="zh">淄博文旅</display-name><display-name lang="zh">淄博文旅</display-name><display-name lang="zh">CHANNEL00000293</display-name><display-name lang="zh">淄博文旅频道</display-name>
   </channel>
   <channel id="CHC影迷电影"><display-name lang="zh">CHC影迷电影</display-name><display-name lang="zh">CHC影迷电影</display-name><display-name lang="zh">CHANNEL00002029</display-name>
@@ -95,9 +99,13 @@
   </channel>
   <channel id="张店综合"><display-name lang="zh">张店综合</display-name><display-name lang="zh">张店综合</display-name><display-name lang="zh">CHANNEL00001012</display-name>
   </channel>
+  <channel id="重庆卫视"><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆</display-name><display-name lang="zh">CHANNEL00000341</display-name>
+  </channel>
   <channel id="济南综合"><display-name lang="zh">济南综合</display-name><display-name lang="zh">济南新闻综合</display-name><display-name lang="zh">CHANNEL00000312</display-name><display-name lang="zh">济南新闻</display-name>
   </channel>
   <channel id="新动漫"><display-name lang="zh">新动漫</display-name><display-name lang="zh">新动漫</display-name><display-name lang="zh">CHANNEL00000659</display-name>
+  </channel>
+  <channel id="东方卫视"><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方</display-name><display-name lang="zh">东方卫视-4K</display-name><display-name lang="zh">东方卫视4K</display-name><display-name lang="zh">CHANNEL00000309</display-name>
   </channel>
   <channel id="CCTV10"><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV10科教</display-name><display-name lang="zh">CHANNEL00000321</display-name><display-name lang="zh">CCTV-10</display-name><display-name lang="zh">CCTV-10科教</display-name><display-name lang="zh">CCTV 10</display-name><display-name lang="zh">CCTV-10 高清</display-name><display-name lang="zh">CCTV10 高清</display-name>
   </channel>
@@ -114,6 +122,8 @@
   <channel id="CCTV央视台球"><display-name lang="zh">CCTV央视台球</display-name><display-name lang="zh">CCTV-央视台球</display-name><display-name lang="zh">央视台球</display-name>
   </channel>
   <channel id="江苏影视"><display-name lang="zh">江苏影视</display-name>
+  </channel>
+  <channel id="三沙卫视"><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">3沙卫视</display-name><display-name lang="zh">三沙</display-name><display-name lang="zh">CHANNEL00000078</display-name>
   </channel>
   <channel id="菏泽-1"><display-name lang="zh">菏泽-1</display-name><display-name lang="zh">菏泽-1</display-name><display-name lang="zh">菏泽1</display-name><display-name lang="zh">CHANNEL00000232</display-name>
   </channel>
@@ -134,6 +144,8 @@
   <channel id="定陶综合"><display-name lang="zh">定陶综合</display-name><display-name lang="zh">定陶综合</display-name><display-name lang="zh">CHANNEL00001063</display-name>
   </channel>
   <channel id="都市剧场"><display-name lang="zh">都市剧场</display-name><display-name lang="zh">都市剧场</display-name><display-name lang="zh">CHANNEL00002022</display-name>
+  </channel>
+  <channel id="金鹰纪实"><display-name lang="zh">金鹰纪实</display-name><display-name lang="zh">金鹰纪实</display-name><display-name lang="zh">CHANNEL00000334</display-name>
   </channel>
   <channel id="CCTV高尔夫网球"><display-name lang="zh">CCTV高尔夫网球</display-name><display-name lang="zh">CCTV-高尔夫网球</display-name><display-name lang="zh">高尔夫网球</display-name>
   </channel>
@@ -191,6 +203,8 @@
   </channel>
   <channel id="山东教育"><display-name lang="zh">山东教育卫视</display-name><display-name lang="zh">山东教育卫视</display-name><display-name lang="zh">山东教育</display-name><display-name lang="zh">CHANNEL00000331</display-name>
   </channel>
+  <channel id="河北卫视"><display-name lang="zh">河北卫视</display-name><display-name lang="zh">河北卫视</display-name><display-name lang="zh">河北</display-name><display-name lang="zh">CHANNEL00000330</display-name>
+  </channel>
   <channel id="深圳卫视"><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳</display-name><display-name lang="zh">深圳卫视-4K</display-name><display-name lang="zh">深圳卫视4K</display-name><display-name lang="zh">CHANNEL00000308</display-name>
   </channel>
   <channel id="天津都市"><display-name lang="zh">天津都市</display-name><display-name lang="zh">天津都市</display-name>
@@ -220,6 +234,8 @@
   <channel id="陵城综合"><display-name lang="zh">陵城综合</display-name><display-name lang="zh">陵城综合</display-name><display-name lang="zh">CHANNEL00001082</display-name>
   </channel>
   <channel id="生活时尚"><display-name lang="zh">生活时尚</display-name><display-name lang="zh">生活时尚</display-name><display-name lang="zh">CHANNEL00002019</display-name>
+  </channel>
+  <channel id="武城综合"><display-name lang="zh">武城综合</display-name><display-name lang="zh">武城综合</display-name><display-name lang="zh">CHANNEL00001059</display-name>
   </channel>
   <channel id="CCTV电视指南"><display-name lang="zh">CCTV电视指南</display-name><display-name lang="zh">CCTV-电视指南</display-name><display-name lang="zh">电视指南</display-name>
   </channel>
@@ -301,6 +317,8 @@
   </channel>
   <channel id="苏州综合"><display-name lang="zh">苏州综合</display-name><display-name lang="zh">苏州新闻</display-name><display-name lang="zh">苏州新闻综合</display-name>
   </channel>
+  <channel id="云南卫视"><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南</display-name><display-name lang="zh">CHANNEL00000367</display-name>
+  </channel>
   <channel id="CCTV6"><display-name lang="zh">CCTV-6 电影</display-name><display-name lang="zh">CCTV-6 电影</display-name><display-name lang="zh">CCTV6电影</display-name><display-name lang="zh">CHANNEL00000361</display-name><display-name lang="zh">CCTV-6</display-name><display-name lang="zh">CCTV-6电影</display-name><display-name lang="zh">CCTV 6</display-name><display-name lang="zh">CCTV-6 高清</display-name><display-name lang="zh">CCTV6 高清</display-name>
   </channel>
   <channel id="CCTV4欧洲"><display-name lang="zh">CCTV-4 欧洲</display-name><display-name lang="zh">CCTV-4 欧洲</display-name><display-name lang="zh">CCTV4欧洲</display-name><display-name lang="zh">CHANNEL00000350</display-name><display-name lang="zh">CCTV-4欧洲</display-name>
@@ -345,9 +363,13 @@
   </channel>
   <channel id="淄博民生"><display-name lang="zh">淄博民生</display-name><display-name lang="zh">淄博民生</display-name><display-name lang="zh">CHANNEL00000294</display-name><display-name lang="zh">淄博民生频道</display-name>
   </channel>
+  <channel id="浙江卫视"><display-name lang="zh">浙江卫视</display-name><display-name lang="zh">浙江卫视</display-name><display-name lang="zh">浙江</display-name><display-name lang="zh">浙江卫视-4K</display-name><display-name lang="zh">浙江卫视4K</display-name><display-name lang="zh">CHANNEL00000305</display-name>
+  </channel>
   <channel id="济南生活"><display-name lang="zh">济南生活</display-name><display-name lang="zh">济南生活</display-name><display-name lang="zh">CHANNEL00000063</display-name><display-name lang="zh">济南生活频道</display-name>
   </channel>
   <channel id="禹城综合"><display-name lang="zh">禹城综合</display-name><display-name lang="zh">禹城综合</display-name><display-name lang="zh">CHANNEL00001061</display-name>
+  </channel>
+  <channel id="广西卫视"><display-name lang="zh">广西卫视</display-name><display-name lang="zh">广西卫视</display-name><display-name lang="zh">广西</display-name><display-name lang="zh">CHANNEL00000368</display-name>
   </channel>
   <channel id="厦门卫视"><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门</display-name><display-name lang="zh">CHANNEL00000075</display-name>
   </channel>
@@ -378,6 +400,8 @@
   <channel id="居家购物"><display-name lang="zh">居家购物</display-name><display-name lang="zh">居家购物</display-name><display-name lang="zh">CHANNEL00000700</display-name>
   </channel>
   <channel id="日照科教"><display-name lang="zh">日照科教</display-name><display-name lang="zh">日照科教</display-name><display-name lang="zh">CHANNEL00000263</display-name><display-name lang="zh">日照科教频道</display-name><display-name lang="zh">RZTV-2</display-name>
+  </channel>
+  <channel id="辽宁卫视"><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁</display-name><display-name lang="zh">CHANNEL00000326</display-name>
   </channel>
   <channel id="宁夏卫视"><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏</display-name><display-name lang="zh">CHANNEL00000395</display-name>
   </channel>
@@ -13167,5 +13191,1395 @@
   <programme start="20260531221500 +0800" stop="20260531225000 +0800" channel="南通公共"><title lang="zh">城市日历</title><desc>南通广播电视台创办于1999年的民生新闻栏目，以“打开城市日历，记录明天历史”为口号。聚焦百姓冷暖、透视社会热点、传递生活资讯、帮扶弱势群体，是南通地区收视率最高、美誉度最好的电视节目之一。</desc>
   </programme>
   <programme start="20260531225000 +0800" stop="20260601000000 +0800" channel="南通公共"><title lang="zh">深夜影院</title><desc>电视台深夜时段开设的电影栏目，通常在23:00以后播出。以经典老片、文艺片、获奖影片为主，营造安静纯粹的观影氛围，满足夜班族、夜猫子等深夜收视群体的观剧需求。多采用单片播映形式，偶有主题策划或导演专题展映。</desc>
+  </programme>
+  <programme start="20260531000500 +0800" stop="20260531022000 +0800" channel="浙江卫视"><title lang="zh">国乐无双</title>
+  </programme>
+  <programme start="20260531022000 +0800" stop="20260531043300 +0800" channel="浙江卫视"><title lang="zh">无限超越班</title>
+  </programme>
+  <programme start="20260531043300 +0800" stop="20260531043400 +0800" channel="浙江卫视"><title lang="zh">气象</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531043400 +0800" stop="20260531053800 +0800" channel="浙江卫视"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260531053800 +0800" stop="20260531063500 +0800" channel="浙江卫视"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260531063500 +0800" stop="20260531070000 +0800" channel="浙江卫视"><title lang="zh">周末面孔</title><desc>浙江卫视新闻专题栏目，2018年1月开播，由《新闻深一度》周六特辑改版而来，是全国首档以普通百姓为主角的新闻专题节目。每期聚焦4-5位平凡个体的真实故事，展现学生、消防员、志愿者、工人等多元职业群体的勤劳与勇气。节目采用自述口吻、MV包装等创新叙事手法，通过“先导片+人物故事+串场短片+主题MV”的编排结构，为平凡人书写传奇。每年推出“年度面孔”颁奖盛典，由观众投票选出年度人物。2021年10月曾因字幕失误引发争议，栏目组公开致歉。口号：“为平凡人写诗，为新时代画像”。</desc>
+  </programme>
+  <programme start="20260531070000 +0800" stop="20260531070100 +0800" channel="浙江卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260531070100 +0800" stop="20260531072100 +0800" channel="浙江卫视"><title lang="zh">浙江新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260531072100 +0800" stop="20260531073700 +0800" channel="浙江卫视"><title lang="zh">爱心浙江</title><desc>浙江卫视公益助残专题栏目，由浙江省残疾人联合会与浙江广播电视集团合办，是国内唯一一档为残障群体提供新闻资讯、分享生活趣闻的专业电视节目。栏目以弘扬人道主义精神和平等参与共享的现代文明理念为宗旨，每期同步加配专业手语翻译，保障听障群体信息获取权利。内容涵盖残疾人自强故事、扶残助残典型事迹、残疾人事业发展动态等，曾发起“为爱捐声”等公益行动。2022年全国助残日单期收视率创年度新高，比当年其他期节目平均收视率高57.9%。</desc>
+  </programme>
+  <programme start="20260531073700 +0800" stop="20260531082200 +0800" channel="浙江卫视"><title lang="zh">假日剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531082200 +0800" stop="20260531090700 +0800" channel="浙江卫视"><title lang="zh">假日剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531090700 +0800" stop="20260531095500 +0800" channel="浙江卫视"><title lang="zh">假日剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531095500 +0800" stop="20260531104200 +0800" channel="浙江卫视"><title lang="zh">假日剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531104200 +0800" stop="20260531112400 +0800" channel="浙江卫视"><title lang="zh">假日剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531112400 +0800" stop="20260531120800 +0800" channel="浙江卫视"><title lang="zh">假日剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531120800 +0800" stop="20260531125600 +0800" channel="浙江卫视"><title lang="zh">假日剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531125600 +0800" stop="20260531134700 +0800" channel="浙江卫视"><title lang="zh">假日剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531134700 +0800" stop="20260531143600 +0800" channel="浙江卫视"><title lang="zh">假日剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531143600 +0800" stop="20260531152500 +0800" channel="浙江卫视"><title lang="zh">假日剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531152500 +0800" stop="20260531154800 +0800" channel="浙江卫视"><title lang="zh">假日剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531154800 +0800" stop="20260531180000 +0800" channel="浙江卫视"><title lang="zh">国乐无双</title>
+  </programme>
+  <programme start="20260531180000 +0800" stop="20260531181500 +0800" channel="浙江卫视"><title lang="zh">同心树</title>
+  </programme>
+  <programme start="20260531181500 +0800" stop="20260531182500 +0800" channel="浙江卫视"><title lang="zh">时代先锋</title><desc>由浙江省委组织部与浙江广电集团联合制作的党建专题栏目，2011年9月开播，每周日18:15在浙江卫视播出。以“传递党的声音、展示先优风采”为宗旨，聚焦基层党建创新与党员先锋事迹，报道全省各地在共同富裕、乡村振兴等领域的实践案例。单期时长约5分钟，设《新官新语》《真心感动》《专题调查》等板块。</desc>
+  </programme>
+  <programme start="20260531182500 +0800" stop="20260531183000 +0800" channel="浙江卫视"><title lang="zh">气象预报</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531183000 +0800" stop="20260531185100 +0800" channel="浙江卫视"><title lang="zh">浙江新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260531185100 +0800" stop="20260531185300 +0800" channel="浙江卫视"><title lang="zh">气象</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531185300 +0800" stop="20260531190000 +0800" channel="浙江卫视"><title lang="zh">好戏看浙里</title><desc>浙江卫视娱乐资讯类栏目</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193300 +0800" channel="浙江卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260531193300 +0800" stop="20260531202200 +0800" channel="浙江卫视"><title lang="zh">中国蓝剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531202200 +0800" stop="20260531211300 +0800" channel="浙江卫视"><title lang="zh">中国蓝剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531211300 +0800" stop="20260531230400 +0800" channel="浙江卫视"><title lang="zh">我们的爸爸</title>
+  </programme>
+  <programme start="20260531230400 +0800" stop="20260601011000 +0800" channel="浙江卫视"><title lang="zh">国乐无双</title>
+  </programme>
+  <programme start="20260531004000 +0800" stop="20260531004300 +0800" channel="东方卫视"><title lang="zh">《主角》明日精彩看点</title>
+  </programme>
+  <programme start="20260531004300 +0800" stop="20260531012600 +0800" channel="东方卫视"><title lang="zh">乱世佳人（11）</title>
+  </programme>
+  <programme start="20260531012600 +0800" stop="20260531020900 +0800" channel="东方卫视"><title lang="zh">乱世佳人（12）</title>
+  </programme>
+  <programme start="20260531020900 +0800" stop="20260531025100 +0800" channel="东方卫视"><title lang="zh">乱世佳人（13）</title>
+  </programme>
+  <programme start="20260531025100 +0800" stop="20260531025500 +0800" channel="东方卫视"><title lang="zh">《主角》明日精彩看点</title>
+  </programme>
+  <programme start="20260531025500 +0800" stop="20260531033700 +0800" channel="东方卫视"><title lang="zh">乱世佳人（14）</title>
+  </programme>
+  <programme start="20260531033700 +0800" stop="20260531042100 +0800" channel="东方卫视"><title lang="zh">乱世佳人（15）</title>
+  </programme>
+  <programme start="20260531042100 +0800" stop="20260531050200 +0800" channel="东方卫视"><title lang="zh">乱世佳人（16）</title>
+  </programme>
+  <programme start="20260531050200 +0800" stop="20260531054500 +0800" channel="东方卫视"><title lang="zh">乱世佳人（17）</title>
+  </programme>
+  <programme start="20260531054500 +0800" stop="20260531054800 +0800" channel="东方卫视"><title lang="zh">《主角》明日精彩看点</title>
+  </programme>
+  <programme start="20260531054800 +0800" stop="20260531063000 +0800" channel="东方卫视"><title lang="zh">乱世佳人（18）</title>
+  </programme>
+  <programme start="20260531063000 +0800" stop="20260531065600 +0800" channel="东方卫视"><title lang="zh">乱世佳人（19）</title>
+  </programme>
+  <programme start="20260531065600 +0800" stop="20260531070000 +0800" channel="东方卫视"><title lang="zh">探宝上博百物看中国因AI而生（31）</title>
+  </programme>
+  <programme start="20260531070000 +0800" stop="20260531070100 +0800" channel="东方卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260531070100 +0800" stop="20260531085900 +0800" channel="东方卫视"><title lang="zh">看东方</title><desc>东方卫视大型晨间新闻资讯栏目，2003年10月23日开播，每天7:00直播，周一至周五时长120分钟，周末时长60至70分钟。节目依托上海广播电视台融媒体中心内容资源，囊括新闻、气象、专题、谈话、生活服务、观众互动等多种电视元素，由两名主播、一名新闻主播、一名气象交通播报员、多名现场记者及各专题板块主持人共同呈现，是一档超越传统早新闻概念的真正意义上的“晨间节目”（Morning Show）。2025年9月28日起，节目实现4K超高清制作与播出，进一步强化“新闻立台”宗旨。</desc>
+  </programme>
+  <programme start="20260531085900 +0800" stop="20260531090100 +0800" channel="东方卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260531090100 +0800" stop="20260531091700 +0800" channel="东方卫视"><title lang="zh">轧戏（14）</title>
+  </programme>
+  <programme start="20260531091700 +0800" stop="20260531095800 +0800" channel="东方卫视"><title lang="zh">轧戏（15）</title>
+  </programme>
+  <programme start="20260531095800 +0800" stop="20260531103800 +0800" channel="东方卫视"><title lang="zh">轧戏（16）</title>
+  </programme>
+  <programme start="20260531103800 +0800" stop="20260531111800 +0800" channel="东方卫视"><title lang="zh">轧戏（17）</title>
+  </programme>
+  <programme start="20260531111800 +0800" stop="20260531120000 +0800" channel="东方卫视"><title lang="zh">轧戏（18）</title>
+  </programme>
+  <programme start="20260531120000 +0800" stop="20260531124200 +0800" channel="东方卫视"><title lang="zh">环球交叉点（649）</title>
+  </programme>
+  <programme start="20260531124200 +0800" stop="20260531132900 +0800" channel="东方卫视"><title lang="zh">许我耀眼（13）</title>
+  </programme>
+  <programme start="20260531132900 +0800" stop="20260531141200 +0800" channel="东方卫视"><title lang="zh">许我耀眼（14）</title>
+  </programme>
+  <programme start="20260531141200 +0800" stop="20260531145600 +0800" channel="东方卫视"><title lang="zh">许我耀眼（15）</title>
+  </programme>
+  <programme start="20260531145600 +0800" stop="20260531154600 +0800" channel="东方卫视"><title lang="zh">许我耀眼（16）</title>
+  </programme>
+  <programme start="20260531154600 +0800" stop="20260531162700 +0800" channel="东方卫视"><title lang="zh">许我耀眼（17）</title>
+  </programme>
+  <programme start="20260531162700 +0800" stop="20260531171400 +0800" channel="东方卫视"><title lang="zh">许我耀眼（18）</title>
+  </programme>
+  <programme start="20260531171400 +0800" stop="20260531180000 +0800" channel="东方卫视"><title lang="zh">许我耀眼（19）</title>
+  </programme>
+  <programme start="20260531180000 +0800" stop="20260531185700 +0800" channel="东方卫视"><title lang="zh">东方新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531185700 +0800" stop="20260531190000 +0800" channel="东方卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193200 +0800" channel="东方卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260531193200 +0800" stop="20260531201500 +0800" channel="东方卫视"><title lang="zh">主角（13）</title>
+  </programme>
+  <programme start="20260531201500 +0800" stop="20260531205700 +0800" channel="东方卫视"><title lang="zh">主角（14）</title>
+  </programme>
+  <programme start="20260531205700 +0800" stop="20260531210200 +0800" channel="东方卫视"><title lang="zh">《主角》明日精彩看点</title>
+  </programme>
+  <programme start="20260531210200 +0800" stop="20260531212600 +0800" channel="东方卫视"><title lang="zh">上海环球美食超级争霸赛</title>
+  </programme>
+  <programme start="20260531212600 +0800" stop="20260531222400 +0800" channel="东方卫视"><title lang="zh">上海环球美食超级争霸赛</title>
+  </programme>
+  <programme start="20260531222400 +0800" stop="20260531224900 +0800" channel="东方卫视"><title lang="zh">寻味·争霸赛（5）：滋味打破边界</title>
+  </programme>
+  <programme start="20260531224900 +0800" stop="20260601004100 +0800" channel="东方卫视"><title lang="zh">上海环球美食超级争霸赛（5）</title>
+  </programme>
+  <programme start="20260531054100 +0800" stop="20260531063000 +0800" channel="辽宁卫视"><title lang="zh">黑土地</title><desc>辽宁卫视农业服务类节目，开播二十余年来始终根植东北沃土，以“服务三农”为宗旨。主持人操东北方言以“唠嗑”形式说新闻、谈政策，设有“谈天说地”“新农人”“家在东北”“金牌合作社”等板块，涵盖农技科普、涉农资讯、致富典型等内容，用农民听得懂的语言传递实用信息，是东北地区最具影响力的对农电视节目之一。</desc>
+  </programme>
+  <programme start="20260531063000 +0800" stop="20260531070000 +0800" channel="辽宁卫视"><title lang="zh">第一时间</title><desc>中央电视台财经频道早间新闻栏目，每日清晨播出。以“资讯唤醒一天”为理念，网罗昨夜今晨国内外财经要闻、科技动态、天气出行等综合信息，提供“新鲜、有温度”的新闻早餐。</desc>
+  </programme>
+  <programme start="20260531070100 +0800" stop="20260531071500 +0800" channel="辽宁卫视"><title lang="zh">第一时间</title><desc>中央电视台财经频道早间新闻栏目，每日清晨播出。以“资讯唤醒一天”为理念，网罗昨夜今晨国内外财经要闻、科技动态、天气出行等综合信息，提供“新鲜、有温度”的新闻早餐。</desc>
+  </programme>
+  <programme start="20260531071500 +0800" stop="20260531073000 +0800" channel="辽宁卫视"><title lang="zh">直通市县区</title>
+  </programme>
+  <programme start="20260531115900 +0800" stop="20260531120000 +0800" channel="辽宁卫视"><title lang="zh">海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
+  </programme>
+  <programme start="20260531120000 +0800" stop="20260531131200 +0800" channel="辽宁卫视"><title lang="zh">说天下</title><desc>辽宁卫视新闻脱口秀节目，围绕“说”字做文章，由男女主持人以聊天方式串联新闻，用亦庄亦谐的语言风格对热点资讯进行娱乐化解读和趣味化评析，让观众在正午时光享受最生动活泼的新闻。</desc>
+  </programme>
+  <programme start="20260531174500 +0800" stop="20260531181500 +0800" channel="辽宁卫视"><title lang="zh">乐享食光</title><desc>山东卫视生活服务类美食节目，以“寻味齐鲁，乐享食光”为核心理念，每期探访山东各地特色美食与市井烟火，从济南把子肉到胶东海鲜，从鲁菜经典到民间小吃，记录食材从田间到餐桌的旅程。节目注重美食与人文的结合，通过寻味、烹饪、品尝、分享等环节，展现齐鲁饮食文化的深厚底蕴与生活美学，传递“好好吃饭，认真生活”的人生态度。</desc>
+  </programme>
+  <programme start="20260531182600 +0800" stop="20260531183000 +0800" channel="辽宁卫视"><title lang="zh">气象资讯</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531183000 +0800" stop="20260531190000 +0800" channel="辽宁卫视"><title lang="zh">辽宁新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193000 +0800" channel="辽宁卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260531214500 +0800" stop="20260531220000 +0800" channel="辽宁卫视"><title lang="zh">辽宁晚新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531003700 +0800" stop="20260531014500 +0800" channel="重庆卫视"><title lang="zh">中国故事</title><desc>《纪录》：严肃的主题，反映长江流域的自然、社会、人物、历史、生活，以专题、记录或文献片的形式展现人文的视点、关怀的精神。《纪录》：最真实的镜头，最动情的笔触，关怀天下苍生，记录人间温情。</desc>
+  </programme>
+  <programme start="20260531014500 +0800" stop="20260531025100 +0800" channel="重庆卫视"><title lang="zh">加油!好少年</title><desc>重庆卫视青少年励志成长节目，记录新时代少年在学业、才艺、体育、科创等领域的奋斗故事，展现青春风采与向上力量，传递“少年强则国强”的价值理念。</desc>
+  </programme>
+  <programme start="20260531025100 +0800" stop="20260531033800 +0800" channel="重庆卫视"><title lang="zh">中国故事</title><desc>《纪录》：严肃的主题，反映长江流域的自然、社会、人物、历史、生活，以专题、记录或文献片的形式展现人文的视点、关怀的精神。《纪录》：最真实的镜头，最动情的笔触，关怀天下苍生，记录人间温情。</desc>
+  </programme>
+  <programme start="20260531033800 +0800" stop="20260531041400 +0800" channel="重庆卫视"><title lang="zh">红岩守护记</title>
+  </programme>
+  <programme start="20260531041400 +0800" stop="20260531044000 +0800" channel="重庆卫视"><title lang="zh">来重庆看南岸：南滨路篇</title>
+  </programme>
+  <programme start="20260531064400 +0800" stop="20260531070000 +0800" channel="重庆卫视"><title lang="zh">Let’s meet渝见</title><desc>重庆首档国际传播融媒栏目，以全英文播报、中英双语字幕呈现，开设《陆海财经》《对话世界》《重庆面孔》《海外大V看重庆》等板块，用国际化语言讲好重庆故事，向世界呈现真实、立体、生动的新重庆。</desc>
+  </programme>
+  <programme start="20260531070000 +0800" stop="20260531070100 +0800" channel="重庆卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260531070100 +0800" stop="20260531071100 +0800" channel="重庆卫视"><title lang="zh">重庆第1眼</title><desc>重庆卫视新闻综合类融合传播栏目，着眼重庆政治经济社会发展中的新事件、新动向、新信号，以当天重要政务活动及百姓关心的政策话题为切入点，通过观察评论第一时间输出主流媒体观点，兼具新闻报道的短实新快与述评的深度广度。</desc>
+  </programme>
+  <programme start="20260531071100 +0800" stop="20260531074000 +0800" channel="重庆卫视"><title lang="zh">中国故事</title><desc>《纪录》：严肃的主题，反映长江流域的自然、社会、人物、历史、生活，以专题、记录或文献片的形式展现人文的视点、关怀的精神。《纪录》：最真实的镜头，最动情的笔触，关怀天下苍生，记录人间温情。</desc>
+  </programme>
+  <programme start="20260531074000 +0800" stop="20260531075200 +0800" channel="重庆卫视"><title lang="zh">早间栏目</title><desc>生活服务类广告栏目，以健康、养生栏目等形式变相发布医疗、药品、医疗器械、保健食品等服务类广告节目。</desc>
+  </programme>
+  <programme start="20260531075200 +0800" stop="20260531075400 +0800" channel="重庆卫视"><title lang="zh">早间气象服务</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531075400 +0800" stop="20260531075800 +0800" channel="重庆卫视"><title lang="zh">嗨!新重庆Music</title><desc>重庆卫视早间音乐全媒体内容产品，每日清晨以原创MV作品唱响新重庆，展播《我的重庆》《闪亮的答卷》《双城记》《渝见未来》等优秀本土原创歌曲，用音乐传递文化之美、潮流之美、青春之美。</desc>
+  </programme>
+  <programme start="20260531075800 +0800" stop="20260531082900 +0800" channel="重庆卫视"><title lang="zh">加油!好少年</title><desc>重庆卫视青少年励志成长节目，记录新时代少年在学业、才艺、体育、科创等领域的奋斗故事，展现青春风采与向上力量，传递“少年强则国强”的价值理念。</desc>
+  </programme>
+  <programme start="20260531120000 +0800" stop="20260531121700 +0800" channel="重庆卫视"><title lang="zh">第1眼新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531121700 +0800" stop="20260531122200 +0800" channel="重庆卫视"><title lang="zh">午间气象服务</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531174200 +0800" stop="20260531180500 +0800" channel="重庆卫视"><title lang="zh">红岩本色</title><desc>重庆市委组织部与重庆广电集团合办的党建栏目，聚焦基层党建创新与党员先锋事迹，记录扎根基层服务群众的党员干部风采。作品《“五四”好青年》记录涪陵区五四村党支部书记张路带领村民直播带货、年销农产品800余万元的青春故事，曾获中国纪录片学术盛典“好作品”奖。</desc>
+  </programme>
+  <programme start="20260531180500 +0800" stop="20260531182600 +0800" channel="重庆卫视"><title lang="zh">财经壹资讯</title><desc>重庆卫视财经新闻节目，透视全球财经事件，聚焦市场动态与财经话题，为观众提供及时的财经资讯与投资参考。</desc>
+  </programme>
+  <programme start="20260531182600 +0800" stop="20260531183000 +0800" channel="重庆卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260531183000 +0800" stop="20260531190000 +0800" channel="重庆卫视"><title lang="zh">重庆新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193400 +0800" channel="重庆卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260531193400 +0800" stop="20260531203200 +0800" channel="重庆卫视"><title lang="zh">孤战迷城（35）</title><desc>2024年谢泽执导的热血交锋谍战剧，黄景瑜、辛芷蕾领衔主演。故事背景设定在抗战胜利前夕，讲述潜伏在军统的中共地下党员欧孝安（黄景瑜 饰）从日军生化毒气研究所“810”中惊险越狱，途中受重伤被中国远征军军医覃墨卿（辛芷蕾 饰）所救，苏醒后却发现自己缺失了近四年记忆。两人从相互试探到联手合作，共同追查日军“落樱计划”的生化武器阴谋，最终揭露日本间谍真面目并粉碎其恶毒计划。</desc>
+  </programme>
+  <programme start="20260531203200 +0800" stop="20260531212000 +0800" channel="重庆卫视"><title lang="zh">孤战迷城（36）</title><desc>2024年谢泽执导的热血交锋谍战剧，黄景瑜、辛芷蕾领衔主演。故事背景设定在抗战胜利前夕，讲述潜伏在军统的中共地下党员欧孝安（黄景瑜 饰）从日军生化毒气研究所“810”中惊险越狱，途中受重伤被中国远征军军医覃墨卿（辛芷蕾 饰）所救，苏醒后却发现自己缺失了近四年记忆。两人从相互试探到联手合作，共同追查日军“落樱计划”的生化武器阴谋，最终揭露日本间谍真面目并粉碎其恶毒计划。</desc>
+  </programme>
+  <programme start="20260531212000 +0800" stop="20260531213600 +0800" channel="重庆卫视"><title lang="zh">重庆第1眼</title><desc>重庆卫视新闻综合类融合传播栏目，着眼重庆政治经济社会发展中的新事件、新动向、新信号，以当天重要政务活动及百姓关心的政策话题为切入点，通过观察评论第一时间输出主流媒体观点，兼具新闻报道的短实新快与述评的深度广度。</desc>
+  </programme>
+  <programme start="20260531213600 +0800" stop="20260531230000 +0800" channel="重庆卫视"><title lang="zh">谢谢你来了精华版</title><desc>《谢谢你来了》是一档青春励志节目，聚焦中国梦的时代主题，围绕“感恩”“道歉”“爱”“梦想”等主题，展示一代年轻人的青春历程和记忆，讴歌青春，传播正能量！</desc>
+  </programme>
+  <programme start="20260531230000 +0800" stop="20260531234300 +0800" channel="重庆卫视"><title lang="zh">我们最美好的十年（1）</title>
+  </programme>
+  <programme start="20260531234300 +0800" stop="20260531235100 +0800" channel="重庆卫视"><title lang="zh">风景区气象服务</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531235100 +0800" stop="20260601003400 +0800" channel="重庆卫视"><title lang="zh">我们最美好的十年（2）</title>
+  </programme>
+  <programme start="20260531063000 +0800" stop="20260531070000 +0800" channel="河北卫视"><title lang="zh">冀时全播报</title><desc>河北广播电视台在河北卫视及公共频道等平台播出的早间新闻栏目，以“服务全省战略合作、群众资讯需求”为定位，设置“冀时·新闻点”“冀时·生活圈”“冀时·在现场”“冀时·美丽河北”等板块，实行“全媒采集+电视精编”内容生产机制。</desc>
+  </programme>
+  <programme start="20260531070000 +0800" stop="20260531070100 +0800" channel="河北卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260531070100 +0800" stop="20260531073000 +0800" channel="河北卫视"><title lang="zh">冀时全播报</title><desc>河北广播电视台在河北卫视及公共频道等平台播出的早间新闻栏目，以“服务全省战略合作、群众资讯需求”为定位，设置“冀时·新闻点”“冀时·生活圈”“冀时·在现场”“冀时·美丽河北”等板块，实行“全媒采集+电视精编”内容生产机制。</desc>
+  </programme>
+  <programme start="20260531073000 +0800" stop="20260531081200 +0800" channel="河北卫视"><title lang="zh">美丽河北慢直播</title><desc>全国首档常态化视频慢直播节目，在全省布设近千路高清摄像头，实现所有地市、5A级景区、滹沱河流域及太行山沿线全覆盖，以全天候、原生态的镜头语言记录燕赵大地的四季风华与生态蝶变。</desc>
+  </programme>
+  <programme start="20260531175200 +0800" stop="20260531183000 +0800" channel="河北卫视"><title lang="zh">家政女皇</title><desc>河北卫视生活服务类节目，由方琼、程成主持，采用内外景结合的方式，通过“老方琼叨叨”“高招在民间”“女皇上菜”等板块，涵盖生活妙招、健康知识、家常菜谱等内容，以轻松诙谐的风格为观众提供实用的生活服务。</desc>
+  </programme>
+  <programme start="20260531183000 +0800" stop="20260531185500 +0800" channel="河北卫视"><title lang="zh">河北新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260531185500 +0800" stop="20260531190000 +0800" channel="河北卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193500 +0800" channel="河北卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260531193500 +0800" stop="20260531202300 +0800" channel="河北卫视"><title lang="zh">跨过鸭绿江（16）</title>
+  </programme>
+  <programme start="20260531202300 +0800" stop="20260531211000 +0800" channel="河北卫视"><title lang="zh">跨过鸭绿江（17）</title>
+  </programme>
+  <programme start="20260531230000 +0800" stop="20260531233300 +0800" channel="河北卫视"><title lang="zh">你好京津冀</title><desc>河北卫视推出的聚焦京津冀协同发展战略的新闻节目，设置“京津冀·24小时”“京津冀·观察”“京津冀·雄安”“寻美京津冀”“人在京津冀”等板块，通过信息集纳、专题报道及人文视角呈现京津冀协同发展成果。</desc>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531003000 +0800" channel="贵州卫视"><title lang="zh">贵州新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260531003000 +0800" stop="20260531012000 +0800" channel="贵州卫视"><title lang="zh">我最爱的家人（10）</title>
+  </programme>
+  <programme start="20260531012000 +0800" stop="20260531021000 +0800" channel="贵州卫视"><title lang="zh">我最爱的家人（11）</title>
+  </programme>
+  <programme start="20260531021000 +0800" stop="20260531060000 +0800" channel="贵州卫视"><title lang="zh">我最爱的家人（12）</title>
+  </programme>
+  <programme start="20260531060000 +0800" stop="20260531063500 +0800" channel="贵州卫视"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260531063500 +0800" stop="20260531070000 +0800" channel="贵州卫视"><title lang="zh">贵州新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260531070000 +0800" stop="20260531070100 +0800" channel="贵州卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260531070100 +0800" stop="20260531080000 +0800" channel="贵州卫视"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531080000 +0800" stop="20260531083000 +0800" channel="贵州卫视"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531083000 +0800" stop="20260531092500 +0800" channel="贵州卫视"><title lang="zh">神枪（31）</title>
+  </programme>
+  <programme start="20260531092500 +0800" stop="20260531102000 +0800" channel="贵州卫视"><title lang="zh">神枪（32）</title>
+  </programme>
+  <programme start="20260531102000 +0800" stop="20260531111500 +0800" channel="贵州卫视"><title lang="zh">神枪（33）</title><desc>铁匠铺学徒张响与猎户女李杏花在抗日战争时期相遇，两人在战火中相互帮助，逐渐成长为令日军胆寒的神枪手。他们以“双枪合璧”的方式，与日本鬼子展开英勇的狙击对抗，书写了一段战火中的青春传奇。</desc>
+  </programme>
+  <programme start="20260531111500 +0800" stop="20260531121000 +0800" channel="贵州卫视"><title lang="zh">神枪（34）</title><desc>铁匠铺学徒张响与猎户女李杏花在抗日战争时期相遇，两人在战火中相互帮助，逐渐成长为令日军胆寒的神枪手。他们以“双枪合璧”的方式，与日本鬼子展开英勇的狙击对抗，书写了一段战火中的青春传奇。</desc>
+  </programme>
+  <programme start="20260531121000 +0800" stop="20260531130500 +0800" channel="贵州卫视"><title lang="zh">神枪（35）</title><desc>铁匠铺学徒张响与猎户女李杏花在抗日战争时期相遇，两人在战火中相互帮助，逐渐成长为令日军胆寒的神枪手。他们以“双枪合璧”的方式，与日本鬼子展开英勇的狙击对抗，书写了一段战火中的青春传奇。</desc>
+  </programme>
+  <programme start="20260531130500 +0800" stop="20260531140000 +0800" channel="贵州卫视"><title lang="zh">神枪（36）</title><desc>铁匠铺学徒张响与猎户女李杏花在抗日战争时期相遇，两人在战火中相互帮助，逐渐成长为令日军胆寒的神枪手。他们以“双枪合璧”的方式，与日本鬼子展开英勇的狙击对抗，书写了一段战火中的青春传奇。</desc>
+  </programme>
+  <programme start="20260531140000 +0800" stop="20260531140500 +0800" channel="贵州卫视"><title lang="zh">气象快讯</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531140500 +0800" stop="20260531143500 +0800" channel="贵州卫视"><title lang="zh">神枪（37）</title><desc>铁匠铺学徒张响与猎户女李杏花在抗日战争时期相遇，两人在战火中相互帮助，逐渐成长为令日军胆寒的神枪手。他们以“双枪合璧”的方式，与日本鬼子展开英勇的狙击对抗，书写了一段战火中的青春传奇。</desc>
+  </programme>
+  <programme start="20260531143500 +0800" stop="20260531150500 +0800" channel="贵州卫视"><title lang="zh">神枪（38）</title><desc>铁匠铺学徒张响与猎户女李杏花在抗日战争时期相遇，两人在战火中相互帮助，逐渐成长为令日军胆寒的神枪手。他们以“双枪合璧”的方式，与日本鬼子展开英勇的狙击对抗，书写了一段战火中的青春传奇。</desc>
+  </programme>
+  <programme start="20260531150500 +0800" stop="20260531175000 +0800" channel="贵州卫视"><title lang="zh">平原游击队</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
+  </programme>
+  <programme start="20260531175000 +0800" stop="20260531180000 +0800" channel="贵州卫视"><title lang="zh">新时代追梦人</title><desc>贵州卫视人物纪实栏目，每期聚焦一位在平凡岗位上奋斗的追梦人，讲述他们扎根基层、服务家乡的感人故事。节目记录村支书带领村民吃上“旅游饭”、镇长推动特色小镇建设、文旅推荐员宣传家乡风物等真实案例，展现新时代奋斗者的精神风貌。</desc>
+  </programme>
+  <programme start="20260531180000 +0800" stop="20260531183000 +0800" channel="贵州卫视"><title lang="zh">影响力</title><desc>贵州卫视深度访谈栏目。</desc>
+  </programme>
+  <programme start="20260531183000 +0800" stop="20260531185500 +0800" channel="贵州卫视"><title lang="zh">贵州新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260531185500 +0800" stop="20260531190000 +0800" channel="贵州卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193500 +0800" channel="贵州卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260531193500 +0800" stop="20260531202200 +0800" channel="贵州卫视"><title lang="zh">深潜（13）</title><desc>成毅、颖儿主演的年代谍战剧。抗日战争时期，日军为占领长沙启用潜伏15年的特工“黑执事”。爱国青年云弘深为追查父亲死因回到长沙，却陷入陷阱，最终与闻夜鸣联手，放下家仇智破迷局，为长沙会战的胜利做出贡献。</desc>
+  </programme>
+  <programme start="20260531202200 +0800" stop="20260531211000 +0800" channel="贵州卫视"><title lang="zh">深潜（14）</title><desc>成毅、颖儿主演的年代谍战剧。抗日战争时期，日军为占领长沙启用潜伏15年的特工“黑执事”。爱国青年云弘深为追查父亲死因回到长沙，却陷入陷阱，最终与闻夜鸣联手，放下家仇智破迷局，为长沙会战的胜利做出贡献。</desc>
+  </programme>
+  <programme start="20260531211000 +0800" stop="20260531212000 +0800" channel="贵州卫视"><title lang="zh">微短剧</title><desc>《破晓》是一部微短剧，讲述了在特定历史时期，普通人面对困境时的选择和成长。第1集通过紧凑的剧情和生动的人物刻画，展现了主人公在关键时刻的决断和勇气，传递了积极向上的价值观。</desc>
+  </programme>
+  <programme start="20260531212000 +0800" stop="20260531214000 +0800" channel="贵州卫视"><title lang="zh">酱香原产地</title><desc>聚焦中国酱香白酒核心产区的产业观察节目，每期关注白酒行业动态、产区发展、企业创新及酒业文化。节目设有“酒业动态”“大咖说酒”“企业巡礼”“中国白酒产区地图”等板块，深度解析酱香型白酒的酿造工艺与产业发展。</desc>
+  </programme>
+  <programme start="20260531214000 +0800" stop="20260531224000 +0800" channel="贵州卫视"><title lang="zh">论道</title><desc>贵州卫视高端对话节目，由前外经贸部副部长、中国入世首席谈判代表龙永图先生担任领衔嘉宾。节目以“观天下风云，与永图论道”为口号，邀请国内外政要、经济学家、企业领袖，围绕企业、财经、民生等话题展开深度对话，用民生视角解读高端话题</desc>
+  </programme>
+  <programme start="20260531224000 +0800" stop="20260601000200 +0800" channel="贵州卫视"><title lang="zh">论道</title><desc>贵州卫视高端对话节目，由前外经贸部副部长、中国入世首席谈判代表龙永图先生担任领衔嘉宾。节目以“观天下风云，与永图论道”为口号，邀请国内外政要、经济学家、企业领袖，围绕企业、财经、民生等话题展开深度对话，用民生视角解读高端话题</desc>
+  </programme>
+  <programme start="20260531020000 +0800" stop="20260531025000 +0800" channel="广西卫视"><title lang="zh">广西故事</title><desc>由广西壮族自治区党委宣传部、自治区文化和旅游厅、自治区广播电视局、广西广播电视台联合出品的人文类电视系列专题栏目，以广西历史文化、自然风光和民族风情为主题，分设文明传承、八桂之魂、地灵人杰、山水胜境、光影乡愁、匠心独运、民风传情、物华天宝八个篇章，每期通过精致的画面和动人的讲述展现大美广西的文化内涵与人文情怀</desc>
+  </programme>
+  <programme start="20260531025000 +0800" stop="20260531040000 +0800" channel="广西卫视"><title lang="zh">自办节目</title>
+  </programme>
+  <programme start="20260531040000 +0800" stop="20260531044000 +0800" channel="广西卫视"><title lang="zh">纪录中国故事</title><desc>《纪录》：严肃的主题，反映长江流域的自然、社会、人物、历史、生活，以专题、记录或文献片的形式展现人文的视点、关怀的精神。《纪录》：最真实的镜头，最动情的笔触，关怀天下苍生，记录人间温情。</desc>
+  </programme>
+  <programme start="20260531044000 +0800" stop="20260531062000 +0800" channel="广西卫视"><title lang="zh">智取华山</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
+  </programme>
+  <programme start="20260531062000 +0800" stop="20260531063500 +0800" channel="广西卫视"><title lang="zh">广西故事</title><desc>由广西壮族自治区党委宣传部、自治区文化和旅游厅、自治区广播电视局、广西广播电视台联合出品的人文类电视系列专题栏目，以广西历史文化、自然风光和民族风情为主题，分设文明传承、八桂之魂、地灵人杰、山水胜境、光影乡愁、匠心独运、民风传情、物华天宝八个篇章，每期通过精致的画面和动人的讲述展现大美广西的文化内涵与人文情怀</desc>
+  </programme>
+  <programme start="20260531063500 +0800" stop="20260531070000 +0800" channel="广西卫视"><title lang="zh">海丝路</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
+  </programme>
+  <programme start="20260531070000 +0800" stop="20260531070300 +0800" channel="广西卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260531070300 +0800" stop="20260531072700 +0800" channel="广西卫视"><title lang="zh">广西新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531072700 +0800" stop="20260531072800 +0800" channel="广西卫视"><title lang="zh">广西旅游天气预报</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20260531072800 +0800" stop="20260531073000 +0800" channel="广西卫视"><title lang="zh">广西海洋天气预报</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20260531073000 +0800" stop="20260531080000 +0800" channel="广西卫视"><title lang="zh">纪录中国故事</title><desc>《纪录》：严肃的主题，反映长江流域的自然、社会、人物、历史、生活，以专题、记录或文献片的形式展现人文的视点、关怀的精神。《纪录》：最真实的镜头，最动情的笔触，关怀天下苍生，记录人间温情。</desc>
+  </programme>
+  <programme start="20260531080000 +0800" stop="20260531084000 +0800" channel="广西卫视"><title lang="zh">动画剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260531084000 +0800" stop="20260531105000 +0800" channel="广西卫视"><title lang="zh">地道战</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
+  </programme>
+  <programme start="20260531105000 +0800" stop="20260531123000 +0800" channel="广西卫视"><title lang="zh">红色娘子军</title>
+  </programme>
+  <programme start="20260531123000 +0800" stop="20260531180000 +0800" channel="广西卫视"><title lang="zh">伪装者</title><desc>《伪装者》是一部以抗日战争为背景的谍战剧，讲述了明氏三姐弟在上海沦陷期间，各自为不同的阵营工作，却又相互保护的故事。该剧通过紧张刺激的剧情、复杂的人物关系和精彩的表演，展现了情报人员的机智勇敢和家国情怀，是近年来谍战剧的经典之作。</desc>
+  </programme>
+  <programme start="20260531180000 +0800" stop="20260531183000 +0800" channel="广西卫视"><title lang="zh">凡事说理</title><desc>广西卫视理论大众化访谈节目，由广西区党委宣传部、自治区广电局主办，立足时代热点，直面争议话题，邀请专家学者、政府官员、媒体名嘴、普通百姓做客演播室，在对话与辩论中答疑释惑，为社会难点问题提供有价值的思路和建设性解决办法</desc>
+  </programme>
+  <programme start="20260531183000 +0800" stop="20260531185700 +0800" channel="广西卫视"><title lang="zh">广西新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531185700 +0800" stop="20260531190000 +0800" channel="广西卫视"><title lang="zh">广西天气预报</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193500 +0800" channel="广西卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260531193500 +0800" stop="20260531214000 +0800" channel="广西卫视"><title lang="zh">无间</title>
+  </programme>
+  <programme start="20260531214000 +0800" stop="20260531220000 +0800" channel="广西卫视"><title lang="zh">中国新智造</title>
+  </programme>
+  <programme start="20260531220000 +0800" stop="20260531223000 +0800" channel="广西卫视"><title lang="zh">见证</title><desc>中央电视台社会与法频道（CCTV-12）纪录片栏目，原名《见证·亲历》，2005年改版为《见证》。以“见证时代变迁，记录中国故事”为宗旨，每期围绕一个社会变迁主题，通过影像档案与人物口述，呈现法治进程、社会治理、民生改善等领域的真实故事。节目注重历史纵深与人文关怀，既有重大事件回望，也有普通人命运的微观记录。周一至周五22:00首播，每期25分钟。口号：“用影像记录历史，以见证启迪未来。”</desc>
+  </programme>
+  <programme start="20260531223000 +0800" stop="20260601001800 +0800" channel="广西卫视"><title lang="zh">苦菜花</title>
+  </programme>
+  <programme start="20260531001000 +0800" stop="20260531005500 +0800" channel="云南卫视"><title lang="zh">前行者（34）</title>
+  </programme>
+  <programme start="20260531005500 +0800" stop="20260531014000 +0800" channel="云南卫视"><title lang="zh">前行者（35）</title>
+  </programme>
+  <programme start="20260531014000 +0800" stop="20260531022600 +0800" channel="云南卫视"><title lang="zh">前行者（36）</title>
+  </programme>
+  <programme start="20260531022600 +0800" stop="20260531030100 +0800" channel="云南卫视"><title lang="zh">百年巨匠</title><desc>我国第一部大规模、全方位拍摄制作的关于20世纪画坛巨匠、艺苑大师、文坛泰斗的大型人物传记纪录片。系统记录齐白石、黄宾虹、徐悲鸿、张大千等数十位文学艺术领域杰出代表的人生历程，分为美术篇、书法篇、文学篇、京剧篇、话剧篇、音乐篇等多个篇章，通过大量原作、原物、原址的全方位拍摄和亲友、当事人的叙述，还原巨匠本色与大师形象。</desc>
+  </programme>
+  <programme start="20260531030100 +0800" stop="20260531044600 +0800" channel="云南卫视"><title lang="zh">频道垫片</title><desc>电视台在节目切换或信号调整时段播出的临时画面，通常包含频道标识、节目预告或公益宣传内容，用于填补播出间隙。</desc>
+  </programme>
+  <programme start="20260531044600 +0800" stop="20260531053400 +0800" channel="云南卫视"><title lang="zh">前行者（37）</title>
+  </programme>
+  <programme start="20260531053400 +0800" stop="20260531062300 +0800" channel="云南卫视"><title lang="zh">前行者（38）</title>
+  </programme>
+  <programme start="20260531062300 +0800" stop="20260531070000 +0800" channel="云南卫视"><title lang="zh">百年巨匠</title><desc>我国第一部大规模、全方位拍摄制作的关于20世纪画坛巨匠、艺苑大师、文坛泰斗的大型人物传记纪录片。系统记录齐白石、黄宾虹、徐悲鸿、张大千等数十位文学艺术领域杰出代表的人生历程，分为美术篇、书法篇、文学篇、京剧篇、话剧篇、音乐篇等多个篇章，通过大量原作、原物、原址的全方位拍摄和亲友、当事人的叙述，还原巨匠本色与大师形象。</desc>
+  </programme>
+  <programme start="20260531070000 +0800" stop="20260531070100 +0800" channel="云南卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260531070100 +0800" stop="20260531072800 +0800" channel="云南卫视"><title lang="zh">云南新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260531075200 +0800" stop="20260531080000 +0800" channel="云南卫视"><title lang="zh">国宝时刻（41）</title><desc>《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。</desc>
+  </programme>
+  <programme start="20260531080000 +0800" stop="20260531083600 +0800" channel="云南卫视"><title lang="zh">宠物旅店</title><desc>在小小的宠物旅店里，每天都在发生着千奇百怪、令人捧腹的有趣故事。帅哥罗宾临街开了这家宠物旅店。他还发明了一些高科技设备，供前来寄宿宠物们使用、玩耍，让他们享受到便捷贴心的服务。他有四只常驻店中的宠物相伴：调皮的流浪猫乃乃、爱美的波斯猫琪琪、强壮的田园狗理狸,还有一只自封＂二当家”的豚鼠布布。人猫狗鼠，冤家聚齐。四位宠物小伙伴经常互相整蛊，日子过得乐融融。主角乃乃自小流浪街头，心宽体胖，有一副侠义心肠。他率真直爽的性格、乐于助人的品行以及能打破常规解决疑难问题的能力使他受到大家的欢迎。加入宠物旅店后，乃乃并不沉溺于舒适无忧的现状,心中仍保留着对自由的向往。宠物旅店每天都会迎来不同的动物客人，有精力充沛的啄木鸟、喜欢和人抱抱的蜘蛛、健忘的小鱼、爱吃甜食的乌龟、越长越大的小香猪等等。无论他们在这里寄宿的过程有多曲折，前来光顾的动物们还是会获得宾至如归的感受，和店里的四位宠物主人们成为好朋友，得到更多的关爱和支持。《宠物旅店》中一个个诙谐又奇妙的故事，既传播着关于每一种动物的小知识，也能让人在主角们的成长中体会到温馨和谐的相处之道。乃乃和他的朋友们所呈现出的热心向上、体贴关怀、敢于冒险、勇于承担，都是会让大家都最想拥有的珍贵品质。每一种动物都是独一无二的，每一位朋友、家人也都有自己的个性，了解他们、尊重他们、爱护他们，能给彼此都带来治愈的快乐陪伴。善良和包容、分享和付出，最终会战胜一切困难。</desc>
+  </programme>
+  <programme start="20260531083600 +0800" stop="20260531093400 +0800" channel="云南卫视"><title lang="zh">包青天（13）</title><desc>1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
+  </programme>
+  <programme start="20260531093400 +0800" stop="20260531103100 +0800" channel="云南卫视"><title lang="zh">包青天（14）</title><desc>1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
+  </programme>
+  <programme start="20260531103100 +0800" stop="20260531114000 +0800" channel="云南卫视"><title lang="zh">包青天（15）</title><desc>1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
+  </programme>
+  <programme start="20260531114000 +0800" stop="20260531124900 +0800" channel="云南卫视"><title lang="zh">包青天（16）</title><desc>1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
+  </programme>
+  <programme start="20260531124900 +0800" stop="20260531135600 +0800" channel="云南卫视"><title lang="zh">独立纵队（34）</title>
+  </programme>
+  <programme start="20260531135600 +0800" stop="20260531150400 +0800" channel="云南卫视"><title lang="zh">独立纵队（35）</title>
+  </programme>
+  <programme start="20260531150400 +0800" stop="20260531161200 +0800" channel="云南卫视"><title lang="zh">独立纵队（36）</title>
+  </programme>
+  <programme start="20260531161200 +0800" stop="20260531172000 +0800" channel="云南卫视"><title lang="zh">独立纵队（37）</title>
+  </programme>
+  <programme start="20260531172000 +0800" stop="20260531183000 +0800" channel="云南卫视"><title lang="zh">独立纵队（38）</title>
+  </programme>
+  <programme start="20260531183000 +0800" stop="20260531185600 +0800" channel="云南卫视"><title lang="zh">云南新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260531185600 +0800" stop="20260531190000 +0800" channel="云南卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193300 +0800" channel="云南卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260531193300 +0800" stop="20260531202200 +0800" channel="云南卫视"><title lang="zh">川军团血战到底（19）</title>
+  </programme>
+  <programme start="20260531202200 +0800" stop="20260531212000 +0800" channel="云南卫视"><title lang="zh">川军团血战到底（20）</title>
+  </programme>
+  <programme start="20260531212000 +0800" stop="20260531212700 +0800" channel="云南卫视"><title lang="zh">好剧大放送</title><desc>云南卫视电视剧场时段名称，通常安排在下午或晚间，精选优质剧集进行多集连播，涵盖抗战、年代、情感等多种类型。</desc>
+  </programme>
+  <programme start="20260531212700 +0800" stop="20260531213300 +0800" channel="云南卫视"><title lang="zh">好剧大放送</title><desc>云南卫视电视剧场时段名称，通常安排在下午或晚间，精选优质剧集进行多集连播，涵盖抗战、年代、情感等多种类型。</desc>
+  </programme>
+  <programme start="20260531220400 +0800" stop="20260531221900 +0800" channel="云南卫视"><title lang="zh">格物知中华（10）</title>
+  </programme>
+  <programme start="20260531221900 +0800" stop="20260531224900 +0800" channel="云南卫视"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
+  </programme>
+  <programme start="20260531224900 +0800" stop="20260531225400 +0800" channel="云南卫视"><title lang="zh">南亚东南亚天气预报</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20260531225400 +0800" stop="20260531232400 +0800" channel="云南卫视"><title lang="zh">滇越铁路（1）</title>
+  </programme>
+  <programme start="20260531232400 +0800" stop="20260601000600 +0800" channel="云南卫视"><title lang="zh">前行者（39）</title>
+  </programme>
+  <programme start="20260531005400 +0800" stop="20260531012700 +0800" channel="甘肃卫视"><title lang="zh">纪录30分</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531041300 +0800" stop="20260531044600 +0800" channel="甘肃卫视"><title lang="zh">丝路大讲堂</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
+  </programme>
+  <programme start="20260531044600 +0800" stop="20260531051700 +0800" channel="甘肃卫视"><title lang="zh">纪录30分</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531064400 +0800" stop="20260531070000 +0800" channel="甘肃卫视"><title lang="zh">今日聚焦</title><desc>《今日聚焦》是一档新闻专题节目，本集聚焦企业与职工的双向奔赴。通过深入报道企业与职工之间的良性互动，探讨如何构建和谐的劳动关系，促进企业发展和职工成长，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20260531070000 +0800" stop="20260531070100 +0800" channel="甘肃卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260531070100 +0800" stop="20260531072500 +0800" channel="甘肃卫视"><title lang="zh">甘肃新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531072500 +0800" stop="20260531073100 +0800" channel="甘肃卫视"><title lang="zh">劳模纪录工程</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531073100 +0800" stop="20260531080200 +0800" channel="甘肃卫视"><title lang="zh">丝路大讲堂</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
+  </programme>
+  <programme start="20260531123000 +0800" stop="20260531125000 +0800" channel="甘肃卫视"><title lang="zh">午间20分</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531125000 +0800" stop="20260531130000 +0800" channel="甘肃卫视"><title lang="zh">劳模纪录工程</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531130000 +0800" stop="20260531131100 +0800" channel="甘肃卫视"><title lang="zh">午间天气预报</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20260531181000 +0800" stop="20260531183000 +0800" channel="甘肃卫视"><title lang="zh">今日聚焦</title><desc>《今日聚焦》是一档新闻专题节目，本集聚焦企业与职工的双向奔赴。通过深入报道企业与职工之间的良性互动，探讨如何构建和谐的劳动关系，促进企业发展和职工成长，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20260531183000 +0800" stop="20260531185600 +0800" channel="甘肃卫视"><title lang="zh">甘肃新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531185600 +0800" stop="20260531190000 +0800" channel="甘肃卫视"><title lang="zh">晚间天气预报</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193300 +0800" channel="甘肃卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260531211600 +0800" stop="20260531212200 +0800" channel="甘肃卫视"><title lang="zh">劳模纪录工程</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531212200 +0800" stop="20260531212600 +0800" channel="甘肃卫视"><title lang="zh">红色经典咏流传</title><desc>甘肃省广播电视总台推出的大型融媒体思想理论节目，以“庚续红色血脉，奋进伟大征程”为主题，通过诗朗诵、歌曲演绎等轻松活泼的形式，重温《七律·长征》《沁园春·雪》等红色经典，让党史理论接地气、入人心。</desc>
+  </programme>
+  <programme start="20260531212600 +0800" stop="20260531213800 +0800" channel="甘肃卫视"><title lang="zh">甘肃新交通</title><desc>甘肃省交通运输厅与甘肃省广播电视总台联合打造的全媒体电视栏目，全国卫视首档交通类专题栏目。紧扣“交通强国”甘肃实践，深入重大项目攻坚一线，聚焦绿色交通、科技交通、智慧交通，既记录重大工程的宏大叙事，也关注交通发展惠及百姓的民生故事，立体呈现甘肃交通的脉动与发展</desc>
+  </programme>
+  <programme start="20260531213800 +0800" stop="20260531221000 +0800" channel="甘肃卫视"><title lang="zh">丝路大讲堂</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
+  </programme>
+  <programme start="20260531221000 +0800" stop="20260531223000 +0800" channel="甘肃卫视"><title lang="zh">乡村新事记</title><desc>甘肃卫视与甘肃省乡村振兴局、甘肃省乡村振兴宣传教育中心联合打造的大型融媒体实践节目。以“一村一景，新风新事，走进乡村看变化”为口号，通过短片展示、现场访谈、特产推介、文艺表演等方式，用人物故事的小切口反映巩固脱贫攻坚成果、全面实施乡村振兴的宏大主题。</desc>
+  </programme>
+  <programme start="20260531223000 +0800" stop="20260531230000 +0800" channel="甘肃卫视"><title lang="zh">甘肃新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531230000 +0800" stop="20260531233500 +0800" channel="甘肃卫视"><title lang="zh">纪录30分</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531004000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc>时尚文化栏目，聚焦潮流趋势与生活美学，涵盖服饰穿搭、美妆护肤、艺术设计、生活方式等领域，为观众提供前沿时尚资讯与品味指南。</desc>
+  </programme>
+  <programme start="20260531012000 +0800" stop="20260531020000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531020000 +0800" stop="20260531025000 +0800" channel="三沙卫视"><title lang="zh">自贸先行者</title><desc>三沙卫视人物访谈栏目，聚焦海南自贸港建设中的先行者与奋斗者，记录他们在改革开放最前沿的创新实践与追梦故事，展现敢闯敢试、敢为人先的特区精神。</desc>
+  </programme>
+  <programme start="20260531025000 +0800" stop="20260531033000 +0800" channel="三沙卫视"><title lang="zh">精编节目</title><desc>电视台将往期节目精华内容进行重新剪辑编排的特别版本，通过主题化整合、节奏优化和亮点提炼，为观众呈现浓缩升级的视听体验。</desc>
+  </programme>
+  <programme start="20260531033000 +0800" stop="20260531040000 +0800" channel="三沙卫视"><title lang="zh">南海直播室</title><desc>三沙卫视大型日播新闻资讯栏目，以“立足南海、放眼全球”为视野，围绕海洋权益维护和海洋经济发展，关注南海及其周边时政焦点，对海洋科技、经济、文化等领域展开深度报道。</desc>
+  </programme>
+  <programme start="20260531040000 +0800" stop="20260531043000 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531043000 +0800" stop="20260531050000 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531050000 +0800" stop="20260531054000 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc>三沙卫视纪实专题栏目，以“接地气、在一线”为特色，记者深入岛礁、渔船、执法船，与渔民、船员、执法人员同吃同住，挖掘海洋故事，通过“中国海岸行”等大型策划呈现沿海各地的海洋文化与风土人情。</desc>
+  </programme>
+  <programme start="20260531054000 +0800" stop="20260531062000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc>时尚文化栏目，聚焦潮流趋势与生活美学，涵盖服饰穿搭、美妆护肤、艺术设计、生活方式等领域，为观众提供前沿时尚资讯与品味指南。</desc>
+  </programme>
+  <programme start="20260531062000 +0800" stop="20260531070000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531070000 +0800" stop="20260531070100 +0800" channel="三沙卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260531070100 +0800" stop="20260531072000 +0800" channel="三沙卫视"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531072000 +0800" stop="20260531080000 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531080000 +0800" stop="20260531082800 +0800" channel="三沙卫视"><title lang="zh">南海直播室</title><desc>三沙卫视大型日播新闻资讯栏目，以“立足南海、放眼全球”为视野，围绕海洋权益维护和海洋经济发展，关注南海及其周边时政焦点，对海洋科技、经济、文化等领域展开深度报道。</desc>
+  </programme>
+  <programme start="20260531082800 +0800" stop="20260531084300 +0800" channel="三沙卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260531084300 +0800" stop="20260531084500 +0800" channel="三沙卫视"><title lang="zh">滨海旅游环境预报</title><desc>国家海洋环境预报中心发布的滨海旅游专项预报产品，为海水浴场、滨海度假区等旅游目的地提供海浪、海温、海面视程等环境要素预报，服务公众滨海休闲旅游需求。</desc>
+  </programme>
+  <programme start="20260531084500 +0800" stop="20260531090000 +0800" channel="三沙卫视"><title lang="zh">海洋音乐厅</title><desc>以海洋为主题的实景音乐节目，在海岸线、海岛等自然景观中录制音乐会，融合海浪、海风等环境音与音乐演奏，打造沉浸式视听体验。</desc>
+  </programme>
+  <programme start="20260531105200 +0800" stop="20260531111000 +0800" channel="三沙卫视"><title lang="zh">自宣段</title><desc>电视台宣传推广内容的统称，包括频道形象片、节目预告、品牌活动推介等，用于提升频道影响力和节目关注度。</desc>
+  </programme>
+  <programme start="20260531111000 +0800" stop="20260531114800 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc>三沙卫视纪实专题栏目，以“接地气、在一线”为特色，记者深入岛礁、渔船、执法船，与渔民、船员、执法人员同吃同住，挖掘海洋故事，通过“中国海岸行”等大型策划呈现沿海各地的海洋文化与风土人情。</desc>
+  </programme>
+  <programme start="20260531114800 +0800" stop="20260531115000 +0800" channel="三沙卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260531115000 +0800" stop="20260531120000 +0800" channel="三沙卫视"><title lang="zh">中国海岛环境预报</title><desc>国家海洋环境预报中心发布的专业预报产品，针对我国沿海主要海岛提供海浪、海温、潮汐及未来天气趋势预报，服务海岛旅游、渔业生产及海上交通。</desc>
+  </programme>
+  <programme start="20260531120000 +0800" stop="20260531122500 +0800" channel="三沙卫视"><title lang="zh">南海直播室</title><desc>三沙卫视大型日播新闻资讯栏目，以“立足南海、放眼全球”为视野，围绕海洋权益维护和海洋经济发展，关注南海及其周边时政焦点，对海洋科技、经济、文化等领域展开深度报道。</desc>
+  </programme>
+  <programme start="20260531122500 +0800" stop="20260531125000 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531125000 +0800" stop="20260531131000 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531131000 +0800" stop="20260531133000 +0800" channel="三沙卫视"><title lang="zh">诗意海洋</title><desc>海洋纪录片集合。</desc>
+  </programme>
+  <programme start="20260531133000 +0800" stop="20260531140000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531140000 +0800" stop="20260531143000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc>时尚文化栏目，聚焦潮流趋势与生活美学，涵盖服饰穿搭、美妆护肤、艺术设计、生活方式等领域，为观众提供前沿时尚资讯与品味指南。</desc>
+  </programme>
+  <programme start="20260531143000 +0800" stop="20260531150000 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc>三沙卫视纪实专题栏目，以“接地气、在一线”为特色，记者深入岛礁、渔船、执法船，与渔民、船员、执法人员同吃同住，挖掘海洋故事，通过“中国海岸行”等大型策划呈现沿海各地的海洋文化与风土人情。</desc>
+  </programme>
+  <programme start="20260531165200 +0800" stop="20260531170000 +0800" channel="三沙卫视"><title lang="zh">自宣段</title><desc>电视台宣传推广内容的统称，包括频道形象片、节目预告、品牌活动推介等，用于提升频道影响力和节目关注度。</desc>
+  </programme>
+  <programme start="20260531170000 +0800" stop="20260531173000 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531175700 +0800" stop="20260531180000 +0800" channel="三沙卫视"><title lang="zh">三沙海洋预报</title><desc>三沙市气象局与海洋预报部门联合发布的区域海洋气象服务产品，针对三沙海域提供风浪、潮汐、海温等精细化预报，保障南海海上航行安全与海洋开发活动。</desc>
+  </programme>
+  <programme start="20260531180000 +0800" stop="20260531182000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc>时尚文化栏目，聚焦潮流趋势与生活美学，涵盖服饰穿搭、美妆护肤、艺术设计、生活方式等领域，为观众提供前沿时尚资讯与品味指南。</desc>
+  </programme>
+  <programme start="20260531182000 +0800" stop="20260531183000 +0800" channel="三沙卫视"><title lang="zh">海洋音乐厅</title><desc>以海洋为主题的实景音乐节目，在海岸线、海岛等自然景观中录制音乐会，融合海浪、海风等环境音与音乐演奏，打造沉浸式视听体验。</desc>
+  </programme>
+  <programme start="20260531183000 +0800" stop="20260531185500 +0800" channel="三沙卫视"><title lang="zh">自贸先行者</title><desc>三沙卫视人物访谈栏目，聚焦海南自贸港建设中的先行者与奋斗者，记录他们在改革开放最前沿的创新实践与追梦故事，展现敢闯敢试、敢为人先的特区精神。</desc>
+  </programme>
+  <programme start="20260531185500 +0800" stop="20260531185700 +0800" channel="三沙卫视"><title lang="zh">丝绸之路环境预报</title><desc>国家海洋环境预报中心为“21世纪海上丝绸之路”建设的专业服务产品，覆盖沿线海域的海浪、风暴潮、海温等海洋环境要素预报，为海上贸易通道和航运安全提供保障。</desc>
+  </programme>
+  <programme start="20260531185700 +0800" stop="20260531190000 +0800" channel="三沙卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193500 +0800" channel="三沙卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260531193500 +0800" stop="20260531200000 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531200000 +0800" stop="20260531203000 +0800" channel="三沙卫视"><title lang="zh">海南新闻联播</title><desc>海南广播电视总台制作的时政新闻栏目，每日18:30在海南卫视首播，是唯一一档在上星频道播出的省级时政新闻栏目。节目立足海南、面向全国，全面报道海南政治、经济、社会发展动态，重点聚焦海南自贸港建设进程、封关运作进展、重大政策落地等核心议题。2022年改版后增设“自贸朋友圈”板块，由“朋友圈头条+国内资讯+国际速览”三部分组成，视野拓展至国内各自贸试验区及国际财经动态。节目采用全媒演播室与虚实结合技术，推动语态创新，是展示海南形象、传递自贸港声音的重要窗口。</desc>
+  </programme>
+  <programme start="20260531220900 +0800" stop="20260531223000 +0800" channel="三沙卫视"><title lang="zh">自宣段</title><desc>电视台宣传推广内容的统称，包括频道形象片、节目预告、品牌活动推介等，用于提升频道影响力和节目关注度。</desc>
+  </programme>
+  <programme start="20260531223000 +0800" stop="20260531225500 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531225500 +0800" stop="20260531232000 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531232000 +0800" stop="20260601001500 +0800" channel="三沙卫视"><title lang="zh">自贸先行者</title><desc>三沙卫视人物访谈栏目，聚焦海南自贸港建设中的先行者与奋斗者，记录他们在改革开放最前沿的创新实践与追梦故事，展现敢闯敢试、敢为人先的特区精神。</desc>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531003000 +0800" channel="金鹰纪实"><title lang="zh">拳行天下</title><desc>1996年香港动作电影，由香港与内地合拍。美国拳手杰森访华参加国际自由搏击大赛，在训练中结识了中国姑娘马丽。香港老板操纵比赛并想借机杀害与马丽关系密切的杰森。最终，杰森在小和尚的帮助下战胜对手，也赢得了马丽的爱情。</desc>
+  </programme>
+  <programme start="20260531003000 +0800" stop="20260531013000 +0800" channel="金鹰纪实"><title lang="zh">探索</title><desc>最广博的科普栏目。节目涵盖引领人类了解自身生存的宇宙、航天、人文、地理、历史、考古、旅游、冒险、人体、生命、艺术、文化、动物、生物、前沿科技、奇闻奇观等纪录片类节目，为观众解开一片神秘的世界。</desc>
+  </programme>
+  <programme start="20260531013000 +0800" stop="20260531022000 +0800" channel="金鹰纪实"><title lang="zh">动物星球</title><desc>金鹰纪实频道引进的美国Discovery动物主题纪录片栏目，聚焦昆虫、猛兽、宠物等动物世界的神奇故事。曾推出《微观猛兽》等系列，展现蚂蚁、蜘蛛、甲虫等微小生物的生存智慧与捕食绝技。</desc>
+  </programme>
+  <programme start="20260531022000 +0800" stop="20260531031000 +0800" channel="金鹰纪实"><title lang="zh">天天微纪录</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531031000 +0800" stop="20260531040000 +0800" channel="金鹰纪实"><title lang="zh">纪实真好看</title><desc>《法治进行时》是一档以法治为主题的节目，周末版聚焦庭审纪实。通过真实的庭审过程，向观众展示法律程序和司法实践，普及法律知识，增强法治意识，为观众提供有价值的法治教育。</desc>
+  </programme>
+  <programme start="20260531040000 +0800" stop="20260531042500 +0800" channel="金鹰纪实"><title lang="zh">点赞中国</title><desc>金鹰纪实频道播出的网络正能量精品展播特别节目，围绕成长、记忆、信念、力量、复兴、引领等关键词，集中展示在重大活动、重大主题中积极发声、传递正能量的榜样及作品。</desc>
+  </programme>
+  <programme start="20260531042500 +0800" stop="20260531050000 +0800" channel="金鹰纪实"><title lang="zh">我的纪录片</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531050000 +0800" stop="20260531054000 +0800" channel="金鹰纪实"><title lang="zh">寰宇地理</title><desc>金鹰纪实频道引进的美国国家地理频道纪录片栏目，前身为2000年引入中国的《神奇的地球》。节目涵盖科技探索、历史人文、自然生态等领域，设有《缤纷世界》《科技尖端》《风云盛宴》《狂野周末》等固定板块，周一至周日每日不同主题编排。</desc>
+  </programme>
+  <programme start="20260531054000 +0800" stop="20260531062000 +0800" channel="金鹰纪实"><title lang="zh">历史片场</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
+  </programme>
+  <programme start="20260531062000 +0800" stop="20260531073000 +0800" channel="金鹰纪实"><title lang="zh">探索</title><desc>最广博的科普栏目。节目涵盖引领人类了解自身生存的宇宙、航天、人文、地理、历史、考古、旅游、冒险、人体、生命、艺术、文化、动物、生物、前沿科技、奇闻奇观等纪录片类节目，为观众解开一片神秘的世界。</desc>
+  </programme>
+  <programme start="20260531073000 +0800" stop="20260531081000 +0800" channel="金鹰纪实"><title lang="zh">动物星球</title><desc>金鹰纪实频道引进的美国Discovery动物主题纪录片栏目，聚焦昆虫、猛兽、宠物等动物世界的神奇故事。曾推出《微观猛兽》等系列，展现蚂蚁、蜘蛛、甲虫等微小生物的生存智慧与捕食绝技。</desc>
+  </programme>
+  <programme start="20260531081000 +0800" stop="20260531082000 +0800" channel="金鹰纪实"><title lang="zh">童心初演</title>
+  </programme>
+  <programme start="20260531082000 +0800" stop="20260531091000 +0800" channel="金鹰纪实"><title lang="zh">历史片场</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
+  </programme>
+  <programme start="20260531091000 +0800" stop="20260531100500 +0800" channel="金鹰纪实"><title lang="zh">天天微纪录</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531100500 +0800" stop="20260531110000 +0800" channel="金鹰纪实"><title lang="zh">纪实真好看</title><desc>《法治进行时》是一档以法治为主题的节目，周末版聚焦庭审纪实。通过真实的庭审过程，向观众展示法律程序和司法实践，普及法律知识，增强法治意识，为观众提供有价值的法治教育。</desc>
+  </programme>
+  <programme start="20260531110000 +0800" stop="20260531113000 +0800" channel="金鹰纪实"><title lang="zh">我的纪录片</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531113000 +0800" stop="20260531120000 +0800" channel="金鹰纪实"><title lang="zh">点赞中国</title><desc>金鹰纪实频道播出的网络正能量精品展播特别节目，围绕成长、记忆、信念、力量、复兴、引领等关键词，集中展示在重大活动、重大主题中积极发声、传递正能量的榜样及作品。</desc>
+  </programme>
+  <programme start="20260531120000 +0800" stop="20260531122500 +0800" channel="金鹰纪实"><title lang="zh">新闻大求真</title><desc>《新闻大求真》是一档以科学实验为主题的新闻节目，通过实验验证和科学解释，向观众传递科学知识和真相。本节目为节选内容，聚焦特定的科学话题，通过生动的实验和专业的讲解，帮助观众了解科学原理和生活常识。</desc>
+  </programme>
+  <programme start="20260531122500 +0800" stop="20260531123000 +0800" channel="金鹰纪实"><title lang="zh">纪实风云</title><desc>《法治进行时》是一档以法治为主题的节目，周末版聚焦庭审纪实。通过真实的庭审过程，向观众展示法律程序和司法实践，普及法律知识，增强法治意识，为观众提供有价值的法治教育。</desc>
+  </programme>
+  <programme start="20260531123000 +0800" stop="20260531133000 +0800" channel="金鹰纪实"><title lang="zh">拳行天下</title><desc>1996年香港动作电影，由香港与内地合拍。美国拳手杰森访华参加国际自由搏击大赛，在训练中结识了中国姑娘马丽。香港老板操纵比赛并想借机杀害与马丽关系密切的杰森。最终，杰森在小和尚的帮助下战胜对手，也赢得了马丽的爱情。</desc>
+  </programme>
+  <programme start="20260531133000 +0800" stop="20260531143000 +0800" channel="金鹰纪实"><title lang="zh">天天微纪录</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531143000 +0800" stop="20260531151000 +0800" channel="金鹰纪实"><title lang="zh">纪实真好看</title><desc>《法治进行时》是一档以法治为主题的节目，周末版聚焦庭审纪实。通过真实的庭审过程，向观众展示法律程序和司法实践，普及法律知识，增强法治意识，为观众提供有价值的法治教育。</desc>
+  </programme>
+  <programme start="20260531151000 +0800" stop="20260531154000 +0800" channel="金鹰纪实"><title lang="zh">我的纪录片</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531154000 +0800" stop="20260531161000 +0800" channel="金鹰纪实"><title lang="zh">点赞中国</title><desc>金鹰纪实频道播出的网络正能量精品展播特别节目，围绕成长、记忆、信念、力量、复兴、引领等关键词，集中展示在重大活动、重大主题中积极发声、传递正能量的榜样及作品。</desc>
+  </programme>
+  <programme start="20260531161000 +0800" stop="20260531170000 +0800" channel="金鹰纪实"><title lang="zh">历史片场</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
+  </programme>
+  <programme start="20260531170000 +0800" stop="20260531172000 +0800" channel="金鹰纪实"><title lang="zh">探索</title><desc>最广博的科普栏目。节目涵盖引领人类了解自身生存的宇宙、航天、人文、地理、历史、考古、旅游、冒险、人体、生命、艺术、文化、动物、生物、前沿科技、奇闻奇观等纪录片类节目，为观众解开一片神秘的世界。</desc>
+  </programme>
+  <programme start="20260531172000 +0800" stop="20260531181000 +0800" channel="金鹰纪实"><title lang="zh">寰宇地理</title><desc>金鹰纪实频道引进的美国国家地理频道纪录片栏目，前身为2000年引入中国的《神奇的地球》。节目涵盖科技探索、历史人文、自然生态等领域，设有《缤纷世界》《科技尖端》《风云盛宴》《狂野周末》等固定板块，周一至周日每日不同主题编排。</desc>
+  </programme>
+  <programme start="20260531181000 +0800" stop="20260531185800 +0800" channel="金鹰纪实"><title lang="zh">动物星球</title><desc>金鹰纪实频道引进的美国Discovery动物主题纪录片栏目，聚焦昆虫、猛兽、宠物等动物世界的神奇故事。曾推出《微观猛兽》等系列，展现蚂蚁、蜘蛛、甲虫等微小生物的生存智慧与捕食绝技。</desc>
+  </programme>
+  <programme start="20260531185800 +0800" stop="20260531190000 +0800" channel="金鹰纪实"><title lang="zh">纪实风云</title><desc>《法治进行时》是一档以法治为主题的节目，周末版聚焦庭审纪实。通过真实的庭审过程，向观众展示法律程序和司法实践，普及法律知识，增强法治意识，为观众提供有价值的法治教育。</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193000 +0800" channel="金鹰纪实"><title lang="zh">我的纪录片</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531193000 +0800" stop="20260531200000 +0800" channel="金鹰纪实"><title lang="zh">点赞中国</title><desc>金鹰纪实频道播出的网络正能量精品展播特别节目，围绕成长、记忆、信念、力量、复兴、引领等关键词，集中展示在重大活动、重大主题中积极发声、传递正能量的榜样及作品。</desc>
+  </programme>
+  <programme start="20260531200000 +0800" stop="20260531210000 +0800" channel="金鹰纪实"><title lang="zh">拳行天下</title><desc>1996年香港动作电影，由香港与内地合拍。美国拳手杰森访华参加国际自由搏击大赛，在训练中结识了中国姑娘马丽。香港老板操纵比赛并想借机杀害与马丽关系密切的杰森。最终，杰森在小和尚的帮助下战胜对手，也赢得了马丽的爱情。</desc>
+  </programme>
+  <programme start="20260531210000 +0800" stop="20260531215800 +0800" channel="金鹰纪实"><title lang="zh">天天微纪录</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531215800 +0800" stop="20260531220000 +0800" channel="金鹰纪实"><title lang="zh">纪实风云</title><desc>《法治进行时》是一档以法治为主题的节目，周末版聚焦庭审纪实。通过真实的庭审过程，向观众展示法律程序和司法实践，普及法律知识，增强法治意识，为观众提供有价值的法治教育。</desc>
+  </programme>
+  <programme start="20260531220000 +0800" stop="20260531225000 +0800" channel="金鹰纪实"><title lang="zh">纪实真好看</title><desc>《法治进行时》是一档以法治为主题的节目，周末版聚焦庭审纪实。通过真实的庭审过程，向观众展示法律程序和司法实践，普及法律知识，增强法治意识，为观众提供有价值的法治教育。</desc>
+  </programme>
+  <programme start="20260531225000 +0800" stop="20260531234000 +0800" channel="金鹰纪实"><title lang="zh">历史片场</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
+  </programme>
+  <programme start="20260531234000 +0800" stop="20260601000000 +0800" channel="金鹰纪实"><title lang="zh">拳行天下</title><desc>1996年香港动作电影，由香港与内地合拍。美国拳手杰森访华参加国际自由搏击大赛，在训练中结识了中国姑娘马丽。香港老板操纵比赛并想借机杀害与马丽关系密切的杰森。最终，杰森在小和尚的帮助下战胜对手，也赢得了马丽的爱情。</desc>
+  </programme>
+  <programme start="20260531073200 +0800" stop="20260531075000 +0800" channel="武城综合"><title lang="zh">武城新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531120000 +0800" stop="20260531121600 +0800" channel="武城综合"><title lang="zh">武城新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531000800 +0800" channel="24"><title lang="zh">小巷人家-20</title><desc>《小巷人家》是一部以城市小巷为背景的年代剧，讲述了小巷里几户人家的生活故事和情感纠葛。该剧通过细腻的人物刻画和真实的生活场景，展现了普通市民的生活状态和情感世界，传递了邻里互助、家庭温馨的正能量。</desc>
+  </programme>
+  <programme start="20260531000800 +0800" stop="20260531043000 +0800" channel="24"><title lang="zh">玉鉴文明</title>
+  </programme>
+  <programme start="20260531043000 +0800" stop="20260531050600 +0800" channel="24"><title lang="zh">苍狼-34</title>
+  </programme>
+  <programme start="20260531050600 +0800" stop="20260531055200 +0800" channel="24"><title lang="zh">苍狼-35</title>
+  </programme>
+  <programme start="20260531055200 +0800" stop="20260531063700 +0800" channel="24"><title lang="zh">苍狼-36</title>
+  </programme>
+  <programme start="20260531063700 +0800" stop="20260531065600 +0800" channel="24"><title lang="zh">五洲四海山东人</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531065600 +0800" stop="20260531073300 +0800" channel="24"><title lang="zh">早安山东</title><desc>山东卫视早间新闻资讯栏目，聚焦齐鲁大地的时政要闻、经济动态、民生热点及社会事件，突出地域特色与政策导向，涵盖重大工程建设、乡村振兴实践、文化传承创新、生态文明建设等多元主题，同时网罗昨夜今晨国内外重大新闻，提供天气、出行等综合服务信息，是了解山东经济社会发展的重要窗口。</desc>
+  </programme>
+  <programme start="20260531073300 +0800" stop="20260531080700 +0800" channel="24"><title lang="zh">乐享食光</title><desc>山东卫视生活服务类美食节目，以“寻味齐鲁，乐享食光”为核心理念，每期探访山东各地特色美食与市井烟火，从济南把子肉到胶东海鲜，从鲁菜经典到民间小吃，记录食材从田间到餐桌的旅程。节目注重美食与人文的结合，通过寻味、烹饪、品尝、分享等环节，展现齐鲁饮食文化的深厚底蕴与生活美学，传递“好好吃饭，认真生活”的人生态度。</desc>
+  </programme>
+  <programme start="20260531080700 +0800" stop="20260531094300 +0800" channel="24"><title lang="zh">动画片：霸王龙雷奇第二部28-42</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531094300 +0800" stop="20260531104200 +0800" channel="24"><title lang="zh">大医本草堂</title><desc>山东卫视健康养生互动访谈节目，以“健康生活，科学养生”为内容定位，以“科学、实用、和谐”为原则，汇集全国资深名医专家现场解答健康困惑与养生误区，通过中医之美、养生妙招、膳食厨房三大主题模块，传授简单实用的养生妙方、按摩手法及日常膳食食谱，将健康养生知识用生动活泼的形式传递给观众。</desc>
+  </programme>
+  <programme start="20260531104200 +0800" stop="20260531113000 +0800" channel="24"><title lang="zh">闯关东-39</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260531113000 +0800" stop="20260531121800 +0800" channel="24"><title lang="zh">闯关东-40</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260531121800 +0800" stop="20260531125800 +0800" channel="24"><title lang="zh">闯关东-41</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260531125800 +0800" stop="20260531134300 +0800" channel="24"><title lang="zh">闯关东-42</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260531134300 +0800" stop="20260531143000 +0800" channel="24"><title lang="zh">闯关东-43</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260531143000 +0800" stop="20260531150800 +0800" channel="24"><title lang="zh">闯关东-44</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260531150800 +0800" stop="20260531155700 +0800" channel="24"><title lang="zh">闯关东-45</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260531155700 +0800" stop="20260531164000 +0800" channel="24"><title lang="zh">闯关东-46</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260531164000 +0800" stop="20260531172800 +0800" channel="24"><title lang="zh">闯关东-47</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260531172800 +0800" stop="20260531180600 +0800" channel="24"><title lang="zh">乐享食光</title><desc>山东卫视生活服务类美食节目，以“寻味齐鲁，乐享食光”为核心理念，每期探访山东各地特色美食与市井烟火，从济南把子肉到胶东海鲜，从鲁菜经典到民间小吃，记录食材从田间到餐桌的旅程。节目注重美食与人文的结合，通过寻味、烹饪、品尝、分享等环节，展现齐鲁饮食文化的深厚底蕴与生活美学，传递“好好吃饭，认真生活”的人生态度。</desc>
+  </programme>
+  <programme start="20260531180600 +0800" stop="20260531182100 +0800" channel="24"><title lang="zh">品牌山东</title><desc>山东卫视品牌经济专题栏目，以“洞察品牌风云，传播品牌智慧”为宗旨，聚焦山东本土企业品牌建设与创新发展，通过品牌故事、企业家访谈、行业分析等形式，深入挖掘鲁商精神与品牌文化，展现山东企业在高质量发展进程中的创新实践与责任担当。栏目涵盖传统产业升级、新兴业态培育、老字号焕新、乡村振兴品牌等多元主题，是观察山东经济发展的重要窗口。口号：“树品牌形象，展山东风采。”</desc>
+  </programme>
+  <programme start="20260531182100 +0800" stop="20260531183000 +0800" channel="24"><title lang="zh">齐鲁先锋</title><desc>山东省委组织部与山东广播电视台联合推出的党建电视栏目，聚焦全省党的建设和组织工作，宣传先进基层党组织和优秀共产党员的典型经验，报道各地党建工作的创新实践与成功做法。节目通过典型事迹再现、人物访谈、工作纪实等形式，弘扬“信念坚定、对党忠诚、担当作为、干事创业”的先锋精神，是开展党员教育、传播党建经验的重要阵地。口号：“弘扬先锋精神，凝聚奋进力量。”</desc>
+  </programme>
+  <programme start="20260531183000 +0800" stop="20260531190000 +0800" channel="24"><title lang="zh">山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531193600 +0800" channel="24"><title lang="zh">中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260531193600 +0800" stop="20260531203100 +0800" channel="24"><title lang="zh">太平年-34</title><desc>公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。</desc>
+  </programme>
+  <programme start="20260531203100 +0800" stop="20260531212300 +0800" channel="24"><title lang="zh">太平年-35</title><desc>公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。</desc>
+  </programme>
+  <programme start="20260531212300 +0800" stop="20260531213200 +0800" channel="24"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
+  </programme>
+  <programme start="20260531213200 +0800" stop="20260531214100 +0800" channel="24"><title lang="zh">守护：警惕身边的泄密风险-1</title>
+  </programme>
+  <programme start="20260531214100 +0800" stop="20260531220000 +0800" channel="24"><title lang="zh">纪录片：小小幸福院</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260531220000 +0800" stop="20260531223900 +0800" channel="24"><title lang="zh">山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
+  </programme>
+  <programme start="20260531223900 +0800" stop="20260531232600 +0800" channel="24"><title lang="zh">小巷人家-21</title><desc>《小巷人家》是一部以城市小巷为背景的年代剧，讲述了小巷里几户人家的生活故事和情感纠葛。该剧通过细腻的人物刻画和真实的生活场景，展现了普通市民的生活状态和情感世界，传递了邻里互助、家庭温馨的正能量。</desc>
+  </programme>
+  <programme start="20260531232600 +0800" stop="20260531235959 +0800" channel="24"><title lang="zh">小巷人家-22</title><desc>《小巷人家》是一部以城市小巷为背景的年代剧，讲述了小巷里几户人家的生活故事和情感纠葛。该剧通过细腻的人物刻画和真实的生活场景，展现了普通市民的生活状态和情感世界，传递了邻里互助、家庭温馨的正能量。</desc>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531002234 +0800" channel="25"><title lang="zh">养父如山</title>
+  </programme>
+  <programme start="20260531002234 +0800" stop="20260531010331 +0800" channel="25"><title lang="zh">养父如山</title>
+  </programme>
+  <programme start="20260531010331 +0800" stop="20260531014446 +0800" channel="25"><title lang="zh">养父如山</title>
+  </programme>
+  <programme start="20260531014446 +0800" stop="20260531022601 +0800" channel="25"><title lang="zh">养父如山</title>
+  </programme>
+  <programme start="20260531022601 +0800" stop="20260531030716 +0800" channel="25"><title lang="zh">养父如山</title>
+  </programme>
+  <programme start="20260531030716 +0800" stop="20260531034831 +0800" channel="25"><title lang="zh">养父如山</title>
+  </programme>
+  <programme start="20260531034831 +0800" stop="20260531042946 +0800" channel="25"><title lang="zh">养父如山</title>
+  </programme>
+  <programme start="20260531042946 +0800" stop="20260531051101 +0800" channel="25"><title lang="zh">养父如山</title>
+  </programme>
+  <programme start="20260531051101 +0800" stop="20260531054235 +0800" channel="25"><title lang="zh">养父如山</title>
+  </programme>
+  <programme start="20260531054235 +0800" stop="20260531060040 +0800" channel="25"><title lang="zh">小溪办事</title><desc>山东广播电视台齐鲁频道的公益服务类栏目，2012年1月1日开播，被誉为继《拉呱》之后的又一张“公益名片”。节目以“小溪热心肠，有事我帮忙”为口号，由“小溪特派员”与“小溪别动队”两大版块组成：前者通过纪实跟拍展现曲折的办事过程，后者以短平快的方式快速响应群众诉求。栏目聚焦消费维权、公益寻亲、助农济困等民生难题，同步在抖音、快手等平台开展网络直播，2023年网络直播点赞量超3600万，居省级台主要新闻账号首位，其“团圆行动”系列已帮助众多走失人员与家人团聚。</desc>
+  </programme>
+  <programme start="20260531060040 +0800" stop="20260531061545 +0800" channel="25"><title lang="zh">每日新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531061545 +0800" stop="20260531065700 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531065700 +0800" stop="20260531072605 +0800" channel="25"><title lang="zh">雪豹坚强岁月</title>
+  </programme>
+  <programme start="20260531072605 +0800" stop="20260531080335 +0800" channel="25"><title lang="zh">雪豹坚强岁月</title>
+  </programme>
+  <programme start="20260531080335 +0800" stop="20260531082335 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531082335 +0800" stop="20260531084935 +0800" channel="25"><title lang="zh">雪豹坚强岁月</title>
+  </programme>
+  <programme start="20260531084935 +0800" stop="20260531091500 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531091500 +0800" stop="20260531094700 +0800" channel="25"><title lang="zh">雪豹坚强岁月</title>
+  </programme>
+  <programme start="20260531094700 +0800" stop="20260531102745 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531102745 +0800" stop="20260531104915 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531104915 +0800" stop="20260531111645 +0800" channel="25"><title lang="zh">小溪办事</title><desc>山东广播电视台齐鲁频道的公益服务类栏目，2012年1月1日开播，被誉为继《拉呱》之后的又一张“公益名片”。节目以“小溪热心肠，有事我帮忙”为口号，由“小溪特派员”与“小溪别动队”两大版块组成：前者通过纪实跟拍展现曲折的办事过程，后者以短平快的方式快速响应群众诉求。栏目聚焦消费维权、公益寻亲、助农济困等民生难题，同步在抖音、快手等平台开展网络直播，2023年网络直播点赞量超3600万，居省级台主要新闻账号首位，其“团圆行动”系列已帮助众多走失人员与家人团聚。</desc>
+  </programme>
+  <programme start="20260531111645 +0800" stop="20260531114710 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531114710 +0800" stop="20260531121340 +0800" channel="25"><title lang="zh">法润齐鲁</title>
+  </programme>
+  <programme start="20260531121340 +0800" stop="20260531125340 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531125340 +0800" stop="20260531130650 +0800" channel="25"><title lang="zh">现场直击</title><desc>中央电视台社会与法频道（CCTV-12）庭审纪实栏目，前身为《庭审现场》，2021年更名。每期选取一起典型案件，深入法庭内外全景记录庭审过程，展现控辩双方交锋、法官审理、当事人陈述等真实场景，邀请法学专家同步解析案件背后的法律问题与社会意义。节目以案说法，普及法律知识，彰显司法公正。首播时间：每周六20:07，每期约50分钟。口号：“走进法庭，感受正义。”</desc>
+  </programme>
+  <programme start="20260531130650 +0800" stop="20260531133025 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531133025 +0800" stop="20260531140300 +0800" channel="25"><title lang="zh">战地枪花</title>
+  </programme>
+  <programme start="20260531140300 +0800" stop="20260531142325 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531142325 +0800" stop="20260531144925 +0800" channel="25"><title lang="zh">战地枪花</title>
+  </programme>
+  <programme start="20260531144925 +0800" stop="20260531150950 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531150950 +0800" stop="20260531153550 +0800" channel="25"><title lang="zh">战地枪花</title>
+  </programme>
+  <programme start="20260531153550 +0800" stop="20260531155935 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531155935 +0800" stop="20260531164455 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531164455 +0800" stop="20260531172000 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531172000 +0800" stop="20260531174500 +0800" channel="25"><title lang="zh">山东双拥</title>
+  </programme>
+  <programme start="20260531174500 +0800" stop="20260531181500 +0800" channel="25"><title lang="zh">小溪办事</title><desc>山东广播电视台齐鲁频道的公益服务类栏目，2012年1月1日开播，被誉为继《拉呱》之后的又一张“公益名片”。节目以“小溪热心肠，有事我帮忙”为口号，由“小溪特派员”与“小溪别动队”两大版块组成：前者通过纪实跟拍展现曲折的办事过程，后者以短平快的方式快速响应群众诉求。栏目聚焦消费维权、公益寻亲、助农济困等民生难题，同步在抖音、快手等平台开展网络直播，2023年网络直播点赞量超3600万，居省级台主要新闻账号首位，其“团圆行动”系列已帮助众多走失人员与家人团聚。</desc>
+  </programme>
+  <programme start="20260531181500 +0800" stop="20260531182500 +0800" channel="25"><title lang="zh">现场直击</title><desc>中央电视台社会与法频道（CCTV-12）庭审纪实栏目，前身为《庭审现场》，2021年更名。每期选取一起典型案件，深入法庭内外全景记录庭审过程，展现控辩双方交锋、法官审理、当事人陈述等真实场景，邀请法学专家同步解析案件背后的法律问题与社会意义。节目以案说法，普及法律知识，彰显司法公正。首播时间：每周六20:07，每期约50分钟。口号：“走进法庭，感受正义。”</desc>
+  </programme>
+  <programme start="20260531182500 +0800" stop="20260531190000 +0800" channel="25"><title lang="zh">每日新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531190000 +0800" stop="20260531191025 +0800" channel="25"><title lang="zh">关注</title><desc>《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+  </programme>
+  <programme start="20260531191025 +0800" stop="20260531195950 +0800" channel="25"><title lang="zh">好政策到一线</title><desc>中央电视台社会与法频道（CCTV-12）日播法治深度报道栏目，2011年由《第一线》与《大家看法》合并更名而成。以“聚焦一线，直击现场”为口号，立足法治视角，通过案件直击、现场追踪与专家解读，深入报道法治热点事件，解读相关政策法规。节目涵盖刑事案件侦破、法院工作纪实、生态保护实践、法律援助等多元主题，曾推出《英雄无悔》《逃跑的新娘》《我建议》等系列专题及特别节目。首播时间：每日19:22。</desc>
+  </programme>
+  <programme start="20260531195950 +0800" stop="20260531205615 +0800" channel="25"><title lang="zh">齐鲁英豪</title>
+  </programme>
+  <programme start="20260531205615 +0800" stop="20260531214005 +0800" channel="25"><title lang="zh">齐鲁英豪</title>
+  </programme>
+  <programme start="20260531214005 +0800" stop="20260531221810 +0800" channel="25"><title lang="zh">齐鲁英豪</title>
+  </programme>
+  <programme start="20260531221810 +0800" stop="20260531225905 +0800" channel="25"><title lang="zh">翡翠奇缘</title><desc>大型翡翠文化纪录片，历经六年筹备与拍摄，跨越近十万公里，深入缅甸翡翠矿区及云南、广东等翡翠交易集散地，全景记录翡翠从原石开采到成品加工的全产业链。节目以纪实影像探寻翡翠的历史渊源、地质成因与工艺传承，展现这一东方瑰宝的独特魅力与文化内涵。</desc>
+  </programme>
+  <programme start="20260531225905 +0800" stop="20260531234150 +0800" channel="25"><title lang="zh">养父如山</title>
+  </programme>
+  <programme start="20260531234150 +0800" stop="20260531235959 +0800" channel="25"><title lang="zh">养父如山</title>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531000810 +0800" channel="31"><title lang="zh">健康山东</title>
+  </programme>
+  <programme start="20260531000810 +0800" stop="20260531004810 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  </programme>
+  <programme start="20260531004810 +0800" stop="20260531012310 +0800" channel="31"><title lang="zh">理响中国</title>
+  </programme>
+  <programme start="20260531012310 +0800" stop="20260531013110 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
+  </programme>
+  <programme start="20260531013110 +0800" stop="20260531013610 +0800" channel="31"><title lang="zh">齐鲁先锋</title><desc>山东省委组织部与山东广播电视台联合推出的党建电视栏目，聚焦全省党的建设和组织工作，宣传先进基层党组织和优秀共产党员的典型经验，报道各地党建工作的创新实践与成功做法。节目通过典型事迹再现、人物访谈、工作纪实等形式，弘扬“信念坚定、对党忠诚、担当作为、干事创业”的先锋精神，是开展党员教育、传播党建经验的重要阵地。口号：“弘扬先锋精神，凝聚奋进力量。”</desc>
+  </programme>
+  <programme start="20260531013610 +0800" stop="20260531020010 +0800" channel="31"><title lang="zh">健康山东</title>
+  </programme>
+  <programme start="20260531020010 +0800" stop="20260531024010 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  </programme>
+  <programme start="20260531024010 +0800" stop="20260531031510 +0800" channel="31"><title lang="zh">理响中国</title>
+  </programme>
+  <programme start="20260531031510 +0800" stop="20260531032630 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
+  </programme>
+  <programme start="20260531032630 +0800" stop="20260531040630 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  </programme>
+  <programme start="20260531040630 +0800" stop="20260531041430 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
+  </programme>
+  <programme start="20260531041430 +0800" stop="20260531045430 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  </programme>
+  <programme start="20260531045430 +0800" stop="20260531050230 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
+  </programme>
+  <programme start="20260531050230 +0800" stop="20260531052630 +0800" channel="31"><title lang="zh">健康山东</title>
+  </programme>
+  <programme start="20260531052630 +0800" stop="20260531053000 +0800" channel="31"><title lang="zh">大美齐鲁</title>
+  </programme>
+  <programme start="20260531053000 +0800" stop="20260531055000 +0800" channel="31"><title lang="zh">五洲四海山东人</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531055000 +0800" stop="20260531063000 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  </programme>
+  <programme start="20260531063000 +0800" stop="20260531065600 +0800" channel="31"><title lang="zh">健康山东</title>
+  </programme>
+  <programme start="20260531065600 +0800" stop="20260531073000 +0800" channel="31"><title lang="zh">早安山东</title><desc>山东卫视早间新闻资讯栏目，聚焦齐鲁大地的时政要闻、经济动态、民生热点及社会事件，突出地域特色与政策导向，涵盖重大工程建设、乡村振兴实践、文化传承创新、生态文明建设等多元主题，同时网罗昨夜今晨国内外重大新闻，提供天气、出行等综合服务信息，是了解山东经济社会发展的重要窗口。</desc>
+  </programme>
+  <programme start="20260531073000 +0800" stop="20260531073700 +0800" channel="31"><title lang="zh">众倍康</title>
+  </programme>
+  <programme start="20260531073700 +0800" stop="20260531081100 +0800" channel="31"><title lang="zh">早安山东</title><desc>山东卫视早间新闻资讯栏目，聚焦齐鲁大地的时政要闻、经济动态、民生热点及社会事件，突出地域特色与政策导向，涵盖重大工程建设、乡村振兴实践、文化传承创新、生态文明建设等多元主题，同时网罗昨夜今晨国内外重大新闻，提供天气、出行等综合服务信息，是了解山东经济社会发展的重要窗口。</desc>
+  </programme>
+  <programme start="20260531081100 +0800" stop="20260531083630 +0800" channel="31"><title lang="zh">山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
+  </programme>
+  <programme start="20260531083630 +0800" stop="20260531090430 +0800" channel="31"><title lang="zh">记住乡愁</title><desc>《记住乡愁》由中央宣传部、住房和城乡建设部、国家新闻出版广电总局、国家文物局组织实施，中央电视台组织拍摄。将选取全国100个以上的传统村落进行拍摄，梳理传统村落的发展脉络，聚焦海内外华人记忆中的乡愁，深入挖掘和阐述中华优秀传统文化的时代价值。</desc>
+  </programme>
+  <programme start="20260531090430 +0800" stop="20260531090500 +0800" channel="31"><title lang="zh">纪录中国片头--人物中国</title><desc>《纪录》：严肃的主题，反映长江流域的自然、社会、人物、历史、生活，以专题、记录或文献片的形式展现人文的视点、关怀的精神。《纪录》：最真实的镜头，最动情的笔触，关怀天下苍生，记录人间温情。</desc>
+  </programme>
+  <programme start="20260531090500 +0800" stop="20260531091100 +0800" channel="31"><title lang="zh">光耀齐鲁</title>
+  </programme>
+  <programme start="20260531091100 +0800" stop="20260531091700 +0800" channel="31"><title lang="zh">光耀齐鲁</title>
+  </programme>
+  <programme start="20260531091700 +0800" stop="20260531100000 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  </programme>
+  <programme start="20260531100000 +0800" stop="20260531103200 +0800" channel="31"><title lang="zh">闪电直播间</title>
+  </programme>
+  <programme start="20260531103200 +0800" stop="20260531105600 +0800" channel="31"><title lang="zh">健康山东</title>
+  </programme>
+  <programme start="20260531105600 +0800" stop="20260531110550 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
+  </programme>
+  <programme start="20260531110550 +0800" stop="20260531111310 +0800" channel="31"><title lang="zh">齐鲁先锋</title><desc>山东省委组织部与山东广播电视台联合推出的党建电视栏目，聚焦全省党的建设和组织工作，宣传先进基层党组织和优秀共产党员的典型经验，报道各地党建工作的创新实践与成功做法。节目通过典型事迹再现、人物访谈、工作纪实等形式，弘扬“信念坚定、对党忠诚、担当作为、干事创业”的先锋精神，是开展党员教育、传播党建经验的重要阵地。口号：“弘扬先锋精神，凝聚奋进力量。”</desc>
+  </programme>
+  <programme start="20260531111310 +0800" stop="20260531113000 +0800" channel="31"><title lang="zh">东营新时空</title>
+  </programme>
+  <programme start="20260531113000 +0800" stop="20260531123000 +0800" channel="31"><title lang="zh">新闻午班车</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260531123000 +0800" stop="20260531123230 +0800" channel="31"><title lang="zh">山东省海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
+  </programme>
+  <programme start="20260531123230 +0800" stop="20260531125630 +0800" channel="31"><title lang="zh">走进深蓝</title>
+  </programme>
+  <programme start="20260531125630 +0800" stop="20260531131955 +0800" channel="31"><title lang="zh">大抗战</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531131955 +0800" stop="20260531134435 +0800" channel="31"><title lang="zh">大抗战</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531134435 +0800" stop="20260531135320 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
+  </programme>
+  <programme start="20260531135320 +0800" stop="20260531140825 +0800" channel="31"><title lang="zh">五洲四海山东人</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531140825 +0800" stop="20260531140855 +0800" channel="31"><title lang="zh">纪录中国片头--文化中国</title>
+  </programme>
+  <programme start="20260531140855 +0800" stop="20260531143425 +0800" channel="31"><title lang="zh">纪录片大汶口</title>
+  </programme>
+  <programme start="20260531143425 +0800" stop="20260531150000 +0800" channel="31"><title lang="zh">纪录片大汶口</title>
+  </programme>
+  <programme start="20260531150000 +0800" stop="20260531153120 +0800" channel="31"><title lang="zh">闪电直播间</title>
+  </programme>
+  <programme start="20260531153120 +0800" stop="20260531165125 +0800" channel="31"><title lang="zh">齐鲁最美青年发布仪式</title>
+  </programme>
+  <programme start="20260531165125 +0800" stop="20260531171130 +0800" channel="31"><title lang="zh">五洲四海山东人</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531171130 +0800" stop="20260531171530 +0800" channel="31"><title lang="zh">国宝时刻</title><desc>《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。</desc>
+  </programme>
+  <programme start="20260531171530 +0800" stop="20260531172230 +0800" channel="31"><title lang="zh">时代追梦人</title>
+  </programme>
+  <programme start="20260531172230 +0800" stop="20260531180000 +0800" channel="31"><title lang="zh">理响中国</title>
+  </programme>
+  <programme start="20260531180000 +0800" stop="20260531183000 +0800" channel="31"><title lang="zh">健康山东</title>
+  </programme>
+  <programme start="20260531183000 +0800" stop="20260531185700 +0800" channel="31"><title lang="zh">山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
+  </programme>
+  <programme start="20260531185700 +0800" stop="20260531192500 +0800" channel="31"><title lang="zh">记住乡愁</title><desc>《记住乡愁》由中央宣传部、住房和城乡建设部、国家新闻出版广电总局、国家文物局组织实施，中央电视台组织拍摄。将选取全国100个以上的传统村落进行拍摄，梳理传统村落的发展脉络，聚焦海内外华人记忆中的乡愁，深入挖掘和阐述中华优秀传统文化的时代价值。</desc>
+  </programme>
+  <programme start="20260531192500 +0800" stop="20260531193000 +0800" channel="31"><title lang="zh">关注</title><desc>《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+  </programme>
+  <programme start="20260531193000 +0800" stop="20260531201625 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  </programme>
+  <programme start="20260531201625 +0800" stop="20260531205140 +0800" channel="31"><title lang="zh">理响中国</title>
+  </programme>
+  <programme start="20260531205140 +0800" stop="20260531205730 +0800" channel="31"><title lang="zh">国宝时刻</title><desc>《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。</desc>
+  </programme>
+  <programme start="20260531205730 +0800" stop="20260531210000 +0800" channel="31"><title lang="zh">山东省海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
+  </programme>
+  <programme start="20260531210000 +0800" stop="20260531211200 +0800" channel="31"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
+  </programme>
+  <programme start="20260531211200 +0800" stop="20260531211700 +0800" channel="31"><title lang="zh">齐鲁先锋</title><desc>山东省委组织部与山东广播电视台联合推出的党建电视栏目，聚焦全省党的建设和组织工作，宣传先进基层党组织和优秀共产党员的典型经验，报道各地党建工作的创新实践与成功做法。节目通过典型事迹再现、人物访谈、工作纪实等形式，弘扬“信念坚定、对党忠诚、担当作为、干事创业”的先锋精神，是开展党员教育、传播党建经验的重要阵地。口号：“弘扬先锋精神，凝聚奋进力量。”</desc>
+  </programme>
+  <programme start="20260531211700 +0800" stop="20260531214100 +0800" channel="31"><title lang="zh">品牌山东</title><desc>山东卫视品牌经济专题栏目，以“洞察品牌风云，传播品牌智慧”为宗旨，聚焦山东本土企业品牌建设与创新发展，通过品牌故事、企业家访谈、行业分析等形式，深入挖掘鲁商精神与品牌文化，展现山东企业在高质量发展进程中的创新实践与责任担当。栏目涵盖传统产业升级、新兴业态培育、老字号焕新、乡村振兴品牌等多元主题，是观察山东经济发展的重要窗口。口号：“树品牌形象，展山东风采。”</desc>
+  </programme>
+  <programme start="20260531214100 +0800" stop="20260531220000 +0800" channel="31"><title lang="zh">应急在线</title>
+  </programme>
+  <programme start="20260531220000 +0800" stop="20260531222600 +0800" channel="31"><title lang="zh">山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
+  </programme>
+  <programme start="20260531222600 +0800" stop="20260531224330 +0800" channel="31"><title lang="zh">东营新时空</title>
+  </programme>
+  <programme start="20260531224330 +0800" stop="20260531225200 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
+  </programme>
+  <programme start="20260531225200 +0800" stop="20260531225700 +0800" channel="31"><title lang="zh">齐鲁先锋</title><desc>山东省委组织部与山东广播电视台联合推出的党建电视栏目，聚焦全省党的建设和组织工作，宣传先进基层党组织和优秀共产党员的典型经验，报道各地党建工作的创新实践与成功做法。节目通过典型事迹再现、人物访谈、工作纪实等形式，弘扬“信念坚定、对党忠诚、担当作为、干事创业”的先锋精神，是开展党员教育、传播党建经验的重要阵地。口号：“弘扬先锋精神，凝聚奋进力量。”</desc>
+  </programme>
+  <programme start="20260531225700 +0800" stop="20260531232025 +0800" channel="31"><title lang="zh">大抗战</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531232025 +0800" stop="20260531234415 +0800" channel="31"><title lang="zh">大抗战</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531234415 +0800" stop="20260531235959 +0800" channel="31"><title lang="zh">健康山东</title>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531004700 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531004700 +0800" stop="20260531015200 +0800" channel="28"><title lang="zh">唱响你的歌（梦想版）</title>
+  </programme>
+  <programme start="20260531015200 +0800" stop="20260531030100 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531030100 +0800" stop="20260531040500 +0800" channel="28"><title lang="zh">唱响你的歌（梦想版）</title>
+  </programme>
+  <programme start="20260531040500 +0800" stop="20260531050900 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531050900 +0800" stop="20260531061100 +0800" channel="28"><title lang="zh">唱响你的歌（梦想版）</title>
+  </programme>
+  <programme start="20260531061100 +0800" stop="20260531062200 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531062200 +0800" stop="20260531075700 +0800" channel="28"><title lang="zh">唱响你的歌</title>
+  </programme>
+  <programme start="20260531075700 +0800" stop="20260531083100 +0800" channel="28"><title lang="zh">唱响你的歌（梦想版）</title>
+  </programme>
+  <programme start="20260531083100 +0800" stop="20260531094100 +0800" channel="28"><title lang="zh">中华家庭诗词擂台赛</title>
+  </programme>
+  <programme start="20260531094100 +0800" stop="20260531104100 +0800" channel="28"><title lang="zh">纪录片-后李 1、2</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260531104100 +0800" stop="20260531114400 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531114400 +0800" stop="20260531121900 +0800" channel="28"><title lang="zh">专题节目</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531121900 +0800" stop="20260531130500 +0800" channel="28"><title lang="zh">快乐大赢家</title><desc>游戏大比拼，闯关拿大奖！2019年，增加全新环节—“拼多惠”，与电商营销相结合，打造“电视+电商”新玩法，在直播过程中，观众通过手机团购下单，购买者越多价格越优惠。</desc>
+  </programme>
+  <programme start="20260531130500 +0800" stop="20260531140900 +0800" channel="28"><title lang="zh">唱响你的歌（梦想版）</title>
+  </programme>
+  <programme start="20260531140900 +0800" stop="20260531145600 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531145600 +0800" stop="20260531152500 +0800" channel="28"><title lang="zh">专题节目</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531152500 +0800" stop="20260531162800 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531162800 +0800" stop="20260531165800 +0800" channel="28"><title lang="zh">专题节目</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531165800 +0800" stop="20260531173000 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531173000 +0800" stop="20260531185800 +0800" channel="28"><title lang="zh">唱响你的歌（梦想版）</title>
+  </programme>
+  <programme start="20260531185800 +0800" stop="20260531200500 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531200500 +0800" stop="20260531205700 +0800" channel="28"><title lang="zh">快乐大赢家</title><desc>游戏大比拼，闯关拿大奖！2019年，增加全新环节—“拼多惠”，与电商营销相结合，打造“电视+电商”新玩法，在直播过程中，观众通过手机团购下单，购买者越多价格越优惠。</desc>
+  </programme>
+  <programme start="20260531205700 +0800" stop="20260531211400 +0800" channel="28"><title lang="zh">向快乐出发</title>
+  </programme>
+  <programme start="20260531211400 +0800" stop="20260531214400 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531214400 +0800" stop="20260531222400 +0800" channel="28"><title lang="zh">翡翠奇缘</title><desc>大型翡翠文化纪录片，历经六年筹备与拍摄，跨越近十万公里，深入缅甸翡翠矿区及云南、广东等翡翠交易集散地，全景记录翡翠从原石开采到成品加工的全产业链。节目以纪实影像探寻翡翠的历史渊源、地质成因与工艺传承，展现这一东方瑰宝的独特魅力与文化内涵。</desc>
+  </programme>
+  <programme start="20260531222400 +0800" stop="20260531225600 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531225600 +0800" stop="20260531234300 +0800" channel="28"><title lang="zh">唱响你的歌</title>
+  </programme>
+  <programme start="20260531234300 +0800" stop="20260531235959 +0800" channel="28"><title lang="zh">快乐向前冲</title>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531003500 +0800" channel="26"><title lang="zh">超级赛场精编版</title>
+  </programme>
+  <programme start="20260531003500 +0800" stop="20260531004500 +0800" channel="26"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
+  </programme>
+  <programme start="20260531004500 +0800" stop="20260531021500 +0800" channel="26"><title lang="zh">巅峰赛事</title><desc>国内赛事重点转播中超、CBA,利用CSPN成员台当地体育资源的优势,同时段播出本省球队的比赛。</desc>
+  </programme>
+  <programme start="20260531021500 +0800" stop="20260531025000 +0800" channel="26"><title lang="zh">山东体坛纵览</title>
+  </programme>
+  <programme start="20260531025000 +0800" stop="20260531030000 +0800" channel="26"><title lang="zh">韵动至尚</title>
+  </programme>
+  <programme start="20260531030000 +0800" stop="20260531032500 +0800" channel="26"><title lang="zh">激情岁月</title>
+  </programme>
+  <programme start="20260531032500 +0800" stop="20260531045500 +0800" channel="26"><title lang="zh">超级赛场精编版</title>
+  </programme>
+  <programme start="20260531045500 +0800" stop="20260531050000 +0800" channel="26"><title lang="zh">酷体育</title>
+  </programme>
+  <programme start="20260531050000 +0800" stop="20260531055600 +0800" channel="26"><title lang="zh">联邦大作战</title>
+  </programme>
+  <programme start="20260531055600 +0800" stop="20260531065500 +0800" channel="26"><title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20260531065500 +0800" stop="20260531072500 +0800" channel="26"><title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20260531072500 +0800" stop="20260531075000 +0800" channel="26"><title lang="zh">激情岁月</title>
+  </programme>
+  <programme start="20260531075000 +0800" stop="20260531083000 +0800" channel="26"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531083000 +0800" stop="20260531090000 +0800" channel="26"><title lang="zh">绿茵剧场：兄弟营（30）</title>
+  </programme>
+  <programme start="20260531090000 +0800" stop="20260531094000 +0800" channel="26"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531094000 +0800" stop="20260531101000 +0800" channel="26"><title lang="zh">绿茵剧场：兄弟营（31）</title>
+  </programme>
+  <programme start="20260531101000 +0800" stop="20260531104000 +0800" channel="26"><title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20260531104000 +0800" stop="20260531113000 +0800" channel="26"><title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20260531113000 +0800" stop="20260531120000 +0800" channel="26"><title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20260531120000 +0800" stop="20260531123900 +0800" channel="26"><title lang="zh">山东体坛纵览</title>
+  </programme>
+  <programme start="20260531123900 +0800" stop="20260531125400 +0800" channel="26"><title lang="zh">体育大观</title>
+  </programme>
+  <programme start="20260531125400 +0800" stop="20260531142400 +0800" channel="26"><title lang="zh">超级赛场精编版</title>
+  </programme>
+  <programme start="20260531142400 +0800" stop="20260531145400 +0800" channel="26"><title lang="zh">绿茵剧场：兄弟营（32）</title>
+  </programme>
+  <programme start="20260531145400 +0800" stop="20260531162500 +0800" channel="26"><title lang="zh">巅峰赛事</title><desc>国内赛事重点转播中超、CBA,利用CSPN成员台当地体育资源的优势,同时段播出本省球队的比赛。</desc>
+  </programme>
+  <programme start="20260531162500 +0800" stop="20260531163500 +0800" channel="26"><title lang="zh">好运山东</title>
+  </programme>
+  <programme start="20260531163500 +0800" stop="20260531165000 +0800" channel="26"><title lang="zh">酷体育</title>
+  </programme>
+  <programme start="20260531165000 +0800" stop="20260531170000 +0800" channel="26"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
+  </programme>
+  <programme start="20260531170000 +0800" stop="20260531181000 +0800" channel="26"><title lang="zh">联邦大作战</title>
+  </programme>
+  <programme start="20260531181000 +0800" stop="20260531182000 +0800" channel="26"><title lang="zh">真相百分百</title>
+  </programme>
+  <programme start="20260531182000 +0800" stop="20260531192500 +0800" channel="26"><title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20260531192500 +0800" stop="20260531203500 +0800" channel="26"><title lang="zh">激情冲击播之ONE集锦</title>
+  </programme>
+  <programme start="20260531203500 +0800" stop="20260531212000 +0800" channel="26"><title lang="zh">天天耍大牌</title>
+  </programme>
+  <programme start="20260531212000 +0800" stop="20260531220000 +0800" channel="26"><title lang="zh">翡翠奇缘</title><desc>大型翡翠文化纪录片，历经六年筹备与拍摄，跨越近十万公里，深入缅甸翡翠矿区及云南、广东等翡翠交易集散地，全景记录翡翠从原石开采到成品加工的全产业链。节目以纪实影像探寻翡翠的历史渊源、地质成因与工艺传承，展现这一东方瑰宝的独特魅力与文化内涵。</desc>
+  </programme>
+  <programme start="20260531220000 +0800" stop="20260531221000 +0800" channel="26"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
+  </programme>
+  <programme start="20260531221000 +0800" stop="20260531222000 +0800" channel="26"><title lang="zh">韵动至尚</title>
+  </programme>
+  <programme start="20260531222000 +0800" stop="20260531235000 +0800" channel="26"><title lang="zh">超级赛场精编版</title>
+  </programme>
+  <programme start="20260531235000 +0800" stop="20260531235959 +0800" channel="26"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531001400 +0800" channel="29"><title lang="zh">健康生活帮</title>
+  </programme>
+  <programme start="20260531001400 +0800" stop="20260531004400 +0800" channel="29"><title lang="zh">中国原产递</title>
+  </programme>
+  <programme start="20260531004400 +0800" stop="20260531010400 +0800" channel="29"><title lang="zh">医案</title>
+  </programme>
+  <programme start="20260531010400 +0800" stop="20260531020200 +0800" channel="29"><title lang="zh">好品山东</title>
+  </programme>
+  <programme start="20260531020200 +0800" stop="20260531024400 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260531024400 +0800" stop="20260531031600 +0800" channel="29"><title lang="zh">健康生活帮</title>
+  </programme>
+  <programme start="20260531031600 +0800" stop="20260531034000 +0800" channel="29"><title lang="zh">医案</title>
+  </programme>
+  <programme start="20260531034000 +0800" stop="20260531042200 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260531042200 +0800" stop="20260531045400 +0800" channel="29"><title lang="zh">健康生活帮</title>
+  </programme>
+  <programme start="20260531045400 +0800" stop="20260531051600 +0800" channel="29"><title lang="zh">医案</title>
+  </programme>
+  <programme start="20260531051600 +0800" stop="20260531055700 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260531055700 +0800" stop="20260531062900 +0800" channel="29"><title lang="zh">中国原产递</title>
+  </programme>
+  <programme start="20260531062900 +0800" stop="20260531071000 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260531071000 +0800" stop="20260531075000 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531075000 +0800" stop="20260531082000 +0800" channel="29"><title lang="zh">沉默的荣耀</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260531082000 +0800" stop="20260531084100 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531084100 +0800" stop="20260531090900 +0800" channel="29"><title lang="zh">沉默的荣耀</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260531090900 +0800" stop="20260531093000 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531093000 +0800" stop="20260531100000 +0800" channel="29"><title lang="zh">沉默的荣耀</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260531100000 +0800" stop="20260531102100 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531102100 +0800" stop="20260531104800 +0800" channel="29"><title lang="zh">沉默的荣耀</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260531104800 +0800" stop="20260531110900 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531110900 +0800" stop="20260531114100 +0800" channel="29"><title lang="zh">健康生活帮</title>
+  </programme>
+  <programme start="20260531114100 +0800" stop="20260531115200 +0800" channel="29"><title lang="zh">广视农场</title>
+  </programme>
+  <programme start="20260531115200 +0800" stop="20260531123300 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260531123300 +0800" stop="20260531134200 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531134200 +0800" stop="20260531141100 +0800" channel="29"><title lang="zh">沉默的荣耀</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260531141100 +0800" stop="20260531143100 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531143100 +0800" stop="20260531150000 +0800" channel="29"><title lang="zh">沉默的荣耀</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260531150000 +0800" stop="20260531152100 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531152100 +0800" stop="20260531154900 +0800" channel="29"><title lang="zh">沉默的荣耀</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260531154900 +0800" stop="20260531160900 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531160900 +0800" stop="20260531163800 +0800" channel="29"><title lang="zh">沉默的荣耀</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260531163800 +0800" stop="20260531171200 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531171200 +0800" stop="20260531175500 +0800" channel="29"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260531175500 +0800" stop="20260531191000 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260531191000 +0800" stop="20260531194500 +0800" channel="29"><title lang="zh">健康生活帮</title>
+  </programme>
+  <programme start="20260531194500 +0800" stop="20260531201700 +0800" channel="29"><title lang="zh">名医话健康</title>
+  </programme>
+  <programme start="20260531201700 +0800" stop="20260531212400 +0800" channel="29"><title lang="zh">戏宇宙</title><desc>山东卫视戏曲文化创演节目，以“弘扬戏曲文化，传播中华之美”为宗旨，首创“戏曲+”创演模式，将戏曲艺术与说唱、街舞、摇滚、杂技、微电影等潮流元素跨界融合。节目由创演人通过外景探访戏曲名角与匠人汲取灵感，结合当代艺术进行文艺创作，王珮瑜、张晓龙、郦波等担任戏评人。目前已播出四季：第一季聚焦“家国”“佳人”“绝活”等主题；第二季围绕生旦净丑深入挖掘戏曲人故事；第三季文旅季提出“跟着戏曲去旅行”口号，走进贵州安顺、广东汕头、福建漳州等地，沉浸式探访地方剧种；第四季经典季回归戏曲本体，聚焦《牡丹亭》《白蛇传》等经典IP，以“戏曲+经典解读”形式再现经典。节目获第28届星光奖优秀电视戏曲节目奖。</desc>
+  </programme>
+  <programme start="20260531212400 +0800" stop="20260531215700 +0800" channel="29"><title lang="zh">健康生活帮</title>
+  </programme>
+  <programme start="20260531215700 +0800" stop="20260531224700 +0800" channel="29"><title lang="zh">爱拼才会赢</title>
+  </programme>
+  <programme start="20260531224700 +0800" stop="20260531232800 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260531232800 +0800" stop="20260531235800 +0800" channel="29"><title lang="zh">中国原产递</title>
+  </programme>
+  <programme start="20260531235800 +0800" stop="20260531235959 +0800" channel="29"><title lang="zh">健康生活帮</title>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531054900 +0800" channel="27"><title lang="zh">尼山杏坛</title>
+  </programme>
+  <programme start="20260531054900 +0800" stop="20260531064000 +0800" channel="27"><title lang="zh">玉鉴文明</title>
+  </programme>
+  <programme start="20260531064000 +0800" stop="20260531073200 +0800" channel="27"><title lang="zh">玉鉴文明</title>
+  </programme>
+  <programme start="20260531073200 +0800" stop="20260531081900 +0800" channel="27"><title lang="zh">纪录片：大河之洲</title><desc>《大河之洲》是一部聚焦黄河三角洲的自然生态纪录片。节目以黄河入海口湿地为切入点，记录这片年轻土地上的生命故事，展现候鸟迁徙、湿地生态与人类活动的交织，呈现黄河三角洲独特的自然景观与生态价值。</desc>
+  </programme>
+  <programme start="20260531081900 +0800" stop="20260531090000 +0800" channel="27"><title lang="zh">行进中国</title>
+  </programme>
+  <programme start="20260531090000 +0800" stop="20260531093600 +0800" channel="27"><title lang="zh">光影视界</title><desc>海南卫视纪录片栏目，包含《行者》等品牌节目。以行走和发现为主题，兼具户外探险、人文地理和公益环保内容，推出《搭车去柏林》《一路向南》《谁借我厨房》《为中国找水》等具有影响力的系列纪录片，用个人化视角记录旅途中的景观、美食、历史与人物。</desc>
+  </programme>
+  <programme start="20260531093600 +0800" stop="20260531102100 +0800" channel="27"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531102100 +0800" stop="20260531105800 +0800" channel="27"><title lang="zh">光影视界</title><desc>海南卫视纪录片栏目，包含《行者》等品牌节目。以行走和发现为主题，兼具户外探险、人文地理和公益环保内容，推出《搭车去柏林》《一路向南》《谁借我厨房》《为中国找水》等具有影响力的系列纪录片，用个人化视角记录旅途中的景观、美食、历史与人物。</desc>
+  </programme>
+  <programme start="20260531105800 +0800" stop="20260531113800 +0800" channel="27"><title lang="zh">光影视界</title><desc>海南卫视纪录片栏目，包含《行者》等品牌节目。以行走和发现为主题，兼具户外探险、人文地理和公益环保内容，推出《搭车去柏林》《一路向南》《谁借我厨房》《为中国找水》等具有影响力的系列纪录片，用个人化视角记录旅途中的景观、美食、历史与人物。</desc>
+  </programme>
+  <programme start="20260531113800 +0800" stop="20260531122000 +0800" channel="27"><title lang="zh">行进中国</title>
+  </programme>
+  <programme start="20260531122000 +0800" stop="20260531123200 +0800" channel="27"><title lang="zh">“儒”此有趣</title>
+  </programme>
+  <programme start="20260531123200 +0800" stop="20260531131000 +0800" channel="27"><title lang="zh">文旅网络视听节目展播</title>
+  </programme>
+  <programme start="20260531131000 +0800" stop="20260531134200 +0800" channel="27"><title lang="zh">家有藏宝</title>
+  </programme>
+  <programme start="20260531134200 +0800" stop="20260531143200 +0800" channel="27"><title lang="zh">纪录片：大泰山</title><desc>六集大型纪录片，由山东广播电视台与泰安市委、市政府联合出品。从自然、历史、文化、民俗、哲学、美学等维度对泰山进行多层次解读，分《河山元脉》《若登天然》《登高必自》《与国咸宁》《能成其大》《国泰民安》六集，题目均取自泰山石刻，以当代中国人的故事为切入点，讲述“泰山故事”，表达“中华情感”。</desc>
+  </programme>
+  <programme start="20260531143200 +0800" stop="20260531150300 +0800" channel="27"><title lang="zh">家有藏宝下午版</title>
+  </programme>
+  <programme start="20260531150300 +0800" stop="20260531154400 +0800" channel="27"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531154400 +0800" stop="20260531155400 +0800" channel="27"><title lang="zh">山东文旅报道白天版</title>
+  </programme>
+  <programme start="20260531155400 +0800" stop="20260531160500 +0800" channel="27"><title lang="zh">文旅会客厅</title>
+  </programme>
+  <programme start="20260531160500 +0800" stop="20260531163700 +0800" channel="27"><title lang="zh">纪录片：微山湖</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260531163700 +0800" stop="20260531165000 +0800" channel="27"><title lang="zh">“国宝”时刻</title><desc>《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。</desc>
+  </programme>
+  <programme start="20260531165000 +0800" stop="20260531171700 +0800" channel="27"><title lang="zh">齐鲁青未了</title>
+  </programme>
+  <programme start="20260531171700 +0800" stop="20260531174800 +0800" channel="27"><title lang="zh">齐鲁青未了</title>
+  </programme>
+  <programme start="20260531174800 +0800" stop="20260531181600 +0800" channel="27"><title lang="zh">齐鲁青未了</title>
+  </programme>
+  <programme start="20260531181600 +0800" stop="20260531185000 +0800" channel="27"><title lang="zh">齐鲁青未了</title>
+  </programme>
+  <programme start="20260531185000 +0800" stop="20260531193100 +0800" channel="27"><title lang="zh">文旅网络视听节目展播</title>
+  </programme>
+  <programme start="20260531193100 +0800" stop="20260531195100 +0800" channel="27"><title lang="zh">山东文旅报道</title>
+  </programme>
+  <programme start="20260531195100 +0800" stop="20260531200200 +0800" channel="27"><title lang="zh">福彩情怀</title>
+  </programme>
+  <programme start="20260531200200 +0800" stop="20260531205300 +0800" channel="27"><title lang="zh">家有藏宝</title>
+  </programme>
+  <programme start="20260531205300 +0800" stop="20260531212600 +0800" channel="27"><title lang="zh">家有藏宝</title>
+  </programme>
+  <programme start="20260531212600 +0800" stop="20260531220200 +0800" channel="27"><title lang="zh">超级美味</title>
+  </programme>
+  <programme start="20260531220200 +0800" stop="20260531224600 +0800" channel="27"><title lang="zh">翡翠奇缘</title><desc>大型翡翠文化纪录片，历经六年筹备与拍摄，跨越近十万公里，深入缅甸翡翠矿区及云南、广东等翡翠交易集散地，全景记录翡翠从原石开采到成品加工的全产业链。节目以纪实影像探寻翡翠的历史渊源、地质成因与工艺传承，展现这一东方瑰宝的独特魅力与文化内涵。</desc>
+  </programme>
+  <programme start="20260531224600 +0800" stop="20260531233900 +0800" channel="27"><title lang="zh">玉鉴文明</title>
+  </programme>
+  <programme start="20260531233900 +0800" stop="20260531235959 +0800" channel="27"><title lang="zh">馆长来了</title><desc>山东卫视大型文化综艺节目，以“探寻文明印记，讲述国宝故事”为核心定位，每期邀请全国各大博物馆馆长、文博专家及文化学者齐聚一堂，围绕一件馆藏国宝展开深度对话。节目通过文物展示、专家解读、历史情景再现、科技考古还原等形式，挖掘国宝背后的历史信息、文化内涵与时代价值，让陈列在博物馆里的文物“活”起来，在馆长与专家的思想碰撞中呈现中华文明的博大精深与独特魅力。口号：“馆长来了，国宝活了。”</desc>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531000300 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
+  </programme>
+  <programme start="20260531000300 +0800" stop="20260531003300 +0800" channel="30"><title lang="zh">好品山东</title>
+  </programme>
+  <programme start="20260531003300 +0800" stop="20260531010300 +0800" channel="30"><title lang="zh">中国原产递</title>
+  </programme>
+  <programme start="20260531010300 +0800" stop="20260531011500 +0800" channel="30"><title lang="zh">农产之美</title>
+  </programme>
+  <programme start="20260531011500 +0800" stop="20260531013400 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
+  </programme>
+  <programme start="20260531013400 +0800" stop="20260531021500 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
+  </programme>
+  <programme start="20260531021500 +0800" stop="20260531025300 +0800" channel="30"><title lang="zh">田间示范秀</title>
+  </programme>
+  <programme start="20260531025300 +0800" stop="20260531033400 +0800" channel="30"><title lang="zh">好品山东</title>
+  </programme>
+  <programme start="20260531033400 +0800" stop="20260531040500 +0800" channel="30"><title lang="zh">中国原产递</title>
+  </programme>
+  <programme start="20260531040500 +0800" stop="20260531042000 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
+  </programme>
+  <programme start="20260531042000 +0800" stop="20260531050200 +0800" channel="30"><title lang="zh">中国原产递</title>
+  </programme>
+  <programme start="20260531050200 +0800" stop="20260531053600 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
+  </programme>
+  <programme start="20260531053600 +0800" stop="20260531054300 +0800" channel="30"><title lang="zh">农事气象站</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531054300 +0800" stop="20260531055800 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
+  </programme>
+  <programme start="20260531055800 +0800" stop="20260531062900 +0800" channel="30"><title lang="zh">农广校之窗</title>
+  </programme>
+  <programme start="20260531062900 +0800" stop="20260531071400 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
+  </programme>
+  <programme start="20260531071400 +0800" stop="20260531072000 +0800" channel="30"><title lang="zh">农事气象站</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531072000 +0800" stop="20260531075000 +0800" channel="30"><title lang="zh">中国原产递</title>
+  </programme>
+  <programme start="20260531075000 +0800" stop="20260531085200 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531085200 +0800" stop="20260531093200 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
+  </programme>
+  <programme start="20260531093200 +0800" stop="20260531100000 +0800" channel="30"><title lang="zh">红娘子</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
+  </programme>
+  <programme start="20260531100000 +0800" stop="20260531102200 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531102200 +0800" stop="20260531104900 +0800" channel="30"><title lang="zh">红娘子</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
+  </programme>
+  <programme start="20260531104900 +0800" stop="20260531111300 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531111300 +0800" stop="20260531113800 +0800" channel="30"><title lang="zh">红娘子</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
+  </programme>
+  <programme start="20260531113800 +0800" stop="20260531120000 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531120000 +0800" stop="20260531124000 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
+  </programme>
+  <programme start="20260531124000 +0800" stop="20260531132100 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531132100 +0800" stop="20260531133700 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
+  </programme>
+  <programme start="20260531133700 +0800" stop="20260531135900 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531135900 +0800" stop="20260531143900 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
+  </programme>
+  <programme start="20260531143900 +0800" stop="20260531150100 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531150100 +0800" stop="20260531152800 +0800" channel="30"><title lang="zh">红娘子</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
+  </programme>
+  <programme start="20260531152800 +0800" stop="20260531155300 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531155300 +0800" stop="20260531161800 +0800" channel="30"><title lang="zh">红娘子</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
+  </programme>
+  <programme start="20260531161800 +0800" stop="20260531164200 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531164200 +0800" stop="20260531170800 +0800" channel="30"><title lang="zh">红娘子</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
+  </programme>
+  <programme start="20260531170800 +0800" stop="20260531173700 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531173700 +0800" stop="20260531182100 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
+  </programme>
+  <programme start="20260531182100 +0800" stop="20260531184700 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531184700 +0800" stop="20260531192200 +0800" channel="30"><title lang="zh">生活帮大健康</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260531192200 +0800" stop="20260531193000 +0800" channel="30"><title lang="zh">农事气象站</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531193000 +0800" stop="20260531194600 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
+  </programme>
+  <programme start="20260531194600 +0800" stop="20260531195300 +0800" channel="30"><title lang="zh">农事气象站</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260531195300 +0800" stop="20260531204000 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
+  </programme>
+  <programme start="20260531204000 +0800" stop="20260531211500 +0800" channel="30"><title lang="zh">名医话健康</title>
+  </programme>
+  <programme start="20260531211500 +0800" stop="20260531220000 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260531220000 +0800" stop="20260531221400 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
+  </programme>
+  <programme start="20260531221400 +0800" stop="20260531224400 +0800" channel="30"><title lang="zh">中国原产递</title>
+  </programme>
+  <programme start="20260531224400 +0800" stop="20260531230500 +0800" channel="30"><title lang="zh">农产之美</title>
+  </programme>
+  <programme start="20260531230500 +0800" stop="20260531233100 +0800" channel="30"><title lang="zh">田间示范秀</title>
+  </programme>
+  <programme start="20260531233100 +0800" stop="20260531235959 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
+  </programme>
+  <programme start="20260531000000 +0800" stop="20260531000200 +0800" channel="32"><title lang="zh">动画片：《猪猪侠之超星五灵侠》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531000200 +0800" stop="20260531060000 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者1》</title><desc>《喜羊羊与灰太狼》是一部面向儿童的动画系列片，讲述了喜羊羊和伙伴们与灰太狼斗智斗勇的故事。羊村守护者VIII心世界奇遇第13集继续讲述喜羊羊和伙伴们的冒险历程，通过生动有趣的情节和精美的画面，向孩子们传递友谊、勇气和正能量。</desc>
+  </programme>
+  <programme start="20260531060000 +0800" stop="20260531073100 +0800" channel="32"><title lang="zh">节目：《超级语文课第四季》</title><desc>山东卫视推出的大语文公开课节目，还原经典语文课堂，邀请全国优秀语文教师登台授课，依托国家小初高语文教纲，通过“拿手一课”“组队共研”“同课异构”“最难一课”等环节进行教学展示，由文化学者和学生组成听课团现场互动评选，将情景融合式教学引入电视荧屏，以创意有趣的教学方法刷新对语文课堂的传统认知。</desc>
+  </programme>
+  <programme start="20260531073100 +0800" stop="20260531073700 +0800" channel="32"><title lang="zh">节目：《国宝在山东第二季》</title>
+  </programme>
+  <programme start="20260531073700 +0800" stop="20260531075800 +0800" channel="32"><title lang="zh">节目：《成长没烦恼》</title>
+  </programme>
+  <programme start="20260531075800 +0800" stop="20260531081000 +0800" channel="32"><title lang="zh">节目：《科普总动员》</title>
+  </programme>
+  <programme start="20260531081000 +0800" stop="20260531093000 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者12之古古怪界有古怪》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531093000 +0800" stop="20260531100500 +0800" channel="32"><title lang="zh">动画片：《熊出没》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531100500 +0800" stop="20260531111300 +0800" channel="32"><title lang="zh">节目：《山东省“国学小名士”经典诵读展演活动》</title><desc>山东卫视青少年国学益智节目，以“诵读经典，传承美德”为宗旨，面向全国中小学生选拔国学少年英才。节目采用竞技闯关形式，设置“百里挑一”“巅峰对决”“国学司南”等环节，考察选手的诗词歌赋、文史典籍、传统礼仪等国学素养。节目注重寓教于乐，邀请郦波、蒙曼等文化学者担任评委，以深入浅出的讲解让国学知识“活”起来，激发青少年对中华优秀传统文化的热爱与传承。口号：“国学小名士，风华正少年。”</desc>
+  </programme>
+  <programme start="20260531111300 +0800" stop="20260531120700 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者7遨游神秘洋》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531120700 +0800" stop="20260531121700 +0800" channel="32"><title lang="zh">节目：《国学小名士》精彩片段</title><desc>山东卫视青少年国学益智节目，以“诵读经典，传承美德”为宗旨，面向全国中小学生选拔国学少年英才。节目采用竞技闯关形式，设置“百里挑一”“巅峰对决”“国学司南”等环节，考察选手的诗词歌赋、文史典籍、传统礼仪等国学素养。节目注重寓教于乐，邀请郦波、蒙曼等文化学者担任评委，以深入浅出的讲解让国学知识“活”起来，激发青少年对中华优秀传统文化的热爱与传承。口号：“国学小名士，风华正少年。”</desc>
+  </programme>
+  <programme start="20260531121700 +0800" stop="20260531133400 +0800" channel="32"><title lang="zh">动画片：《熊出没之神奇宝物》</title><desc>《熊出没》系列第14季作品，共52集。神奇宝物意外散落狗熊岭，这些拥有神秘能量的宝物极具危险性和破坏性。为保护森林，熊大、熊二和光头强展开寻宝行动，对抗意图抢夺宝物、修复许愿树恢复青春的反派金豪及其手下大个子、大马猴、二狗。</desc>
+  </programme>
+  <programme start="20260531133400 +0800" stop="20260531142900 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者7遨游神秘洋》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531142900 +0800" stop="20260531143900 +0800" channel="32"><title lang="zh">节目：《国学小名士》精彩片段</title><desc>山东卫视青少年国学益智节目，以“诵读经典，传承美德”为宗旨，面向全国中小学生选拔国学少年英才。节目采用竞技闯关形式，设置“百里挑一”“巅峰对决”“国学司南”等环节，考察选手的诗词歌赋、文史典籍、传统礼仪等国学素养。节目注重寓教于乐，邀请郦波、蒙曼等文化学者担任评委，以深入浅出的讲解让国学知识“活”起来，激发青少年对中华优秀传统文化的热爱与传承。口号：“国学小名士，风华正少年。”</desc>
+  </programme>
+  <programme start="20260531143900 +0800" stop="20260531153800 +0800" channel="32"><title lang="zh">动画片：《熊出没之春日对对碰》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531153800 +0800" stop="20260531154800 +0800" channel="32"><title lang="zh">节目：《国学小名士》精彩片段</title><desc>山东卫视青少年国学益智节目，以“诵读经典，传承美德”为宗旨，面向全国中小学生选拔国学少年英才。节目采用竞技闯关形式，设置“百里挑一”“巅峰对决”“国学司南”等环节，考察选手的诗词歌赋、文史典籍、传统礼仪等国学素养。节目注重寓教于乐，邀请郦波、蒙曼等文化学者担任评委，以深入浅出的讲解让国学知识“活”起来，激发青少年对中华优秀传统文化的热爱与传承。口号：“国学小名士，风华正少年。”</desc>
+  </programme>
+  <programme start="20260531154800 +0800" stop="20260531165500 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者10奇侠大营救》</title><desc>《喜羊羊与灰太狼》是一部面向儿童的动画系列片，讲述了喜羊羊和伙伴们与灰太狼斗智斗勇的故事。羊村守护者VIII心世界奇遇第13集继续讲述喜羊羊和伙伴们的冒险历程，通过生动有趣的情节和精美的画面，向孩子们传递友谊、勇气和正能量。</desc>
+  </programme>
+  <programme start="20260531165500 +0800" stop="20260531175000 +0800" channel="32"><title lang="zh">动画片：《熊熊帮帮团》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531175000 +0800" stop="20260531190300 +0800" channel="32"><title lang="zh">节目：《六一晚会》</title>
+  </programme>
+  <programme start="20260531190300 +0800" stop="20260531193000 +0800" channel="32"><title lang="zh">动画片：《熊熊帮帮团4》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531193000 +0800" stop="20260531195200 +0800" channel="32"><title lang="zh">节目：《我是小记者》</title>
+  </programme>
+  <programme start="20260531195200 +0800" stop="20260531202900 +0800" channel="32"><title lang="zh">动画片：《熊出没之小小世界》</title><desc>《熊出没》系列第14季作品，共52集。神奇宝物意外散落狗熊岭，这些拥有神秘能量的宝物极具危险性和破坏性。为保护森林，熊大、熊二和光头强展开寻宝行动，对抗意图抢夺宝物、修复许愿树恢复青春的反派金豪及其手下大个子、大马猴、二狗。</desc>
+  </programme>
+  <programme start="20260531202900 +0800" stop="20260531204900 +0800" channel="32"><title lang="zh">节目：《成长没烦恼》</title>
+  </programme>
+  <programme start="20260531204900 +0800" stop="20260531212400 +0800" channel="32"><title lang="zh">动画片：《熊出没之小小世界》</title><desc>《熊出没》系列第14季作品，共52集。神奇宝物意外散落狗熊岭，这些拥有神秘能量的宝物极具危险性和破坏性。为保护森林，熊大、熊二和光头强展开寻宝行动，对抗意图抢夺宝物、修复许愿树恢复青春的反派金豪及其手下大个子、大马猴、二狗。</desc>
+  </programme>
+  <programme start="20260531212400 +0800" stop="20260531223800 +0800" channel="32"><title lang="zh">节目：《2025中华家庭诗词擂台赛》</title>
+  </programme>
+  <programme start="20260531223800 +0800" stop="20260531234900 +0800" channel="32"><title lang="zh">动画片：《猪猪侠之超星五灵侠》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260531234900 +0800" stop="20260531235959 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者1》</title><desc>《喜羊羊与灰太狼》是一部面向儿童的动画系列片，讲述了喜羊羊和伙伴们与灰太狼斗智斗勇的故事。羊村守护者VIII心世界奇遇第13集继续讲述喜羊羊和伙伴们的冒险历程，通过生动有趣的情节和精美的画面，向孩子们传递友谊、勇气和正能量。</desc>
   </programme>
 </tv>
