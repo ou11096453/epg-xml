@@ -219,6 +219,8 @@
   </channel>
   <channel id="CCTV女性时尚"><display-name lang="zh">CCTV女性时尚</display-name><display-name lang="zh">CCTV-女性时尚</display-name><display-name lang="zh">女性时尚</display-name>
   </channel>
+  <channel id="环球旅游"><display-name lang="zh">环球旅游</display-name><display-name lang="zh">环球旅游</display-name><display-name lang="zh">CHANNEL00000643</display-name>
+  </channel>
   <channel id="东营公共"><display-name lang="zh">东营公共</display-name><display-name lang="zh">东营公共</display-name><display-name lang="zh">CHANNEL00000227</display-name><display-name lang="zh">东营公共频道</display-name><display-name lang="zh">DYTV-2</display-name>
   </channel>
   <channel id="湖北卫视"><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北</display-name><display-name lang="zh">CHANNEL00000325</display-name>
@@ -14559,5 +14561,97 @@
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
 节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260601000000 +0800" stop="20260601003000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601003000 +0800" stop="20260601010000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601010000 +0800" stop="20260601013000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601013000 +0800" stop="20260601020000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601020000 +0800" stop="20260601023000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601023000 +0800" stop="20260601030000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601030000 +0800" stop="20260601033000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601033000 +0800" stop="20260601040000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601040000 +0800" stop="20260601043000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601043000 +0800" stop="20260601050000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601050000 +0800" stop="20260601053000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601053000 +0800" stop="20260601060000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601060000 +0800" stop="20260601063000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601063000 +0800" stop="20260601070000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601070000 +0800" stop="20260601073000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601073000 +0800" stop="20260601080000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601080000 +0800" stop="20260601083000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601083000 +0800" stop="20260601090000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601090000 +0800" stop="20260601093000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601093000 +0800" stop="20260601100000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601100000 +0800" stop="20260601103000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601103000 +0800" stop="20260601110000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601110000 +0800" stop="20260601113000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601113000 +0800" stop="20260601123000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601123000 +0800" stop="20260601130000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601130000 +0800" stop="20260601133000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601133000 +0800" stop="20260601140000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601140000 +0800" stop="20260601143000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601143000 +0800" stop="20260601150000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601150000 +0800" stop="20260601153000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601153000 +0800" stop="20260601160000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601160000 +0800" stop="20260601163000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601163000 +0800" stop="20260601170000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601170000 +0800" stop="20260601173000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601173000 +0800" stop="20260601180000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601180000 +0800" stop="20260601183000 +0800" channel="环球旅游"><title lang="zh">美丽密码</title>
+  </programme>
+  <programme start="20260601183000 +0800" stop="20260601190000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601190000 +0800" stop="20260601200000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601200000 +0800" stop="20260601203000 +0800" channel="环球旅游"><title lang="zh">美丽密码</title>
+  </programme>
+  <programme start="20260601203000 +0800" stop="20260601210000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601210000 +0800" stop="20260601213000 +0800" channel="环球旅游"><title lang="zh">美丽密码</title>
+  </programme>
+  <programme start="20260601213000 +0800" stop="20260601220000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601220000 +0800" stop="20260601223000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260601223000 +0800" stop="20260601230000 +0800" channel="环球旅游"><title lang="zh">美丽密码</title>
+  </programme>
+  <programme start="20260601230000 +0800" stop="20260601233000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260601233000 +0800" stop="20260602000000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
   </programme>
 </tv>
