@@ -117,6 +117,8 @@
   </channel>
   <channel id="天津影视"><display-name lang="zh">天津影视</display-name><display-name lang="zh">天津影视</display-name>
   </channel>
+  <channel id="快乐垂钓"><display-name lang="zh">快乐垂钓</display-name><display-name lang="zh">快乐垂钓</display-name><display-name lang="zh">CHANNEL00000648</display-name>
+  </channel>
   <channel id="鱼台生活"><display-name lang="zh">鱼台生活</display-name><display-name lang="zh">鱼台生活</display-name><display-name lang="zh">鱼生活</display-name><display-name lang="zh">CHANNEL00001108</display-name>
   </channel>
   <channel id="平度综合"><display-name lang="zh">平度综合</display-name><display-name lang="zh">平度综合</display-name><display-name lang="zh">CHANNEL00001054</display-name>
@@ -344,6 +346,8 @@
   <channel id="CGTN法语"><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CHANNEL00000355</display-name>
   </channel>
   <channel id="CGTN西语"><display-name lang="zh">CGTN西班牙语</display-name><display-name lang="zh">CGTN西班牙语</display-name><display-name lang="zh">CHANNEL00000354</display-name>
+  </channel>
+  <channel id="文物宝库"><display-name lang="zh">文物宝库</display-name><display-name lang="zh">文物宝库</display-name><display-name lang="zh">CHANNEL00000658</display-name>
   </channel>
   <channel id="北京卫视"><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京</display-name><display-name lang="zh">北京卫视-4K</display-name><display-name lang="zh">北京卫视4K</display-name><display-name lang="zh">CHANNEL00000302</display-name>
   </channel>
@@ -14220,5 +14224,143 @@
   <programme start="20260602224800 +0800" stop="20260602231000 +0800" channel="德州生活"><title lang="zh">直播德州</title>
   </programme>
   <programme start="20260602231000 +0800" stop="20260602233600 +0800" channel="德州生活"><title lang="zh">承诺在行动</title>
+  </programme>
+  <programme start="20260602020000 +0800" stop="20260602031000 +0800" channel="快乐垂钓"><title lang="zh">钓鱼赛事</title>
+  </programme>
+  <programme start="20260602031000 +0800" stop="20260602033000 +0800" channel="快乐垂钓"><title lang="zh">钓鱼的人</title>
+  </programme>
+  <programme start="20260602033000 +0800" stop="20260602040000 +0800" channel="快乐垂钓"><title lang="zh">钓趣无境</title>
+  </programme>
+  <programme start="20260602040000 +0800" stop="20260602060000 +0800" channel="快乐垂钓"><title lang="zh">沃行天下</title>
+  </programme>
+  <programme start="20260602060000 +0800" stop="20260602080000 +0800" channel="快乐垂钓"><title lang="zh">寰宇钓客</title>
+  </programme>
+  <programme start="20260602080000 +0800" stop="20260602083000 +0800" channel="快乐垂钓"><title lang="zh">猎手</title>
+  </programme>
+  <programme start="20260602083000 +0800" stop="20260602090000 +0800" channel="快乐垂钓"><title lang="zh">自游去钓</title>
+  </programme>
+  <programme start="20260602090000 +0800" stop="20260602095500 +0800" channel="快乐垂钓"><title lang="zh">钓赛大事件</title>
+  </programme>
+  <programme start="20260602095500 +0800" stop="20260602100000 +0800" channel="快乐垂钓"><title lang="zh">饵目一新</title>
+  </programme>
+  <programme start="20260602100000 +0800" stop="20260602110000 +0800" channel="快乐垂钓"><title lang="zh">沃行天下</title>
+  </programme>
+  <programme start="20260602110000 +0800" stop="20260602120000 +0800" channel="快乐垂钓"><title lang="zh">钓趣无境</title>
+  </programme>
+  <programme start="20260602120000 +0800" stop="20260602123000 +0800" channel="快乐垂钓"><title lang="zh">千寿在线</title>
+  </programme>
+  <programme start="20260602123000 +0800" stop="20260602130000 +0800" channel="快乐垂钓"><title lang="zh">奇域寻鲲</title>
+  </programme>
+  <programme start="20260602130000 +0800" stop="20260602145500 +0800" channel="快乐垂钓"><title lang="zh">钓鱼赛事</title>
+  </programme>
+  <programme start="20260602145500 +0800" stop="20260602150000 +0800" channel="快乐垂钓"><title lang="zh">饵目一新</title>
+  </programme>
+  <programme start="20260602150000 +0800" stop="20260602160000 +0800" channel="快乐垂钓"><title lang="zh">寻找巨物</title>
+  </programme>
+  <programme start="20260602160000 +0800" stop="20260602163000 +0800" channel="快乐垂钓"><title lang="zh">涉钓英雄传</title>
+  </programme>
+  <programme start="20260602163000 +0800" stop="20260602164500 +0800" channel="快乐垂钓"><title lang="zh">钓鱼的人</title>
+  </programme>
+  <programme start="20260602164500 +0800" stop="20260602170000 +0800" channel="快乐垂钓"><title lang="zh">老贾说配件</title>
+  </programme>
+  <programme start="20260602170000 +0800" stop="20260602180000 +0800" channel="快乐垂钓"><title lang="zh">开沃百分百</title>
+  </programme>
+  <programme start="20260602180000 +0800" stop="20260602181500 +0800" channel="快乐垂钓"><title lang="zh">钓具首测</title>
+  </programme>
+  <programme start="20260602181500 +0800" stop="20260602182000 +0800" channel="快乐垂钓"><title lang="zh">金龙心选</title>
+  </programme>
+  <programme start="20260602182000 +0800" stop="20260602183000 +0800" channel="快乐垂钓"><title lang="zh">钓具首测</title>
+  </programme>
+  <programme start="20260602183000 +0800" stop="20260602185300 +0800" channel="快乐垂钓"><title lang="zh">鱼资渔味</title>
+  </programme>
+  <programme start="20260602185300 +0800" stop="20260602190000 +0800" channel="快乐垂钓"><title lang="zh">饵目一新</title>
+  </programme>
+  <programme start="20260602190000 +0800" stop="20260602193000 +0800" channel="快乐垂钓"><title lang="zh">钩尖上的美食</title><desc>快乐垂钓频道推出的自然水域垂钓系列专题片，以“精准用饵”为核心，每期探访一处特色钓场，由垂钓高手实地演示不同鱼情、水情下的饵料搭配与作钓策略。节目将钓鱼技巧与美食文化融合，在记录渔获的同时也呈现当地风物与烹饪之道，体现“鱼与美食皆不可辜负”的垂钓乐趣。</desc>
+  </programme>
+  <programme start="20260602193000 +0800" stop="20260602200000 +0800" channel="快乐垂钓"><title lang="zh">水下观察</title><desc>中央电视台社会与法频道（CCTV-12）道德建设专题栏目，2006年3月开播，是中国唯一一档以“道德”命名的日播节目。以“讲述道德故事，弘扬社会正气”为宗旨，每期讲述一个发生在百姓身边的道德故事，涵盖助人为乐、见义勇为、诚实守信、敬业奉献、孝老爱亲等主题，展现普通人的道德光辉与人性温暖。节目采用纪实拍摄与演播室点评相结合形式，通过平凡人物的不平凡事迹引领社会风尚。首播时间：每日21:30，每期20分钟。口号：“观察社会，启迪人生。”</desc>
+  </programme>
+  <programme start="20260602200000 +0800" stop="20260602203000 +0800" channel="快乐垂钓"><title lang="zh">就这样钓鱼</title><desc>快乐垂钓频道推出的竞技钓鱼教学栏目，以“抛竿问路，技战江湖”为核心理念，聚焦竞技池、黑坑、野钓三大实战场景。每期由资深钓手带队，通过第一视角跟拍与战术复盘，解析鱼情研判、装备选用、饵料搭配及临场应变等实战技巧，将高手过招的精彩瞬间转化为钓友可学的实战经验。</desc>
+  </programme>
+  <programme start="20260602203000 +0800" stop="20260602213000 +0800" channel="快乐垂钓"><title lang="zh">大咖小课</title>
+  </programme>
+  <programme start="20260602213000 +0800" stop="20260602220000 +0800" channel="快乐垂钓"><title lang="zh">猎手</title>
+  </programme>
+  <programme start="20260602220000 +0800" stop="20260602225500 +0800" channel="快乐垂钓"><title lang="zh">Fishing全攻略</title>
+  </programme>
+  <programme start="20260602225500 +0800" stop="20260602230000 +0800" channel="快乐垂钓"><title lang="zh">饵目一新</title>
+  </programme>
+  <programme start="20260602230000 +0800" stop="20260602233000 +0800" channel="快乐垂钓"><title lang="zh">江湖行</title>
+  </programme>
+  <programme start="20260602233000 +0800" stop="20260603000000 +0800" channel="快乐垂钓"><title lang="zh">鱼资渔味</title>
+  </programme>
+  <programme start="20260602000000 +0800" stop="20260602004000 +0800" channel="文物宝库"><title lang="zh">翡翠奇缘</title><desc>大型翡翠文化纪录片，历经六年筹备与拍摄，跨越近十万公里，深入缅甸翡翠矿区及云南、广东等翡翠交易集散地，全景记录翡翠从原石开采到成品加工的全产业链。节目以纪实影像探寻翡翠的历史渊源、地质成因与工艺传承，展现这一东方瑰宝的独特魅力与文化内涵。</desc>
+  </programme>
+  <programme start="20260602004000 +0800" stop="20260602012000 +0800" channel="文物宝库"><title lang="zh">华豫鉴赏</title><desc>河南卫视大型文化鉴宝类综艺节目，2004年开播，以“展现收藏魅力，弘扬传统文化”为宗旨，将文物鉴定、文化解读与综艺形式相结合。每期邀请权威鉴定专家、文化学者与持宝人共同参与，通过藏品展示、专家点评、真伪鉴别等环节，讲述文物背后的历史故事与文化内涵。节目定期推出特别策划，如2022年推出的“寻龙之旅”系列，深入濮阳“龙乡”探寻中华第一龙，解码龙文化的历史渊源。</desc>
+  </programme>
+  <programme start="20260602012000 +0800" stop="20260602020000 +0800" channel="文物宝库"><title lang="zh">博物馆之夜</title><desc>文博探索栏目，每期走进一家博物馆，在夜色中探访馆藏瑰宝，讲述文物背后的历史故事与文明密码。</desc>
+  </programme>
+  <programme start="20260602020000 +0800" stop="20260602024000 +0800" channel="文物宝库"><title lang="zh">华豫之门</title><desc>河南卫视鉴宝类大型文化综艺节目，2004年开播，以常识、趣味、文娱、时尚为构成元素，用游戏文娱的模式展示中原文化，在文化剖析中解读中原，在欢快氛围中让观众了解中原文化。</desc>
+  </programme>
+  <programme start="20260602024000 +0800" stop="20260602031000 +0800" channel="文物宝库"><title lang="zh">考古进行时</title>
+  </programme>
+  <programme start="20260602031000 +0800" stop="20260602034000 +0800" channel="文物宝库"><title lang="zh">文玩讲堂</title><desc>文玩知识科普类节目，由资深文玩专家、京作硬木家具烫蜡非遗传承人于鸿雁等主讲。内容涵盖沉香、翡翠、玉石、檀香、玛瑙、琥珀等各类文玩的材质鉴别、品相评判、历史渊源与收藏价值，系统讲解从入门到进阶的收藏知识，帮助爱好者辨真伪、识优劣、懂文化。</desc>
+  </programme>
+  <programme start="20260602034000 +0800" stop="20260602035000 +0800" channel="文物宝库"><title lang="zh">白话文物</title><desc>文物知识科普栏目，由文物艺术司法鉴定中心主任毛旺东老师主讲，每期聚焦一件文物，以“白话”方式讲述其历史渊源与文化内涵。内容涵盖博物馆镇馆之宝系列、成语系列、重大文化事件中的文物解读等，将专业知识转化为通俗易懂的语言。节目依托博大精深的中华文化，为收藏爱好者与历史文化爱好者提供观赏、学习与交流的平台。</desc>
+  </programme>
+  <programme start="20260602035000 +0800" stop="20260602043000 +0800" channel="文物宝库"><title lang="zh">华豫之门</title><desc>河南卫视鉴宝类大型文化综艺节目，2004年开播，以常识、趣味、文娱、时尚为构成元素，用游戏文娱的模式展示中原文化，在文化剖析中解读中原，在欢快氛围中让观众了解中原文化。</desc>
+  </programme>
+  <programme start="20260602043000 +0800" stop="20260602060000 +0800" channel="文物宝库"><title lang="zh">国家宝藏</title><desc>中央广播电视总台出品的大型文博探索节目，由张国立担任“001号讲解员”，每季联合故宫博物院及上海博物馆、南京博物院、湖北省博物馆等九大国家级重点博物馆，每期聚焦一家博物馆，由明星担任“国宝守护人”，通过“前世传奇”舞台剧与“今生故事”人物访谈相结合的形式，讲述三件镇馆之宝的历史渊源与传承故事，用时尚鲜活的综艺形态激活古老深沉的历史文化资源。节目主题曲《一眼千年》由那英演唱。自2017年首播以来已播出五季（含展演季），获第24届上海电视节“白玉兰奖”最佳季播电视节目奖、第26届电视文艺“星光奖”。</desc>
+  </programme>
+  <programme start="20260602060000 +0800" stop="20260602064000 +0800" channel="文物宝库"><title lang="zh">博物馆之夜</title><desc>文博探索栏目，每期走进一家博物馆，在夜色中探访馆藏瑰宝，讲述文物背后的历史故事与文明密码。</desc>
+  </programme>
+  <programme start="20260602064000 +0800" stop="20260602072000 +0800" channel="文物宝库"><title lang="zh">华豫鉴赏</title><desc>河南卫视大型文化鉴宝类综艺节目，2004年开播，以“展现收藏魅力，弘扬传统文化”为宗旨，将文物鉴定、文化解读与综艺形式相结合。每期邀请权威鉴定专家、文化学者与持宝人共同参与，通过藏品展示、专家点评、真伪鉴别等环节，讲述文物背后的历史故事与文化内涵。节目定期推出特别策划，如2022年推出的“寻龙之旅”系列，深入濮阳“龙乡”探寻中华第一龙，解码龙文化的历史渊源。</desc>
+  </programme>
+  <programme start="20260602072000 +0800" stop="20260602080000 +0800" channel="文物宝库"><title lang="zh">博物馆之夜</title><desc>文博探索栏目，每期走进一家博物馆，在夜色中探访馆藏瑰宝，讲述文物背后的历史故事与文明密码。</desc>
+  </programme>
+  <programme start="20260602080000 +0800" stop="20260602084000 +0800" channel="文物宝库"><title lang="zh">华豫之门</title><desc>河南卫视鉴宝类大型文化综艺节目，2004年开播，以常识、趣味、文娱、时尚为构成元素，用游戏文娱的模式展示中原文化，在文化剖析中解读中原，在欢快氛围中让观众了解中原文化。</desc>
+  </programme>
+  <programme start="20260602084000 +0800" stop="20260602085000 +0800" channel="文物宝库"><title lang="zh">白话文物</title><desc>文物知识科普栏目，由文物艺术司法鉴定中心主任毛旺东老师主讲，每期聚焦一件文物，以“白话”方式讲述其历史渊源与文化内涵。内容涵盖博物馆镇馆之宝系列、成语系列、重大文化事件中的文物解读等，将专业知识转化为通俗易懂的语言。节目依托博大精深的中华文化，为收藏爱好者与历史文化爱好者提供观赏、学习与交流的平台。</desc>
+  </programme>
+  <programme start="20260602085000 +0800" stop="20260602092000 +0800" channel="文物宝库"><title lang="zh">文玩讲堂</title><desc>文玩知识科普类节目，由资深文玩专家、京作硬木家具烫蜡非遗传承人于鸿雁等主讲。内容涵盖沉香、翡翠、玉石、檀香、玛瑙、琥珀等各类文玩的材质鉴别、品相评判、历史渊源与收藏价值，系统讲解从入门到进阶的收藏知识，帮助爱好者辨真伪、识优劣、懂文化。</desc>
+  </programme>
+  <programme start="20260602092000 +0800" stop="20260602095000 +0800" channel="文物宝库"><title lang="zh">考古进行时</title>
+  </programme>
+  <programme start="20260602095000 +0800" stop="20260602103000 +0800" channel="文物宝库"><title lang="zh">华豫之门</title><desc>河南卫视鉴宝类大型文化综艺节目，2004年开播，以常识、趣味、文娱、时尚为构成元素，用游戏文娱的模式展示中原文化，在文化剖析中解读中原，在欢快氛围中让观众了解中原文化。</desc>
+  </programme>
+  <programme start="20260602103000 +0800" stop="20260602124000 +0800" channel="文物宝库"><title lang="zh">国家宝藏</title><desc>中央广播电视总台出品的大型文博探索节目，由张国立担任“001号讲解员”，每季联合故宫博物院及上海博物馆、南京博物院、湖北省博物馆等九大国家级重点博物馆，每期聚焦一家博物馆，由明星担任“国宝守护人”，通过“前世传奇”舞台剧与“今生故事”人物访谈相结合的形式，讲述三件镇馆之宝的历史渊源与传承故事，用时尚鲜活的综艺形态激活古老深沉的历史文化资源。节目主题曲《一眼千年》由那英演唱。自2017年首播以来已播出五季（含展演季），获第24届上海电视节“白玉兰奖”最佳季播电视节目奖、第26届电视文艺“星光奖”。</desc>
+  </programme>
+  <programme start="20260602124000 +0800" stop="20260602132000 +0800" channel="文物宝库"><title lang="zh">华豫鉴赏</title><desc>河南卫视大型文化鉴宝类综艺节目，2004年开播，以“展现收藏魅力，弘扬传统文化”为宗旨，将文物鉴定、文化解读与综艺形式相结合。每期邀请权威鉴定专家、文化学者与持宝人共同参与，通过藏品展示、专家点评、真伪鉴别等环节，讲述文物背后的历史故事与文化内涵。节目定期推出特别策划，如2022年推出的“寻龙之旅”系列，深入濮阳“龙乡”探寻中华第一龙，解码龙文化的历史渊源。</desc>
+  </programme>
+  <programme start="20260602132000 +0800" stop="20260602140000 +0800" channel="文物宝库"><title lang="zh">博物馆之夜</title><desc>文博探索栏目，每期走进一家博物馆，在夜色中探访馆藏瑰宝，讲述文物背后的历史故事与文明密码。</desc>
+  </programme>
+  <programme start="20260602140000 +0800" stop="20260602144000 +0800" channel="文物宝库"><title lang="zh">华豫之门</title><desc>河南卫视鉴宝类大型文化综艺节目，2004年开播，以常识、趣味、文娱、时尚为构成元素，用游戏文娱的模式展示中原文化，在文化剖析中解读中原，在欢快氛围中让观众了解中原文化。</desc>
+  </programme>
+  <programme start="20260602144000 +0800" stop="20260602145000 +0800" channel="文物宝库"><title lang="zh">白话文物</title><desc>文物知识科普栏目，由文物艺术司法鉴定中心主任毛旺东老师主讲，每期聚焦一件文物，以“白话”方式讲述其历史渊源与文化内涵。内容涵盖博物馆镇馆之宝系列、成语系列、重大文化事件中的文物解读等，将专业知识转化为通俗易懂的语言。节目依托博大精深的中华文化，为收藏爱好者与历史文化爱好者提供观赏、学习与交流的平台。</desc>
+  </programme>
+  <programme start="20260602145000 +0800" stop="20260602152000 +0800" channel="文物宝库"><title lang="zh">文玩讲堂</title><desc>文玩知识科普类节目，由资深文玩专家、京作硬木家具烫蜡非遗传承人于鸿雁等主讲。内容涵盖沉香、翡翠、玉石、檀香、玛瑙、琥珀等各类文玩的材质鉴别、品相评判、历史渊源与收藏价值，系统讲解从入门到进阶的收藏知识，帮助爱好者辨真伪、识优劣、懂文化。</desc>
+  </programme>
+  <programme start="20260602152000 +0800" stop="20260602155000 +0800" channel="文物宝库"><title lang="zh">考古进行时</title>
+  </programme>
+  <programme start="20260602155000 +0800" stop="20260602163000 +0800" channel="文物宝库"><title lang="zh">翡翠奇缘</title><desc>大型翡翠文化纪录片，历经六年筹备与拍摄，跨越近十万公里，深入缅甸翡翠矿区及云南、广东等翡翠交易集散地，全景记录翡翠从原石开采到成品加工的全产业链。节目以纪实影像探寻翡翠的历史渊源、地质成因与工艺传承，展现这一东方瑰宝的独特魅力与文化内涵。</desc>
+  </programme>
+  <programme start="20260602163000 +0800" stop="20260602180000 +0800" channel="文物宝库"><title lang="zh">国家宝藏</title><desc>中央广播电视总台出品的大型文博探索节目，由张国立担任“001号讲解员”，每季联合故宫博物院及上海博物馆、南京博物院、湖北省博物馆等九大国家级重点博物馆，每期聚焦一家博物馆，由明星担任“国宝守护人”，通过“前世传奇”舞台剧与“今生故事”人物访谈相结合的形式，讲述三件镇馆之宝的历史渊源与传承故事，用时尚鲜活的综艺形态激活古老深沉的历史文化资源。节目主题曲《一眼千年》由那英演唱。自2017年首播以来已播出五季（含展演季），获第24届上海电视节“白玉兰奖”最佳季播电视节目奖、第26届电视文艺“星光奖”。</desc>
+  </programme>
+  <programme start="20260602180000 +0800" stop="20260602184000 +0800" channel="文物宝库"><title lang="zh">华豫之门</title><desc>河南卫视鉴宝类大型文化综艺节目，2004年开播，以常识、趣味、文娱、时尚为构成元素，用游戏文娱的模式展示中原文化，在文化剖析中解读中原，在欢快氛围中让观众了解中原文化。</desc>
+  </programme>
+  <programme start="20260602184000 +0800" stop="20260602192000 +0800" channel="文物宝库"><title lang="zh">华豫鉴赏</title><desc>河南卫视大型文化鉴宝类综艺节目，2004年开播，以“展现收藏魅力，弘扬传统文化”为宗旨，将文物鉴定、文化解读与综艺形式相结合。每期邀请权威鉴定专家、文化学者与持宝人共同参与，通过藏品展示、专家点评、真伪鉴别等环节，讲述文物背后的历史故事与文化内涵。节目定期推出特别策划，如2022年推出的“寻龙之旅”系列，深入濮阳“龙乡”探寻中华第一龙，解码龙文化的历史渊源。</desc>
+  </programme>
+  <programme start="20260602192000 +0800" stop="20260602200000 +0800" channel="文物宝库"><title lang="zh">博物馆之夜</title><desc>文博探索栏目，每期走进一家博物馆，在夜色中探访馆藏瑰宝，讲述文物背后的历史故事与文明密码。</desc>
+  </programme>
+  <programme start="20260602200000 +0800" stop="20260602204000 +0800" channel="文物宝库"><title lang="zh">翡翠奇缘</title><desc>大型翡翠文化纪录片，历经六年筹备与拍摄，跨越近十万公里，深入缅甸翡翠矿区及云南、广东等翡翠交易集散地，全景记录翡翠从原石开采到成品加工的全产业链。节目以纪实影像探寻翡翠的历史渊源、地质成因与工艺传承，展现这一东方瑰宝的独特魅力与文化内涵。</desc>
+  </programme>
+  <programme start="20260602204000 +0800" stop="20260602211000 +0800" channel="文物宝库"><title lang="zh">考古进行时</title>
+  </programme>
+  <programme start="20260602211000 +0800" stop="20260602214000 +0800" channel="文物宝库"><title lang="zh">文玩讲堂</title><desc>文玩知识科普类节目，由资深文玩专家、京作硬木家具烫蜡非遗传承人于鸿雁等主讲。内容涵盖沉香、翡翠、玉石、檀香、玛瑙、琥珀等各类文玩的材质鉴别、品相评判、历史渊源与收藏价值，系统讲解从入门到进阶的收藏知识，帮助爱好者辨真伪、识优劣、懂文化。</desc>
+  </programme>
+  <programme start="20260602214000 +0800" stop="20260602215000 +0800" channel="文物宝库"><title lang="zh">白话文物</title><desc>文物知识科普栏目，由文物艺术司法鉴定中心主任毛旺东老师主讲，每期聚焦一件文物，以“白话”方式讲述其历史渊源与文化内涵。内容涵盖博物馆镇馆之宝系列、成语系列、重大文化事件中的文物解读等，将专业知识转化为通俗易懂的语言。节目依托博大精深的中华文化，为收藏爱好者与历史文化爱好者提供观赏、学习与交流的平台。</desc>
+  </programme>
+  <programme start="20260602215000 +0800" stop="20260602223000 +0800" channel="文物宝库"><title lang="zh">华豫之门</title><desc>河南卫视鉴宝类大型文化综艺节目，2004年开播，以常识、趣味、文娱、时尚为构成元素，用游戏文娱的模式展示中原文化，在文化剖析中解读中原，在欢快氛围中让观众了解中原文化。</desc>
+  </programme>
+  <programme start="20260602223000 +0800" stop="20260603000000 +0800" channel="文物宝库"><title lang="zh">国家宝藏</title><desc>中央广播电视总台出品的大型文博探索节目，由张国立担任“001号讲解员”，每季联合故宫博物院及上海博物馆、南京博物院、湖北省博物馆等九大国家级重点博物馆，每期聚焦一家博物馆，由明星担任“国宝守护人”，通过“前世传奇”舞台剧与“今生故事”人物访谈相结合的形式，讲述三件镇馆之宝的历史渊源与传承故事，用时尚鲜活的综艺形态激活古老深沉的历史文化资源。节目主题曲《一眼千年》由那英演唱。自2017年首播以来已播出五季（含展演季），获第24届上海电视节“白玉兰奖”最佳季播电视节目奖、第26届电视文艺“星光奖”。</desc>
   </programme>
 </tv>
