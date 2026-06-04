@@ -1,457 +1,457 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
-  <channel id="云南卫视"><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南</display-name><display-name lang="zh">CHANNEL00000367</display-name>
+  <channel id="中国教育1"><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育1</display-name><display-name lang="zh">CHANNEL00000076</display-name><display-name lang="zh">CETV-1</display-name><display-name lang="zh">CETV1</display-name>
   </channel>
   <channel id="东营综合"><display-name lang="zh">东营综合</display-name><display-name lang="zh">东营新闻综合</display-name><display-name lang="zh">东营新闻</display-name><display-name lang="zh">CHANNEL00000226</display-name><display-name lang="zh">东营综合频道</display-name><display-name lang="zh">DYTV-1</display-name>
   </channel>
-  <channel id="鱼台生活"><display-name lang="zh">鱼台生活</display-name><display-name lang="zh">鱼台生活</display-name><display-name lang="zh">鱼生活</display-name><display-name lang="zh">CHANNEL00001108</display-name>
-  </channel>
-  <channel id="山西卫视"><display-name lang="zh">山西卫视</display-name><display-name lang="zh">山西卫视</display-name><display-name lang="zh">山西</display-name><display-name lang="zh">CHANNEL00000032</display-name>
-  </channel>
-  <channel id="天元围棋"><display-name lang="zh">天元围棋</display-name>
-  </channel>
-  <channel id="乐游"><display-name lang="zh">乐游</display-name><display-name lang="zh">乐游</display-name><display-name lang="zh">CHANNEL00002016</display-name>
-  </channel>
-  <channel id="重庆卫视"><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆</display-name><display-name lang="zh">CHANNEL00000341</display-name>
-  </channel>
-  <channel id="日照公共"><display-name lang="zh">日照公共</display-name><display-name lang="zh">日照公共</display-name><display-name lang="zh">CHANNEL00001100</display-name>
-  </channel>
-  <channel id="环球旅游"><display-name lang="zh">环球旅游</display-name><display-name lang="zh">环球旅游</display-name><display-name lang="zh">CHANNEL00000643</display-name>
-  </channel>
-  <channel id="天津新闻"><display-name lang="zh">天津新闻</display-name><display-name lang="zh">天津新闻</display-name>
-  </channel>
-  <channel id="江苏卫视"><display-name lang="zh">江苏卫视</display-name><display-name lang="zh">江苏卫视</display-name><display-name lang="zh">江苏</display-name><display-name lang="zh">江苏卫视-4K</display-name><display-name lang="zh">江苏卫视4K</display-name><display-name lang="zh">CHANNEL00000304</display-name>
-  </channel>
-  <channel id="辽宁卫视"><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁</display-name><display-name lang="zh">CHANNEL00000326</display-name>
-  </channel>
-  <channel id="曲阜综合"><display-name lang="zh">曲阜综合</display-name><display-name lang="zh">曲阜综合</display-name><display-name lang="zh">CHANNEL00001052</display-name>
-  </channel>
-  <channel id="CCTV9"><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV9纪录</display-name><display-name lang="zh">CHANNEL00000319</display-name><display-name lang="zh">CCTV-9</display-name><display-name lang="zh">CCTV-9纪录</display-name><display-name lang="zh">CCTV 9</display-name><display-name lang="zh">CCTV-9 高清</display-name><display-name lang="zh">CCTV9 高清</display-name>
-  </channel>
-  <channel id="CCTV怀旧剧场"><display-name lang="zh">CCTV怀旧剧场</display-name><display-name lang="zh">CCTV-怀旧剧场</display-name><display-name lang="zh">怀旧剧场</display-name>
-  </channel>
-  <channel id="法治天地"><display-name lang="zh">法治天地</display-name><display-name lang="zh">法治天地</display-name><display-name lang="zh">CHANNEL00002010</display-name>
-  </channel>
-  <channel id="潍坊公共"><display-name lang="zh">潍坊公共</display-name><display-name lang="zh">潍坊公共</display-name><display-name lang="zh">CHANNEL00000217</display-name><display-name lang="zh">潍坊公共频道</display-name><display-name lang="zh">WFTV-3</display-name>
-  </channel>
-  <channel id="张店综合"><display-name lang="zh">张店综合</display-name><display-name lang="zh">张店综合</display-name><display-name lang="zh">CHANNEL00001012</display-name>
-  </channel>
-  <channel id="中国教育1"><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育1</display-name><display-name lang="zh">CHANNEL00000076</display-name><display-name lang="zh">CETV-1</display-name><display-name lang="zh">CETV1</display-name>
-  </channel>
-  <channel id="天津卫视"><display-name lang="zh">天津卫视</display-name><display-name lang="zh">天津卫视</display-name><display-name lang="zh">天津</display-name><display-name lang="zh">CHANNEL00000327</display-name>
-  </channel>
-  <channel id="江苏城市"><display-name lang="zh">江苏城市</display-name>
-  </channel>
-  <channel id="济宁综合"><display-name lang="zh">济宁综合</display-name><display-name lang="zh">济宁综合</display-name><display-name lang="zh">CHANNEL00000240</display-name><display-name lang="zh">济宁综合频道</display-name>
-  </channel>
-  <channel id="威海综合"><display-name lang="zh">威海综合</display-name><display-name lang="zh">威海新闻综合</display-name><display-name lang="zh">威海新闻</display-name><display-name lang="zh">CHANNEL00000274</display-name><display-name lang="zh">威海新闻频道</display-name><display-name lang="zh">WHTV-1</display-name>
-  </channel>
-  <channel id="青岛QTV-5"><display-name lang="zh">青岛QTV-5</display-name><display-name lang="zh">青岛QTV-5</display-name><display-name lang="zh">青岛QTV5</display-name><display-name lang="zh">CHANNEL00000505</display-name>
-  </channel>
-  <channel id="CCTV央视台球"><display-name lang="zh">CCTV央视台球</display-name><display-name lang="zh">CCTV-央视台球</display-name><display-name lang="zh">央视台球</display-name>
-  </channel>
-  <channel id="武城综合"><display-name lang="zh">武城综合</display-name><display-name lang="zh">武城综合</display-name><display-name lang="zh">CHANNEL00001059</display-name>
-  </channel>
-  <channel id="河南卫视"><display-name lang="zh">河南卫视</display-name><display-name lang="zh">河南卫视</display-name><display-name lang="zh">河南</display-name><display-name lang="zh">CHANNEL00000358</display-name>
-  </channel>
-  <channel id="莱西综合"><display-name lang="zh">莱西综合</display-name><display-name lang="zh">莱西综合</display-name><display-name lang="zh">CHANNEL00001067</display-name>
-  </channel>
-  <channel id="淄博影视"><display-name lang="zh">淄博影视</display-name><display-name lang="zh">淄博影视</display-name><display-name lang="zh">CHANNEL00001037</display-name><display-name lang="zh">淄博影视频道</display-name>
-  </channel>
-  <channel id="北京卫视"><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京</display-name><display-name lang="zh">北京卫视-4K</display-name><display-name lang="zh">北京卫视4K</display-name><display-name lang="zh">CHANNEL00000302</display-name>
-  </channel>
-  <channel id="CCTV16"><display-name lang="zh">CCTV-16 奥林匹克</display-name><display-name lang="zh">CCTV-16 奥林匹克</display-name><display-name lang="zh">CCTV16 奥林匹克</display-name><display-name lang="zh">CCTV16奥林匹克</display-name><display-name lang="zh">CCTV奥林匹克</display-name><display-name lang="zh">奥林匹克</display-name>
-  </channel>
-  <channel id="沂水生活"><display-name lang="zh">沂水生活</display-name><display-name lang="zh">沂水生活</display-name><display-name lang="zh">CHANNEL00001099</display-name>
-  </channel>
-  <channel id="梨园"><display-name lang="zh">梨园</display-name><display-name lang="zh">梨园</display-name><display-name lang="zh">CHANNEL00000656</display-name><display-name lang="zh">梨园频道</display-name>
-  </channel>
-  <channel id="天津体育"><display-name lang="zh">天津体育</display-name><display-name lang="zh">天津体育</display-name>
-  </channel>
-  <channel id="夏津综合"><display-name lang="zh">夏津综合</display-name><display-name lang="zh">夏津综合</display-name><display-name lang="zh">CHANNEL00001069</display-name>
-  </channel>
-  <channel id="潍坊科教文化"><display-name lang="zh">潍坊科教文化</display-name><display-name lang="zh">潍坊科教文化</display-name><display-name lang="zh">CHANNEL00000218</display-name>
-  </channel>
-  <channel id="莒县综合"><display-name lang="zh">莒县综合</display-name><display-name lang="zh">莒县综合</display-name><display-name lang="zh">CHANNEL00001014</display-name>
-  </channel>
-  <channel id="CHC影迷电影"><display-name lang="zh">CHC影迷电影</display-name><display-name lang="zh">CHC影迷电影</display-name><display-name lang="zh">CHANNEL00002029</display-name>
-  </channel>
-  <channel id="CCTV女性时尚"><display-name lang="zh">CCTV女性时尚</display-name><display-name lang="zh">CCTV-女性时尚</display-name><display-name lang="zh">女性时尚</display-name>
-  </channel>
-  <channel id="CCTV4K"><display-name lang="zh">CCTV-4K 超高清</display-name><display-name lang="zh">CCTV-4K</display-name>
-  </channel>
-  <channel id="早期教育"><display-name lang="zh">早期教育</display-name>
-  </channel>
-  <channel id="央广购物"><display-name lang="zh">央广购物</display-name><display-name lang="zh">央广购物</display-name><display-name lang="zh">CHANNEL00000704</display-name>
-  </channel>
-  <channel id="海洋频道"><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋</display-name><display-name lang="zh">CHANNEL00000662</display-name>
-  </channel>
-  <channel id="CCTV5+"><display-name lang="zh">CCTV-5+ 体育赛事</display-name><display-name lang="zh">CCTV-5+ 体育赛事</display-name><display-name lang="zh">CCTV5体育赛事</display-name><display-name lang="zh">CHANNEL00000316</display-name><display-name lang="zh">CCTV-5+</display-name><display-name lang="zh">CCTV-5+体育赛事</display-name><display-name lang="zh">CCTV5+体育赛事</display-name><display-name lang="zh">CCTV 5+</display-name><display-name lang="zh">CCTV-5+ 高清</display-name><display-name lang="zh">CCTV5+ 高清</display-name>
-  </channel>
-  <channel id="CCTV央视文化精品"><display-name lang="zh">CCTV央视文化精品</display-name><display-name lang="zh">CCTV-央视文化精品</display-name><display-name lang="zh">央视文化精品</display-name><display-name lang="zh">文化精品</display-name>
-  </channel>
-  <channel id="济南都市"><display-name lang="zh">济南都市</display-name><display-name lang="zh">济南都市</display-name><display-name lang="zh">CHANNEL00000062</display-name><display-name lang="zh">济南都市频道</display-name>
-  </channel>
-  <channel id="沾化综合"><display-name lang="zh">沾化综合</display-name><display-name lang="zh">沾化综合</display-name><display-name lang="zh">CHANNEL00001035</display-name>
-  </channel>
-  <channel id="CCTV发现之旅"><display-name lang="zh">CCTV发现之旅</display-name><display-name lang="zh">CCTV-发现之旅</display-name><display-name lang="zh">发现之旅</display-name><display-name lang="zh">央视发现之旅</display-name>
-  </channel>
-  <channel id="CCTV8K"><display-name lang="zh">CCTV-8K 超高清</display-name><display-name lang="zh">CCTV-8K</display-name>
-  </channel>
-  <channel id="长岛综合"><display-name lang="zh">长岛综合</display-name><display-name lang="zh">长岛综合</display-name><display-name lang="zh">CHANNEL00001090</display-name>
-  </channel>
-  <channel id="纪实科教"><display-name lang="zh">纪实科教</display-name><display-name lang="zh">北京纪实科教</display-name><display-name lang="zh">CHANNEL00000332</display-name>
-  </channel>
-  <channel id="河东综合"><display-name lang="zh">河东综合</display-name><display-name lang="zh">河东综合</display-name><display-name lang="zh">CHANNEL00001109</display-name>
-  </channel>
-  <channel id="老故事"><display-name lang="zh">老故事</display-name>
-  </channel>
-  <channel id="济宁高新"><display-name lang="zh">济宁高新</display-name><display-name lang="zh">济宁高新</display-name><display-name lang="zh">CHANNEL00001101</display-name>
-  </channel>
-  <channel id="菏泽-2"><display-name lang="zh">菏泽-2</display-name><display-name lang="zh">菏泽-2</display-name><display-name lang="zh">菏泽2</display-name><display-name lang="zh">CHANNEL00000234</display-name>
-  </channel>
-  <channel id="宁夏卫视"><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏</display-name><display-name lang="zh">CHANNEL00000395</display-name>
-  </channel>
-  <channel id="东方卫视"><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方</display-name><display-name lang="zh">东方卫视-4K</display-name><display-name lang="zh">东方卫视4K</display-name><display-name lang="zh">CHANNEL00000309</display-name>
-  </channel>
-  <channel id="新疆卫视"><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆</display-name><display-name lang="zh">CHANNEL00000393</display-name>
-  </channel>
-  <channel id="生活时尚"><display-name lang="zh">生活时尚</display-name><display-name lang="zh">生活时尚</display-name><display-name lang="zh">CHANNEL00002019</display-name>
-  </channel>
-  <channel id="江西卫视"><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西</display-name><display-name lang="zh">CHANNEL00000335</display-name>
-  </channel>
-  <channel id="湖南卫视"><display-name lang="zh">湖南卫视</display-name><display-name lang="zh">湖南卫视</display-name><display-name lang="zh">湖南</display-name><display-name lang="zh">湖南卫视-4K</display-name><display-name lang="zh">湖南卫视4K</display-name><display-name lang="zh">CHANNEL00000324</display-name>
-  </channel>
-  <channel id="齐河综合"><display-name lang="zh">齐河综合</display-name><display-name lang="zh">齐河综合</display-name><display-name lang="zh">CHANNEL00001056</display-name>
-  </channel>
-  <channel id="招远综合"><display-name lang="zh">招远综合</display-name><display-name lang="zh">招远综合</display-name><display-name lang="zh">CHANNEL00001113</display-name>
-  </channel>
-  <channel id="趯球"><display-name lang="zh">趯球</display-name><display-name lang="zh">趯球频道</display-name>
-  </channel>
-  <channel id="淄博民生"><display-name lang="zh">淄博民生</display-name><display-name lang="zh">淄博民生</display-name><display-name lang="zh">CHANNEL00000294</display-name><display-name lang="zh">淄博民生频道</display-name>
-  </channel>
-  <channel id="昌乐综合"><display-name lang="zh">昌乐综合</display-name><display-name lang="zh">昌乐综合</display-name><display-name lang="zh">CHANNEL00001033</display-name>
-  </channel>
-  <channel id="CCTV14"><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV14少儿</display-name><display-name lang="zh">CHANNEL00000323</display-name><display-name lang="zh">CCTV-14</display-name><display-name lang="zh">CCTV-14少儿</display-name><display-name lang="zh">CCTV 14</display-name><display-name lang="zh">CCTV-14 高清</display-name><display-name lang="zh">CCTV14 高清</display-name>
-  </channel>
-  <channel id="陵城综合"><display-name lang="zh">陵城综合</display-name><display-name lang="zh">陵城综合</display-name><display-name lang="zh">CHANNEL00001082</display-name>
-  </channel>
-  <channel id="CCTV兵器科技"><display-name lang="zh">CCTV兵器科技</display-name><display-name lang="zh">CCTV-兵器科技</display-name><display-name lang="zh">兵器科技</display-name>
-  </channel>
-  <channel id="龙口综合"><display-name lang="zh">龙口综合</display-name><display-name lang="zh">龙口综合</display-name><display-name lang="zh">CHANNEL00001005</display-name>
-  </channel>
-  <channel id="CCTV4"><display-name lang="zh">CCTV-4 中文</display-name><display-name lang="zh">CCTV-4 中文</display-name><display-name lang="zh">CCTV4中文</display-name><display-name lang="zh">CHANNEL00000320</display-name><display-name lang="zh">CCTV-4</display-name><display-name lang="zh">CCTV-4中文国际</display-name><display-name lang="zh">CCTV-4 中文国际</display-name><display-name lang="zh">CCTV4中文国际</display-name><display-name lang="zh">CCTV 4</display-name><display-name lang="zh">CCTV-4 高清</display-name><display-name lang="zh">CCTV4 高清</display-name>
-  </channel>
-  <channel id="CCTV电视指南"><display-name lang="zh">CCTV电视指南</display-name><display-name lang="zh">CCTV-电视指南</display-name><display-name lang="zh">电视指南</display-name>
-  </channel>
-  <channel id="CCTV4美洲"><display-name lang="zh">CCTV-4 美洲</display-name><display-name lang="zh">CCTV-4 美洲</display-name><display-name lang="zh">CCTV4美洲</display-name><display-name lang="zh">CHANNEL00000351</display-name><display-name lang="zh">CCTV-4美洲</display-name>
-  </channel>
-  <channel id="广东卫视"><display-name lang="zh">广东卫视</display-name><display-name lang="zh">广东卫视</display-name><display-name lang="zh">广东</display-name><display-name lang="zh">广东卫视-4K</display-name><display-name lang="zh">广东卫视4K</display-name><display-name lang="zh">CHANNEL00000307</display-name>
-  </channel>
-  <channel id="CCTV12"><display-name lang="zh">CCTV-12 社会与法</display-name><display-name lang="zh">CCTV-12 社会与法</display-name><display-name lang="zh">CCTV12社会与法</display-name><display-name lang="zh">CHANNEL00000322</display-name><display-name lang="zh">CCTV-12</display-name><display-name lang="zh">CCTV-12社会与法</display-name><display-name lang="zh">CCTV 12</display-name><display-name lang="zh">CCTV-12 高清</display-name><display-name lang="zh">CCTV12 高清</display-name>
-  </channel>
-  <channel id="邹城综合"><display-name lang="zh">邹城综合</display-name><display-name lang="zh">邹城综合</display-name><display-name lang="zh">CHANNEL00001038</display-name>
-  </channel>
-  <channel id="优漫卡通"><display-name lang="zh">优漫卡通</display-name><display-name lang="zh">优漫卡通</display-name><display-name lang="zh">CHANNEL00000049</display-name>
-  </channel>
-  <channel id="优购物"><display-name lang="zh">优购物</display-name>
-  </channel>
-  <channel id="崂山综合"><display-name lang="zh">崂山综合</display-name><display-name lang="zh">崂山综合</display-name><display-name lang="zh">CHANNEL00001022</display-name>
-  </channel>
-  <channel id="CCTV11"><display-name lang="zh">CCTV-11 戏曲</display-name><display-name lang="zh">CCTV-11 戏曲</display-name><display-name lang="zh">CCTV11戏曲</display-name><display-name lang="zh">CHANNEL00000344</display-name><display-name lang="zh">CCTV-11</display-name><display-name lang="zh">CCTV-11戏曲</display-name><display-name lang="zh">CCTV 11</display-name><display-name lang="zh">CCTV-11 高清</display-name><display-name lang="zh">CCTV11 高清</display-name>
-  </channel>
-  <channel id="国学"><display-name lang="zh">国学</display-name><display-name lang="zh">国学频道</display-name>
-  </channel>
-  <channel id="金鹰纪实"><display-name lang="zh">金鹰纪实</display-name><display-name lang="zh">金鹰纪实</display-name><display-name lang="zh">CHANNEL00000334</display-name>
-  </channel>
   <channel id="五莲综合"><display-name lang="zh">五莲综合</display-name><display-name lang="zh">五莲新闻</display-name><display-name lang="zh">5莲新闻</display-name><display-name lang="zh">CHANNEL00001068</display-name>
-  </channel>
-  <channel id="泰山综合"><display-name lang="zh">泰山综合</display-name><display-name lang="zh">泰山综合</display-name><display-name lang="zh">CHANNEL00001114</display-name>
-  </channel>
-  <channel id="安徽卫视"><display-name lang="zh">安徽卫视</display-name><display-name lang="zh">安徽卫视</display-name><display-name lang="zh">安徽</display-name><display-name lang="zh">CHANNEL00000328</display-name>
-  </channel>
-  <channel id="定陶综合"><display-name lang="zh">定陶综合</display-name><display-name lang="zh">定陶综合</display-name><display-name lang="zh">CHANNEL00001063</display-name>
-  </channel>
-  <channel id="菏泽-1"><display-name lang="zh">菏泽-1</display-name><display-name lang="zh">菏泽-1</display-name><display-name lang="zh">菏泽1</display-name><display-name lang="zh">CHANNEL00000232</display-name>
-  </channel>
-  <channel id="西藏卫视"><display-name lang="zh">西藏卫视</display-name><display-name lang="zh">西藏卫视</display-name><display-name lang="zh">西藏</display-name><display-name lang="zh">CHANNEL00000392</display-name>
-  </channel>
-  <channel id="淄博综合"><display-name lang="zh">淄博综合</display-name><display-name lang="zh">淄博新闻综合</display-name><display-name lang="zh">淄博新闻</display-name><display-name lang="zh">CHANNEL00000292</display-name>
-  </channel>
-  <channel id="深圳卫视"><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳</display-name><display-name lang="zh">深圳卫视-4K</display-name><display-name lang="zh">深圳卫视4K</display-name><display-name lang="zh">CHANNEL00000308</display-name>
-  </channel>
-  <channel id="CGTN纪录"><display-name lang="zh">CGTN英文纪录</display-name><display-name lang="zh">CGTN英文纪录</display-name><display-name lang="zh">CHANNEL00000353</display-name>
-  </channel>
-  <channel id="厦门卫视"><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门</display-name><display-name lang="zh">CHANNEL00000075</display-name>
-  </channel>
-  <channel id="兵团卫视"><display-name lang="zh">兵团卫视</display-name><display-name lang="zh">兵团卫视</display-name><display-name lang="zh">兵团</display-name><display-name lang="zh">CHANNEL00000394</display-name>
-  </channel>
-  <channel id="文物宝库"><display-name lang="zh">文物宝库</display-name><display-name lang="zh">文物宝库</display-name><display-name lang="zh">CHANNEL00000658</display-name>
-  </channel>
-  <channel id="青岛QTV-4"><display-name lang="zh">青岛QTV-4</display-name><display-name lang="zh">青岛QTV-4</display-name><display-name lang="zh">青岛QTV4</display-name><display-name lang="zh">CHANNEL00000503</display-name>
-  </channel>
-  <channel id="山东教育"><display-name lang="zh">山东教育卫视</display-name><display-name lang="zh">山东教育卫视</display-name><display-name lang="zh">山东教育</display-name><display-name lang="zh">CHANNEL00000331</display-name>
-  </channel>
-  <channel id="青岛QTV-3"><display-name lang="zh">青岛QTV-3</display-name><display-name lang="zh">青岛QTV-3</display-name><display-name lang="zh">青岛QTV3</display-name><display-name lang="zh">CHANNEL00000502</display-name>
-  </channel>
-  <channel id="重温经典影视"><display-name lang="zh">重温经典影视</display-name><display-name lang="zh">重温经典影视</display-name><display-name lang="zh">山东重温经典影视</display-name><display-name lang="zh">山东重温经典</display-name><display-name lang="zh">重温经典</display-name><display-name lang="zh">海看重温经典</display-name>
-  </channel>
-  <channel id="优优宝贝"><display-name lang="zh">优优宝贝</display-name><display-name lang="zh">优优宝贝</display-name><display-name lang="zh">CHANNEL00000641</display-name>
-  </channel>
-  <channel id="济宁生活"><display-name lang="zh">济宁生活</display-name><display-name lang="zh">济宁生活</display-name><display-name lang="zh">CHANNEL00000239</display-name><display-name lang="zh">济宁生活频道</display-name>
-  </channel>
-  <channel id="生态环境"><display-name lang="zh">生态环境</display-name><display-name lang="zh">生态环境</display-name><display-name lang="zh">CHANNEL00000671</display-name><display-name lang="zh">CETV-生态环境</display-name><display-name lang="zh">CETV</display-name><display-name lang="zh">CETV生态环境</display-name><display-name lang="zh">生态环境频道</display-name>
-  </channel>
-  <channel id="中国教育4"><display-name lang="zh">中国教育-4</display-name><display-name lang="zh">中国教育-4</display-name><display-name lang="zh">中国教育4</display-name><display-name lang="zh">CHANNEL00000666</display-name><display-name lang="zh">CETV-4</display-name><display-name lang="zh">CETV4</display-name>
-  </channel>
-  <channel id="南京综合"><display-name lang="zh">南京综合</display-name><display-name lang="zh">南京综合频道</display-name><display-name lang="zh">南京新闻综合</display-name><display-name lang="zh">南京新闻</display-name>
-  </channel>
-  <channel id="贵州卫视"><display-name lang="zh">贵州卫视</display-name><display-name lang="zh">贵州卫视</display-name><display-name lang="zh">贵州</display-name><display-name lang="zh">CHANNEL00000329</display-name>
-  </channel>
-  <channel id="禹城综合"><display-name lang="zh">禹城综合</display-name><display-name lang="zh">禹城综合</display-name><display-name lang="zh">CHANNEL00001061</display-name>
-  </channel>
-  <channel id="CGTN阿语"><display-name lang="zh">CGTN阿拉伯语</display-name><display-name lang="zh">CGTN阿拉伯语</display-name><display-name lang="zh">CHANNEL00000356</display-name>
-  </channel>
-  <channel id="临清综合"><display-name lang="zh">临清综合</display-name><display-name lang="zh">临清综合</display-name><display-name lang="zh">CHANNEL00001103</display-name>
-  </channel>
-  <channel id="CCTV2"><display-name lang="zh">CCTV-2 财经</display-name><display-name lang="zh">CCTV-2 财经</display-name><display-name lang="zh">CCTV2财经</display-name><display-name lang="zh">CHANNEL00000317</display-name><display-name lang="zh">CCTV-2</display-name><display-name lang="zh">CCTV-2财经</display-name><display-name lang="zh">CCTV 2</display-name><display-name lang="zh">CCTV-2 高清</display-name><display-name lang="zh">CCTV2 高清</display-name>
-  </channel>
-  <channel id="CCTV高尔夫网球"><display-name lang="zh">CCTV高尔夫网球</display-name><display-name lang="zh">CCTV-高尔夫网球</display-name><display-name lang="zh">高尔夫网球</display-name>
-  </channel>
-  <channel id="商河综合"><display-name lang="zh">商河综合</display-name><display-name lang="zh">商河综合</display-name><display-name lang="zh">CHANNEL00001008</display-name>
-  </channel>
-  <channel id="CCTV10"><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV10科教</display-name><display-name lang="zh">CHANNEL00000321</display-name><display-name lang="zh">CCTV-10</display-name><display-name lang="zh">CCTV-10科教</display-name><display-name lang="zh">CCTV 10</display-name><display-name lang="zh">CCTV-10 高清</display-name><display-name lang="zh">CCTV10 高清</display-name>
-  </channel>
-  <channel id="黄岛生活"><display-name lang="zh">黄岛生活</display-name><display-name lang="zh">黄岛生活</display-name><display-name lang="zh">CHANNEL00001087</display-name>
-  </channel>
-  <channel id="武术世界"><display-name lang="zh">武术世界</display-name><display-name lang="zh">武术世界</display-name><display-name lang="zh">CHANNEL00000657</display-name>
-  </channel>
-  <channel id="济南少儿"><display-name lang="zh">济南少儿</display-name><display-name lang="zh">济南少儿</display-name><display-name lang="zh">CHANNEL00000067</display-name><display-name lang="zh">济南少儿频道</display-name>
-  </channel>
-  <channel id="烟台公共"><display-name lang="zh">烟台公共</display-name><display-name lang="zh">烟台公共</display-name><display-name lang="zh">烟公共</display-name><display-name lang="zh">CHANNEL00000281</display-name><display-name lang="zh">烟台公共频道</display-name>
-  </channel>
-  <channel id="济南生活"><display-name lang="zh">济南生活</display-name><display-name lang="zh">济南生活</display-name><display-name lang="zh">CHANNEL00000063</display-name><display-name lang="zh">济南生活频道</display-name>
-  </channel>
-  <channel id="居家购物"><display-name lang="zh">居家购物</display-name><display-name lang="zh">居家购物</display-name><display-name lang="zh">CHANNEL00000700</display-name>
-  </channel>
-  <channel id="天津教育"><display-name lang="zh">天津教育</display-name><display-name lang="zh">天津教育</display-name>
-  </channel>
-  <channel id="济宁公共"><display-name lang="zh">济宁公共</display-name><display-name lang="zh">济宁公共</display-name><display-name lang="zh">CHANNEL00000241</display-name><display-name lang="zh">济宁公共频道</display-name>
-  </channel>
-  <channel id="吉林卫视"><display-name lang="zh">吉林卫视</display-name><display-name lang="zh">吉林卫视</display-name><display-name lang="zh">吉林</display-name><display-name lang="zh">CHANNEL00000363</display-name>
-  </channel>
-  <channel id="历城综合"><display-name lang="zh">历城综合</display-name><display-name lang="zh">历城综合</display-name><display-name lang="zh">CHANNEL00001105</display-name>
-  </channel>
-  <channel id="甘肃卫视"><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃</display-name><display-name lang="zh">CHANNEL00000349</display-name>
-  </channel>
-  <channel id="三沙卫视"><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">3沙卫视</display-name><display-name lang="zh">三沙</display-name><display-name lang="zh">CHANNEL00000078</display-name>
-  </channel>
-  <channel id="青岛QTV-2"><display-name lang="zh">青岛QTV-2</display-name><display-name lang="zh">青岛QTV-2</display-name><display-name lang="zh">青岛QTV2</display-name><display-name lang="zh">CHANNEL00000501</display-name>
-  </channel>
-  <channel id="CCTV风云音乐"><display-name lang="zh">CCTV风云音乐</display-name><display-name lang="zh">CCTV-风云音乐</display-name><display-name lang="zh">风云音乐</display-name>
-  </channel>
-  <channel id="青岛QTV-1"><display-name lang="zh">青岛QTV-1</display-name><display-name lang="zh">青岛QTV-1</display-name><display-name lang="zh">青岛QTV1</display-name><display-name lang="zh">CHANNEL00000500</display-name>
-  </channel>
-  <channel id="济南综合"><display-name lang="zh">济南综合</display-name><display-name lang="zh">济南新闻综合</display-name><display-name lang="zh">CHANNEL00000312</display-name><display-name lang="zh">济南新闻</display-name>
   </channel>
   <channel id="东方财经"><display-name lang="zh">东方财经</display-name><display-name lang="zh">东方财经</display-name><display-name lang="zh">CHANNEL00002025</display-name>
   </channel>
-  <channel id="多彩文体"><display-name lang="zh">多彩文体</display-name><display-name lang="zh">多彩文体</display-name><display-name lang="zh">多彩文体4K</display-name>
+  <channel id="天津购物"><display-name lang="zh">天津购物</display-name><display-name lang="zh">天津购物</display-name>
   </channel>
-  <channel id="江苏新闻"><display-name lang="zh">江苏新闻</display-name>
-  </channel>
-  <channel id="苏州综合"><display-name lang="zh">苏州综合</display-name><display-name lang="zh">苏州新闻</display-name><display-name lang="zh">苏州新闻综合</display-name>
-  </channel>
-  <channel id="平度综合"><display-name lang="zh">平度综合</display-name><display-name lang="zh">平度综合</display-name><display-name lang="zh">CHANNEL00001054</display-name>
-  </channel>
-  <channel id="聚鲨环球精选"><display-name lang="zh">聚鲨环球精选</display-name><display-name lang="zh">环球精选</display-name>
-  </channel>
-  <channel id="CCTV15"><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV15音乐</display-name><display-name lang="zh">CHANNEL00000346</display-name><display-name lang="zh">CCTV-15</display-name><display-name lang="zh">CCTV-15音乐</display-name><display-name lang="zh">CCTV 15</display-name><display-name lang="zh">CCTV-15 高清</display-name><display-name lang="zh">CCTV15 高清</display-name>
-  </channel>
-  <channel id="求索纪录"><display-name lang="zh">求索纪录</display-name><display-name lang="zh">求索纪录</display-name><display-name lang="zh">CHANNEL00000667</display-name>
-  </channel>
-  <channel id="CCTV4欧洲"><display-name lang="zh">CCTV-4 欧洲</display-name><display-name lang="zh">CCTV-4 欧洲</display-name><display-name lang="zh">CCTV4欧洲</display-name><display-name lang="zh">CHANNEL00000350</display-name><display-name lang="zh">CCTV-4欧洲</display-name>
-  </channel>
-  <channel id="黑龙江卫视"><display-name lang="zh">黑龙江卫视</display-name><display-name lang="zh">黑龙江卫视</display-name><display-name lang="zh">黑龙江</display-name><display-name lang="zh">CHANNEL00000306</display-name>
-  </channel>
-  <channel id="天津文艺"><display-name lang="zh">天津文艺</display-name><display-name lang="zh">天津文艺</display-name>
-  </channel>
-  <channel id="潍坊经济生活"><display-name lang="zh">潍坊经济生活</display-name><display-name lang="zh">潍坊经济生活</display-name><display-name lang="zh">CHANNEL00000216</display-name>
-  </channel>
-  <channel id="精彩影视"><display-name lang="zh">精彩影视</display-name><display-name lang="zh">精彩影视</display-name><display-name lang="zh">CHANNEL00002012</display-name>
-  </channel>
-  <channel id="汽摩"><display-name lang="zh">汽摩</display-name><display-name lang="zh">汽摩</display-name><display-name lang="zh">CHANNEL00000711</display-name><display-name lang="zh">汽摩频道</display-name>
-  </channel>
-  <channel id="CCTV13"><display-name lang="zh">CCTV-13 新闻</display-name><display-name lang="zh">CCTV-13 新闻</display-name><display-name lang="zh">CCTV13新闻</display-name><display-name lang="zh">CHANNEL00000345</display-name><display-name lang="zh">CCTV-13</display-name><display-name lang="zh">CCTV-13新闻</display-name><display-name lang="zh">CCTV 13</display-name><display-name lang="zh">CCTV-13 高清</display-name><display-name lang="zh">CCTV13 高清</display-name>
-  </channel>
-  <channel id="CCTV6"><display-name lang="zh">CCTV-6 电影</display-name><display-name lang="zh">CCTV-6 电影</display-name><display-name lang="zh">CCTV6电影</display-name><display-name lang="zh">CHANNEL00000361</display-name><display-name lang="zh">CCTV-6</display-name><display-name lang="zh">CCTV-6电影</display-name><display-name lang="zh">CCTV 6</display-name><display-name lang="zh">CCTV-6 高清</display-name><display-name lang="zh">CCTV6 高清</display-name>
-  </channel>
-  <channel id="聊城民生"><display-name lang="zh">聊城民生</display-name><display-name lang="zh">聊城民生</display-name><display-name lang="zh">CHANNEL00000251</display-name>
-  </channel>
-  <channel id="江苏综艺"><display-name lang="zh">江苏综艺</display-name>
-  </channel>
-  <channel id="环球奇观"><display-name lang="zh">环球奇观</display-name>
-  </channel>
-  <channel id="CHC家庭影院"><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHANNEL00002028</display-name>
-  </channel>
-  <channel id="卡酷少儿"><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">CHANNEL00000661</display-name><display-name lang="zh">北京卡酷少儿</display-name>
-  </channel>
-  <channel id="东营公共"><display-name lang="zh">东营公共</display-name><display-name lang="zh">东营公共</display-name><display-name lang="zh">CHANNEL00000227</display-name><display-name lang="zh">东营公共频道</display-name><display-name lang="zh">DYTV-2</display-name>
-  </channel>
-  <channel id="济南体育"><display-name lang="zh">济南文旅体育</display-name><display-name lang="zh">济南文旅体育</display-name><display-name lang="zh">CHANNEL00000064</display-name>
-  </channel>
-  <channel id="江苏国际"><display-name lang="zh">江苏国际</display-name>
-  </channel>
-  <channel id="南通公共"><display-name lang="zh">南通公共</display-name><display-name lang="zh">南通三套</display-name><display-name lang="zh">南通公共频道</display-name>
-  </channel>
-  <channel id="CGTN俄语"><display-name lang="zh">CGTN俄语</display-name><display-name lang="zh">CGTN俄语</display-name><display-name lang="zh">CHANNEL00000357</display-name>
-  </channel>
-  <channel id="乳山综合"><display-name lang="zh">乳山综合</display-name><display-name lang="zh">乳山综合</display-name><display-name lang="zh">CHANNEL00001049</display-name>
-  </channel>
-  <channel id="动漫秀场"><display-name lang="zh">动漫秀场</display-name><display-name lang="zh">动漫秀场</display-name><display-name lang="zh">CHANNEL00002000</display-name>
-  </channel>
-  <channel id="CCTV3"><display-name lang="zh">CCTV-3 综艺</display-name><display-name lang="zh">CCTV-3 综艺</display-name><display-name lang="zh">CCTV3综艺</display-name><display-name lang="zh">CHANNEL00000003</display-name><display-name lang="zh">CCTV-3</display-name><display-name lang="zh">CCTV-3综艺</display-name><display-name lang="zh">CCTV 3</display-name><display-name lang="zh">CCTV-3 高清</display-name><display-name lang="zh">CCTV3 高清</display-name>
-  </channel>
-  <channel id="延边卫视"><display-name lang="zh">延边卫视</display-name><display-name lang="zh">延边卫视</display-name><display-name lang="zh">延边</display-name><display-name lang="zh">CHANNEL00000668</display-name>
-  </channel>
-  <channel id="CGTN法语"><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CHANNEL00000355</display-name>
-  </channel>
-  <channel id="嘉佳卡通"><display-name lang="zh">嘉佳卡通</display-name><display-name lang="zh">嘉佳卡通</display-name><display-name lang="zh">CHANNEL00000074</display-name>
-  </channel>
-  <channel id="德州生活"><display-name lang="zh">德州经济生活</display-name><display-name lang="zh">德州经济生活</display-name><display-name lang="zh">CHANNEL00000207</display-name>
-  </channel>
-  <channel id="鱼台综合"><display-name lang="zh">鱼台综合</display-name><display-name lang="zh">鱼台综合</display-name><display-name lang="zh">鱼综合</display-name><display-name lang="zh">CHANNEL00001107</display-name>
-  </channel>
-  <channel id="CCTV8"><display-name lang="zh">CCTV-8 电视剧</display-name><display-name lang="zh">CCTV-8 电视剧</display-name><display-name lang="zh">CCTV8电视剧</display-name><display-name lang="zh">CHANNEL00000362</display-name><display-name lang="zh">CCTV-8</display-name><display-name lang="zh">CCTV-8电视剧</display-name><display-name lang="zh">CCTV 8</display-name><display-name lang="zh">CCTV-8 高清</display-name><display-name lang="zh">CCTV8 高清</display-name>
-  </channel>
-  <channel id="济南娱乐"><display-name lang="zh">济南娱乐</display-name><display-name lang="zh">济南娱乐</display-name><display-name lang="zh">CHANNEL00000065</display-name><display-name lang="zh">济南娱乐频道</display-name>
-  </channel>
-  <channel id="胶州综合"><display-name lang="zh">胶州综合</display-name><display-name lang="zh">胶州综合</display-name><display-name lang="zh">CHANNEL00001074</display-name>
-  </channel>
-  <channel id="任城生活"><display-name lang="zh">任城生活</display-name><display-name lang="zh">任城生活</display-name><display-name lang="zh">CHANNEL00001112</display-name>
-  </channel>
-  <channel id="新动漫"><display-name lang="zh">新动漫</display-name><display-name lang="zh">新动漫</display-name><display-name lang="zh">CHANNEL00000659</display-name>
-  </channel>
-  <channel id="CCTV卫生健康"><display-name lang="zh">CCTV卫生健康</display-name><display-name lang="zh">CCTV-卫生健康</display-name><display-name lang="zh">卫生健康</display-name>
-  </channel>
-  <channel id="书画"><display-name lang="zh">书画</display-name><display-name lang="zh">书画</display-name><display-name lang="zh">CHANNEL00000651</display-name>
-  </channel>
-  <channel id="四海钓鱼"><display-name lang="zh">四海钓鱼</display-name><display-name lang="zh">四海钓鱼</display-name><display-name lang="zh">4海钓鱼</display-name><display-name lang="zh">CHANNEL00000674</display-name>
-  </channel>
-  <channel id="日照综合"><display-name lang="zh">日照综合</display-name><display-name lang="zh">日照新闻综合</display-name><display-name lang="zh">日照新闻</display-name><display-name lang="zh">CHANNEL00000262</display-name><display-name lang="zh">RZTV-1</display-name>
-  </channel>
-  <channel id="周村综合"><display-name lang="zh">周村综合</display-name><display-name lang="zh">周村新闻</display-name><display-name lang="zh">CHANNEL00001019</display-name>
-  </channel>
-  <channel id="金鹰卡通"><display-name lang="zh">金鹰卡通</display-name><display-name lang="zh">金鹰卡通</display-name><display-name lang="zh">CHANNEL00002027</display-name>
-  </channel>
-  <channel id="CCTV风云剧场"><display-name lang="zh">CCTV风云剧场</display-name><display-name lang="zh">CCTV-风云剧场</display-name><display-name lang="zh">风云剧场</display-name>
+  <channel id="CCTV风云音乐"><display-name lang="zh">CCTV风云音乐</display-name><display-name lang="zh">CCTV-风云音乐</display-name><display-name lang="zh">风云音乐</display-name>
   </channel>
   <channel id="天津影视"><display-name lang="zh">天津影视</display-name><display-name lang="zh">天津影视</display-name>
   </channel>
-  <channel id="滨城TV"><display-name lang="zh">滨城TV</display-name>
+  <channel id="淄博影视"><display-name lang="zh">淄博影视</display-name><display-name lang="zh">淄博影视</display-name><display-name lang="zh">CHANNEL00001037</display-name><display-name lang="zh">淄博影视频道</display-name>
   </channel>
-  <channel id="快乐垂钓"><display-name lang="zh">快乐垂钓</display-name><display-name lang="zh">快乐垂钓</display-name><display-name lang="zh">CHANNEL00000648</display-name>
+  <channel id="江苏新闻"><display-name lang="zh">江苏新闻</display-name>
   </channel>
-  <channel id="东南卫视"><display-name lang="zh">东南卫视</display-name><display-name lang="zh">东南卫视</display-name><display-name lang="zh">东南</display-name><display-name lang="zh">CHANNEL00000310</display-name>
+  <channel id="CCTV高尔夫网球"><display-name lang="zh">CCTV高尔夫网球</display-name><display-name lang="zh">CCTV-高尔夫网球</display-name><display-name lang="zh">高尔夫网球</display-name>
   </channel>
-  <channel id="都市剧场"><display-name lang="zh">都市剧场</display-name><display-name lang="zh">都市剧场</display-name><display-name lang="zh">CHANNEL00002022</display-name>
+  <channel id="潍坊综合"><display-name lang="zh">潍坊综合</display-name><display-name lang="zh">潍坊新闻综合</display-name><display-name lang="zh">潍坊新闻</display-name><display-name lang="zh">CHANNEL00000215</display-name>
   </channel>
-  <channel id="天津都市"><display-name lang="zh">天津都市</display-name><display-name lang="zh">天津都市</display-name>
+  <channel id="齐河综合"><display-name lang="zh">齐河综合</display-name><display-name lang="zh">齐河综合</display-name><display-name lang="zh">CHANNEL00001056</display-name>
   </channel>
-  <channel id="广西卫视"><display-name lang="zh">广西卫视</display-name><display-name lang="zh">广西卫视</display-name><display-name lang="zh">广西</display-name><display-name lang="zh">CHANNEL00000368</display-name>
+  <channel id="CCTV8K"><display-name lang="zh">CCTV-8K 超高清</display-name><display-name lang="zh">CCTV-8K</display-name>
+  </channel>
+  <channel id="CGTN"><display-name lang="zh">CGTN</display-name><display-name lang="zh">CGTN</display-name><display-name lang="zh">CHANNEL00000352</display-name>
+  </channel>
+  <channel id="莱西综合"><display-name lang="zh">莱西综合</display-name><display-name lang="zh">莱西综合</display-name><display-name lang="zh">CHANNEL00001067</display-name>
+  </channel>
+  <channel id="CCTV3"><display-name lang="zh">CCTV-3 综艺</display-name><display-name lang="zh">CCTV-3 综艺</display-name><display-name lang="zh">CCTV3综艺</display-name><display-name lang="zh">CHANNEL00000003</display-name><display-name lang="zh">CCTV-3</display-name><display-name lang="zh">CCTV-3综艺</display-name><display-name lang="zh">CCTV 3</display-name><display-name lang="zh">CCTV-3 高清</display-name><display-name lang="zh">CCTV3 高清</display-name>
+  </channel>
+  <channel id="泰山综合"><display-name lang="zh">泰山综合</display-name><display-name lang="zh">泰山综合</display-name><display-name lang="zh">CHANNEL00001114</display-name>
+  </channel>
+  <channel id="中华特产"><display-name lang="zh">中华特产</display-name><display-name lang="zh">中华特产</display-name><display-name lang="zh">CHANNEL00000672</display-name>
+  </channel>
+  <channel id="厦门卫视"><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门</display-name><display-name lang="zh">CHANNEL00000075</display-name>
+  </channel>
+  <channel id="江苏城市"><display-name lang="zh">江苏城市</display-name>
+  </channel>
+  <channel id="天津新闻"><display-name lang="zh">天津新闻</display-name><display-name lang="zh">天津新闻</display-name>
+  </channel>
+  <channel id="德州生活"><display-name lang="zh">德州经济生活</display-name><display-name lang="zh">德州经济生活</display-name><display-name lang="zh">CHANNEL00000207</display-name>
+  </channel>
+  <channel id="天津体育"><display-name lang="zh">天津体育</display-name><display-name lang="zh">天津体育</display-name>
+  </channel>
+  <channel id="CHC影迷电影"><display-name lang="zh">CHC影迷电影</display-name><display-name lang="zh">CHC影迷电影</display-name><display-name lang="zh">CHANNEL00002029</display-name>
+  </channel>
+  <channel id="重温经典影视"><display-name lang="zh">重温经典影视</display-name><display-name lang="zh">重温经典影视</display-name><display-name lang="zh">山东重温经典影视</display-name><display-name lang="zh">山东重温经典</display-name><display-name lang="zh">重温经典</display-name><display-name lang="zh">海看重温经典</display-name>
+  </channel>
+  <channel id="CCTV4K"><display-name lang="zh">CCTV-4K 超高清</display-name><display-name lang="zh">CCTV-4K</display-name>
+  </channel>
+  <channel id="CCTV电视指南"><display-name lang="zh">CCTV电视指南</display-name><display-name lang="zh">CCTV-电视指南</display-name><display-name lang="zh">电视指南</display-name>
+  </channel>
+  <channel id="CCTV9"><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV9纪录</display-name><display-name lang="zh">CHANNEL00000319</display-name><display-name lang="zh">CCTV-9</display-name><display-name lang="zh">CCTV-9纪录</display-name><display-name lang="zh">CCTV 9</display-name><display-name lang="zh">CCTV-9 高清</display-name><display-name lang="zh">CCTV9 高清</display-name>
+  </channel>
+  <channel id="青岛QTV-1"><display-name lang="zh">青岛QTV-1</display-name><display-name lang="zh">青岛QTV-1</display-name><display-name lang="zh">青岛QTV1</display-name><display-name lang="zh">CHANNEL00000500</display-name>
+  </channel>
+  <channel id="生活时尚"><display-name lang="zh">生活时尚</display-name><display-name lang="zh">生活时尚</display-name><display-name lang="zh">CHANNEL00002019</display-name>
+  </channel>
+  <channel id="曲阜综合"><display-name lang="zh">曲阜综合</display-name><display-name lang="zh">曲阜综合</display-name><display-name lang="zh">CHANNEL00001052</display-name>
+  </channel>
+  <channel id="广东卫视"><display-name lang="zh">广东卫视</display-name><display-name lang="zh">广东卫视</display-name><display-name lang="zh">广东</display-name><display-name lang="zh">广东卫视-4K</display-name><display-name lang="zh">广东卫视4K</display-name><display-name lang="zh">CHANNEL00000307</display-name>
+  </channel>
+  <channel id="聚鲨环球精选"><display-name lang="zh">聚鲨环球精选</display-name><display-name lang="zh">环球精选</display-name>
+  </channel>
+  <channel id="沾化综合"><display-name lang="zh">沾化综合</display-name><display-name lang="zh">沾化综合</display-name><display-name lang="zh">CHANNEL00001035</display-name>
+  </channel>
+  <channel id="桓台综合"><display-name lang="zh">桓台综合</display-name><display-name lang="zh">桓台综合</display-name><display-name lang="zh">桓综合</display-name><display-name lang="zh">CHANNEL00001020</display-name>
+  </channel>
+  <channel id="CCTV4欧洲"><display-name lang="zh">CCTV-4 欧洲</display-name><display-name lang="zh">CCTV-4 欧洲</display-name><display-name lang="zh">CCTV4欧洲</display-name><display-name lang="zh">CHANNEL00000350</display-name><display-name lang="zh">CCTV-4欧洲</display-name>
+  </channel>
+  <channel id="商河综合"><display-name lang="zh">商河综合</display-name><display-name lang="zh">商河综合</display-name><display-name lang="zh">CHANNEL00001008</display-name>
+  </channel>
+  <channel id="济南都市"><display-name lang="zh">济南都市</display-name><display-name lang="zh">济南都市</display-name><display-name lang="zh">CHANNEL00000062</display-name><display-name lang="zh">济南都市频道</display-name>
+  </channel>
+  <channel id="央广购物"><display-name lang="zh">央广购物</display-name><display-name lang="zh">央广购物</display-name><display-name lang="zh">CHANNEL00000704</display-name>
   </channel>
   <channel id="烟台综合"><display-name lang="zh">烟台综合</display-name><display-name lang="zh">烟台新闻综合</display-name><display-name lang="zh">烟台新闻</display-name><display-name lang="zh">CHANNEL00000280</display-name>
   </channel>
   <channel id="财富天下"><display-name lang="zh">财富天下</display-name><display-name lang="zh">财富天下</display-name><display-name lang="zh">CHANNEL00000607</display-name>
   </channel>
-  <channel id="青海卫视"><display-name lang="zh">青海卫视</display-name><display-name lang="zh">青海卫视</display-name><display-name lang="zh">青海</display-name><display-name lang="zh">CHANNEL00000366</display-name>
+  <channel id="日照科教"><display-name lang="zh">日照科教</display-name><display-name lang="zh">日照科教</display-name><display-name lang="zh">CHANNEL00000263</display-name><display-name lang="zh">日照科教频道</display-name><display-name lang="zh">RZTV-2</display-name>
   </channel>
-  <channel id="南通综合"><display-name lang="zh">南通综合</display-name><display-name lang="zh">南通一套</display-name><display-name lang="zh">南通新闻</display-name><display-name lang="zh">南通新闻综合</display-name>
+  <channel id="中国教育4"><display-name lang="zh">中国教育-4</display-name><display-name lang="zh">中国教育-4</display-name><display-name lang="zh">中国教育4</display-name><display-name lang="zh">CHANNEL00000666</display-name><display-name lang="zh">CETV-4</display-name><display-name lang="zh">CETV4</display-name>
   </channel>
-  <channel id="滨州综合"><display-name lang="zh">滨州综合</display-name><display-name lang="zh">滨州新闻综合</display-name><display-name lang="zh">滨州新闻</display-name><display-name lang="zh">CHANNEL00000220</display-name>
-  </channel>
-  <channel id="CCTV风云足球"><display-name lang="zh">CCTV风云足球</display-name><display-name lang="zh">CCTV-风云足球</display-name><display-name lang="zh">风云足球</display-name>
-  </channel>
-  <channel id="CCTV1"><display-name lang="zh">CCTV-1 综合</display-name><display-name lang="zh">CCTV-1 综合</display-name><display-name lang="zh">CCTV1综合</display-name><display-name lang="zh">CCTV1</display-name><display-name lang="zh">CCTV-1</display-name><display-name lang="zh">CCTV-1综合</display-name><display-name lang="zh">CCTV 1</display-name><display-name lang="zh">CCTV-1 高清</display-name><display-name lang="zh">CCTV1 高清</display-name>
-  </channel>
-  <channel id="中国教育2"><display-name lang="zh">中国教育-2</display-name><display-name lang="zh">中国教育-2</display-name><display-name lang="zh">中国教育2</display-name><display-name lang="zh">CHANNEL00000077</display-name><display-name lang="zh">CETV-2</display-name><display-name lang="zh">CETV2</display-name>
+  <channel id="定陶综合"><display-name lang="zh">定陶综合</display-name><display-name lang="zh">定陶综合</display-name><display-name lang="zh">CHANNEL00001063</display-name>
   </channel>
   <channel id="河北卫视"><display-name lang="zh">河北卫视</display-name><display-name lang="zh">河北卫视</display-name><display-name lang="zh">河北</display-name><display-name lang="zh">CHANNEL00000330</display-name>
   </channel>
+  <channel id="禹城综艺"><display-name lang="zh">禹城综艺</display-name><display-name lang="zh">禹城综艺</display-name><display-name lang="zh">CHANNEL00001062</display-name>
+  </channel>
+  <channel id="嘉佳卡通"><display-name lang="zh">嘉佳卡通</display-name><display-name lang="zh">嘉佳卡通</display-name><display-name lang="zh">CHANNEL00000074</display-name>
+  </channel>
+  <channel id="武城综合"><display-name lang="zh">武城综合</display-name><display-name lang="zh">武城综合</display-name><display-name lang="zh">CHANNEL00001059</display-name>
+  </channel>
+  <channel id="环球奇观"><display-name lang="zh">环球奇观</display-name>
+  </channel>
+  <channel id="兵团卫视"><display-name lang="zh">兵团卫视</display-name><display-name lang="zh">兵团卫视</display-name><display-name lang="zh">兵团</display-name><display-name lang="zh">CHANNEL00000394</display-name>
+  </channel>
+  <channel id="滨州综合"><display-name lang="zh">滨州综合</display-name><display-name lang="zh">滨州新闻综合</display-name><display-name lang="zh">滨州新闻</display-name><display-name lang="zh">CHANNEL00000220</display-name>
+  </channel>
+  <channel id="天津都市"><display-name lang="zh">天津都市</display-name><display-name lang="zh">天津都市</display-name>
+  </channel>
   <channel id="CCTV世界地理"><display-name lang="zh">CCTV世界地理</display-name><display-name lang="zh">CCTV-世界地理</display-name><display-name lang="zh">世界地理</display-name>
   </channel>
-  <channel id="中医药"><display-name lang="zh">中医药</display-name><display-name lang="zh">中医药</display-name>
+  <channel id="贵州卫视"><display-name lang="zh">贵州卫视</display-name><display-name lang="zh">贵州卫视</display-name><display-name lang="zh">贵州</display-name><display-name lang="zh">CHANNEL00000329</display-name>
   </channel>
-  <channel id="桓台综合"><display-name lang="zh">桓台综合</display-name><display-name lang="zh">桓台综合</display-name><display-name lang="zh">桓综合</display-name><display-name lang="zh">CHANNEL00001020</display-name>
+  <channel id="长岛综合"><display-name lang="zh">长岛综合</display-name><display-name lang="zh">长岛综合</display-name><display-name lang="zh">CHANNEL00001090</display-name>
   </channel>
-  <channel id="兖州综合"><display-name lang="zh">兖州综合</display-name><display-name lang="zh">兖州新闻</display-name><display-name lang="zh">CHANNEL00001051</display-name><display-name lang="zh">兖州新闻频道</display-name><display-name lang="zh">YNTV-1</display-name>
+  <channel id="求索纪录"><display-name lang="zh">求索纪录</display-name><display-name lang="zh">求索纪录</display-name><display-name lang="zh">CHANNEL00000667</display-name>
   </channel>
-  <channel id="南通社教"><display-name lang="zh">南通社教</display-name><display-name lang="zh">南通二套</display-name><display-name lang="zh">南通社教频道</display-name>
+  <channel id="任城生活"><display-name lang="zh">任城生活</display-name><display-name lang="zh">任城生活</display-name><display-name lang="zh">CHANNEL00001112</display-name>
   </channel>
-  <channel id="夏津公共"><display-name lang="zh">夏津公共</display-name><display-name lang="zh">夏津公共</display-name><display-name lang="zh">CHANNEL00001070</display-name>
+  <channel id="CCTV4"><display-name lang="zh">CCTV-4 中文</display-name><display-name lang="zh">CCTV-4 中文</display-name><display-name lang="zh">CCTV4中文</display-name><display-name lang="zh">CHANNEL00000320</display-name><display-name lang="zh">CCTV-4</display-name><display-name lang="zh">CCTV-4中文国际</display-name><display-name lang="zh">CCTV-4 中文国际</display-name><display-name lang="zh">CCTV4中文国际</display-name><display-name lang="zh">CCTV 4</display-name><display-name lang="zh">CCTV-4 高清</display-name><display-name lang="zh">CCTV4 高清</display-name>
   </channel>
-  <channel id="浙江卫视"><display-name lang="zh">浙江卫视</display-name><display-name lang="zh">浙江卫视</display-name><display-name lang="zh">浙江</display-name><display-name lang="zh">浙江卫视-4K</display-name><display-name lang="zh">浙江卫视4K</display-name><display-name lang="zh">CHANNEL00000305</display-name>
+  <channel id="宁夏卫视"><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏</display-name><display-name lang="zh">CHANNEL00000395</display-name>
   </channel>
-  <channel id="潍坊综合"><display-name lang="zh">潍坊综合</display-name><display-name lang="zh">潍坊新闻综合</display-name><display-name lang="zh">潍坊新闻</display-name><display-name lang="zh">CHANNEL00000215</display-name>
+  <channel id="CGTN阿语"><display-name lang="zh">CGTN阿拉伯语</display-name><display-name lang="zh">CGTN阿拉伯语</display-name><display-name lang="zh">CHANNEL00000356</display-name>
   </channel>
-  <channel id="时尚购物"><display-name lang="zh">时尚购物</display-name>
+  <channel id="早期教育"><display-name lang="zh">早期教育</display-name>
   </channel>
-  <channel id="江苏体育"><display-name lang="zh">江苏体育</display-name><display-name lang="zh">江苏体育休闲</display-name>
+  <channel id="金鹰纪实"><display-name lang="zh">金鹰纪实</display-name><display-name lang="zh">金鹰纪实</display-name><display-name lang="zh">CHANNEL00000334</display-name>
   </channel>
-  <channel id="天津购物"><display-name lang="zh">天津购物</display-name><display-name lang="zh">天津购物</display-name>
+  <channel id="乳山综合"><display-name lang="zh">乳山综合</display-name><display-name lang="zh">乳山综合</display-name><display-name lang="zh">CHANNEL00001049</display-name>
   </channel>
-  <channel id="CGTN西语"><display-name lang="zh">CGTN西班牙语</display-name><display-name lang="zh">CGTN西班牙语</display-name><display-name lang="zh">CHANNEL00000354</display-name>
+  <channel id="河南卫视"><display-name lang="zh">河南卫视</display-name><display-name lang="zh">河南卫视</display-name><display-name lang="zh">河南</display-name><display-name lang="zh">CHANNEL00000358</display-name>
   </channel>
-  <channel id="CCTV5"><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV5体育</display-name><display-name lang="zh">CHANNEL00000360</display-name><display-name lang="zh">CCTV-5</display-name><display-name lang="zh">CCTV-5体育</display-name><display-name lang="zh">CCTV 5</display-name><display-name lang="zh">CCTV-5 高清</display-name><display-name lang="zh">CCTV5 高清</display-name>
+  <channel id="CGTN纪录"><display-name lang="zh">CGTN英文纪录</display-name><display-name lang="zh">CGTN英文纪录</display-name><display-name lang="zh">CHANNEL00000353</display-name>
   </channel>
-  <channel id="CCTV第一剧场"><display-name lang="zh">CCTV第一剧场</display-name><display-name lang="zh">CCTV-第一剧场</display-name><display-name lang="zh">第一剧场</display-name>
+  <channel id="梨园"><display-name lang="zh">梨园</display-name><display-name lang="zh">梨园</display-name><display-name lang="zh">CHANNEL00000656</display-name><display-name lang="zh">梨园频道</display-name>
   </channel>
-  <channel id="中学生"><display-name lang="zh">中学生</display-name><display-name lang="zh">中学生</display-name><display-name lang="zh">CHANNEL00000673</display-name><display-name lang="zh">CCTV中学生</display-name><display-name lang="zh">中学生频道</display-name>
+  <channel id="国学"><display-name lang="zh">国学</display-name><display-name lang="zh">国学频道</display-name>
   </channel>
-  <channel id="淄博文旅"><display-name lang="zh">淄博文旅</display-name><display-name lang="zh">淄博文旅</display-name><display-name lang="zh">CHANNEL00000293</display-name><display-name lang="zh">淄博文旅频道</display-name>
-  </channel>
-  <channel id="CGTN"><display-name lang="zh">CGTN</display-name><display-name lang="zh">CGTN</display-name><display-name lang="zh">CHANNEL00000352</display-name>
-  </channel>
-  <channel id="济南鲁中"><display-name lang="zh">济南鲁中</display-name><display-name lang="zh">济南鲁中</display-name><display-name lang="zh">CHANNEL00000244</display-name>
-  </channel>
-  <channel id="任城综合"><display-name lang="zh">任城综合</display-name><display-name lang="zh">任城综合</display-name><display-name lang="zh">CHANNEL00001111</display-name>
-  </channel>
-  <channel id="湖北卫视"><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北</display-name><display-name lang="zh">CHANNEL00000325</display-name>
-  </channel>
-  <channel id="江苏影视"><display-name lang="zh">江苏影视</display-name>
-  </channel>
-  <channel id="游戏风云"><display-name lang="zh">游戏风云</display-name><display-name lang="zh">游戏风云</display-name><display-name lang="zh">CHANNEL00002024</display-name>
-  </channel>
-  <channel id="CCTV7"><display-name lang="zh">CCTV-7 国防军事</display-name><display-name lang="zh">CCTV-7 国防军事</display-name><display-name lang="zh">CCTV7国防军事</display-name><display-name lang="zh">CHANNEL00000318</display-name><display-name lang="zh">CCTV-7</display-name><display-name lang="zh">CCTV-7国防军事</display-name><display-name lang="zh">CCTV 7</display-name><display-name lang="zh">CCTV-7 高清</display-name><display-name lang="zh">CCTV7 高清</display-name>
-  </channel>
-  <channel id="农林卫视"><display-name lang="zh">农林卫视</display-name><display-name lang="zh">农林卫视</display-name><display-name lang="zh">农林</display-name><display-name lang="zh">CHANNEL00000072</display-name>
-  </channel>
-  <channel id="中视购物"><display-name lang="zh">中视购物</display-name><display-name lang="zh">CCTV-中视购物</display-name>
-  </channel>
-  <channel id="中华特产"><display-name lang="zh">中华特产</display-name><display-name lang="zh">中华特产</display-name><display-name lang="zh">CHANNEL00000672</display-name>
-  </channel>
-  <channel id="日照科教"><display-name lang="zh">日照科教</display-name><display-name lang="zh">日照科教</display-name><display-name lang="zh">CHANNEL00000263</display-name><display-name lang="zh">日照科教频道</display-name><display-name lang="zh">RZTV-2</display-name>
+  <channel id="CHC家庭影院"><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHANNEL00002028</display-name>
   </channel>
   <channel id="沂水综合"><display-name lang="zh">沂水综合</display-name><display-name lang="zh">沂水综合</display-name><display-name lang="zh">CHANNEL00001098</display-name>
   </channel>
-  <channel id="CCTV17"><display-name lang="zh">CCTV-17 农业农村</display-name><display-name lang="zh">CCTV-17 农业农村</display-name><display-name lang="zh">CCTV17农业农村</display-name><display-name lang="zh">CHANNEL00000303</display-name><display-name lang="zh">CCTV-17</display-name><display-name lang="zh">CCTV-17农业农村</display-name><display-name lang="zh">CCTV 17</display-name><display-name lang="zh">CCTV-17 高清</display-name><display-name lang="zh">CCTV17 高清</display-name>
+  <channel id="苏州综合"><display-name lang="zh">苏州综合</display-name><display-name lang="zh">苏州新闻</display-name><display-name lang="zh">苏州新闻综合</display-name>
   </channel>
-  <channel id="烟台经济"><display-name lang="zh">烟台经济科技</display-name><display-name lang="zh">烟台经济科技</display-name><display-name lang="zh">烟经济科技</display-name><display-name lang="zh">CHANNEL00000282</display-name>
+  <channel id="CCTV7"><display-name lang="zh">CCTV-7 国防军事</display-name><display-name lang="zh">CCTV-7 国防军事</display-name><display-name lang="zh">CCTV7国防军事</display-name><display-name lang="zh">CHANNEL00000318</display-name><display-name lang="zh">CCTV-7</display-name><display-name lang="zh">CCTV-7国防军事</display-name><display-name lang="zh">CCTV 7</display-name><display-name lang="zh">CCTV-7 高清</display-name><display-name lang="zh">CCTV7 高清</display-name>
   </channel>
-  <channel id="CHC动作电影"><display-name lang="zh">CHC动作电影</display-name><display-name lang="zh">CHC动作电影</display-name><display-name lang="zh">CHANNEL00002030</display-name>
+  <channel id="临清综合"><display-name lang="zh">临清综合</display-name><display-name lang="zh">临清综合</display-name><display-name lang="zh">CHANNEL00001103</display-name>
+  </channel>
+  <channel id="吉林卫视"><display-name lang="zh">吉林卫视</display-name><display-name lang="zh">吉林卫视</display-name><display-name lang="zh">吉林</display-name><display-name lang="zh">CHANNEL00000363</display-name>
+  </channel>
+  <channel id="汽摩"><display-name lang="zh">汽摩</display-name><display-name lang="zh">汽摩</display-name><display-name lang="zh">CHANNEL00000711</display-name><display-name lang="zh">汽摩频道</display-name>
   </channel>
   <channel id="江苏教育"><display-name lang="zh">江苏教育</display-name>
   </channel>
-  <channel id="禹城综艺"><display-name lang="zh">禹城综艺</display-name><display-name lang="zh">禹城综艺</display-name><display-name lang="zh">CHANNEL00001062</display-name>
+  <channel id="潍坊经济生活"><display-name lang="zh">潍坊经济生活</display-name><display-name lang="zh">潍坊经济生活</display-name><display-name lang="zh">CHANNEL00000216</display-name>
   </channel>
-  <channel id="德州综合"><display-name lang="zh">德州综合</display-name><display-name lang="zh">德州新闻综合</display-name><display-name lang="zh">德州新闻</display-name><display-name lang="zh">CHANNEL00000206</display-name><display-name lang="zh">DZTV-1</display-name>
+  <channel id="湖北卫视"><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北</display-name><display-name lang="zh">CHANNEL00000325</display-name>
   </channel>
-  <channel id="4K电视剧"><display-name lang="zh">4K电视剧</display-name>
+  <channel id="菏泽-1"><display-name lang="zh">菏泽-1</display-name><display-name lang="zh">菏泽-1</display-name><display-name lang="zh">菏泽1</display-name><display-name lang="zh">CHANNEL00000232</display-name>
+  </channel>
+  <channel id="南通公共"><display-name lang="zh">南通公共</display-name><display-name lang="zh">南通三套</display-name><display-name lang="zh">南通公共频道</display-name>
+  </channel>
+  <channel id="甘肃卫视"><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃</display-name><display-name lang="zh">CHANNEL00000349</display-name>
+  </channel>
+  <channel id="趯球"><display-name lang="zh">趯球</display-name><display-name lang="zh">趯球频道</display-name>
+  </channel>
+  <channel id="辽宁卫视"><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁</display-name><display-name lang="zh">CHANNEL00000326</display-name>
+  </channel>
+  <channel id="江苏卫视"><display-name lang="zh">江苏卫视</display-name><display-name lang="zh">江苏卫视</display-name><display-name lang="zh">江苏</display-name><display-name lang="zh">江苏卫视-4K</display-name><display-name lang="zh">江苏卫视4K</display-name><display-name lang="zh">CHANNEL00000304</display-name>
+  </channel>
+  <channel id="潍坊公共"><display-name lang="zh">潍坊公共</display-name><display-name lang="zh">潍坊公共</display-name><display-name lang="zh">CHANNEL00000217</display-name><display-name lang="zh">潍坊公共频道</display-name><display-name lang="zh">WFTV-3</display-name>
+  </channel>
+  <channel id="天津卫视"><display-name lang="zh">天津卫视</display-name><display-name lang="zh">天津卫视</display-name><display-name lang="zh">天津</display-name><display-name lang="zh">CHANNEL00000327</display-name>
+  </channel>
+  <channel id="黑龙江卫视"><display-name lang="zh">黑龙江卫视</display-name><display-name lang="zh">黑龙江卫视</display-name><display-name lang="zh">黑龙江</display-name><display-name lang="zh">CHANNEL00000306</display-name>
+  </channel>
+  <channel id="CCTV兵器科技"><display-name lang="zh">CCTV兵器科技</display-name><display-name lang="zh">CCTV-兵器科技</display-name><display-name lang="zh">兵器科技</display-name>
+  </channel>
+  <channel id="重庆卫视"><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆</display-name><display-name lang="zh">CHANNEL00000341</display-name>
+  </channel>
+  <channel id="新疆卫视"><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆</display-name><display-name lang="zh">CHANNEL00000393</display-name>
+  </channel>
+  <channel id="淄博民生"><display-name lang="zh">淄博民生</display-name><display-name lang="zh">淄博民生</display-name><display-name lang="zh">CHANNEL00000294</display-name><display-name lang="zh">淄博民生频道</display-name>
+  </channel>
+  <channel id="平度综合"><display-name lang="zh">平度综合</display-name><display-name lang="zh">平度综合</display-name><display-name lang="zh">CHANNEL00001054</display-name>
+  </channel>
+  <channel id="CCTV6"><display-name lang="zh">CCTV-6 电影</display-name><display-name lang="zh">CCTV-6 电影</display-name><display-name lang="zh">CCTV6电影</display-name><display-name lang="zh">CHANNEL00000361</display-name><display-name lang="zh">CCTV-6</display-name><display-name lang="zh">CCTV-6电影</display-name><display-name lang="zh">CCTV 6</display-name><display-name lang="zh">CCTV-6 高清</display-name><display-name lang="zh">CCTV6 高清</display-name>
+  </channel>
+  <channel id="CGTN俄语"><display-name lang="zh">CGTN俄语</display-name><display-name lang="zh">CGTN俄语</display-name><display-name lang="zh">CHANNEL00000357</display-name>
+  </channel>
+  <channel id="山东教育"><display-name lang="zh">山东教育卫视</display-name><display-name lang="zh">山东教育卫视</display-name><display-name lang="zh">山东教育</display-name><display-name lang="zh">CHANNEL00000331</display-name>
+  </channel>
+  <channel id="CCTV怀旧剧场"><display-name lang="zh">CCTV怀旧剧场</display-name><display-name lang="zh">CCTV-怀旧剧场</display-name><display-name lang="zh">怀旧剧场</display-name>
+  </channel>
+  <channel id="威海综合"><display-name lang="zh">威海综合</display-name><display-name lang="zh">威海新闻综合</display-name><display-name lang="zh">威海新闻</display-name><display-name lang="zh">CHANNEL00000274</display-name><display-name lang="zh">威海新闻频道</display-name><display-name lang="zh">WHTV-1</display-name>
+  </channel>
+  <channel id="鱼台综合"><display-name lang="zh">鱼台综合</display-name><display-name lang="zh">鱼台综合</display-name><display-name lang="zh">鱼综合</display-name><display-name lang="zh">CHANNEL00001107</display-name>
+  </channel>
+  <channel id="天津文艺"><display-name lang="zh">天津文艺</display-name><display-name lang="zh">天津文艺</display-name>
+  </channel>
+  <channel id="济宁高新"><display-name lang="zh">济宁高新</display-name><display-name lang="zh">济宁高新</display-name><display-name lang="zh">CHANNEL00001101</display-name>
+  </channel>
+  <channel id="青岛QTV-5"><display-name lang="zh">青岛QTV-5</display-name><display-name lang="zh">青岛QTV-5</display-name><display-name lang="zh">青岛QTV5</display-name><display-name lang="zh">CHANNEL00000505</display-name>
+  </channel>
+  <channel id="莒县综合"><display-name lang="zh">莒县综合</display-name><display-name lang="zh">莒县综合</display-name><display-name lang="zh">CHANNEL00001014</display-name>
+  </channel>
+  <channel id="南通社教"><display-name lang="zh">南通社教</display-name><display-name lang="zh">南通二套</display-name><display-name lang="zh">南通社教频道</display-name>
+  </channel>
+  <channel id="新动漫"><display-name lang="zh">新动漫</display-name><display-name lang="zh">新动漫</display-name><display-name lang="zh">CHANNEL00000659</display-name>
+  </channel>
+  <channel id="游戏风云"><display-name lang="zh">游戏风云</display-name><display-name lang="zh">游戏风云</display-name><display-name lang="zh">CHANNEL00002024</display-name>
+  </channel>
+  <channel id="法治天地"><display-name lang="zh">法治天地</display-name><display-name lang="zh">法治天地</display-name><display-name lang="zh">CHANNEL00002010</display-name>
+  </channel>
+  <channel id="张店综合"><display-name lang="zh">张店综合</display-name><display-name lang="zh">张店综合</display-name><display-name lang="zh">CHANNEL00001012</display-name>
+  </channel>
+  <channel id="沂水生活"><display-name lang="zh">沂水生活</display-name><display-name lang="zh">沂水生活</display-name><display-name lang="zh">CHANNEL00001099</display-name>
+  </channel>
+  <channel id="多彩文体"><display-name lang="zh">多彩文体</display-name><display-name lang="zh">多彩文体</display-name><display-name lang="zh">多彩文体4K</display-name>
+  </channel>
+  <channel id="CCTV10"><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV10科教</display-name><display-name lang="zh">CHANNEL00000321</display-name><display-name lang="zh">CCTV-10</display-name><display-name lang="zh">CCTV-10科教</display-name><display-name lang="zh">CCTV 10</display-name><display-name lang="zh">CCTV-10 高清</display-name><display-name lang="zh">CCTV10 高清</display-name>
+  </channel>
+  <channel id="济南鲁中"><display-name lang="zh">济南鲁中</display-name><display-name lang="zh">济南鲁中</display-name><display-name lang="zh">CHANNEL00000244</display-name>
+  </channel>
+  <channel id="纪实科教"><display-name lang="zh">纪实科教</display-name><display-name lang="zh">北京纪实科教</display-name><display-name lang="zh">CHANNEL00000332</display-name>
+  </channel>
+  <channel id="现代女性"><display-name lang="zh">现代女性</display-name><display-name lang="zh">现代女性</display-name>
+  </channel>
+  <channel id="滨城TV"><display-name lang="zh">滨城TV</display-name>
+  </channel>
+  <channel id="卡酷少儿"><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">CHANNEL00000661</display-name><display-name lang="zh">北京卡酷少儿</display-name>
+  </channel>
+  <channel id="济南生活"><display-name lang="zh">济南生活</display-name><display-name lang="zh">济南生活</display-name><display-name lang="zh">CHANNEL00000063</display-name><display-name lang="zh">济南生活频道</display-name>
+  </channel>
+  <channel id="陵城综合"><display-name lang="zh">陵城综合</display-name><display-name lang="zh">陵城综合</display-name><display-name lang="zh">CHANNEL00001082</display-name>
+  </channel>
+  <channel id="青海卫视"><display-name lang="zh">青海卫视</display-name><display-name lang="zh">青海卫视</display-name><display-name lang="zh">青海</display-name><display-name lang="zh">CHANNEL00000366</display-name>
+  </channel>
+  <channel id="CGTN法语"><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CHANNEL00000355</display-name>
+  </channel>
+  <channel id="CCTV11"><display-name lang="zh">CCTV-11 戏曲</display-name><display-name lang="zh">CCTV-11 戏曲</display-name><display-name lang="zh">CCTV11戏曲</display-name><display-name lang="zh">CHANNEL00000344</display-name><display-name lang="zh">CCTV-11</display-name><display-name lang="zh">CCTV-11戏曲</display-name><display-name lang="zh">CCTV 11</display-name><display-name lang="zh">CCTV-11 高清</display-name><display-name lang="zh">CCTV11 高清</display-name>
+  </channel>
+  <channel id="招远综合"><display-name lang="zh">招远综合</display-name><display-name lang="zh">招远综合</display-name><display-name lang="zh">CHANNEL00001113</display-name>
+  </channel>
+  <channel id="济宁生活"><display-name lang="zh">济宁生活</display-name><display-name lang="zh">济宁生活</display-name><display-name lang="zh">CHANNEL00000239</display-name><display-name lang="zh">济宁生活频道</display-name>
+  </channel>
+  <channel id="龙口综合"><display-name lang="zh">龙口综合</display-name><display-name lang="zh">龙口综合</display-name><display-name lang="zh">CHANNEL00001005</display-name>
+  </channel>
+  <channel id="快乐垂钓"><display-name lang="zh">快乐垂钓</display-name><display-name lang="zh">快乐垂钓</display-name><display-name lang="zh">CHANNEL00000648</display-name>
+  </channel>
+  <channel id="东方卫视"><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方</display-name><display-name lang="zh">东方卫视-4K</display-name><display-name lang="zh">东方卫视4K</display-name><display-name lang="zh">CHANNEL00000309</display-name>
+  </channel>
+  <channel id="夏津公共"><display-name lang="zh">夏津公共</display-name><display-name lang="zh">夏津公共</display-name><display-name lang="zh">CHANNEL00001070</display-name>
+  </channel>
+  <channel id="文物宝库"><display-name lang="zh">文物宝库</display-name><display-name lang="zh">文物宝库</display-name><display-name lang="zh">CHANNEL00000658</display-name>
+  </channel>
+  <channel id="东营公共"><display-name lang="zh">东营公共</display-name><display-name lang="zh">东营公共</display-name><display-name lang="zh">CHANNEL00000227</display-name><display-name lang="zh">东营公共频道</display-name><display-name lang="zh">DYTV-2</display-name>
+  </channel>
+  <channel id="江西卫视"><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西</display-name><display-name lang="zh">CHANNEL00000335</display-name>
+  </channel>
+  <channel id="天津教育"><display-name lang="zh">天津教育</display-name><display-name lang="zh">天津教育</display-name>
   </channel>
   <channel id="滨州公共"><display-name lang="zh">滨州公共</display-name>
   </channel>
+  <channel id="时尚购物"><display-name lang="zh">时尚购物</display-name>
+  </channel>
+  <channel id="老故事"><display-name lang="zh">老故事</display-name>
+  </channel>
+  <channel id="CCTV5+"><display-name lang="zh">CCTV-5+ 体育赛事</display-name><display-name lang="zh">CCTV-5+ 体育赛事</display-name><display-name lang="zh">CCTV5体育赛事</display-name><display-name lang="zh">CHANNEL00000316</display-name><display-name lang="zh">CCTV-5+</display-name><display-name lang="zh">CCTV-5+体育赛事</display-name><display-name lang="zh">CCTV5+体育赛事</display-name><display-name lang="zh">CCTV 5+</display-name><display-name lang="zh">CCTV-5+ 高清</display-name><display-name lang="zh">CCTV5+ 高清</display-name>
+  </channel>
+  <channel id="济宁公共"><display-name lang="zh">济宁公共</display-name><display-name lang="zh">济宁公共</display-name><display-name lang="zh">CHANNEL00000241</display-name><display-name lang="zh">济宁公共频道</display-name>
+  </channel>
+  <channel id="山西卫视"><display-name lang="zh">山西卫视</display-name><display-name lang="zh">山西卫视</display-name><display-name lang="zh">山西</display-name><display-name lang="zh">CHANNEL00000032</display-name>
+  </channel>
+  <channel id="精彩影视"><display-name lang="zh">精彩影视</display-name><display-name lang="zh">精彩影视</display-name><display-name lang="zh">CHANNEL00002012</display-name>
+  </channel>
+  <channel id="浙江卫视"><display-name lang="zh">浙江卫视</display-name><display-name lang="zh">浙江卫视</display-name><display-name lang="zh">浙江</display-name><display-name lang="zh">浙江卫视-4K</display-name><display-name lang="zh">浙江卫视4K</display-name><display-name lang="zh">CHANNEL00000305</display-name>
+  </channel>
+  <channel id="菏泽-2"><display-name lang="zh">菏泽-2</display-name><display-name lang="zh">菏泽-2</display-name><display-name lang="zh">菏泽2</display-name><display-name lang="zh">CHANNEL00000234</display-name>
+  </channel>
+  <channel id="CCTV4美洲"><display-name lang="zh">CCTV-4 美洲</display-name><display-name lang="zh">CCTV-4 美洲</display-name><display-name lang="zh">CCTV4美洲</display-name><display-name lang="zh">CHANNEL00000351</display-name><display-name lang="zh">CCTV-4美洲</display-name>
+  </channel>
+  <channel id="南京综合"><display-name lang="zh">南京综合</display-name><display-name lang="zh">南京综合频道</display-name><display-name lang="zh">南京新闻综合</display-name><display-name lang="zh">南京新闻</display-name>
+  </channel>
+  <channel id="江苏体育"><display-name lang="zh">江苏体育</display-name><display-name lang="zh">江苏体育休闲</display-name>
+  </channel>
+  <channel id="优优宝贝"><display-name lang="zh">优优宝贝</display-name><display-name lang="zh">优优宝贝</display-name><display-name lang="zh">CHANNEL00000641</display-name>
+  </channel>
+  <channel id="黄岛生活"><display-name lang="zh">黄岛生活</display-name><display-name lang="zh">黄岛生活</display-name><display-name lang="zh">CHANNEL00001087</display-name>
+  </channel>
+  <channel id="三沙卫视"><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">3沙卫视</display-name><display-name lang="zh">三沙</display-name><display-name lang="zh">CHANNEL00000078</display-name>
+  </channel>
+  <channel id="CCTV发现之旅"><display-name lang="zh">CCTV发现之旅</display-name><display-name lang="zh">CCTV-发现之旅</display-name><display-name lang="zh">发现之旅</display-name><display-name lang="zh">央视发现之旅</display-name>
+  </channel>
+  <channel id="青岛QTV-3"><display-name lang="zh">青岛QTV-3</display-name><display-name lang="zh">青岛QTV-3</display-name><display-name lang="zh">青岛QTV3</display-name><display-name lang="zh">CHANNEL00000502</display-name>
+  </channel>
+  <channel id="夏津综合"><display-name lang="zh">夏津综合</display-name><display-name lang="zh">夏津综合</display-name><display-name lang="zh">CHANNEL00001069</display-name>
+  </channel>
+  <channel id="安徽卫视"><display-name lang="zh">安徽卫视</display-name><display-name lang="zh">安徽卫视</display-name><display-name lang="zh">安徽</display-name><display-name lang="zh">CHANNEL00000328</display-name>
+  </channel>
+  <channel id="周村综合"><display-name lang="zh">周村综合</display-name><display-name lang="zh">周村新闻</display-name><display-name lang="zh">CHANNEL00001019</display-name>
+  </channel>
+  <channel id="云南卫视"><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南</display-name><display-name lang="zh">CHANNEL00000367</display-name>
+  </channel>
+  <channel id="西藏卫视"><display-name lang="zh">西藏卫视</display-name><display-name lang="zh">西藏卫视</display-name><display-name lang="zh">西藏</display-name><display-name lang="zh">CHANNEL00000392</display-name>
+  </channel>
+  <channel id="济南少儿"><display-name lang="zh">济南少儿</display-name><display-name lang="zh">济南少儿</display-name><display-name lang="zh">CHANNEL00000067</display-name><display-name lang="zh">济南少儿频道</display-name>
+  </channel>
+  <channel id="日照公共"><display-name lang="zh">日照公共</display-name><display-name lang="zh">日照公共</display-name><display-name lang="zh">CHANNEL00001100</display-name>
+  </channel>
+  <channel id="CHC动作电影"><display-name lang="zh">CHC动作电影</display-name><display-name lang="zh">CHC动作电影</display-name><display-name lang="zh">CHANNEL00002030</display-name>
+  </channel>
+  <channel id="江苏综艺"><display-name lang="zh">江苏综艺</display-name>
+  </channel>
+  <channel id="邹城综合"><display-name lang="zh">邹城综合</display-name><display-name lang="zh">邹城综合</display-name><display-name lang="zh">CHANNEL00001038</display-name>
+  </channel>
+  <channel id="CCTV2"><display-name lang="zh">CCTV-2 财经</display-name><display-name lang="zh">CCTV-2 财经</display-name><display-name lang="zh">CCTV2财经</display-name><display-name lang="zh">CHANNEL00000317</display-name><display-name lang="zh">CCTV-2</display-name><display-name lang="zh">CCTV-2财经</display-name><display-name lang="zh">CCTV 2</display-name><display-name lang="zh">CCTV-2 高清</display-name><display-name lang="zh">CCTV2 高清</display-name>
+  </channel>
+  <channel id="聊城民生"><display-name lang="zh">聊城民生</display-name><display-name lang="zh">聊城民生</display-name><display-name lang="zh">CHANNEL00000251</display-name>
+  </channel>
+  <channel id="优购物"><display-name lang="zh">优购物</display-name>
+  </channel>
   <channel id="滨州民生"><display-name lang="zh">滨州民生</display-name><display-name lang="zh">滨州民生</display-name><display-name lang="zh">CHANNEL00000221</display-name><display-name lang="zh">滨州民生频道</display-name>
   </channel>
-  <channel id="现代女性"><display-name lang="zh">现代女性</display-name><display-name lang="zh">现代女性</display-name>
+  <channel id="济南娱乐"><display-name lang="zh">济南娱乐</display-name><display-name lang="zh">济南娱乐</display-name><display-name lang="zh">CHANNEL00000065</display-name><display-name lang="zh">济南娱乐频道</display-name>
+  </channel>
+  <channel id="CCTV14"><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV14少儿</display-name><display-name lang="zh">CHANNEL00000323</display-name><display-name lang="zh">CCTV-14</display-name><display-name lang="zh">CCTV-14少儿</display-name><display-name lang="zh">CCTV 14</display-name><display-name lang="zh">CCTV-14 高清</display-name><display-name lang="zh">CCTV14 高清</display-name>
+  </channel>
+  <channel id="日照综合"><display-name lang="zh">日照综合</display-name><display-name lang="zh">日照新闻综合</display-name><display-name lang="zh">日照新闻</display-name><display-name lang="zh">CHANNEL00000262</display-name><display-name lang="zh">RZTV-1</display-name>
+  </channel>
+  <channel id="乐游"><display-name lang="zh">乐游</display-name><display-name lang="zh">乐游</display-name><display-name lang="zh">CHANNEL00002016</display-name>
+  </channel>
+  <channel id="优漫卡通"><display-name lang="zh">优漫卡通</display-name><display-name lang="zh">优漫卡通</display-name><display-name lang="zh">CHANNEL00000049</display-name>
+  </channel>
+  <channel id="淄博综合"><display-name lang="zh">淄博综合</display-name><display-name lang="zh">淄博新闻综合</display-name><display-name lang="zh">淄博新闻</display-name><display-name lang="zh">CHANNEL00000292</display-name>
+  </channel>
+  <channel id="鱼台生活"><display-name lang="zh">鱼台生活</display-name><display-name lang="zh">鱼台生活</display-name><display-name lang="zh">鱼生活</display-name><display-name lang="zh">CHANNEL00001108</display-name>
+  </channel>
+  <channel id="青岛QTV-4"><display-name lang="zh">青岛QTV-4</display-name><display-name lang="zh">青岛QTV-4</display-name><display-name lang="zh">青岛QTV4</display-name><display-name lang="zh">CHANNEL00000503</display-name>
+  </channel>
+  <channel id="CCTV5"><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV5体育</display-name><display-name lang="zh">CHANNEL00000360</display-name><display-name lang="zh">CCTV-5</display-name><display-name lang="zh">CCTV-5体育</display-name><display-name lang="zh">CCTV 5</display-name><display-name lang="zh">CCTV-5 高清</display-name><display-name lang="zh">CCTV5 高清</display-name>
+  </channel>
+  <channel id="CCTV16"><display-name lang="zh">CCTV-16 奥林匹克</display-name><display-name lang="zh">CCTV-16 奥林匹克</display-name><display-name lang="zh">CCTV16 奥林匹克</display-name><display-name lang="zh">CCTV16奥林匹克</display-name><display-name lang="zh">CCTV奥林匹克</display-name><display-name lang="zh">奥林匹克</display-name>
+  </channel>
+  <channel id="CGTN西语"><display-name lang="zh">CGTN西班牙语</display-name><display-name lang="zh">CGTN西班牙语</display-name><display-name lang="zh">CHANNEL00000354</display-name>
+  </channel>
+  <channel id="济南综合"><display-name lang="zh">济南综合</display-name><display-name lang="zh">济南新闻综合</display-name><display-name lang="zh">CHANNEL00000312</display-name><display-name lang="zh">济南新闻</display-name>
+  </channel>
+  <channel id="CCTV12"><display-name lang="zh">CCTV-12 社会与法</display-name><display-name lang="zh">CCTV-12 社会与法</display-name><display-name lang="zh">CCTV12社会与法</display-name><display-name lang="zh">CHANNEL00000322</display-name><display-name lang="zh">CCTV-12</display-name><display-name lang="zh">CCTV-12社会与法</display-name><display-name lang="zh">CCTV 12</display-name><display-name lang="zh">CCTV-12 高清</display-name><display-name lang="zh">CCTV12 高清</display-name>
+  </channel>
+  <channel id="历城综合"><display-name lang="zh">历城综合</display-name><display-name lang="zh">历城综合</display-name><display-name lang="zh">CHANNEL00001105</display-name>
+  </channel>
+  <channel id="环球旅游"><display-name lang="zh">环球旅游</display-name><display-name lang="zh">环球旅游</display-name><display-name lang="zh">CHANNEL00000643</display-name>
+  </channel>
+  <channel id="深圳卫视"><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳</display-name><display-name lang="zh">深圳卫视-4K</display-name><display-name lang="zh">深圳卫视4K</display-name><display-name lang="zh">CHANNEL00000308</display-name>
+  </channel>
+  <channel id="南通综合"><display-name lang="zh">南通综合</display-name><display-name lang="zh">南通一套</display-name><display-name lang="zh">南通新闻</display-name><display-name lang="zh">南通新闻综合</display-name>
+  </channel>
+  <channel id="任城综合"><display-name lang="zh">任城综合</display-name><display-name lang="zh">任城综合</display-name><display-name lang="zh">CHANNEL00001111</display-name>
+  </channel>
+  <channel id="延边卫视"><display-name lang="zh">延边卫视</display-name><display-name lang="zh">延边卫视</display-name><display-name lang="zh">延边</display-name><display-name lang="zh">CHANNEL00000668</display-name>
+  </channel>
+  <channel id="天元围棋"><display-name lang="zh">天元围棋</display-name>
+  </channel>
+  <channel id="动漫秀场"><display-name lang="zh">动漫秀场</display-name><display-name lang="zh">动漫秀场</display-name><display-name lang="zh">CHANNEL00002000</display-name>
+  </channel>
+  <channel id="四海钓鱼"><display-name lang="zh">四海钓鱼</display-name><display-name lang="zh">四海钓鱼</display-name><display-name lang="zh">4海钓鱼</display-name><display-name lang="zh">CHANNEL00000674</display-name>
+  </channel>
+  <channel id="CCTV15"><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV15音乐</display-name><display-name lang="zh">CHANNEL00000346</display-name><display-name lang="zh">CCTV-15</display-name><display-name lang="zh">CCTV-15音乐</display-name><display-name lang="zh">CCTV 15</display-name><display-name lang="zh">CCTV-15 高清</display-name><display-name lang="zh">CCTV15 高清</display-name>
+  </channel>
+  <channel id="金鹰卡通"><display-name lang="zh">金鹰卡通</display-name><display-name lang="zh">金鹰卡通</display-name><display-name lang="zh">CHANNEL00002027</display-name>
+  </channel>
+  <channel id="潍坊科教文化"><display-name lang="zh">潍坊科教文化</display-name><display-name lang="zh">潍坊科教文化</display-name><display-name lang="zh">CHANNEL00000218</display-name>
+  </channel>
+  <channel id="海洋频道"><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋</display-name><display-name lang="zh">CHANNEL00000662</display-name>
+  </channel>
+  <channel id="烟台公共"><display-name lang="zh">烟台公共</display-name><display-name lang="zh">烟台公共</display-name><display-name lang="zh">烟公共</display-name><display-name lang="zh">CHANNEL00000281</display-name><display-name lang="zh">烟台公共频道</display-name>
+  </channel>
+  <channel id="崂山综合"><display-name lang="zh">崂山综合</display-name><display-name lang="zh">崂山综合</display-name><display-name lang="zh">CHANNEL00001022</display-name>
+  </channel>
+  <channel id="CCTV8"><display-name lang="zh">CCTV-8 电视剧</display-name><display-name lang="zh">CCTV-8 电视剧</display-name><display-name lang="zh">CCTV8电视剧</display-name><display-name lang="zh">CHANNEL00000362</display-name><display-name lang="zh">CCTV-8</display-name><display-name lang="zh">CCTV-8电视剧</display-name><display-name lang="zh">CCTV 8</display-name><display-name lang="zh">CCTV-8 高清</display-name><display-name lang="zh">CCTV8 高清</display-name>
+  </channel>
+  <channel id="胶州综合"><display-name lang="zh">胶州综合</display-name><display-name lang="zh">胶州综合</display-name><display-name lang="zh">CHANNEL00001074</display-name>
+  </channel>
+  <channel id="济宁综合"><display-name lang="zh">济宁综合</display-name><display-name lang="zh">济宁综合</display-name><display-name lang="zh">CHANNEL00000240</display-name><display-name lang="zh">济宁综合频道</display-name>
+  </channel>
+  <channel id="青岛QTV-2"><display-name lang="zh">青岛QTV-2</display-name><display-name lang="zh">青岛QTV-2</display-name><display-name lang="zh">青岛QTV2</display-name><display-name lang="zh">CHANNEL00000501</display-name>
+  </channel>
+  <channel id="CCTV卫生健康"><display-name lang="zh">CCTV卫生健康</display-name><display-name lang="zh">CCTV-卫生健康</display-name><display-name lang="zh">卫生健康</display-name>
+  </channel>
+  <channel id="河东综合"><display-name lang="zh">河东综合</display-name><display-name lang="zh">河东综合</display-name><display-name lang="zh">CHANNEL00001109</display-name>
+  </channel>
+  <channel id="CCTV1"><display-name lang="zh">CCTV-1 综合</display-name><display-name lang="zh">CCTV-1 综合</display-name><display-name lang="zh">CCTV1综合</display-name><display-name lang="zh">CCTV1</display-name><display-name lang="zh">CCTV-1</display-name><display-name lang="zh">CCTV-1综合</display-name><display-name lang="zh">CCTV 1</display-name><display-name lang="zh">CCTV-1 高清</display-name><display-name lang="zh">CCTV1 高清</display-name>
+  </channel>
+  <channel id="生态环境"><display-name lang="zh">生态环境</display-name><display-name lang="zh">生态环境</display-name><display-name lang="zh">CHANNEL00000671</display-name><display-name lang="zh">CETV-生态环境</display-name><display-name lang="zh">CETV</display-name><display-name lang="zh">CETV生态环境</display-name><display-name lang="zh">生态环境频道</display-name>
+  </channel>
+  <channel id="中学生"><display-name lang="zh">中学生</display-name><display-name lang="zh">中学生</display-name><display-name lang="zh">CHANNEL00000673</display-name><display-name lang="zh">CCTV中学生</display-name><display-name lang="zh">中学生频道</display-name>
+  </channel>
+  <channel id="中国教育2"><display-name lang="zh">中国教育-2</display-name><display-name lang="zh">中国教育-2</display-name><display-name lang="zh">中国教育2</display-name><display-name lang="zh">CHANNEL00000077</display-name><display-name lang="zh">CETV-2</display-name><display-name lang="zh">CETV2</display-name>
+  </channel>
+  <channel id="武术世界"><display-name lang="zh">武术世界</display-name><display-name lang="zh">武术世界</display-name><display-name lang="zh">CHANNEL00000657</display-name>
+  </channel>
+  <channel id="CCTV风云剧场"><display-name lang="zh">CCTV风云剧场</display-name><display-name lang="zh">CCTV-风云剧场</display-name><display-name lang="zh">风云剧场</display-name>
+  </channel>
+  <channel id="烟台经济"><display-name lang="zh">烟台经济科技</display-name><display-name lang="zh">烟台经济科技</display-name><display-name lang="zh">烟经济科技</display-name><display-name lang="zh">CHANNEL00000282</display-name>
+  </channel>
+  <channel id="德州综合"><display-name lang="zh">德州综合</display-name><display-name lang="zh">德州新闻综合</display-name><display-name lang="zh">德州新闻</display-name><display-name lang="zh">CHANNEL00000206</display-name><display-name lang="zh">DZTV-1</display-name>
+  </channel>
+  <channel id="农林卫视"><display-name lang="zh">农林卫视</display-name><display-name lang="zh">农林卫视</display-name><display-name lang="zh">农林</display-name><display-name lang="zh">CHANNEL00000072</display-name>
+  </channel>
+  <channel id="4K电视剧"><display-name lang="zh">4K电视剧</display-name>
+  </channel>
+  <channel id="居家购物"><display-name lang="zh">居家购物</display-name><display-name lang="zh">居家购物</display-name><display-name lang="zh">CHANNEL00000700</display-name>
+  </channel>
+  <channel id="都市剧场"><display-name lang="zh">都市剧场</display-name><display-name lang="zh">都市剧场</display-name><display-name lang="zh">CHANNEL00002022</display-name>
+  </channel>
+  <channel id="济南体育"><display-name lang="zh">济南文旅体育</display-name><display-name lang="zh">济南文旅体育</display-name><display-name lang="zh">CHANNEL00000064</display-name>
+  </channel>
+  <channel id="CCTV第一剧场"><display-name lang="zh">CCTV第一剧场</display-name><display-name lang="zh">CCTV-第一剧场</display-name><display-name lang="zh">第一剧场</display-name>
+  </channel>
+  <channel id="CCTV央视文化精品"><display-name lang="zh">CCTV央视文化精品</display-name><display-name lang="zh">CCTV-央视文化精品</display-name><display-name lang="zh">央视文化精品</display-name><display-name lang="zh">文化精品</display-name>
+  </channel>
+  <channel id="禹城综合"><display-name lang="zh">禹城综合</display-name><display-name lang="zh">禹城综合</display-name><display-name lang="zh">CHANNEL00001061</display-name>
+  </channel>
+  <channel id="CCTV女性时尚"><display-name lang="zh">CCTV女性时尚</display-name><display-name lang="zh">CCTV-女性时尚</display-name><display-name lang="zh">女性时尚</display-name>
+  </channel>
+  <channel id="CCTV央视台球"><display-name lang="zh">CCTV央视台球</display-name><display-name lang="zh">CCTV-央视台球</display-name><display-name lang="zh">央视台球</display-name>
+  </channel>
+  <channel id="中视购物"><display-name lang="zh">中视购物</display-name><display-name lang="zh">CCTV-中视购物</display-name>
+  </channel>
+  <channel id="江苏影视"><display-name lang="zh">江苏影视</display-name>
+  </channel>
+  <channel id="CCTV17"><display-name lang="zh">CCTV-17 农业农村</display-name><display-name lang="zh">CCTV-17 农业农村</display-name><display-name lang="zh">CCTV17农业农村</display-name><display-name lang="zh">CHANNEL00000303</display-name><display-name lang="zh">CCTV-17</display-name><display-name lang="zh">CCTV-17农业农村</display-name><display-name lang="zh">CCTV 17</display-name><display-name lang="zh">CCTV-17 高清</display-name><display-name lang="zh">CCTV17 高清</display-name>
+  </channel>
+  <channel id="北京卫视"><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京</display-name><display-name lang="zh">北京卫视-4K</display-name><display-name lang="zh">北京卫视4K</display-name><display-name lang="zh">CHANNEL00000302</display-name>
+  </channel>
+  <channel id="昌乐综合"><display-name lang="zh">昌乐综合</display-name><display-name lang="zh">昌乐综合</display-name><display-name lang="zh">CHANNEL00001033</display-name>
+  </channel>
+  <channel id="东南卫视"><display-name lang="zh">东南卫视</display-name><display-name lang="zh">东南卫视</display-name><display-name lang="zh">东南</display-name><display-name lang="zh">CHANNEL00000310</display-name>
+  </channel>
+  <channel id="书画"><display-name lang="zh">书画</display-name><display-name lang="zh">书画</display-name><display-name lang="zh">CHANNEL00000651</display-name>
+  </channel>
+  <channel id="广西卫视"><display-name lang="zh">广西卫视</display-name><display-name lang="zh">广西卫视</display-name><display-name lang="zh">广西</display-name><display-name lang="zh">CHANNEL00000368</display-name>
+  </channel>
+  <channel id="CCTV13"><display-name lang="zh">CCTV-13 新闻</display-name><display-name lang="zh">CCTV-13 新闻</display-name><display-name lang="zh">CCTV13新闻</display-name><display-name lang="zh">CHANNEL00000345</display-name><display-name lang="zh">CCTV-13</display-name><display-name lang="zh">CCTV-13新闻</display-name><display-name lang="zh">CCTV 13</display-name><display-name lang="zh">CCTV-13 高清</display-name><display-name lang="zh">CCTV13 高清</display-name>
+  </channel>
+  <channel id="CCTV风云足球"><display-name lang="zh">CCTV风云足球</display-name><display-name lang="zh">CCTV-风云足球</display-name><display-name lang="zh">风云足球</display-name>
+  </channel>
+  <channel id="江苏国际"><display-name lang="zh">江苏国际</display-name>
+  </channel>
+  <channel id="中医药"><display-name lang="zh">中医药</display-name><display-name lang="zh">中医药</display-name>
+  </channel>
+  <channel id="淄博文旅"><display-name lang="zh">淄博文旅</display-name><display-name lang="zh">淄博文旅</display-name><display-name lang="zh">CHANNEL00000293</display-name><display-name lang="zh">淄博文旅频道</display-name>
+  </channel>
+  <channel id="湖南卫视"><display-name lang="zh">湖南卫视</display-name><display-name lang="zh">湖南卫视</display-name><display-name lang="zh">湖南</display-name><display-name lang="zh">湖南卫视-4K</display-name><display-name lang="zh">湖南卫视4K</display-name><display-name lang="zh">CHANNEL00000324</display-name>
+  </channel>
+  <channel id="兖州综合"><display-name lang="zh">兖州综合</display-name><display-name lang="zh">兖州新闻</display-name><display-name lang="zh">CHANNEL00001051</display-name><display-name lang="zh">兖州新闻频道</display-name><display-name lang="zh">YNTV-1</display-name>
   </channel>
   <programme start="20260604000000 +0800" stop="20260604010000 +0800" channel="CGTN"><title lang="zh">全球财经</title>
   </programme>
@@ -9865,7 +9865,7 @@
   </programme>
   <programme start="20260604104030 +0800" stop="20260604115600 +0800" channel="CCTV15"><title lang="zh">精彩音乐汇-我的爱对你说-2026-64</title><desc>央视首档互动点歌节目，以“经典+流行”为主线，汇聚最好听的经典老歌与热门流行金曲，通过卡拉OK字幕与观众点歌TOP榜增强互动性，让观众在歌声中感受时光里的温暖印记。</desc>
   </programme>
-  <programme start="20260604115600 +0800" stop="20260604132930 +0800" channel="CCTV15"><title lang="zh">CCTV音乐厅-和美之夜（2）-</title>
+  <programme start="20260604115600 +0800" stop="20260604132930 +0800" channel="CCTV15"><title lang="zh">CCTV音乐厅-和美之夜（2）-</title><desc>二十余位实力唱将集结，倾情献唱经典之作。3000架无人机巡飞，重现李白、王勃笔下壮阔诗景。资深表演艺术家领诵，引万人相和。《和美之夜》聚焦“和美”文化，融合当下年轻人喜欢的音乐节文化，通过众人齐诵诗词的方式串联，打造了一场兼具文化与时尚的和美盛宴。</desc>
   </programme>
   <programme start="20260604132930 +0800" stop="20260604150400 +0800" channel="CCTV15"><title lang="zh">影视留声机-2026-3-经典电影欣赏《柳堡的故事》</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
   </programme>
@@ -13053,728 +13053,6 @@
   </programme>
   <programme start="20260604233000 +0800" stop="20260605000000 +0800" channel="法治天地"><title lang="zh">法治新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
-  <programme start="20260604000000 +0800" stop="20260604000700 +0800" channel="24"><title lang="zh">小巷人家-28</title><desc>《小巷人家》是一部以城市小巷为背景的年代剧，讲述了小巷里几户人家的生活故事和情感纠葛。该剧通过细腻的人物刻画和真实的生活场景，展现了普通市民的生活状态和情感世界，传递了邻里互助、家庭温馨的正能量。</desc>
-  </programme>
-  <programme start="20260604000700 +0800" stop="20260604041700 +0800" channel="24"><title lang="zh">戏宇宙第二季</title>
-  </programme>
-  <programme start="20260604041700 +0800" stop="20260604045300 +0800" channel="24"><title lang="zh">苍狼-46</title>
-  </programme>
-  <programme start="20260604045300 +0800" stop="20260604053500 +0800" channel="24"><title lang="zh">苍狼-47</title>
-  </programme>
-  <programme start="20260604053500 +0800" stop="20260604062200 +0800" channel="24"><title lang="zh">苍狼-48</title>
-  </programme>
-  <programme start="20260604062200 +0800" stop="20260604065600 +0800" channel="24"><title lang="zh">纪录片：记住乡愁</title><desc>《记住乡愁》由中央宣传部、住房和城乡建设部、国家新闻出版广电总局、国家文物局组织实施，中央电视台组织拍摄。将选取全国100个以上的传统村落进行拍摄，梳理传统村落的发展脉络，聚焦海内外华人记忆中的乡愁，深入挖掘和阐述中华优秀传统文化的时代价值。</desc>
-  </programme>
-  <programme start="20260604065600 +0800" stop="20260604073200 +0800" channel="24"><title lang="zh">早安山东</title><desc>山东卫视早间新闻资讯栏目，聚焦齐鲁大地的时政要闻、经济动态、民生热点及社会事件，突出地域特色与政策导向，涵盖重大工程建设、乡村振兴实践、文化传承创新、生态文明建设等多元主题，同时网罗昨夜今晨国内外重大新闻，提供天气、出行等综合服务信息，是了解山东经济社会发展的重要窗口。</desc>
-  </programme>
-  <programme start="20260604073200 +0800" stop="20260604080600 +0800" channel="24"><title lang="zh">乐享食光</title><desc>山东卫视生活服务类美食节目，以“寻味齐鲁，乐享食光”为核心理念，每期探访山东各地特色美食与市井烟火，从济南把子肉到胶东海鲜，从鲁菜经典到民间小吃，记录食材从田间到餐桌的旅程。节目注重美食与人文的结合，通过寻味、烹饪、品尝、分享等环节，展现齐鲁饮食文化的深厚底蕴与生活美学，传递“好好吃饭，认真生活”的人生态度。</desc>
-  </programme>
-  <programme start="20260604080600 +0800" stop="20260604085300 +0800" channel="24"><title lang="zh">红娘子-16</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
-  </programme>
-  <programme start="20260604085300 +0800" stop="20260604094600 +0800" channel="24"><title lang="zh">红娘子-17</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
-  </programme>
-  <programme start="20260604094600 +0800" stop="20260604103100 +0800" channel="24"><title lang="zh">大医本草堂</title><desc>山东卫视健康养生互动访谈节目，以“健康生活，科学养生”为内容定位，以“科学、实用、和谐”为原则，汇集全国资深名医专家现场解答健康困惑与养生误区，通过中医之美、养生妙招、膳食厨房三大主题模块，传授简单实用的养生妙方、按摩手法及日常膳食食谱，将健康养生知识用生动活泼的形式传递给观众。</desc>
-  </programme>
-  <programme start="20260604103100 +0800" stop="20260604112000 +0800" channel="24"><title lang="zh">红娘子-18</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
-  </programme>
-  <programme start="20260604112000 +0800" stop="20260604121600 +0800" channel="24"><title lang="zh">红娘子-19</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
-  </programme>
-  <programme start="20260604121600 +0800" stop="20260604130100 +0800" channel="24"><title lang="zh">红娘子-20</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
-  </programme>
-  <programme start="20260604130100 +0800" stop="20260604134800 +0800" channel="24"><title lang="zh">红娘子-21</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
-  </programme>
-  <programme start="20260604134800 +0800" stop="20260604143800 +0800" channel="24"><title lang="zh">红娘子-22</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
-  </programme>
-  <programme start="20260604143800 +0800" stop="20260604151700 +0800" channel="24"><title lang="zh">红娘子-23</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
-  </programme>
-  <programme start="20260604151700 +0800" stop="20260604160800 +0800" channel="24"><title lang="zh">红娘子-24</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
-  </programme>
-  <programme start="20260604160800 +0800" stop="20260604165300 +0800" channel="24"><title lang="zh">红娘子-25</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
-  </programme>
-  <programme start="20260604165300 +0800" stop="20260604174300 +0800" channel="24"><title lang="zh">红娘子-26</title><desc>郭靖宇编剧并执导的红色传奇剧，王珞丹、杨志刚、刘威主演。讲述上世纪三十年代，红军女战士王小红为给根据地筹集药品，假扮新娘坐花轿进城，却被土匪误抢上黑龙山，阴差阳错与梅家大少爷梅贤祖结下不解之缘。她凭借精湛医术赢得“红娘子”之名，在军阀盘踞的玉屏县与梅贤祖从冤家变战友，上演一段荡气回肠的革命爱情故事。</desc>
-  </programme>
-  <programme start="20260604174300 +0800" stop="20260604182200 +0800" channel="24"><title lang="zh">乐享食光</title><desc>山东卫视生活服务类美食节目，以“寻味齐鲁，乐享食光”为核心理念，每期探访山东各地特色美食与市井烟火，从济南把子肉到胶东海鲜，从鲁菜经典到民间小吃，记录食材从田间到餐桌的旅程。节目注重美食与人文的结合，通过寻味、烹饪、品尝、分享等环节，展现齐鲁饮食文化的深厚底蕴与生活美学，传递“好好吃饭，认真生活”的人生态度。</desc>
-  </programme>
-  <programme start="20260604182200 +0800" stop="20260604183000 +0800" channel="24"><title lang="zh">齐鲁先锋</title><desc>山东省委组织部与山东广播电视台联合推出的党建电视栏目，聚焦全省党的建设和组织工作，宣传先进基层党组织和优秀共产党员的典型经验，报道各地党建工作的创新实践与成功做法。节目通过典型事迹再现、人物访谈、工作纪实等形式，弘扬“信念坚定、对党忠诚、担当作为、干事创业”的先锋精神，是开展党员教育、传播党建经验的重要阵地。口号：“弘扬先锋精神，凝聚奋进力量。”</desc>
-  </programme>
-  <programme start="20260604183000 +0800" stop="20260604190000 +0800" channel="24"><title lang="zh">山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
-  </programme>
-  <programme start="20260604190000 +0800" stop="20260604193600 +0800" channel="24"><title lang="zh">中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
-  </programme>
-  <programme start="20260604193600 +0800" stop="20260604202900 +0800" channel="24"><title lang="zh">太平年-42</title><desc>公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。</desc>
-  </programme>
-  <programme start="20260604202900 +0800" stop="20260604212200 +0800" channel="24"><title lang="zh">太平年-43</title><desc>公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。</desc>
-  </programme>
-  <programme start="20260604212200 +0800" stop="20260604212900 +0800" channel="24"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
-  </programme>
-  <programme start="20260604212900 +0800" stop="20260604214000 +0800" channel="24"><title lang="zh">守护：警惕身边的泄密风险-5</title>
-  </programme>
-  <programme start="20260604214000 +0800" stop="20260604220000 +0800" channel="24"><title lang="zh">纪录片：国宝时刻</title><desc>《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。</desc>
-  </programme>
-  <programme start="20260604220000 +0800" stop="20260604222900 +0800" channel="24"><title lang="zh">山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
-  </programme>
-  <programme start="20260604222900 +0800" stop="20260604234000 +0800" channel="24"><title lang="zh">小巷人家-29</title><desc>《小巷人家》是一部以城市小巷为背景的年代剧，讲述了小巷里几户人家的生活故事和情感纠葛。该剧通过细腻的人物刻画和真实的生活场景，展现了普通市民的生活状态和情感世界，传递了邻里互助、家庭温馨的正能量。</desc>
-  </programme>
-  <programme start="20260604234000 +0800" stop="20260604235959 +0800" channel="24"><title lang="zh">小巷人家-30</title><desc>《小巷人家》是一部以城市小巷为背景的年代剧，讲述了小巷里几户人家的生活故事和情感纠葛。该剧通过细腻的人物刻画和真实的生活场景，展现了普通市民的生活状态和情感世界，传递了邻里互助、家庭温馨的正能量。</desc>
-  </programme>
-  <programme start="20260604000000 +0800" stop="20260604001356 +0800" channel="25"><title lang="zh">豆娘</title>
-  </programme>
-  <programme start="20260604001356 +0800" stop="20260604005548 +0800" channel="25"><title lang="zh">豆娘</title>
-  </programme>
-  <programme start="20260604005548 +0800" stop="20260604013732 +0800" channel="25"><title lang="zh">豆娘</title>
-  </programme>
-  <programme start="20260604013732 +0800" stop="20260604021904 +0800" channel="25"><title lang="zh">豆娘</title>
-  </programme>
-  <programme start="20260604021904 +0800" stop="20260604030048 +0800" channel="25"><title lang="zh">豆娘</title>
-  </programme>
-  <programme start="20260604030048 +0800" stop="20260604034232 +0800" channel="25"><title lang="zh">豆娘</title>
-  </programme>
-  <programme start="20260604034232 +0800" stop="20260604042357 +0800" channel="25"><title lang="zh">豆娘</title>
-  </programme>
-  <programme start="20260604042357 +0800" stop="20260604050541 +0800" channel="25"><title lang="zh">豆娘</title>
-  </programme>
-  <programme start="20260604050541 +0800" stop="20260604054437 +0800" channel="25"><title lang="zh">豆娘</title>
-  </programme>
-  <programme start="20260604054437 +0800" stop="20260604060242 +0800" channel="25"><title lang="zh">小溪办事</title><desc>山东广播电视台齐鲁频道的公益服务类栏目，2012年1月1日开播，被誉为继《拉呱》之后的又一张“公益名片”。节目以“小溪热心肠，有事我帮忙”为口号，由“小溪特派员”与“小溪别动队”两大版块组成：前者通过纪实跟拍展现曲折的办事过程，后者以短平快的方式快速响应群众诉求。栏目聚焦消费维权、公益寻亲、助农济困等民生难题，同步在抖音、快手等平台开展网络直播，2023年网络直播点赞量超3600万，居省级台主要新闻账号首位，其“团圆行动”系列已帮助众多走失人员与家人团聚。</desc>
-  </programme>
-  <programme start="20260604060242 +0800" stop="20260604061747 +0800" channel="25"><title lang="zh">每日新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
-  </programme>
-  <programme start="20260604061747 +0800" stop="20260604065842 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604065842 +0800" stop="20260604073147 +0800" channel="25"><title lang="zh">狗剩快跑</title>
-  </programme>
-  <programme start="20260604073147 +0800" stop="20260604080517 +0800" channel="25"><title lang="zh">狗剩快跑</title>
-  </programme>
-  <programme start="20260604080517 +0800" stop="20260604082517 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604082517 +0800" stop="20260604085717 +0800" channel="25"><title lang="zh">狗剩快跑</title>
-  </programme>
-  <programme start="20260604085717 +0800" stop="20260604092008 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604092008 +0800" stop="20260604095858 +0800" channel="25"><title lang="zh">狗剩快跑</title>
-  </programme>
-  <programme start="20260604095858 +0800" stop="20260604104013 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604104013 +0800" stop="20260604110134 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604110134 +0800" stop="20260604112604 +0800" channel="25"><title lang="zh">小溪办事</title><desc>山东广播电视台齐鲁频道的公益服务类栏目，2012年1月1日开播，被誉为继《拉呱》之后的又一张“公益名片”。节目以“小溪热心肠，有事我帮忙”为口号，由“小溪特派员”与“小溪别动队”两大版块组成：前者通过纪实跟拍展现曲折的办事过程，后者以短平快的方式快速响应群众诉求。栏目聚焦消费维权、公益寻亲、助农济困等民生难题，同步在抖音、快手等平台开展网络直播，2023年网络直播点赞量超3600万，居省级台主要新闻账号首位，其“团圆行动”系列已帮助众多走失人员与家人团聚。</desc>
-  </programme>
-  <programme start="20260604112604 +0800" stop="20260604115629 +0800" channel="25"><title lang="zh">家乡味道</title><desc>中央电视台科教频道（CCTV-10）首档美食文化探索类全媒体栏目，前身为品牌特别节目《味道》。由主持人组成“味道调查团”，以调查美食悬念任务为主要形式，深入全国各地探寻特色美食与民风民俗，围绕“与文化学者同行、品鉴美食文化、留住乡愁记忆”的定位，运用“美食+”思维传播中华美食文化，口号为“让生活更有味”。</desc>
-  </programme>
-  <programme start="20260604115629 +0800" stop="20260604121714 +0800" channel="25"><title lang="zh">拉呱</title><desc>山东广播电视台齐鲁频道民生新闻栏目，2005年10月31日开播，每日17:20首播，由小么哥（张勇）、鄢磊、张帆以山东方言主持。节目开创“曲艺式新闻”先河，将相声、快书、评书等曲艺形式融入新闻报道，主持人以“拉家常”方式播报。栏目聚焦百姓日常生活的点滴，从邻里纠纷、家长里短到社会热点，以小切口反映大主题，兼具抑恶扬善、扶危济困的社会功能。设有“拉呱红黑榜”“我来调解”“毫光工程”等特色板块，弘扬正能量、开展建设性监督。开播以来收视率长期位居同时段前列，收视份额超20%，被誉为“全国首档曲艺式新闻节目”。</desc>
-  </programme>
-  <programme start="20260604121714 +0800" stop="20260604122714 +0800" channel="25"><title lang="zh">现场直击</title><desc>中央电视台社会与法频道（CCTV-12）庭审纪实栏目，前身为《庭审现场》，2021年更名。每期选取一起典型案件，深入法庭内外全景记录庭审过程，展现控辩双方交锋、法官审理、当事人陈述等真实场景，邀请法学专家同步解析案件背后的法律问题与社会意义。节目以案说法，普及法律知识，彰显司法公正。首播时间：每周六20:07，每期约50分钟。口号：“走进法庭，感受正义。”</desc>
-  </programme>
-  <programme start="20260604122714 +0800" stop="20260604130159 +0800" channel="25"><title lang="zh">烽火巾帼</title>
-  </programme>
-  <programme start="20260604130159 +0800" stop="20260604132234 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604132234 +0800" stop="20260604135549 +0800" channel="25"><title lang="zh">烽火巾帼</title>
-  </programme>
-  <programme start="20260604135549 +0800" stop="20260604141614 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604141614 +0800" stop="20260604144714 +0800" channel="25"><title lang="zh">烽火巾帼</title>
-  </programme>
-  <programme start="20260604144714 +0800" stop="20260604150739 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604150739 +0800" stop="20260604153854 +0800" channel="25"><title lang="zh">烽火巾帼</title>
-  </programme>
-  <programme start="20260604153854 +0800" stop="20260604160209 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604160209 +0800" stop="20260604164540 +0800" channel="25"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604164540 +0800" stop="20260604172000 +0800" channel="25"><title lang="zh">家乡味道</title><desc>中央电视台科教频道（CCTV-10）首档美食文化探索类全媒体栏目，前身为品牌特别节目《味道》。由主持人组成“味道调查团”，以调查美食悬念任务为主要形式，深入全国各地探寻特色美食与民风民俗，围绕“与文化学者同行、品鉴美食文化、留住乡愁记忆”的定位，运用“美食+”思维传播中华美食文化，口号为“让生活更有味”。</desc>
-  </programme>
-  <programme start="20260604172000 +0800" stop="20260604174500 +0800" channel="25"><title lang="zh">拉呱</title><desc>山东广播电视台齐鲁频道民生新闻栏目，2005年10月31日开播，每日17:20首播，由小么哥（张勇）、鄢磊、张帆以山东方言主持。节目开创“曲艺式新闻”先河，将相声、快书、评书等曲艺形式融入新闻报道，主持人以“拉家常”方式播报。栏目聚焦百姓日常生活的点滴，从邻里纠纷、家长里短到社会热点，以小切口反映大主题，兼具抑恶扬善、扶危济困的社会功能。设有“拉呱红黑榜”“我来调解”“毫光工程”等特色板块，弘扬正能量、开展建设性监督。开播以来收视率长期位居同时段前列，收视份额超20%，被誉为“全国首档曲艺式新闻节目”。</desc>
-  </programme>
-  <programme start="20260604174500 +0800" stop="20260604181500 +0800" channel="25"><title lang="zh">小溪办事</title><desc>山东广播电视台齐鲁频道的公益服务类栏目，2012年1月1日开播，被誉为继《拉呱》之后的又一张“公益名片”。节目以“小溪热心肠，有事我帮忙”为口号，由“小溪特派员”与“小溪别动队”两大版块组成：前者通过纪实跟拍展现曲折的办事过程，后者以短平快的方式快速响应群众诉求。栏目聚焦消费维权、公益寻亲、助农济困等民生难题，同步在抖音、快手等平台开展网络直播，2023年网络直播点赞量超3600万，居省级台主要新闻账号首位，其“团圆行动”系列已帮助众多走失人员与家人团聚。</desc>
-  </programme>
-  <programme start="20260604181500 +0800" stop="20260604182500 +0800" channel="25"><title lang="zh">现场直击</title><desc>中央电视台社会与法频道（CCTV-12）庭审纪实栏目，前身为《庭审现场》，2021年更名。每期选取一起典型案件，深入法庭内外全景记录庭审过程，展现控辩双方交锋、法官审理、当事人陈述等真实场景，邀请法学专家同步解析案件背后的法律问题与社会意义。节目以案说法，普及法律知识，彰显司法公正。首播时间：每周六20:07，每期约50分钟。口号：“走进法庭，感受正义。”</desc>
-  </programme>
-  <programme start="20260604182500 +0800" stop="20260604190000 +0800" channel="25"><title lang="zh">每日新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
-  </programme>
-  <programme start="20260604190000 +0800" stop="20260604190525 +0800" channel="25"><title lang="zh">关注</title><desc>《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
-  </programme>
-  <programme start="20260604190525 +0800" stop="20260604195655 +0800" channel="25"><title lang="zh">齐鲁英豪</title>
-  </programme>
-  <programme start="20260604195655 +0800" stop="20260604204901 +0800" channel="25"><title lang="zh">齐鲁英豪</title>
-  </programme>
-  <programme start="20260604204901 +0800" stop="20260604213006 +0800" channel="25"><title lang="zh">齐鲁英豪</title>
-  </programme>
-  <programme start="20260604213006 +0800" stop="20260604220826 +0800" channel="25"><title lang="zh">齐鲁英豪</title>
-  </programme>
-  <programme start="20260604220826 +0800" stop="20260604224921 +0800" channel="25"><title lang="zh">翡翠奇缘</title><desc>大型翡翠文化纪录片，历经六年筹备与拍摄，跨越近十万公里，深入缅甸翡翠矿区及云南、广东等翡翠交易集散地，全景记录翡翠从原石开采到成品加工的全产业链。节目以纪实影像探寻翡翠的历史渊源、地质成因与工艺传承，展现这一东方瑰宝的独特魅力与文化内涵。</desc>
-  </programme>
-  <programme start="20260604224921 +0800" stop="20260604233223 +0800" channel="25"><title lang="zh">豆娘</title>
-  </programme>
-  <programme start="20260604233223 +0800" stop="20260604235959 +0800" channel="25"><title lang="zh">豆娘</title>
-  </programme>
-  <programme start="20260604000000 +0800" stop="20260604000520 +0800" channel="31"><title lang="zh">健康山东</title>
-  </programme>
-  <programme start="20260604000520 +0800" stop="20260604004520 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
-  </programme>
-  <programme start="20260604004520 +0800" stop="20260604012020 +0800" channel="31"><title lang="zh">理响中国</title>
-  </programme>
-  <programme start="20260604012020 +0800" stop="20260604012820 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
-  </programme>
-  <programme start="20260604012820 +0800" stop="20260604013320 +0800" channel="31"><title lang="zh">齐鲁先锋</title><desc>山东省委组织部与山东广播电视台联合推出的党建电视栏目，聚焦全省党的建设和组织工作，宣传先进基层党组织和优秀共产党员的典型经验，报道各地党建工作的创新实践与成功做法。节目通过典型事迹再现、人物访谈、工作纪实等形式，弘扬“信念坚定、对党忠诚、担当作为、干事创业”的先锋精神，是开展党员教育、传播党建经验的重要阵地。口号：“弘扬先锋精神，凝聚奋进力量。”</desc>
-  </programme>
-  <programme start="20260604013320 +0800" stop="20260604015720 +0800" channel="31"><title lang="zh">健康山东</title>
-  </programme>
-  <programme start="20260604015720 +0800" stop="20260604023720 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
-  </programme>
-  <programme start="20260604023720 +0800" stop="20260604031220 +0800" channel="31"><title lang="zh">理响中国</title>
-  </programme>
-  <programme start="20260604031220 +0800" stop="20260604032020 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
-  </programme>
-  <programme start="20260604032020 +0800" stop="20260604032840 +0800" channel="31"><title lang="zh">齐鲁先锋</title><desc>山东省委组织部与山东广播电视台联合推出的党建电视栏目，聚焦全省党的建设和组织工作，宣传先进基层党组织和优秀共产党员的典型经验，报道各地党建工作的创新实践与成功做法。节目通过典型事迹再现、人物访谈、工作纪实等形式，弘扬“信念坚定、对党忠诚、担当作为、干事创业”的先锋精神，是开展党员教育、传播党建经验的重要阵地。口号：“弘扬先锋精神，凝聚奋进力量。”</desc>
-  </programme>
-  <programme start="20260604032840 +0800" stop="20260604040840 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
-  </programme>
-  <programme start="20260604040840 +0800" stop="20260604041640 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
-  </programme>
-  <programme start="20260604041640 +0800" stop="20260604045640 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
-  </programme>
-  <programme start="20260604045640 +0800" stop="20260604050440 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
-  </programme>
-  <programme start="20260604050440 +0800" stop="20260604052840 +0800" channel="31"><title lang="zh">健康山东</title>
-  </programme>
-  <programme start="20260604052840 +0800" stop="20260604053000 +0800" channel="31"><title lang="zh">大美齐鲁</title>
-  </programme>
-  <programme start="20260604053000 +0800" stop="20260604055000 +0800" channel="31"><title lang="zh">五洲四海山东人</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604055000 +0800" stop="20260604063000 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
-  </programme>
-  <programme start="20260604063000 +0800" stop="20260604065600 +0800" channel="31"><title lang="zh">健康山东</title>
-  </programme>
-  <programme start="20260604065600 +0800" stop="20260604073200 +0800" channel="31"><title lang="zh">早安山东</title><desc>山东卫视早间新闻资讯栏目，聚焦齐鲁大地的时政要闻、经济动态、民生热点及社会事件，突出地域特色与政策导向，涵盖重大工程建设、乡村振兴实践、文化传承创新、生态文明建设等多元主题，同时网罗昨夜今晨国内外重大新闻，提供天气、出行等综合服务信息，是了解山东经济社会发展的重要窗口。</desc>
-  </programme>
-  <programme start="20260604073200 +0800" stop="20260604080600 +0800" channel="31"><title lang="zh">早安山东</title><desc>山东卫视早间新闻资讯栏目，聚焦齐鲁大地的时政要闻、经济动态、民生热点及社会事件，突出地域特色与政策导向，涵盖重大工程建设、乡村振兴实践、文化传承创新、生态文明建设等多元主题，同时网罗昨夜今晨国内外重大新闻，提供天气、出行等综合服务信息，是了解山东经济社会发展的重要窗口。</desc>
-  </programme>
-  <programme start="20260604080600 +0800" stop="20260604083140 +0800" channel="31"><title lang="zh">山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
-  </programme>
-  <programme start="20260604083140 +0800" stop="20260604090010 +0800" channel="31"><title lang="zh">记住乡愁</title><desc>《记住乡愁》由中央宣传部、住房和城乡建设部、国家新闻出版广电总局、国家文物局组织实施，中央电视台组织拍摄。将选取全国100个以上的传统村落进行拍摄，梳理传统村落的发展脉络，聚焦海内外华人记忆中的乡愁，深入挖掘和阐述中华优秀传统文化的时代价值。</desc>
-  </programme>
-  <programme start="20260604090010 +0800" stop="20260604090610 +0800" channel="31"><title lang="zh">光耀齐鲁</title>
-  </programme>
-  <programme start="20260604090610 +0800" stop="20260604091650 +0800" channel="31"><title lang="zh">光耀齐鲁</title>
-  </programme>
-  <programme start="20260604091650 +0800" stop="20260604100000 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
-  </programme>
-  <programme start="20260604100000 +0800" stop="20260604103200 +0800" channel="31"><title lang="zh">闪电直播间</title>
-  </programme>
-  <programme start="20260604103200 +0800" stop="20260604105600 +0800" channel="31"><title lang="zh">健康山东</title>
-  </programme>
-  <programme start="20260604105600 +0800" stop="20260604110540 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
-  </programme>
-  <programme start="20260604110540 +0800" stop="20260604111300 +0800" channel="31"><title lang="zh">齐鲁先锋</title><desc>山东省委组织部与山东广播电视台联合推出的党建电视栏目，聚焦全省党的建设和组织工作，宣传先进基层党组织和优秀共产党员的典型经验，报道各地党建工作的创新实践与成功做法。节目通过典型事迹再现、人物访谈、工作纪实等形式，弘扬“信念坚定、对党忠诚、担当作为、干事创业”的先锋精神，是开展党员教育、传播党建经验的重要阵地。口号：“弘扬先锋精神，凝聚奋进力量。”</desc>
-  </programme>
-  <programme start="20260604111300 +0800" stop="20260604113000 +0800" channel="31"><title lang="zh">天下潍观</title>
-  </programme>
-  <programme start="20260604113000 +0800" stop="20260604123100 +0800" channel="31"><title lang="zh">新闻午班车</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
-  </programme>
-  <programme start="20260604123100 +0800" stop="20260604123330 +0800" channel="31"><title lang="zh">山东省海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
-  </programme>
-  <programme start="20260604123330 +0800" stop="20260604125330 +0800" channel="31"><title lang="zh">精致威海--直通威海高新区</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
-  </programme>
-  <programme start="20260604125330 +0800" stop="20260604131715 +0800" channel="31"><title lang="zh">大抗战</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
-  </programme>
-  <programme start="20260604131715 +0800" stop="20260604134800 +0800" channel="31"><title lang="zh">大抗战</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
-  </programme>
-  <programme start="20260604134800 +0800" stop="20260604135750 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
-  </programme>
-  <programme start="20260604135750 +0800" stop="20260604141355 +0800" channel="31"><title lang="zh">五洲四海山东人</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604141355 +0800" stop="20260604150000 +0800" channel="31"><title lang="zh">纪录片2026：大河之洲第二季</title>
-  </programme>
-  <programme start="20260604150000 +0800" stop="20260604153115 +0800" channel="31"><title lang="zh">闪电直播间</title>
-  </programme>
-  <programme start="20260604153115 +0800" stop="20260604160645 +0800" channel="31"><title lang="zh">理响中国</title>
-  </programme>
-  <programme start="20260604160645 +0800" stop="20260604161410 +0800" channel="31"><title lang="zh">光耀齐鲁</title>
-  </programme>
-  <programme start="20260604161410 +0800" stop="20260604162945 +0800" channel="31"><title lang="zh">旗帜引领 齐鲁标兵</title>
-  </programme>
-  <programme start="20260604162945 +0800" stop="20260604165410 +0800" channel="31"><title lang="zh">健康山东</title>
-  </programme>
-  <programme start="20260604165410 +0800" stop="20260604171930 +0800" channel="31"><title lang="zh">记住乡愁</title><desc>《记住乡愁》由中央宣传部、住房和城乡建设部、国家新闻出版广电总局、国家文物局组织实施，中央电视台组织拍摄。将选取全国100个以上的传统村落进行拍摄，梳理传统村落的发展脉络，聚焦海内外华人记忆中的乡愁，深入挖掘和阐述中华优秀传统文化的时代价值。</desc>
-  </programme>
-  <programme start="20260604171930 +0800" stop="20260604173930 +0800" channel="31"><title lang="zh">五洲四海山东人</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604173930 +0800" stop="20260604180000 +0800" channel="31"><title lang="zh">山东教育新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
-
-节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
-
-节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
-  </programme>
-  <programme start="20260604180000 +0800" stop="20260604183000 +0800" channel="31"><title lang="zh">健康山东</title>
-  </programme>
-  <programme start="20260604183000 +0800" stop="20260604185700 +0800" channel="31"><title lang="zh">山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
-  </programme>
-  <programme start="20260604185700 +0800" stop="20260604192500 +0800" channel="31"><title lang="zh">记住乡愁</title><desc>《记住乡愁》由中央宣传部、住房和城乡建设部、国家新闻出版广电总局、国家文物局组织实施，中央电视台组织拍摄。将选取全国100个以上的传统村落进行拍摄，梳理传统村落的发展脉络，聚焦海内外华人记忆中的乡愁，深入挖掘和阐述中华优秀传统文化的时代价值。</desc>
-  </programme>
-  <programme start="20260604192500 +0800" stop="20260604193000 +0800" channel="31"><title lang="zh">关注</title><desc>《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
-  </programme>
-  <programme start="20260604193000 +0800" stop="20260604201615 +0800" channel="31"><title lang="zh">闪电大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
-  </programme>
-  <programme start="20260604201615 +0800" stop="20260604205220 +0800" channel="31"><title lang="zh">理响中国</title>
-  </programme>
-  <programme start="20260604205220 +0800" stop="20260604205730 +0800" channel="31"><title lang="zh">国宝时刻</title><desc>《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。</desc>
-  </programme>
-  <programme start="20260604205730 +0800" stop="20260604210000 +0800" channel="31"><title lang="zh">山东省海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
-  </programme>
-  <programme start="20260604210000 +0800" stop="20260604211150 +0800" channel="31"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
-  </programme>
-  <programme start="20260604211150 +0800" stop="20260604211650 +0800" channel="31"><title lang="zh">齐鲁先锋</title><desc>山东省委组织部与山东广播电视台联合推出的党建电视栏目，聚焦全省党的建设和组织工作，宣传先进基层党组织和优秀共产党员的典型经验，报道各地党建工作的创新实践与成功做法。节目通过典型事迹再现、人物访谈、工作纪实等形式，弘扬“信念坚定、对党忠诚、担当作为、干事创业”的先锋精神，是开展党员教育、传播党建经验的重要阵地。口号：“弘扬先锋精神，凝聚奋进力量。”</desc>
-  </programme>
-  <programme start="20260604211650 +0800" stop="20260604214015 +0800" channel="31"><title lang="zh">五洲四海山东人</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604214015 +0800" stop="20260604220000 +0800" channel="31"><title lang="zh">齐鲁女性</title>
-  </programme>
-  <programme start="20260604220000 +0800" stop="20260604222500 +0800" channel="31"><title lang="zh">山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
-  </programme>
-  <programme start="20260604222500 +0800" stop="20260604224030 +0800" channel="31"><title lang="zh">天下潍观</title>
-  </programme>
-  <programme start="20260604224030 +0800" stop="20260604224900 +0800" channel="31"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
-  </programme>
-  <programme start="20260604224900 +0800" stop="20260604225400 +0800" channel="31"><title lang="zh">齐鲁先锋</title><desc>山东省委组织部与山东广播电视台联合推出的党建电视栏目，聚焦全省党的建设和组织工作，宣传先进基层党组织和优秀共产党员的典型经验，报道各地党建工作的创新实践与成功做法。节目通过典型事迹再现、人物访谈、工作纪实等形式，弘扬“信念坚定、对党忠诚、担当作为、干事创业”的先锋精神，是开展党员教育、传播党建经验的重要阵地。口号：“弘扬先锋精神，凝聚奋进力量。”</desc>
-  </programme>
-  <programme start="20260604225400 +0800" stop="20260604231755 +0800" channel="31"><title lang="zh">大抗战</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
-  </programme>
-  <programme start="20260604231755 +0800" stop="20260604234140 +0800" channel="31"><title lang="zh">大抗战</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
-  </programme>
-  <programme start="20260604234140 +0800" stop="20260604235959 +0800" channel="31"><title lang="zh">健康山东</title>
-  </programme>
-  <programme start="20260604000000 +0800" stop="20260604004600 +0800" channel="28"><title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20260604004600 +0800" stop="20260604015000 +0800" channel="28"><title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20260604015000 +0800" stop="20260604025500 +0800" channel="28"><title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20260604025500 +0800" stop="20260604035800 +0800" channel="28"><title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20260604035800 +0800" stop="20260604045700 +0800" channel="28"><title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20260604045700 +0800" stop="20260604055800 +0800" channel="28"><title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20260604055800 +0800" stop="20260604062800 +0800" channel="28"><title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20260604062800 +0800" stop="20260604080300 +0800" channel="28"><title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20260604080300 +0800" stop="20260604083700 +0800" channel="28"><title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20260604083700 +0800" stop="20260604094600 +0800" channel="28"><title lang="zh">中华家庭诗词擂台赛</title>
-  </programme>
-  <programme start="20260604094600 +0800" stop="20260604103700 +0800" channel="28"><title lang="zh">纪录片-典籍中国-春秋</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
-  </programme>
-  <programme start="20260604103700 +0800" stop="20260604114100 +0800" channel="28"><title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20260604114100 +0800" stop="20260604121100 +0800" channel="28"><title lang="zh">专题节目</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604121100 +0800" stop="20260604130100 +0800" channel="28"><title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20260604130100 +0800" stop="20260604140400 +0800" channel="28"><title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20260604140400 +0800" stop="20260604150600 +0800" channel="28"><title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20260604150600 +0800" stop="20260604153600 +0800" channel="28"><title lang="zh">专题节目</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604153600 +0800" stop="20260604163800 +0800" channel="28"><title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20260604163800 +0800" stop="20260604180300 +0800" channel="28"><title lang="zh">专题节目</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604180300 +0800" stop="20260604185500 +0800" channel="28"><title lang="zh">桃花朵朵开</title>
-  </programme>
-  <programme start="20260604185500 +0800" stop="20260604201100 +0800" channel="28"><title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20260604201100 +0800" stop="20260604210700 +0800" channel="28"><title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20260604210700 +0800" stop="20260604212400 +0800" channel="28"><title lang="zh">向快乐出发</title>
-  </programme>
-  <programme start="20260604212400 +0800" stop="20260604214600 +0800" channel="28"><title lang="zh">美好生活·爱情巴士</title>
-  </programme>
-  <programme start="20260604214600 +0800" stop="20260604222300 +0800" channel="28"><title lang="zh">桃花朵朵开</title>
-  </programme>
-  <programme start="20260604222300 +0800" stop="20260604233100 +0800" channel="28"><title lang="zh">快乐向前冲</title>
-  </programme>
-  <programme start="20260604233100 +0800" stop="20260604235959 +0800" channel="28"><title lang="zh">唱响你的歌</title>
-  </programme>
-  <programme start="20260604000000 +0800" stop="20260604013000 +0800" channel="26"><title lang="zh">巅峰赛事</title><desc>国内赛事重点转播中超、CBA,利用CSPN成员台当地体育资源的优势,同时段播出本省球队的比赛。</desc>
-  </programme>
-  <programme start="20260604013000 +0800" stop="20260604015500 +0800" channel="26"><title lang="zh">激情岁月</title>
-  </programme>
-  <programme start="20260604015500 +0800" stop="20260604032500 +0800" channel="26"><title lang="zh">超级赛场精编版</title>
-  </programme>
-  <programme start="20260604032500 +0800" stop="20260604045500 +0800" channel="26"><title lang="zh">巅峰赛事</title><desc>国内赛事重点转播中超、CBA,利用CSPN成员台当地体育资源的优势,同时段播出本省球队的比赛。</desc>
-  </programme>
-  <programme start="20260604045500 +0800" stop="20260604050000 +0800" channel="26"><title lang="zh">酷体育</title>
-  </programme>
-  <programme start="20260604050000 +0800" stop="20260604055600 +0800" channel="26"><title lang="zh">联邦大作战</title>
-  </programme>
-  <programme start="20260604055600 +0800" stop="20260604065500 +0800" channel="26"><title lang="zh">天天耍大牌</title>
-  </programme>
-  <programme start="20260604065500 +0800" stop="20260604072500 +0800" channel="26"><title lang="zh">真相百分百</title>
-  </programme>
-  <programme start="20260604072500 +0800" stop="20260604075000 +0800" channel="26"><title lang="zh">对话体育产业</title>
-  </programme>
-  <programme start="20260604075000 +0800" stop="20260604083000 +0800" channel="26"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604083000 +0800" stop="20260604090000 +0800" channel="26"><title lang="zh">绿茵剧场：兄弟营（45）</title>
-  </programme>
-  <programme start="20260604090000 +0800" stop="20260604094000 +0800" channel="26"><title lang="zh">激情岁月</title>
-  </programme>
-  <programme start="20260604094000 +0800" stop="20260604101000 +0800" channel="26"><title lang="zh">绿茵剧场：兄弟营（46）</title>
-  </programme>
-  <programme start="20260604101000 +0800" stop="20260604104000 +0800" channel="26"><title lang="zh">真相百分百</title>
-  </programme>
-  <programme start="20260604104000 +0800" stop="20260604113000 +0800" channel="26"><title lang="zh">天天耍大牌</title>
-  </programme>
-  <programme start="20260604113000 +0800" stop="20260604120000 +0800" channel="26"><title lang="zh">真相百分百</title>
-  </programme>
-  <programme start="20260604120000 +0800" stop="20260604122000 +0800" channel="26"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
-  </programme>
-  <programme start="20260604122000 +0800" stop="20260604135400 +0800" channel="26"><title lang="zh">超级赛场精编版</title>
-  </programme>
-  <programme start="20260604135400 +0800" stop="20260604142400 +0800" channel="26"><title lang="zh">绿茵剧场：兄弟营（47）</title>
-  </programme>
-  <programme start="20260604142400 +0800" stop="20260604145500 +0800" channel="26"><title lang="zh">绿茵剧场：兄弟营（48</title>
-  </programme>
-  <programme start="20260604145500 +0800" stop="20260604162500 +0800" channel="26"><title lang="zh">巅峰赛事</title><desc>国内赛事重点转播中超、CBA,利用CSPN成员台当地体育资源的优势,同时段播出本省球队的比赛。</desc>
-  </programme>
-  <programme start="20260604162500 +0800" stop="20260604163500 +0800" channel="26"><title lang="zh">酷体育</title>
-  </programme>
-  <programme start="20260604163500 +0800" stop="20260604164500 +0800" channel="26"><title lang="zh">韵动至尚</title>
-  </programme>
-  <programme start="20260604164500 +0800" stop="20260604165500 +0800" channel="26"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
-  </programme>
-  <programme start="20260604165500 +0800" stop="20260604180500 +0800" channel="26"><title lang="zh">联邦大作战</title>
-  </programme>
-  <programme start="20260604180500 +0800" stop="20260604181500 +0800" channel="26"><title lang="zh">真相百分百</title>
-  </programme>
-  <programme start="20260604181500 +0800" stop="20260604192500 +0800" channel="26"><title lang="zh">天天耍大牌</title>
-  </programme>
-  <programme start="20260604192500 +0800" stop="20260604203500 +0800" channel="26"><title lang="zh">侃球时间</title>
-  </programme>
-  <programme start="20260604203500 +0800" stop="20260604212000 +0800" channel="26"><title lang="zh">天天耍大牌精编版</title>
-  </programme>
-  <programme start="20260604212000 +0800" stop="20260604220000 +0800" channel="26"><title lang="zh">翡翠奇缘</title><desc>大型翡翠文化纪录片，历经六年筹备与拍摄，跨越近十万公里，深入缅甸翡翠矿区及云南、广东等翡翠交易集散地，全景记录翡翠从原石开采到成品加工的全产业链。节目以纪实影像探寻翡翠的历史渊源、地质成因与工艺传承，展现这一东方瑰宝的独特魅力与文化内涵。</desc>
-  </programme>
-  <programme start="20260604220000 +0800" stop="20260604221000 +0800" channel="26"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
-  </programme>
-  <programme start="20260604221000 +0800" stop="20260604222000 +0800" channel="26"><title lang="zh">韵动至尚</title>
-  </programme>
-  <programme start="20260604222000 +0800" stop="20260604235000 +0800" channel="26"><title lang="zh">超级赛场精编版</title>
-  </programme>
-  <programme start="20260604235000 +0800" stop="20260604235959 +0800" channel="26"><title lang="zh">体育新闻</title><desc>《体育新闻》是CCTV体育频道的一档体育新闻资讯类节目、收视率很高,受众年龄构成相对广泛,具有极高的忠诚度和美誉度。</desc>
-  </programme>
-  <programme start="20260604000000 +0800" stop="20260604002200 +0800" channel="29"><title lang="zh">中国原产递</title>
-  </programme>
-  <programme start="20260604002200 +0800" stop="20260604004200 +0800" channel="29"><title lang="zh">乐享银龄</title>
-  </programme>
-  <programme start="20260604004200 +0800" stop="20260604013700 +0800" channel="29"><title lang="zh">戏宇宙</title><desc>山东卫视戏曲文化创演节目，以“弘扬戏曲文化，传播中华之美”为宗旨，首创“戏曲+”创演模式，将戏曲艺术与说唱、街舞、摇滚、杂技、微电影等潮流元素跨界融合。节目由创演人通过外景探访戏曲名角与匠人汲取灵感，结合当代艺术进行文艺创作，王珮瑜、张晓龙、郦波等担任戏评人。目前已播出四季：第一季聚焦“家国”“佳人”“绝活”等主题；第二季围绕生旦净丑深入挖掘戏曲人故事；第三季文旅季提出“跟着戏曲去旅行”口号，走进贵州安顺、广东汕头、福建漳州等地，沉浸式探访地方剧种；第四季经典季回归戏曲本体，聚焦《牡丹亭》《白蛇传》等经典IP，以“戏曲+经典解读”形式再现经典。节目获第28届星光奖优秀电视戏曲节目奖。</desc>
-  </programme>
-  <programme start="20260604013700 +0800" stop="20260604021900 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
-  </programme>
-  <programme start="20260604021900 +0800" stop="20260604025100 +0800" channel="29"><title lang="zh">健康生活帮</title>
-  </programme>
-  <programme start="20260604025100 +0800" stop="20260604031600 +0800" channel="29"><title lang="zh">乐享银龄</title>
-  </programme>
-  <programme start="20260604031600 +0800" stop="20260604035800 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
-  </programme>
-  <programme start="20260604035800 +0800" stop="20260604043000 +0800" channel="29"><title lang="zh">健康生活帮</title>
-  </programme>
-  <programme start="20260604043000 +0800" stop="20260604045300 +0800" channel="29"><title lang="zh">乐享银龄</title>
-  </programme>
-  <programme start="20260604045300 +0800" stop="20260604053500 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
-  </programme>
-  <programme start="20260604053500 +0800" stop="20260604055500 +0800" channel="29"><title lang="zh">乐享银龄</title>
-  </programme>
-  <programme start="20260604055500 +0800" stop="20260604062700 +0800" channel="29"><title lang="zh">中国原产递</title>
-  </programme>
-  <programme start="20260604062700 +0800" stop="20260604070900 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
-  </programme>
-  <programme start="20260604070900 +0800" stop="20260604073900 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604073900 +0800" stop="20260604081100 +0800" channel="29"><title lang="zh">健康生活帮</title>
-  </programme>
-  <programme start="20260604081100 +0800" stop="20260604083900 +0800" channel="29"><title lang="zh">潜行者</title>
-  </programme>
-  <programme start="20260604083900 +0800" stop="20260604090000 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604090000 +0800" stop="20260604092800 +0800" channel="29"><title lang="zh">潜行者</title>
-  </programme>
-  <programme start="20260604092800 +0800" stop="20260604094900 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604094900 +0800" stop="20260604101700 +0800" channel="29"><title lang="zh">潜行者</title>
-  </programme>
-  <programme start="20260604101700 +0800" stop="20260604103800 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604103800 +0800" stop="20260604110600 +0800" channel="29"><title lang="zh">潜行者</title>
-  </programme>
-  <programme start="20260604110600 +0800" stop="20260604112600 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604112600 +0800" stop="20260604115900 +0800" channel="29"><title lang="zh">健康生活帮</title>
-  </programme>
-  <programme start="20260604115900 +0800" stop="20260604124000 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
-  </programme>
-  <programme start="20260604124000 +0800" stop="20260604133100 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604133100 +0800" stop="20260604135900 +0800" channel="29"><title lang="zh">潜行者</title>
-  </programme>
-  <programme start="20260604135900 +0800" stop="20260604142000 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604142000 +0800" stop="20260604144700 +0800" channel="29"><title lang="zh">潜行者</title>
-  </programme>
-  <programme start="20260604144700 +0800" stop="20260604150800 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604150800 +0800" stop="20260604153600 +0800" channel="29"><title lang="zh">潜行者</title>
-  </programme>
-  <programme start="20260604153600 +0800" stop="20260604155700 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604155700 +0800" stop="20260604162500 +0800" channel="29"><title lang="zh">潜行者</title>
-  </programme>
-  <programme start="20260604162500 +0800" stop="20260604170000 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604170000 +0800" stop="20260604175500 +0800" channel="29"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
-  </programme>
-  <programme start="20260604175500 +0800" stop="20260604191000 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
-  </programme>
-  <programme start="20260604191000 +0800" stop="20260604194500 +0800" channel="29"><title lang="zh">健康生活帮</title>
-  </programme>
-  <programme start="20260604194500 +0800" stop="20260604200700 +0800" channel="29"><title lang="zh">乐享银龄</title>
-  </programme>
-  <programme start="20260604200700 +0800" stop="20260604210400 +0800" channel="29"><title lang="zh">戏宇宙</title><desc>山东卫视戏曲文化创演节目，以“弘扬戏曲文化，传播中华之美”为宗旨，首创“戏曲+”创演模式，将戏曲艺术与说唱、街舞、摇滚、杂技、微电影等潮流元素跨界融合。节目由创演人通过外景探访戏曲名角与匠人汲取灵感，结合当代艺术进行文艺创作，王珮瑜、张晓龙、郦波等担任戏评人。目前已播出四季：第一季聚焦“家国”“佳人”“绝活”等主题；第二季围绕生旦净丑深入挖掘戏曲人故事；第三季文旅季提出“跟着戏曲去旅行”口号，走进贵州安顺、广东汕头、福建漳州等地，沉浸式探访地方剧种；第四季经典季回归戏曲本体，聚焦《牡丹亭》《白蛇传》等经典IP，以“戏曲+经典解读”形式再现经典。节目获第28届星光奖优秀电视戏曲节目奖。</desc>
-  </programme>
-  <programme start="20260604210400 +0800" stop="20260604213700 +0800" channel="29"><title lang="zh">健康生活帮</title>
-  </programme>
-  <programme start="20260604213700 +0800" stop="20260604220800 +0800" channel="29"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604220800 +0800" stop="20260604225000 +0800" channel="29"><title lang="zh">生活帮</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
-  </programme>
-  <programme start="20260604225000 +0800" stop="20260604232000 +0800" channel="29"><title lang="zh">中国原产递</title>
-  </programme>
-  <programme start="20260604232000 +0800" stop="20260604235200 +0800" channel="29"><title lang="zh">健康生活帮</title>
-  </programme>
-  <programme start="20260604235200 +0800" stop="20260604235959 +0800" channel="29"><title lang="zh">中国原产递</title>
-  </programme>
-  <programme start="20260604000000 +0800" stop="20260604055400 +0800" channel="27"><title lang="zh">文物里的山东</title><desc>“以古人之规矩，开自己之生面”，为展现山东5000年来的历史文化长卷，坚定文化自信，强化使命担当，推动中华优秀传统文化创造性转化、创新性发展。由山东省文化和旅游厅、山东广播电视台联合打造的文史探索类节目《文物里的山东》将于7月8日在山东电视文旅频道播出。文化遗产承载着民族的共同记忆，积淀着中华民族最深层次的精神追求,代表着中华民族独特的精神标识。山东是文化资源大省，齐鲁文化源远流长，孕育了中国传统文化的主干，对中华文化的发展作出了卓越贡献。《文物里的山东》从灿若星河的海岱文化与齐鲁文明中选取11 个闪耀着“山东之光”的主题，集结主题下的文物矩阵，精选30余件有代表性、典型性的“山东时代影响力文物”，见证山东历史高光时刻。</desc>
-  </programme>
-  <programme start="20260604055400 +0800" stop="20260604064500 +0800" channel="27"><title lang="zh">玉鉴文明</title>
-  </programme>
-  <programme start="20260604064500 +0800" stop="20260604074100 +0800" channel="27"><title lang="zh">玉鉴文明</title>
-  </programme>
-  <programme start="20260604074100 +0800" stop="20260604083100 +0800" channel="27"><title lang="zh">纪录片：春秋</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
-  </programme>
-  <programme start="20260604083100 +0800" stop="20260604091100 +0800" channel="27"><title lang="zh">行进中国</title>
-  </programme>
-  <programme start="20260604091100 +0800" stop="20260604094800 +0800" channel="27"><title lang="zh">光影视界</title><desc>海南卫视纪录片栏目，包含《行者》等品牌节目。以行走和发现为主题，兼具户外探险、人文地理和公益环保内容，推出《搭车去柏林》《一路向南》《谁借我厨房》《为中国找水》等具有影响力的系列纪录片，用个人化视角记录旅途中的景观、美食、历史与人物。</desc>
-  </programme>
-  <programme start="20260604094800 +0800" stop="20260604103000 +0800" channel="27"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604103000 +0800" stop="20260604110400 +0800" channel="27"><title lang="zh">光影视界</title><desc>海南卫视纪录片栏目，包含《行者》等品牌节目。以行走和发现为主题，兼具户外探险、人文地理和公益环保内容，推出《搭车去柏林》《一路向南》《谁借我厨房》《为中国找水》等具有影响力的系列纪录片，用个人化视角记录旅途中的景观、美食、历史与人物。</desc>
-  </programme>
-  <programme start="20260604110400 +0800" stop="20260604114200 +0800" channel="27"><title lang="zh">光影视界</title><desc>海南卫视纪录片栏目，包含《行者》等品牌节目。以行走和发现为主题，兼具户外探险、人文地理和公益环保内容，推出《搭车去柏林》《一路向南》《谁借我厨房》《为中国找水》等具有影响力的系列纪录片，用个人化视角记录旅途中的景观、美食、历史与人物。</desc>
-  </programme>
-  <programme start="20260604114200 +0800" stop="20260604124200 +0800" channel="27"><title lang="zh">光影视界</title><desc>海南卫视纪录片栏目，包含《行者》等品牌节目。以行走和发现为主题，兼具户外探险、人文地理和公益环保内容，推出《搭车去柏林》《一路向南》《谁借我厨房》《为中国找水》等具有影响力的系列纪录片，用个人化视角记录旅途中的景观、美食、历史与人物。</desc>
-  </programme>
-  <programme start="20260604124200 +0800" stop="20260604132300 +0800" channel="27"><title lang="zh">行进中国</title>
-  </programme>
-  <programme start="20260604132300 +0800" stop="20260604133400 +0800" channel="27"><title lang="zh">“儒”此有趣</title>
-  </programme>
-  <programme start="20260604133400 +0800" stop="20260604140500 +0800" channel="27"><title lang="zh">家有藏宝</title>
-  </programme>
-  <programme start="20260604140500 +0800" stop="20260604145800 +0800" channel="27"><title lang="zh">纪录片：大泰山</title><desc>六集大型纪录片，由山东广播电视台与泰安市委、市政府联合出品。从自然、历史、文化、民俗、哲学、美学等维度对泰山进行多层次解读，分《河山元脉》《若登天然》《登高必自》《与国咸宁》《能成其大》《国泰民安》六集，题目均取自泰山石刻，以当代中国人的故事为切入点，讲述“泰山故事”，表达“中华情感”。</desc>
-  </programme>
-  <programme start="20260604145800 +0800" stop="20260604153200 +0800" channel="27"><title lang="zh">家有藏宝</title>
-  </programme>
-  <programme start="20260604153200 +0800" stop="20260604154200 +0800" channel="27"><title lang="zh">山东文旅报道</title>
-  </programme>
-  <programme start="20260604154200 +0800" stop="20260604160600 +0800" channel="27"><title lang="zh">文旅会客厅</title>
-  </programme>
-  <programme start="20260604160600 +0800" stop="20260604163700 +0800" channel="27"><title lang="zh">纪录片：微山湖</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
-  </programme>
-  <programme start="20260604163700 +0800" stop="20260604165000 +0800" channel="27"><title lang="zh">“国宝”时刻</title><desc>《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。</desc>
-  </programme>
-  <programme start="20260604165000 +0800" stop="20260604171400 +0800" channel="27"><title lang="zh">齐鲁青未了</title>
-  </programme>
-  <programme start="20260604171400 +0800" stop="20260604174400 +0800" channel="27"><title lang="zh">齐鲁青未了</title>
-  </programme>
-  <programme start="20260604174400 +0800" stop="20260604181400 +0800" channel="27"><title lang="zh">齐鲁青未了</title>
-  </programme>
-  <programme start="20260604181400 +0800" stop="20260604184600 +0800" channel="27"><title lang="zh">齐鲁青未了</title>
-  </programme>
-  <programme start="20260604184600 +0800" stop="20260604190900 +0800" channel="27"><title lang="zh">齐鲁青未了</title>
-  </programme>
-  <programme start="20260604190900 +0800" stop="20260604193100 +0800" channel="27"><title lang="zh">山东文旅报道</title>
-  </programme>
-  <programme start="20260604193100 +0800" stop="20260604202600 +0800" channel="27"><title lang="zh">家有藏宝</title>
-  </programme>
-  <programme start="20260604202600 +0800" stop="20260604205900 +0800" channel="27"><title lang="zh">家有藏宝</title>
-  </programme>
-  <programme start="20260604205900 +0800" stop="20260604213200 +0800" channel="27"><title lang="zh">超级美味</title>
-  </programme>
-  <programme start="20260604213200 +0800" stop="20260604214400 +0800" channel="27"><title lang="zh">“国宝”时刻</title><desc>《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。</desc>
-  </programme>
-  <programme start="20260604214400 +0800" stop="20260604222900 +0800" channel="27"><title lang="zh">翡翠奇缘</title><desc>大型翡翠文化纪录片，历经六年筹备与拍摄，跨越近十万公里，深入缅甸翡翠矿区及云南、广东等翡翠交易集散地，全景记录翡翠从原石开采到成品加工的全产业链。节目以纪实影像探寻翡翠的历史渊源、地质成因与工艺传承，展现这一东方瑰宝的独特魅力与文化内涵。</desc>
-  </programme>
-  <programme start="20260604222900 +0800" stop="20260604232200 +0800" channel="27"><title lang="zh">玉鉴文明</title>
-  </programme>
-  <programme start="20260604232200 +0800" stop="20260604235959 +0800" channel="27"><title lang="zh">文物里的山东</title><desc>“以古人之规矩，开自己之生面”，为展现山东5000年来的历史文化长卷，坚定文化自信，强化使命担当，推动中华优秀传统文化创造性转化、创新性发展。由山东省文化和旅游厅、山东广播电视台联合打造的文史探索类节目《文物里的山东》将于7月8日在山东电视文旅频道播出。文化遗产承载着民族的共同记忆，积淀着中华民族最深层次的精神追求,代表着中华民族独特的精神标识。山东是文化资源大省，齐鲁文化源远流长，孕育了中国传统文化的主干，对中华文化的发展作出了卓越贡献。《文物里的山东》从灿若星河的海岱文化与齐鲁文明中选取11 个闪耀着“山东之光”的主题，集结主题下的文物矩阵，精选30余件有代表性、典型性的“山东时代影响力文物”，见证山东历史高光时刻。</desc>
-  </programme>
-  <programme start="20260604000000 +0800" stop="20260604000300 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
-  </programme>
-  <programme start="20260604000300 +0800" stop="20260604003300 +0800" channel="30"><title lang="zh">好品山东</title>
-  </programme>
-  <programme start="20260604003300 +0800" stop="20260604010300 +0800" channel="30"><title lang="zh">中国原产递</title>
-  </programme>
-  <programme start="20260604010300 +0800" stop="20260604011500 +0800" channel="30"><title lang="zh">农产之美</title>
-  </programme>
-  <programme start="20260604011500 +0800" stop="20260604013400 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
-  </programme>
-  <programme start="20260604013400 +0800" stop="20260604021500 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
-  </programme>
-  <programme start="20260604021500 +0800" stop="20260604025300 +0800" channel="30"><title lang="zh">田间示范秀</title>
-  </programme>
-  <programme start="20260604025300 +0800" stop="20260604033400 +0800" channel="30"><title lang="zh">好品山东</title>
-  </programme>
-  <programme start="20260604033400 +0800" stop="20260604040500 +0800" channel="30"><title lang="zh">中国原产递</title>
-  </programme>
-  <programme start="20260604040500 +0800" stop="20260604042000 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
-  </programme>
-  <programme start="20260604042000 +0800" stop="20260604050200 +0800" channel="30"><title lang="zh">中国原产递</title>
-  </programme>
-  <programme start="20260604050200 +0800" stop="20260604060100 +0800" channel="30"><title lang="zh">田间示范秀</title>
-  </programme>
-  <programme start="20260604060100 +0800" stop="20260604061000 +0800" channel="30"><title lang="zh">农事气象站</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
-  </programme>
-  <programme start="20260604061000 +0800" stop="20260604063000 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
-  </programme>
-  <programme start="20260604063000 +0800" stop="20260604071300 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
-  </programme>
-  <programme start="20260604071300 +0800" stop="20260604071900 +0800" channel="30"><title lang="zh">农事气象站</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
-  </programme>
-  <programme start="20260604071900 +0800" stop="20260604075000 +0800" channel="30"><title lang="zh">中国原产递</title>
-  </programme>
-  <programme start="20260604075000 +0800" stop="20260604085000 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604085000 +0800" stop="20260604093100 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
-  </programme>
-  <programme start="20260604093100 +0800" stop="20260604095700 +0800" channel="30"><title lang="zh">大漠苍狼</title><desc>梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
-  </programme>
-  <programme start="20260604095700 +0800" stop="20260604101400 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604101400 +0800" stop="20260604104700 +0800" channel="30"><title lang="zh">大漠苍狼</title><desc>梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
-  </programme>
-  <programme start="20260604104700 +0800" stop="20260604111000 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604111000 +0800" stop="20260604113800 +0800" channel="30"><title lang="zh">大漠苍狼</title><desc>梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
-  </programme>
-  <programme start="20260604113800 +0800" stop="20260604120000 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604120000 +0800" stop="20260604124000 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
-  </programme>
-  <programme start="20260604124000 +0800" stop="20260604132100 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604132100 +0800" stop="20260604133700 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
-  </programme>
-  <programme start="20260604133700 +0800" stop="20260604140100 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604140100 +0800" stop="20260604144100 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
-  </programme>
-  <programme start="20260604144100 +0800" stop="20260604150900 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604150900 +0800" stop="20260604153800 +0800" channel="30"><title lang="zh">大漠苍狼</title><desc>梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
-  </programme>
-  <programme start="20260604153800 +0800" stop="20260604155800 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604155800 +0800" stop="20260604162700 +0800" channel="30"><title lang="zh">大漠苍狼</title><desc>梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
-  </programme>
-  <programme start="20260604162700 +0800" stop="20260604165000 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604165000 +0800" stop="20260604171600 +0800" channel="30"><title lang="zh">大漠苍狼</title><desc>梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
-  </programme>
-  <programme start="20260604171600 +0800" stop="20260604173900 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604173900 +0800" stop="20260604182400 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
-  </programme>
-  <programme start="20260604182400 +0800" stop="20260604185000 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604185000 +0800" stop="20260604192200 +0800" channel="30"><title lang="zh">好品山东</title>
-  </programme>
-  <programme start="20260604192200 +0800" stop="20260604193000 +0800" channel="30"><title lang="zh">农事气象站</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
-  </programme>
-  <programme start="20260604193000 +0800" stop="20260604194600 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
-  </programme>
-  <programme start="20260604194600 +0800" stop="20260604195300 +0800" channel="30"><title lang="zh">农事气象站</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
-  </programme>
-  <programme start="20260604195300 +0800" stop="20260604204000 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
-  </programme>
-  <programme start="20260604204000 +0800" stop="20260604211500 +0800" channel="30"><title lang="zh">中国原产递</title>
-  </programme>
-  <programme start="20260604211500 +0800" stop="20260604220000 +0800" channel="30"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260604220000 +0800" stop="20260604221400 +0800" channel="30"><title lang="zh">山东三农新闻联播</title><desc>在山东广播电视台电视农科频道和广播乡村频道共同播出，党的十九大做出了实施乡村战略的重大决策，习近平总书记要求山东充分发挥农业大省优势，扛起农业大省责任，打造乡村振兴齐鲁样板，为山东“三农”工作指明了方向。</desc>
-  </programme>
-  <programme start="20260604221400 +0800" stop="20260604224400 +0800" channel="30"><title lang="zh">中国原产递</title>
-  </programme>
-  <programme start="20260604224400 +0800" stop="20260604230500 +0800" channel="30"><title lang="zh">农产之美</title>
-  </programme>
-  <programme start="20260604230500 +0800" stop="20260604233100 +0800" channel="30"><title lang="zh">田间示范秀</title>
-  </programme>
-  <programme start="20260604233100 +0800" stop="20260604235959 +0800" channel="30"><title lang="zh">乡村季风+种地宝典</title>
-  </programme>
-  <programme start="20260604000000 +0800" stop="20260604060000 +0800" channel="32"><title lang="zh">《喜羊羊与灰太狼羊村守护者1》</title><desc>《喜羊羊与灰太狼》是一部面向儿童的动画系列片，讲述了喜羊羊和伙伴们与灰太狼斗智斗勇的故事。羊村守护者VIII心世界奇遇第13集继续讲述喜羊羊和伙伴们的冒险历程，通过生动有趣的情节和精美的画面，向孩子们传递友谊、勇气和正能量。</desc>
-  </programme>
-  <programme start="20260604060000 +0800" stop="20260604073115 +0800" channel="32"><title lang="zh">节目：《超级语文课第四季》</title><desc>山东卫视推出的大语文公开课节目，还原经典语文课堂，邀请全国优秀语文教师登台授课，依托国家小初高语文教纲，通过“拿手一课”“组队共研”“同课异构”“最难一课”等环节进行教学展示，由文化学者和学生组成听课团现场互动评选，将情景融合式教学引入电视荧屏，以创意有趣的教学方法刷新对语文课堂的传统认知。</desc>
-  </programme>
-  <programme start="20260604073115 +0800" stop="20260604073730 +0800" channel="32"><title lang="zh">节目：《国宝在山东第一季》</title>
-  </programme>
-  <programme start="20260604073730 +0800" stop="20260604075820 +0800" channel="32"><title lang="zh">节目：《成长没烦恼》</title>
-  </programme>
-  <programme start="20260604075820 +0800" stop="20260604080920 +0800" channel="32"><title lang="zh">节目：《科普总动员》</title>
-  </programme>
-  <programme start="20260604080920 +0800" stop="20260604092913 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者12之古古怪界有古怪》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
-  </programme>
-  <programme start="20260604092913 +0800" stop="20260604102511 +0800" channel="32"><title lang="zh">动画片：《熊出没》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
-  </programme>
-  <programme start="20260604102511 +0800" stop="20260604103726 +0800" channel="32"><title lang="zh">节目：《国学小名士》精彩片段</title><desc>山东卫视青少年国学益智节目，以“诵读经典，传承美德”为宗旨，面向全国中小学生选拔国学少年英才。节目采用竞技闯关形式，设置“百里挑一”“巅峰对决”“国学司南”等环节，考察选手的诗词歌赋、文史典籍、传统礼仪等国学素养。节目注重寓教于乐，邀请郦波、蒙曼等文化学者担任评委，以深入浅出的讲解让国学知识“活”起来，激发青少年对中华优秀传统文化的热爱与传承。口号：“国学小名士，风华正少年。”</desc>
-  </programme>
-  <programme start="20260604103726 +0800" stop="20260604115623 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者9疯狂超能营》</title><desc>《喜羊羊与灰太狼》是一部面向儿童的动画系列片，讲述了喜羊羊和伙伴们与灰太狼斗智斗勇的故事。羊村守护者VIII心世界奇遇第13集继续讲述喜羊羊和伙伴们的冒险历程，通过生动有趣的情节和精美的画面，向孩子们传递友谊、勇气和正能量。</desc>
-  </programme>
-  <programme start="20260604115623 +0800" stop="20260604120653 +0800" channel="32"><title lang="zh">节目：《国学小名士》精彩片段</title><desc>山东卫视青少年国学益智节目，以“诵读经典，传承美德”为宗旨，面向全国中小学生选拔国学少年英才。节目采用竞技闯关形式，设置“百里挑一”“巅峰对决”“国学司南”等环节，考察选手的诗词歌赋、文史典籍、传统礼仪等国学素养。节目注重寓教于乐，邀请郦波、蒙曼等文化学者担任评委，以深入浅出的讲解让国学知识“活”起来，激发青少年对中华优秀传统文化的热爱与传承。口号：“国学小名士，风华正少年。”</desc>
-  </programme>
-  <programme start="20260604120653 +0800" stop="20260604131331 +0800" channel="32"><title lang="zh">动画片：《熊出没之小小世界》</title><desc>《熊出没》系列第14季作品，共52集。神奇宝物意外散落狗熊岭，这些拥有神秘能量的宝物极具危险性和破坏性。为保护森林，熊大、熊二和光头强展开寻宝行动，对抗意图抢夺宝物、修复许愿树恢复青春的反派金豪及其手下大个子、大马猴、二狗。</desc>
-  </programme>
-  <programme start="20260604131331 +0800" stop="20260604143326 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者9疯狂超能营》</title><desc>《喜羊羊与灰太狼》是一部面向儿童的动画系列片，讲述了喜羊羊和伙伴们与灰太狼斗智斗勇的故事。羊村守护者VIII心世界奇遇第13集继续讲述喜羊羊和伙伴们的冒险历程，通过生动有趣的情节和精美的画面，向孩子们传递友谊、勇气和正能量。</desc>
-  </programme>
-  <programme start="20260604143326 +0800" stop="20260604144301 +0800" channel="32"><title lang="zh">节目：《国学小名士》精彩片段</title><desc>山东卫视青少年国学益智节目，以“诵读经典，传承美德”为宗旨，面向全国中小学生选拔国学少年英才。节目采用竞技闯关形式，设置“百里挑一”“巅峰对决”“国学司南”等环节，考察选手的诗词歌赋、文史典籍、传统礼仪等国学素养。节目注重寓教于乐，邀请郦波、蒙曼等文化学者担任评委，以深入浅出的讲解让国学知识“活”起来，激发青少年对中华优秀传统文化的热爱与传承。口号：“国学小名士，风华正少年。”</desc>
-  </programme>
-  <programme start="20260604144301 +0800" stop="20260604154120 +0800" channel="32"><title lang="zh">动画片：《熊出没之春日对对碰》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
-  </programme>
-  <programme start="20260604154120 +0800" stop="20260604155116 +0800" channel="32"><title lang="zh">节目：《国学小名士》精彩片段</title><desc>山东卫视青少年国学益智节目，以“诵读经典，传承美德”为宗旨，面向全国中小学生选拔国学少年英才。节目采用竞技闯关形式，设置“百里挑一”“巅峰对决”“国学司南”等环节，考察选手的诗词歌赋、文史典籍、传统礼仪等国学素养。节目注重寓教于乐，邀请郦波、蒙曼等文化学者担任评委，以深入浅出的讲解让国学知识“活”起来，激发青少年对中华优秀传统文化的热爱与传承。口号：“国学小名士，风华正少年。”</desc>
-  </programme>
-  <programme start="20260604155116 +0800" stop="20260604165810 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者10奇侠大营救》</title><desc>《喜羊羊与灰太狼》是一部面向儿童的动画系列片，讲述了喜羊羊和伙伴们与灰太狼斗智斗勇的故事。羊村守护者VIII心世界奇遇第13集继续讲述喜羊羊和伙伴们的冒险历程，通过生动有趣的情节和精美的画面，向孩子们传递友谊、勇气和正能量。</desc>
-  </programme>
-  <programme start="20260604165810 +0800" stop="20260604180333 +0800" channel="32"><title lang="zh">动画片：《熊熊帮帮团》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
-  </programme>
-  <programme start="20260604180333 +0800" stop="20260604190302 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者8心世界奇遇》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
-  </programme>
-  <programme start="20260604190302 +0800" stop="20260604192941 +0800" channel="32"><title lang="zh">动画片：《熊熊帮帮团4》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
-  </programme>
-  <programme start="20260604192941 +0800" stop="20260604195217 +0800" channel="32"><title lang="zh">节目：《我是小记者》</title>
-  </programme>
-  <programme start="20260604195217 +0800" stop="20260604203859 +0800" channel="32"><title lang="zh">动画片：《熊出没之小小世界》</title><desc>《熊出没》系列第14季作品，共52集。神奇宝物意外散落狗熊岭，这些拥有神秘能量的宝物极具危险性和破坏性。为保护森林，熊大、熊二和光头强展开寻宝行动，对抗意图抢夺宝物、修复许愿树恢复青春的反派金豪及其手下大个子、大马猴、二狗。</desc>
-  </programme>
-  <programme start="20260604203859 +0800" stop="20260604205859 +0800" channel="32"><title lang="zh">节目：《成长没烦恼》</title>
-  </programme>
-  <programme start="20260604205859 +0800" stop="20260604212432 +0800" channel="32"><title lang="zh">动画片：《熊出没之小小世界》</title><desc>《熊出没》系列第14季作品，共52集。神奇宝物意外散落狗熊岭，这些拥有神秘能量的宝物极具危险性和破坏性。为保护森林，熊大、熊二和光头强展开寻宝行动，对抗意图抢夺宝物、修复许愿树恢复青春的反派金豪及其手下大个子、大马猴、二狗。</desc>
-  </programme>
-  <programme start="20260604212432 +0800" stop="20260604224002 +0800" channel="32"><title lang="zh">节目：《2025中华家庭诗词擂台赛》</title>
-  </programme>
-  <programme start="20260604224002 +0800" stop="20260604235011 +0800" channel="32"><title lang="zh">动画片：《猪猪侠之超星五灵侠3》</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
-  </programme>
-  <programme start="20260604235011 +0800" stop="20260604235959 +0800" channel="32"><title lang="zh">动画片：《喜羊羊与灰太狼羊村守护者1》</title><desc>《喜羊羊与灰太狼》是一部面向儿童的动画系列片，讲述了喜羊羊和伙伴们与灰太狼斗智斗勇的故事。羊村守护者VIII心世界奇遇第13集继续讲述喜羊羊和伙伴们的冒险历程，通过生动有趣的情节和精美的画面，向孩子们传递友谊、勇气和正能量。</desc>
-  </programme>
   <programme start="20260604054100 +0800" stop="20260604063000 +0800" channel="辽宁卫视"><title lang="zh">黑土地</title><desc>辽宁卫视农业服务类节目，开播二十余年来始终根植东北沃土，以“服务三农”为宗旨。主持人操东北方言以“唠嗑”形式说新闻、谈政策，设有“谈天说地”“新农人”“家在东北”“金牌合作社”等板块，涵盖农技科普、涉农资讯、致富典型等内容，用农民听得懂的语言传递实用信息，是东北地区最具影响力的对农电视节目之一。</desc>
   </programme>
   <programme start="20260604063000 +0800" stop="20260604070000 +0800" channel="辽宁卫视"><title lang="zh">第一时间</title><desc>中央电视台财经频道早间新闻栏目，每日清晨播出。以“资讯唤醒一天”为理念，网罗昨夜今晨国内外财经要闻、科技动态、天气出行等综合信息，提供“新鲜、有温度”的新闻早餐。</desc>
@@ -15239,7 +14517,7 @@
   </programme>
   <programme start="20260604065400 +0800" stop="20260604070500 +0800" channel="老故事"><title lang="zh">攀登者:实业守初心创新破壁垒</title><category lang="zh">电视剧</category>
   </programme>
-  <programme start="20260604070500 +0800" stop="20260604074500 +0800" channel="老故事"><title lang="zh">中华文明:考古中国(39)</title><category lang="zh">电视剧</category>
+  <programme start="20260604070500 +0800" stop="20260604074500 +0800" channel="老故事"><title lang="zh">中华文明:考古中国(39)</title><category lang="zh">电视剧</category><desc>河南广播电视台推出的纪实节目，深入三星堆、唐长安城、秦始皇帝陵、敦煌、南海Ⅰ号、殷墟六大考古现场，以一线考古专家、资深文博历史学者的真实经历和研究成果为支撑，以推理解谜的创新表达方式，带领观众走近中华文明的高光时刻。</desc>
   </programme>
   <programme start="20260604074500 +0800" stop="20260604082200 +0800" channel="老故事"><title lang="zh">重访:神宫搬迁记(下)</title><category lang="zh">documentary</category>
   </programme>
@@ -15255,7 +14533,7 @@
   </programme>
   <programme start="20260604094400 +0800" stop="20260604095900 +0800" channel="老故事"><title lang="zh">信用中国:叶钊晖</title><category lang="zh">电视剧</category>
   </programme>
-  <programme start="20260604095900 +0800" stop="20260604104000 +0800" channel="老故事"><title lang="zh">中华文明:考古中国(41)</title><category lang="zh">电视剧</category>
+  <programme start="20260604095900 +0800" stop="20260604104000 +0800" channel="老故事"><title lang="zh">中华文明:考古中国(41)</title><category lang="zh">电视剧</category><desc>河南广播电视台推出的纪实节目，深入三星堆、唐长安城、秦始皇帝陵、敦煌、南海Ⅰ号、殷墟六大考古现场，以一线考古专家、资深文博历史学者的真实经历和研究成果为支撑，以推理解谜的创新表达方式，带领观众走近中华文明的高光时刻。</desc>
   </programme>
   <programme start="20260604104000 +0800" stop="20260604111900 +0800" channel="老故事"><title lang="zh">重访:探寻神秘的南极(上)</title><category lang="zh">documentary</category>
   </programme>
@@ -15275,7 +14553,7 @@
   </programme>
   <programme start="20260604135400 +0800" stop="20260604140500 +0800" channel="老故事"><title lang="zh">攀登者:实业守初心创新破壁垒</title><category lang="zh">电视剧</category>
   </programme>
-  <programme start="20260604140500 +0800" stop="20260604144500 +0800" channel="老故事"><title lang="zh">中华文明:考古中国(39)</title><category lang="zh">电视剧</category>
+  <programme start="20260604140500 +0800" stop="20260604144500 +0800" channel="老故事"><title lang="zh">中华文明:考古中国(39)</title><category lang="zh">电视剧</category><desc>河南广播电视台推出的纪实节目，深入三星堆、唐长安城、秦始皇帝陵、敦煌、南海Ⅰ号、殷墟六大考古现场，以一线考古专家、资深文博历史学者的真实经历和研究成果为支撑，以推理解谜的创新表达方式，带领观众走近中华文明的高光时刻。</desc>
   </programme>
   <programme start="20260604144500 +0800" stop="20260604152200 +0800" channel="老故事"><title lang="zh">重访:神宫搬迁记(下)</title><category lang="zh">documentary</category>
   </programme>
@@ -15295,7 +14573,7 @@
   </programme>
   <programme start="20260604174400 +0800" stop="20260604175900 +0800" channel="老故事"><title lang="zh">信用中国:叶钊晖</title><category lang="zh">电视剧</category>
   </programme>
-  <programme start="20260604175900 +0800" stop="20260604184000 +0800" channel="老故事"><title lang="zh">中华文明:考古中国(41)</title><category lang="zh">电视剧</category>
+  <programme start="20260604175900 +0800" stop="20260604184000 +0800" channel="老故事"><title lang="zh">中华文明:考古中国(41)</title><category lang="zh">电视剧</category><desc>河南广播电视台推出的纪实节目，深入三星堆、唐长安城、秦始皇帝陵、敦煌、南海Ⅰ号、殷墟六大考古现场，以一线考古专家、资深文博历史学者的真实经历和研究成果为支撑，以推理解谜的创新表达方式，带领观众走近中华文明的高光时刻。</desc>
   </programme>
   <programme start="20260604184000 +0800" stop="20260604191900 +0800" channel="老故事"><title lang="zh">重访:探寻神秘的南极(上)</title><category lang="zh">documentary</category>
   </programme>
@@ -15315,7 +14593,7 @@
   </programme>
   <programme start="20260604215400 +0800" stop="20260604220500 +0800" channel="老故事"><title lang="zh">攀登者:实业守初心创新破壁垒</title><category lang="zh">电视剧</category>
   </programme>
-  <programme start="20260604220500 +0800" stop="20260604224500 +0800" channel="老故事"><title lang="zh">中华文明:考古中国(39)</title><category lang="zh">电视剧</category>
+  <programme start="20260604220500 +0800" stop="20260604224500 +0800" channel="老故事"><title lang="zh">中华文明:考古中国(39)</title><category lang="zh">电视剧</category><desc>河南广播电视台推出的纪实节目，深入三星堆、唐长安城、秦始皇帝陵、敦煌、南海Ⅰ号、殷墟六大考古现场，以一线考古专家、资深文博历史学者的真实经历和研究成果为支撑，以推理解谜的创新表达方式，带领观众走近中华文明的高光时刻。</desc>
   </programme>
   <programme start="20260604224500 +0800" stop="20260604232200 +0800" channel="老故事"><title lang="zh">重访:神宫搬迁记(下)</title><category lang="zh">documentary</category>
   </programme>
