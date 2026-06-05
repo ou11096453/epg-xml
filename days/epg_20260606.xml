@@ -201,6 +201,8 @@
   </channel>
   <channel id="现代女性"><display-name lang="zh">现代女性</display-name><display-name lang="zh">现代女性</display-name>
   </channel>
+  <channel id="张店综合"><display-name lang="zh">张店综合</display-name><display-name lang="zh">张店综合</display-name><display-name lang="zh">CHANNEL00001012</display-name>
+  </channel>
   <channel id="卡酷少儿"><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">CHANNEL00000661</display-name><display-name lang="zh">北京卡酷少儿</display-name>
   </channel>
   <channel id="济南生活"><display-name lang="zh">济南生活</display-name><display-name lang="zh">济南生活</display-name><display-name lang="zh">CHANNEL00000063</display-name><display-name lang="zh">济南生活频道</display-name>
@@ -350,6 +352,8 @@
   <channel id="CCTV卫生健康"><display-name lang="zh">CCTV卫生健康</display-name><display-name lang="zh">CCTV-卫生健康</display-name><display-name lang="zh">卫生健康</display-name>
   </channel>
   <channel id="CCTV1"><display-name lang="zh">CCTV-1 综合</display-name><display-name lang="zh">CCTV-1 综合</display-name><display-name lang="zh">CCTV1综合</display-name><display-name lang="zh">CCTV1</display-name><display-name lang="zh">CCTV-1</display-name><display-name lang="zh">CCTV-1综合</display-name><display-name lang="zh">CCTV 1</display-name><display-name lang="zh">CCTV-1 高清</display-name><display-name lang="zh">CCTV1 高清</display-name>
+  </channel>
+  <channel id="河东综合"><display-name lang="zh">河东综合</display-name><display-name lang="zh">河东综合</display-name><display-name lang="zh">CHANNEL00001109</display-name>
   </channel>
   <channel id="生态环境"><display-name lang="zh">生态环境</display-name><display-name lang="zh">生态环境</display-name><display-name lang="zh">CHANNEL00000671</display-name><display-name lang="zh">CETV-生态环境</display-name><display-name lang="zh">CETV</display-name><display-name lang="zh">CETV生态环境</display-name><display-name lang="zh">生态环境频道</display-name>
   </channel>
@@ -13427,5 +13431,49 @@
   <programme start="20260606225000 +0800" stop="20260606231500 +0800" channel="南通公共"><title lang="zh">江海联播</title><desc>南通广播电视台日播时政新闻栏目，与《南通新闻》并列为两档拳头新闻节目。围绕市委、市政府中心工作，发布权威政策信息，全面记录南通经济、社会、文化发展成就，是覆盖全市的权威新闻资讯平台。</desc>
   </programme>
   <programme start="20260606231500 +0800" stop="20260607000000 +0800" channel="南通公共"><title lang="zh">深夜影院</title><desc>电视台深夜时段开设的电影栏目，通常在23:00以后播出。以经典老片、文艺片、获奖影片为主，营造安静纯粹的观影氛围，满足夜班族、夜猫子等深夜收视群体的观剧需求。多采用单片播映形式，偶有主题策划或导演专题展映。</desc>
+  </programme>
+  <programme start="20260606000000 +0800" stop="20260606070200 +0800" channel="张店综合"><title lang="zh">再见</title><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
+  </programme>
+  <programme start="20260606070200 +0800" stop="20260606072500 +0800" channel="张店综合"><title lang="zh">张店新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260606120200 +0800" stop="20260606123000 +0800" channel="张店综合"><title lang="zh">张店新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260606183000 +0800" stop="20260606190000 +0800" channel="张店综合"><title lang="zh">转播山东省新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260606190000 +0800" stop="20260606193200 +0800" channel="张店综合"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260606193200 +0800" stop="20260606195000 +0800" channel="张店综合"><title lang="zh">张店新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260606220200 +0800" stop="20260606222000 +0800" channel="张店综合"><title lang="zh">张店新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260606063000 +0800" stop="20260606064500 +0800" channel="河东综合"><title lang="zh">发光吧少年</title>
+  </programme>
+  <programme start="20260606064500 +0800" stop="20260606070000 +0800" channel="河东综合"><title lang="zh">河东新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260606114500 +0800" stop="20260606120000 +0800" channel="河东综合"><title lang="zh">发光吧少年</title>
+  </programme>
+  <programme start="20260606120000 +0800" stop="20260606121500 +0800" channel="河东综合"><title lang="zh">河东新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260606165800 +0800" stop="20260606171000 +0800" channel="河东综合"><title lang="zh">发光吧少年</title>
+  </programme>
+  <programme start="20260606183000 +0800" stop="20260606190000 +0800" channel="河东综合"><title lang="zh">转播山东省新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260606190000 +0800" stop="20260606193000 +0800" channel="河东综合"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260606193000 +0800" stop="20260606195200 +0800" channel="河东综合"><title lang="zh">河东新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260606195200 +0800" stop="20260606200500 +0800" channel="河东综合"><title lang="zh">发光吧少年</title>
+  </programme>
+  <programme start="20260606214000 +0800" stop="20260606220000 +0800" channel="河东综合"><title lang="zh">河东新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260606234000 +0800" stop="20260607060000 +0800" channel="河东综合"><title lang="zh">再见</title><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
   </programme>
 </tv>
