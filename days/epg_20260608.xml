@@ -129,6 +129,8 @@
   </channel>
   <channel id="CGTN阿语"><display-name lang="zh">CGTN阿拉伯语</display-name><display-name lang="zh">CGTN阿拉伯语</display-name><display-name lang="zh">CHANNEL00000356</display-name>
   </channel>
+  <channel id="好享购物"><display-name lang="zh">好享购物</display-name>
+  </channel>
   <channel id="早期教育"><display-name lang="zh">早期教育</display-name>
   </channel>
   <channel id="金鹰纪实"><display-name lang="zh">金鹰纪实</display-name><display-name lang="zh">金鹰纪实</display-name><display-name lang="zh">CHANNEL00000334</display-name>
@@ -15616,5 +15618,75 @@
   <programme start="20260608221500 +0800" stop="20260608225000 +0800" channel="南通公共"><title lang="zh">城市日历</title><desc>南通广播电视台创办于1999年的民生新闻栏目，以“打开城市日历，记录明天历史”为口号。聚焦百姓冷暖、透视社会热点、传递生活资讯、帮扶弱势群体，是南通地区收视率最高、美誉度最好的电视节目之一。</desc>
   </programme>
   <programme start="20260608225000 +0800" stop="20260609000000 +0800" channel="南通公共"><title lang="zh">深夜影院</title><desc>电视台深夜时段开设的电影栏目，通常在23:00以后播出。以经典老片、文艺片、获奖影片为主，营造安静纯粹的观影氛围，满足夜班族、夜猫子等深夜收视群体的观剧需求。多采用单片播映形式，偶有主题策划或导演专题展映。</desc>
+  </programme>
+  <programme start="20260608004000 +0800" stop="20260608012000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608012000 +0800" stop="20260608020000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608020000 +0800" stop="20260608024000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608024000 +0800" stop="20260608032000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608032000 +0800" stop="20260608040000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608040000 +0800" stop="20260608044000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608044000 +0800" stop="20260608052000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608052000 +0800" stop="20260608060000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608060000 +0800" stop="20260608064000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608064000 +0800" stop="20260608072000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608072000 +0800" stop="20260608080000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608080000 +0800" stop="20260608083000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608083000 +0800" stop="20260608090000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608090000 +0800" stop="20260608093000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608093000 +0800" stop="20260608100000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608100000 +0800" stop="20260608104000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608104000 +0800" stop="20260608111000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608111000 +0800" stop="20260608120000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608120000 +0800" stop="20260608123000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608123000 +0800" stop="20260608131000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608131000 +0800" stop="20260608135000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608135000 +0800" stop="20260608143000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608143000 +0800" stop="20260608150000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608150000 +0800" stop="20260608153000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608153000 +0800" stop="20260608161000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608161000 +0800" stop="20260608165000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608165000 +0800" stop="20260608172000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608172000 +0800" stop="20260608175000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608175000 +0800" stop="20260608183000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608183000 +0800" stop="20260608191000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608191000 +0800" stop="20260608200000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608200000 +0800" stop="20260608204000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608204000 +0800" stop="20260608212000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608212000 +0800" stop="20260608221000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608221000 +0800" stop="20260609004000 +0800" channel="好享购物"><title lang="zh">精品推荐</title><category lang="zh">电视剧</category>
   </programme>
 </tv>
