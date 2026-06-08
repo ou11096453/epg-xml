@@ -1,6 +1,8 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
   <channel id="中国教育1"><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育1</display-name><display-name lang="zh">CHANNEL00000076</display-name><display-name lang="zh">CETV-1</display-name><display-name lang="zh">CETV1</display-name>
   </channel>
+  <channel id="东营综合"><display-name lang="zh">东营综合</display-name><display-name lang="zh">东营新闻综合</display-name><display-name lang="zh">东营新闻</display-name><display-name lang="zh">CHANNEL00000226</display-name><display-name lang="zh">东营综合频道</display-name><display-name lang="zh">DYTV-1</display-name>
+  </channel>
   <channel id="五莲综合"><display-name lang="zh">五莲综合</display-name><display-name lang="zh">五莲新闻</display-name><display-name lang="zh">5莲新闻</display-name><display-name lang="zh">CHANNEL00001068</display-name>
   </channel>
   <channel id="东方财经"><display-name lang="zh">东方财经</display-name><display-name lang="zh">东方财经</display-name><display-name lang="zh">CHANNEL00002025</display-name>
@@ -211,6 +213,8 @@
   </channel>
   <channel id="游戏风云"><display-name lang="zh">游戏风云</display-name><display-name lang="zh">游戏风云</display-name><display-name lang="zh">CHANNEL00002024</display-name>
   </channel>
+  <channel id="法治天地"><display-name lang="zh">法治天地</display-name><display-name lang="zh">法治天地</display-name><display-name lang="zh">CHANNEL00002010</display-name>
+  </channel>
   <channel id="山东农科"><display-name lang="zh">山东农科</display-name><display-name lang="zh">山东农科</display-name><display-name lang="zh">CHANNEL00000339</display-name>
   </channel>
   <channel id="张店综合"><display-name lang="zh">张店综合</display-name><display-name lang="zh">张店综合</display-name><display-name lang="zh">CHANNEL00001012</display-name>
@@ -254,6 +258,8 @@
   <channel id="东方卫视"><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方</display-name><display-name lang="zh">东方卫视-4K</display-name><display-name lang="zh">东方卫视4K</display-name><display-name lang="zh">CHANNEL00000309</display-name>
   </channel>
   <channel id="夏津公共"><display-name lang="zh">夏津公共</display-name><display-name lang="zh">夏津公共</display-name><display-name lang="zh">CHANNEL00001070</display-name>
+  </channel>
+  <channel id="东营公共"><display-name lang="zh">东营公共</display-name><display-name lang="zh">东营公共</display-name><display-name lang="zh">CHANNEL00000227</display-name><display-name lang="zh">东营公共频道</display-name><display-name lang="zh">DYTV-2</display-name>
   </channel>
   <channel id="江西卫视"><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西</display-name><display-name lang="zh">CHANNEL00000335</display-name>
   </channel>
@@ -317,6 +323,8 @@
   </channel>
   <channel id="优购物"><display-name lang="zh">优购物</display-name>
   </channel>
+  <channel id="聊城民生"><display-name lang="zh">聊城民生</display-name><display-name lang="zh">聊城民生</display-name><display-name lang="zh">CHANNEL00000251</display-name>
+  </channel>
   <channel id="济南娱乐"><display-name lang="zh">济南娱乐</display-name><display-name lang="zh">济南娱乐</display-name><display-name lang="zh">CHANNEL00000065</display-name><display-name lang="zh">济南娱乐频道</display-name>
   </channel>
   <channel id="滨州民生"><display-name lang="zh">滨州民生</display-name><display-name lang="zh">滨州民生</display-name><display-name lang="zh">CHANNEL00000221</display-name><display-name lang="zh">滨州民生频道</display-name>
@@ -349,6 +357,8 @@
   </channel>
   <channel id="深圳卫视"><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳</display-name><display-name lang="zh">深圳卫视-4K</display-name><display-name lang="zh">深圳卫视4K</display-name><display-name lang="zh">CHANNEL00000308</display-name>
   </channel>
+  <channel id="环球旅游"><display-name lang="zh">环球旅游</display-name><display-name lang="zh">环球旅游</display-name><display-name lang="zh">CHANNEL00000643</display-name>
+  </channel>
   <channel id="南通综合"><display-name lang="zh">南通综合</display-name><display-name lang="zh">南通一套</display-name><display-name lang="zh">南通新闻</display-name><display-name lang="zh">南通新闻综合</display-name>
   </channel>
   <channel id="任城综合"><display-name lang="zh">任城综合</display-name><display-name lang="zh">任城综合</display-name><display-name lang="zh">CHANNEL00001111</display-name>
@@ -364,6 +374,8 @@
   <channel id="CCTV15"><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV15音乐</display-name><display-name lang="zh">CHANNEL00000346</display-name><display-name lang="zh">CCTV-15</display-name><display-name lang="zh">CCTV-15音乐</display-name><display-name lang="zh">CCTV 15</display-name><display-name lang="zh">CCTV-15 高清</display-name><display-name lang="zh">CCTV15 高清</display-name>
   </channel>
   <channel id="金鹰卡通"><display-name lang="zh">金鹰卡通</display-name><display-name lang="zh">金鹰卡通</display-name><display-name lang="zh">CHANNEL00002027</display-name>
+  </channel>
+  <channel id="海洋频道"><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋</display-name><display-name lang="zh">CHANNEL00000662</display-name>
   </channel>
   <channel id="烟台公共"><display-name lang="zh">烟台公共</display-name><display-name lang="zh">烟台公共</display-name><display-name lang="zh">烟公共</display-name><display-name lang="zh">CHANNEL00000281</display-name><display-name lang="zh">烟台公共频道</display-name>
   </channel>
@@ -398,6 +410,8 @@
   <channel id="山东卫视"><display-name lang="zh">山东卫视</display-name><display-name lang="zh">山东卫视</display-name><display-name lang="zh">山东</display-name><display-name lang="zh">山东卫视-4K</display-name><display-name lang="zh">山东卫视4K</display-name><display-name lang="zh">CHANNEL10000301</display-name>
   </channel>
   <channel id="4K电视剧"><display-name lang="zh">4K电视剧</display-name>
+  </channel>
+  <channel id="居家购物"><display-name lang="zh">居家购物</display-name><display-name lang="zh">居家购物</display-name><display-name lang="zh">CHANNEL00000700</display-name>
   </channel>
   <channel id="都市剧场"><display-name lang="zh">都市剧场</display-name><display-name lang="zh">都市剧场</display-name><display-name lang="zh">CHANNEL00002022</display-name>
   </channel>
@@ -15456,5 +15470,371 @@
   <programme start="20260609225000 +0800" stop="20260609231500 +0800" channel="南通公共"><title lang="zh">江海联播</title><desc>南通广播电视台日播时政新闻栏目，与《南通新闻》并列为两档拳头新闻节目。围绕市委、市政府中心工作，发布权威政策信息，全面记录南通经济、社会、文化发展成就，是覆盖全市的权威新闻资讯平台。</desc>
   </programme>
   <programme start="20260609231500 +0800" stop="20260610000000 +0800" channel="南通公共"><title lang="zh">深夜影院</title><desc>电视台深夜时段开设的电影栏目，通常在23:00以后播出。以经典老片、文艺片、获奖影片为主，营造安静纯粹的观影氛围，满足夜班族、夜猫子等深夜收视群体的观剧需求。多采用单片播映形式，偶有主题策划或导演专题展映。</desc>
+  </programme>
+  <programme start="20260609000000 +0800" stop="20260609003000 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260609003000 +0800" stop="20260609055900 +0800" channel="法治天地"><title lang="zh">电视播控中心播出结束</title><desc>电视台播出时段结束的标识画面，通常用于节目与节目之间的过渡或全天播出结束后的休台时段。</desc>
+  </programme>
+  <programme start="20260609055900 +0800" stop="20260609060500 +0800" channel="法治天地"><title lang="zh">电视播控中心播出开始</title><desc>电视台全天节目播出的起始时段，通常在清晨由专门的电视播控中心负责启动。播控中心通过自动化播出系统按编排计划逐条输出节目信号，依次播放开台标识、报时信号、国歌、公益宣传片及当日节目预告，随后转入正常节目播出。</desc>
+  </programme>
+  <programme start="20260609060500 +0800" stop="20260609063000 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609063000 +0800" stop="20260609070000 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260609070000 +0800" stop="20260609072500 +0800" channel="法治天地"><title lang="zh">法治新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260609072500 +0800" stop="20260609073700 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609073700 +0800" stop="20260609083000 +0800" channel="法治天地"><title lang="zh">案件聚焦</title><desc>《今日聚焦》是一档新闻专题节目，本集聚焦企业与职工的双向奔赴。通过深入报道企业与职工之间的良性互动，探讨如何构建和谐的劳动关系，促进企业发展和职工成长，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20260609083000 +0800" stop="20260609090500 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260609090500 +0800" stop="20260609093500 +0800" channel="法治天地"><title lang="zh">案件聚焦</title><desc>《今日聚焦》是一档新闻专题节目，本集聚焦企业与职工的双向奔赴。通过深入报道企业与职工之间的良性互动，探讨如何构建和谐的劳动关系，促进企业发展和职工成长，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20260609093500 +0800" stop="20260609095500 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609095500 +0800" stop="20260609101500 +0800" channel="法治天地"><title lang="zh">律师界</title><desc>沪上首档反映律师行业的专题电视栏目，由上海市律师协会与法治天地频道联合推出。节目以双周播形式播出，主持人何卿与律师嘉宾就社会热点法律话题展开探讨，解析背后隐藏的法律要点。内容涵盖反洗钱、智能驾驶责任认定、反诈新规解读等前沿议题，展现上海律师精湛的业务能力与行业风采。</desc>
+  </programme>
+  <programme start="20260609101500 +0800" stop="20260609103000 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609103000 +0800" stop="20260609110000 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260609110000 +0800" stop="20260609112000 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609112000 +0800" stop="20260609114000 +0800" channel="法治天地"><title lang="zh">律师界</title><desc>沪上首档反映律师行业的专题电视栏目，由上海市律师协会与法治天地频道联合推出。节目以双周播形式播出，主持人何卿与律师嘉宾就社会热点法律话题展开探讨，解析背后隐藏的法律要点。内容涵盖反洗钱、智能驾驶责任认定、反诈新规解读等前沿议题，展现上海律师精湛的业务能力与行业风采。</desc>
+  </programme>
+  <programme start="20260609114000 +0800" stop="20260609120000 +0800" channel="法治天地"><title lang="zh">法治新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260609120000 +0800" stop="20260609123000 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260609123000 +0800" stop="20260609130000 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609130000 +0800" stop="20260609133000 +0800" channel="法治天地"><title lang="zh">案件聚焦</title><desc>《今日聚焦》是一档新闻专题节目，本集聚焦企业与职工的双向奔赴。通过深入报道企业与职工之间的良性互动，探讨如何构建和谐的劳动关系，促进企业发展和职工成长，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20260609133000 +0800" stop="20260609135500 +0800" channel="法治天地"><title lang="zh">法治新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260609135500 +0800" stop="20260609150500 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609150500 +0800" stop="20260609151500 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609151500 +0800" stop="20260609154500 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260609154500 +0800" stop="20260609163500 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609163500 +0800" stop="20260609170500 +0800" channel="法治天地"><title lang="zh">案件聚焦</title><desc>《今日聚焦》是一档新闻专题节目，本集聚焦企业与职工的双向奔赴。通过深入报道企业与职工之间的良性互动，探讨如何构建和谐的劳动关系，促进企业发展和职工成长，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20260609170500 +0800" stop="20260609173000 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609173000 +0800" stop="20260609175000 +0800" channel="法治天地"><title lang="zh">律师界</title><desc>沪上首档反映律师行业的专题电视栏目，由上海市律师协会与法治天地频道联合推出。节目以双周播形式播出，主持人何卿与律师嘉宾就社会热点法律话题展开探讨，解析背后隐藏的法律要点。内容涵盖反洗钱、智能驾驶责任认定、反诈新规解读等前沿议题，展现上海律师精湛的业务能力与行业风采。</desc>
+  </programme>
+  <programme start="20260609175000 +0800" stop="20260609180000 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609180000 +0800" stop="20260609183000 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260609183000 +0800" stop="20260609185000 +0800" channel="法治天地"><title lang="zh">法治新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260609185000 +0800" stop="20260609201500 +0800" channel="法治天地"><title lang="zh">案件聚焦</title><desc>《今日聚焦》是一档新闻专题节目，本集聚焦企业与职工的双向奔赴。通过深入报道企业与职工之间的良性互动，探讨如何构建和谐的劳动关系，促进企业发展和职工成长，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20260609201500 +0800" stop="20260609204000 +0800" channel="法治天地"><title lang="zh">律师界</title><desc>沪上首档反映律师行业的专题电视栏目，由上海市律师协会与法治天地频道联合推出。节目以双周播形式播出，主持人何卿与律师嘉宾就社会热点法律话题展开探讨，解析背后隐藏的法律要点。内容涵盖反洗钱、智能驾驶责任认定、反诈新规解读等前沿议题，展现上海律师精湛的业务能力与行业风采。</desc>
+  </programme>
+  <programme start="20260609204000 +0800" stop="20260609210500 +0800" channel="法治天地"><title lang="zh">律师界</title><desc>沪上首档反映律师行业的专题电视栏目，由上海市律师协会与法治天地频道联合推出。节目以双周播形式播出，主持人何卿与律师嘉宾就社会热点法律话题展开探讨，解析背后隐藏的法律要点。内容涵盖反洗钱、智能驾驶责任认定、反诈新规解读等前沿议题，展现上海律师精湛的业务能力与行业风采。</desc>
+  </programme>
+  <programme start="20260609210500 +0800" stop="20260609213000 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609213000 +0800" stop="20260609220000 +0800" channel="法治天地"><title lang="zh">案件聚焦</title><desc>《今日聚焦》是一档新闻专题节目，本集聚焦企业与职工的双向奔赴。通过深入报道企业与职工之间的良性互动，探讨如何构建和谐的劳动关系，促进企业发展和职工成长，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20260609220000 +0800" stop="20260609223000 +0800" channel="法治天地"><title lang="zh">和大律师面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260609223000 +0800" stop="20260609225000 +0800" channel="法治天地"><title lang="zh">法治新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260609225000 +0800" stop="20260609231500 +0800" channel="法治天地"><title lang="zh">律师界</title><desc>沪上首档反映律师行业的专题电视栏目，由上海市律师协会与法治天地频道联合推出。节目以双周播形式播出，主持人何卿与律师嘉宾就社会热点法律话题展开探讨，解析背后隐藏的法律要点。内容涵盖反洗钱、智能驾驶责任认定、反诈新规解读等前沿议题，展现上海律师精湛的业务能力与行业风采。</desc>
+  </programme>
+  <programme start="20260609231500 +0800" stop="20260609233900 +0800" channel="法治天地"><title lang="zh">庭前庭后</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  </programme>
+  <programme start="20260609233900 +0800" stop="20260610000000 +0800" channel="法治天地"><title lang="zh">案件聚焦</title><desc>《今日聚焦》是一档新闻专题节目，本集聚焦企业与职工的双向奔赴。通过深入报道企业与职工之间的良性互动，探讨如何构建和谐的劳动关系，促进企业发展和职工成长，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20260609084300 +0800" stop="20260609091000 +0800" channel="海洋频道"><title lang="zh">中华养生</title>
+  </programme>
+  <programme start="20260609091000 +0800" stop="20260609102700 +0800" channel="海洋频道"><title lang="zh">合欢树下</title>
+  </programme>
+  <programme start="20260609102700 +0800" stop="20260609140000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260609140000 +0800" stop="20260609173000 +0800" channel="海洋频道"><title lang="zh">古文明探秘</title>
+  </programme>
+  <programme start="20260609173000 +0800" stop="20260609184000 +0800" channel="海洋频道"><title lang="zh">我爱威海</title>
+  </programme>
+  <programme start="20260609184000 +0800" stop="20260609192000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260609192000 +0800" stop="20260609202700 +0800" channel="海洋频道"><title lang="zh">我爱威海</title>
+  </programme>
+  <programme start="20260609202700 +0800" stop="20260609210200 +0800" channel="海洋频道"><title lang="zh">咱老百姓的故事</title>
+  </programme>
+  <programme start="20260609210200 +0800" stop="20260610000000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260609000000 +0800" stop="20260609003000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609003000 +0800" stop="20260609010000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609010000 +0800" stop="20260609013000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609013000 +0800" stop="20260609020000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609020000 +0800" stop="20260609023000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609023000 +0800" stop="20260609030000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609030000 +0800" stop="20260609033000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609033000 +0800" stop="20260609040000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609040000 +0800" stop="20260609043000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609043000 +0800" stop="20260609050000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609050000 +0800" stop="20260609053000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609053000 +0800" stop="20260609060000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609060000 +0800" stop="20260609063000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609063000 +0800" stop="20260609070000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609070000 +0800" stop="20260609073000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609073000 +0800" stop="20260609080000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609080000 +0800" stop="20260609083000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609083000 +0800" stop="20260609090000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609090000 +0800" stop="20260609093000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609093000 +0800" stop="20260609100000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609100000 +0800" stop="20260609103000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609103000 +0800" stop="20260609110000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609110000 +0800" stop="20260609113000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609113000 +0800" stop="20260609120000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609120000 +0800" stop="20260609123000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609123000 +0800" stop="20260609130000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609130000 +0800" stop="20260609133000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609133000 +0800" stop="20260609140000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609140000 +0800" stop="20260609143000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609143000 +0800" stop="20260609150000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609150000 +0800" stop="20260609153000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609153000 +0800" stop="20260609160000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609160000 +0800" stop="20260609163000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609163000 +0800" stop="20260609170000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609170000 +0800" stop="20260609173000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609173000 +0800" stop="20260609180000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609180000 +0800" stop="20260609183000 +0800" channel="环球旅游"><title lang="zh">美丽密码</title>
+  </programme>
+  <programme start="20260609183000 +0800" stop="20260609190000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609190000 +0800" stop="20260609200000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609200000 +0800" stop="20260609203000 +0800" channel="环球旅游"><title lang="zh">美丽密码</title>
+  </programme>
+  <programme start="20260609203000 +0800" stop="20260609210000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609210000 +0800" stop="20260609213000 +0800" channel="环球旅游"><title lang="zh">美丽密码</title>
+  </programme>
+  <programme start="20260609213000 +0800" stop="20260609220000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609220000 +0800" stop="20260609223000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609223000 +0800" stop="20260609230000 +0800" channel="环球旅游"><title lang="zh">美丽密码</title>
+  </programme>
+  <programme start="20260609230000 +0800" stop="20260609233000 +0800" channel="环球旅游"><title lang="zh">爱上川菜</title>
+  </programme>
+  <programme start="20260609233000 +0800" stop="20260610000000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
+  </programme>
+  <programme start="20260609010000 +0800" stop="20260609020000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609020000 +0800" stop="20260609030000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609030000 +0800" stop="20260609040000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609040000 +0800" stop="20260609050000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609050000 +0800" stop="20260609060000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609060000 +0800" stop="20260609070000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609070000 +0800" stop="20260609080000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609080000 +0800" stop="20260609090000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609090000 +0800" stop="20260609100000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609100000 +0800" stop="20260609110000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609110000 +0800" stop="20260609120000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609120000 +0800" stop="20260609130000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609130000 +0800" stop="20260609140000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609140000 +0800" stop="20260609150000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609150000 +0800" stop="20260609160000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609160000 +0800" stop="20260609170000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609170000 +0800" stop="20260609180000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609180000 +0800" stop="20260609190000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609190000 +0800" stop="20260609200000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609200000 +0800" stop="20260609210000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609210000 +0800" stop="20260609220000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609220000 +0800" stop="20260609230000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609230000 +0800" stop="20260610000000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
+  </programme>
+  <programme start="20260609085000 +0800" stop="20260609130000 +0800" channel="聊城民生"><title lang="zh">温情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260609130000 +0800" stop="20260609175200 +0800" channel="聊城民生"><title lang="zh">纯情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260609175200 +0800" stop="20260609200000 +0800" channel="聊城民生"><title lang="zh">真情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260609200000 +0800" stop="20260609203000 +0800" channel="聊城民生"><title lang="zh">民生面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260609203000 +0800" stop="20260609204500 +0800" channel="聊城民生"><title lang="zh">今日开发区</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20260609204500 +0800" stop="20260609231000 +0800" channel="聊城民生"><title lang="zh">激情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260609231000 +0800" stop="20260609234000 +0800" channel="聊城民生"><title lang="zh">影视风云榜</title>
+  </programme>
+  <programme start="20260609234000 +0800" stop="20260610000000 +0800" channel="聊城民生"><title lang="zh">人间故事</title>
+  </programme>
+  <programme start="20260609070000 +0800" stop="20260609074000 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260609074000 +0800" stop="20260609082000 +0800" channel="东营综合"><title lang="zh">伟伟道来</title>
+  </programme>
+  <programme start="20260609082000 +0800" stop="20260609091000 +0800" channel="东营综合"><title lang="zh">民生零距离</title><desc>中央电视台国防军事频道青年军事体验节目，2020年开播，由吴杰主持。每期邀请军事爱好者与国防生走进演播室或军营，通过极限任务挑战、军事装备体验、兵种知识科普等形式，零距离感受国防力量。节目采用“知识挑战+真人秀”模式，涵盖步兵、装甲兵、空降兵、特战等兵种，展现当代军人的过硬本领与强军风貌。每周六17:25首播。</desc>
+  </programme>
+  <programme start="20260609091000 +0800" stop="20260609101500 +0800" channel="东营综合"><title lang="zh">第一集电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260609101500 +0800" stop="20260609105000 +0800" channel="东营综合"><title lang="zh">美丽东营</title>
+  </programme>
+  <programme start="20260609105000 +0800" stop="20260609120000 +0800" channel="东营综合"><title lang="zh">第二集电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260609120000 +0800" stop="20260609121500 +0800" channel="东营综合"><title lang="zh">东营新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260609121500 +0800" stop="20260609123000 +0800" channel="东营综合"><title lang="zh">联播东营</title>
+  </programme>
+  <programme start="20260609123000 +0800" stop="20260609130500 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260609130500 +0800" stop="20260609134000 +0800" channel="东营综合"><title lang="zh">艺林大会</title>
+  </programme>
+  <programme start="20260609134000 +0800" stop="20260609141000 +0800" channel="东营综合"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260609141000 +0800" stop="20260609144500 +0800" channel="东营综合"><title lang="zh">伟伟道来</title>
+  </programme>
+  <programme start="20260609144500 +0800" stop="20260609174600 +0800" channel="东营综合"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260609174600 +0800" stop="20260609180800 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260609180800 +0800" stop="20260609190000 +0800" channel="东营综合"><title lang="zh">伟伟道来</title>
+  </programme>
+  <programme start="20260609190000 +0800" stop="20260609193800 +0800" channel="东营综合"><title lang="zh">转播中央新闻联播</title><desc>转播中央电视台的新闻节目，包括《新闻联播》等重要新闻内容，及时传递国内外重大新闻事件和政策信息，为观众提供权威、全面的新闻资讯。</desc>
+  </programme>
+  <programme start="20260609193800 +0800" stop="20260609195500 +0800" channel="东营综合"><title lang="zh">东营新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260609195500 +0800" stop="20260609200000 +0800" channel="东营综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260609200000 +0800" stop="20260609201800 +0800" channel="东营综合"><title lang="zh">联播东营</title>
+  </programme>
+  <programme start="20260609201800 +0800" stop="20260609205000 +0800" channel="东营综合"><title lang="zh">民生零距离</title><desc>中央电视台国防军事频道青年军事体验节目，2020年开播，由吴杰主持。每期邀请军事爱好者与国防生走进演播室或军营，通过极限任务挑战、军事装备体验、兵种知识科普等形式，零距离感受国防力量。节目采用“知识挑战+真人秀”模式，涵盖步兵、装甲兵、空降兵、特战等兵种，展现当代军人的过硬本领与强军风貌。每周六17:25首播。</desc>
+  </programme>
+  <programme start="20260609205000 +0800" stop="20260609211300 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260609211300 +0800" stop="20260609213200 +0800" channel="东营综合"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260609213200 +0800" stop="20260609220000 +0800" channel="东营综合"><title lang="zh">艺林大会</title>
+  </programme>
+  <programme start="20260609220000 +0800" stop="20260609221800 +0800" channel="东营综合"><title lang="zh">东营新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260609221800 +0800" stop="20260609222300 +0800" channel="东营综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260609222300 +0800" stop="20260609224100 +0800" channel="东营综合"><title lang="zh">联播东营(重播)</title>
+  </programme>
+  <programme start="20260609224100 +0800" stop="20260610000000 +0800" channel="东营综合"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260609070000 +0800" stop="20260609090200 +0800" channel="东营公共"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260609090200 +0800" stop="20260609093200 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260609093200 +0800" stop="20260609100300 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260609100300 +0800" stop="20260609103900 +0800" channel="东营公共"><title lang="zh">艺林大会</title>
+  </programme>
+  <programme start="20260609103900 +0800" stop="20260609111000 +0800" channel="东营公共"><title lang="zh">美丽东营</title>
+  </programme>
+  <programme start="20260609111000 +0800" stop="20260609114000 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260609114000 +0800" stop="20260609121100 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260609121100 +0800" stop="20260609132200 +0800" channel="东营公共"><title lang="zh">幸福鉴定团</title>
+  </programme>
+  <programme start="20260609132200 +0800" stop="20260609142300 +0800" channel="东营公共"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260609142300 +0800" stop="20260609152400 +0800" channel="东营公共"><title lang="zh">新闻风云汇</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260609152400 +0800" stop="20260609162100 +0800" channel="东营公共"><title lang="zh">非常故事汇</title>
+  </programme>
+  <programme start="20260609162100 +0800" stop="20260609165400 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260609165400 +0800" stop="20260609173000 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260609173000 +0800" stop="20260609193000 +0800" channel="东营公共"><title lang="zh">经典影城</title>
+  </programme>
+  <programme start="20260609193000 +0800" stop="20260609195000 +0800" channel="东营公共"><title lang="zh">快乐宝贝</title>
+  </programme>
+  <programme start="20260609195000 +0800" stop="20260609202200 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260609202200 +0800" stop="20260609202800 +0800" channel="东营公共"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260609202800 +0800" stop="20260609204500 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260609204500 +0800" stop="20260609210200 +0800" channel="东营公共"><title lang="zh">美丽东营</title>
+  </programme>
+  <programme start="20260609210200 +0800" stop="20260609215900 +0800" channel="东营公共"><title lang="zh">新闻风云汇</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260609215900 +0800" stop="20260609224100 +0800" channel="东营公共"><title lang="zh">非常故事汇</title>
+  </programme>
+  <programme start="20260609224100 +0800" stop="20260610000000 +0800" channel="东营公共"><title lang="zh">天天影院</title><desc>电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
   </programme>
 </tv>
