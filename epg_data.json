@@ -1213,7 +1213,7 @@
       ],
       "category": "央视",
       "lastProgramTime": "2026-06-10 23:59",
-      "descriptionCoverage": 69,
+      "descriptionCoverage": 72,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -1376,7 +1376,7 @@
           "start": "22:35",
           "stop": "23:50",
           "title": "实况录像-2026年世界女排联赛 南京站 中国队—捷克队",
-          "desc": "",
+          "desc": "国际篮联女子篮球世界杯（FIBA Women's Basketball World Cup，简称“女篮世界杯”），是由国际篮球联合会主办的最高等级女子篮球国家队赛事，前身为世界女子篮球锦标赛（简称“女篮世锦赛”），每4年举办一届。",
           "subProgrammes": []
         },
         {
@@ -1403,7 +1403,7 @@
       ],
       "category": "央视",
       "lastProgramTime": "2026-06-10 23:59",
-      "descriptionCoverage": 48,
+      "descriptionCoverage": 51,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -3559,7 +3559,7 @@
       ],
       "category": "央视",
       "lastProgramTime": "2026-06-10 23:59",
-      "descriptionCoverage": 92,
+      "descriptionCoverage": 93,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -3638,7 +3638,7 @@
           "start": "13:37",
           "stop": "15:43",
           "title": "影视留声机-2026-26-经典音乐电影欣赏《冰山上的来客》",
-          "desc": "",
+          "desc": "\"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。",
           "subProgrammes": []
         },
         {
@@ -6577,7 +6577,7 @@
         "CHANNEL00000078"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 96,
       "hasGap": false,
       "gapDetails": "",
@@ -6915,7 +6915,7 @@
         "CHANNEL00000310"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:33",
+      "lastProgramTime": "2026-06-12 00:07",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -7192,7 +7192,7 @@
         "CHANNEL00000309"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:10",
+      "lastProgramTime": "2026-06-12 00:01",
       "descriptionCoverage": 92,
       "hasGap": false,
       "gapDetails": "",
@@ -7467,8 +7467,8 @@
         "CHANNEL00000367"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:04",
-      "descriptionCoverage": 75,
+      "lastProgramTime": "2026-06-12 00:15",
+      "descriptionCoverage": 73,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -7728,7 +7728,7 @@
         "CHANNEL00000394"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:52",
+      "lastProgramTime": "2026-06-12 00:52",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -7975,8 +7975,8 @@
         "CHANNEL00000040"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:07",
-      "descriptionCoverage": 60,
+      "lastProgramTime": "2026-06-12 00:07",
+      "descriptionCoverage": 58,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -8243,7 +8243,7 @@
         "CHANNEL00000072"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:55",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -8618,7 +8618,7 @@
         "CHANNEL00000302"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:36",
+      "lastProgramTime": "2026-06-12 00:04",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -8921,7 +8921,7 @@
         "CHANNEL00000075"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:06",
+      "lastProgramTime": "2026-06-12 00:07",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -9203,8 +9203,8 @@
         "CHANNEL00000363"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 86,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 85,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -9480,8 +9480,8 @@
         "CHANNEL00000348"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:20",
-      "descriptionCoverage": 44,
+      "lastProgramTime": "2026-06-12 00:20",
+      "descriptionCoverage": 47,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -9750,8 +9750,8 @@
         "CHANNEL00000395"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 76,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 77,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -10046,7 +10046,7 @@
         "CHANNEL00000328"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:10",
+      "lastProgramTime": "2026-06-12 00:18",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -10309,8 +10309,8 @@
         "CHANNEL10000301"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:09",
-      "descriptionCoverage": 73,
+      "lastProgramTime": "2026-06-12 00:29",
+      "descriptionCoverage": 74,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -10556,7 +10556,7 @@
         "CHANNEL00000032"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:47",
+      "lastProgramTime": "2026-06-12 00:04",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -10812,7 +10812,7 @@
         "CHANNEL00000307"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 01:22",
+      "lastProgramTime": "2026-06-12 00:24",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -11052,7 +11052,7 @@
         "CHANNEL00000368"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:20",
+      "lastProgramTime": "2026-06-12 00:01",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -11313,8 +11313,8 @@
         "CHANNEL00000668"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:30",
-      "descriptionCoverage": 67,
+      "lastProgramTime": "2026-06-12 00:30",
+      "descriptionCoverage": 66,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -11525,7 +11525,7 @@
         "CHANNEL00000393"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:13",
+      "lastProgramTime": "2026-06-12 00:14",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -11788,7 +11788,7 @@
         "CHANNEL00000304"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:04",
+      "lastProgramTime": "2026-06-12 00:02",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -12028,7 +12028,7 @@
         "CHANNEL00000335"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:26",
+      "lastProgramTime": "2026-06-12 00:24",
       "descriptionCoverage": 99,
       "hasGap": false,
       "gapDetails": "",
@@ -12296,8 +12296,8 @@
         "CHANNEL00000330"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 06:30",
-      "descriptionCoverage": 72,
+      "lastProgramTime": "2026-06-12 00:23",
+      "descriptionCoverage": 70,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -12536,7 +12536,7 @@
         "CHANNEL00000358"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:12",
+      "lastProgramTime": "2026-06-12 00:03",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -12778,7 +12778,7 @@
         "CHANNEL00000305"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:06",
+      "lastProgramTime": "2026-06-12 00:25",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -13088,8 +13088,8 @@
         "CHANNEL00000347"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:15",
-      "descriptionCoverage": 84,
+      "lastProgramTime": "2026-06-12 00:15",
+      "descriptionCoverage": 86,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -13232,7 +13232,7 @@
         "CHANNEL00000308"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:10",
+      "lastProgramTime": "2026-06-12 00:11",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -13521,7 +13521,7 @@
         "CHANNEL00000325"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:20",
+      "lastProgramTime": "2026-06-12 00:20",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -13798,7 +13798,7 @@
         "CHANNEL00000324"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 01:33",
+      "lastProgramTime": "2026-06-12 01:35",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -14059,7 +14059,7 @@
         "CHANNEL00000349"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:20",
+      "lastProgramTime": "2026-06-12 00:25",
       "descriptionCoverage": 73,
       "hasGap": false,
       "gapDetails": "",
@@ -14397,7 +14397,7 @@
         "CHANNEL00000392"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:40",
+      "lastProgramTime": "2026-06-12 00:37",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -14665,8 +14665,8 @@
         "CHANNEL00000329"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 99,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 98,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -14968,8 +14968,8 @@
         "CHANNEL00000326"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:25",
-      "descriptionCoverage": 64,
+      "lastProgramTime": "2026-06-12 00:26",
+      "descriptionCoverage": 63,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -15159,8 +15159,8 @@
         "CHANNEL00000341"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:45",
-      "descriptionCoverage": 74,
+      "lastProgramTime": "2026-06-12 00:56",
+      "descriptionCoverage": 86,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -15441,8 +15441,8 @@
         "CHANNEL00000029"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-10 00:16",
-      "descriptionCoverage": 70,
+      "lastProgramTime": "2026-06-12 00:35",
+      "descriptionCoverage": 62,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -15674,7 +15674,7 @@
         "CHANNEL00000366"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 77,
       "hasGap": false,
       "gapDetails": "",
@@ -15921,7 +15921,7 @@
         "CHANNEL00000306"
       ],
       "category": "卫视",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 99,
       "hasGap": false,
       "gapDetails": "",
@@ -16172,7 +16172,7 @@
       "name": "4K电视剧",
       "aliases": [],
       "category": "4K超高清",
-      "lastProgramTime": "2026-06-11 00:06",
+      "lastProgramTime": "2026-06-12 00:35",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -16413,7 +16413,7 @@
       ],
       "category": "付费",
       "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 45,
+      "descriptionCoverage": 46,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -16520,7 +16520,7 @@
           "start": "10:28",
           "stop": "10:33",
           "title": "世界地理频道包装-美丽中国 长白山",
-          "desc": "",
+          "desc": "电视台为填补节目播出空档而临时安排的垫片内容，通常为短片、预告片、音乐或信息画面，确保播出信号不中断。",
           "subProgrammes": []
         },
         {
@@ -16646,7 +16646,7 @@
           "start": "17:25",
           "stop": "17:30",
           "title": "世界地理频道包装-美丽中国 长白山",
-          "desc": "",
+          "desc": "电视台为填补节目播出空档而临时安排的垫片内容，通常为短片、预告片、音乐或信息画面，确保播出信号不中断。",
           "subProgrammes": []
         },
         {
@@ -17518,7 +17518,7 @@
         "央视发现之旅"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-10 00:30",
+      "lastProgramTime": "2026-06-12 00:30",
       "descriptionCoverage": 2,
       "hasGap": false,
       "gapDetails": "",
@@ -18783,7 +18783,7 @@
       ],
       "category": "付费",
       "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 22,
+      "descriptionCoverage": 23,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -19597,7 +19597,7 @@
           "start": "21:56",
           "stop": "22:00",
           "title": "垫播节目-美丽中国-云南",
-          "desc": "",
+          "desc": "电视台为填补节目播出空档而临时安排的垫片内容，通常为短片、预告片、音乐或信息画面，确保播出信号不中断。",
           "subProgrammes": []
         },
         {
@@ -21467,7 +21467,7 @@
       ],
       "category": "付费",
       "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 33,
+      "descriptionCoverage": 34,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -21483,7 +21483,7 @@
           "start": "02:38",
           "stop": "04:00",
           "title": "实况录像-2025年ATP1000男子网球大师赛 马德里站 1/4决赛",
-          "desc": "",
+          "desc": "亚足联女子亚洲杯（AFC Women's Asian Cup，简称“女足亚洲杯”），是由亚洲足球联合会举行洲际女足国家队赛事，每四年举办一届；原名亚足联女子锦标赛 (AFC Women's Championship) ，2006年改为现名。",
           "subProgrammes": []
         },
         {
@@ -21593,8 +21593,8 @@
         "CHANNEL00002030"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 67,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 66,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -21797,7 +21797,7 @@
         "CHANNEL00002028"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 66,
       "hasGap": false,
       "gapDetails": "",
@@ -21987,8 +21987,8 @@
         "CHANNEL00002029"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 43,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 40,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -22498,7 +22498,7 @@
       "name": "中医药",
       "aliases": [],
       "category": "付费",
-      "lastProgramTime": "2026-06-10 00:10",
+      "lastProgramTime": "2026-06-12 00:10",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -22807,7 +22807,7 @@
         "CHANNEL00000672"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 28,
       "hasGap": false,
       "gapDetails": "",
@@ -23273,7 +23273,7 @@
         "CETV1"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 94,
       "hasGap": false,
       "gapDetails": "",
@@ -23599,8 +23599,8 @@
         "CETV2"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 97,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 98,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -23995,7 +23995,7 @@
         "CETV4"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:05",
+      "lastProgramTime": "2026-06-12 00:05",
       "descriptionCoverage": 97,
       "hasGap": false,
       "gapDetails": "",
@@ -24299,8 +24299,8 @@
         "中学生频道"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 35,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 37,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -24748,8 +24748,8 @@
         "CHANNEL00002016"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 23,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 22,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -25134,8 +25134,8 @@
         "CHANNEL00000651"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 35,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 34,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -25506,7 +25506,7 @@
         "CHANNEL00000641"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 8,
       "hasGap": false,
       "gapDetails": "",
@@ -25871,8 +25871,8 @@
         "CHANNEL00000049"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 29,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 28,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -26145,8 +26145,8 @@
         "CHANNEL00002000"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 17,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 18,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -26861,7 +26861,7 @@
         "北京卡酷少儿"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 72,
       "hasGap": false,
       "gapDetails": "",
@@ -27317,7 +27317,7 @@
         "CHANNEL00000074"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:07",
+      "lastProgramTime": "2026-06-12 00:02",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -28159,7 +28159,7 @@
         "CHANNEL00000674"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 14,
       "hasGap": false,
       "gapDetails": "",
@@ -28552,7 +28552,7 @@
         "国学频道"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:02",
+      "lastProgramTime": "2026-06-12 00:02",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -28980,7 +28980,7 @@
         "多彩文体4K"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 01:24",
+      "lastProgramTime": "2026-06-12 00:12",
       "descriptionCoverage": 1,
       "hasGap": false,
       "gapDetails": "",
@@ -29210,7 +29210,7 @@
       "name": "天元围棋",
       "aliases": [],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:30",
+      "lastProgramTime": "2026-06-12 00:30",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -29435,7 +29435,7 @@
         "CHANNEL00000700"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -29625,8 +29625,8 @@
         "CHANNEL00000658"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 79,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 78,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -29878,8 +29878,8 @@
         "CHANNEL00000659"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 17,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 16,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -30111,8 +30111,8 @@
         "梨园频道"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 91,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 90,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -30210,7 +30210,7 @@
         "CHANNEL00000657"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 59,
       "hasGap": false,
       "gapDetails": "",
@@ -30561,8 +30561,8 @@
         "CHANNEL00000667"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 24,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 23,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -30850,7 +30850,7 @@
         "汽摩频道"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 34,
       "hasGap": false,
       "gapDetails": "",
@@ -32013,8 +32013,8 @@
         "CHANNEL00002010"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 41,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 49,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -32316,7 +32316,7 @@
         "CHANNEL00000662"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 33,
       "hasGap": false,
       "gapDetails": "",
@@ -32394,7 +32394,7 @@
         "CHANNEL00002024"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -32631,7 +32631,7 @@
       "name": "环球奇观",
       "aliases": [],
       "category": "付费",
-      "lastProgramTime": "2026-06-10 00:30",
+      "lastProgramTime": "2026-06-12 00:30",
       "descriptionCoverage": 8,
       "hasGap": false,
       "gapDetails": "",
@@ -33150,7 +33150,7 @@
         "CHANNEL00000643"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -33812,7 +33812,7 @@
         "生态环境频道"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 3,
       "hasGap": false,
       "gapDetails": "",
@@ -34086,8 +34086,8 @@
         "CHANNEL00002019"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 36,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 38,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -34780,7 +34780,7 @@
         "CHANNEL00002012"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -35326,8 +35326,8 @@
         "环球精选"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-10 00:40",
-      "descriptionCoverage": 26,
+      "lastProgramTime": "2026-06-12 00:40",
+      "descriptionCoverage": 31,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -35586,7 +35586,7 @@
         "CHANNEL00000607"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -35867,7 +35867,7 @@
         "趯球频道"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:25",
+      "lastProgramTime": "2026-06-12 00:25",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -36106,8 +36106,8 @@
         "CHANNEL00002022"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 90,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 89,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -36397,8 +36397,8 @@
         "海看重温经典"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 06:02",
-      "descriptionCoverage": 48,
+      "lastProgramTime": "2026-06-12 06:00",
+      "descriptionCoverage": 53,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -36601,8 +36601,8 @@
         "CHANNEL00002018"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-10 00:20",
-      "descriptionCoverage": 56,
+      "lastProgramTime": "2026-06-12 00:20",
+      "descriptionCoverage": 59,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -37316,8 +37316,8 @@
         "CHANNEL00002027"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 91,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 90,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -37919,7 +37919,7 @@
         "CHANNEL00000334"
       ],
       "category": "付费",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 96,
       "hasGap": false,
       "gapDetails": "",
@@ -38752,7 +38752,7 @@
         "CHANNEL00000352"
       ],
       "category": "国际",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 58,
       "hasGap": false,
       "gapDetails": "",
@@ -39082,7 +39082,7 @@
         "CHANNEL00000357"
       ],
       "category": "国际",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -39426,8 +39426,8 @@
         "CHANNEL00000355"
       ],
       "category": "国际",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 91,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 92,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -39735,7 +39735,7 @@
         "CHANNEL00000353"
       ],
       "category": "国际",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 83,
       "hasGap": false,
       "gapDetails": "",
@@ -40002,7 +40002,7 @@
         "CHANNEL00000354"
       ],
       "category": "国际",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 96,
       "hasGap": false,
       "gapDetails": "",
@@ -40353,8 +40353,8 @@
         "CHANNEL00000356"
       ],
       "category": "国际",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 98,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 99,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -40684,8 +40684,8 @@
         "山东体育休闲"
       ],
       "category": "省级",
-      "lastProgramTime": "2026-06-10 01:30",
-      "descriptionCoverage": 31,
+      "lastProgramTime": "2026-06-12 01:30",
+      "descriptionCoverage": 30,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -40965,8 +40965,8 @@
         "CHANNEL00000339"
       ],
       "category": "省级",
-      "lastProgramTime": "2026-06-11 00:32",
-      "descriptionCoverage": 53,
+      "lastProgramTime": "2026-06-12 00:32",
+      "descriptionCoverage": 52,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -41302,8 +41302,8 @@
         "CHANNEL00000340"
       ],
       "category": "省级",
-      "lastProgramTime": "2026-06-11 06:00",
-      "descriptionCoverage": 46,
+      "lastProgramTime": "2026-06-12 06:00",
+      "descriptionCoverage": 51,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -41514,8 +41514,8 @@
         "CHANNEL00000331"
       ],
       "category": "省级",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 67,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 68,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -41732,7 +41732,7 @@
         "CHANNEL00000337"
       ],
       "category": "省级",
-      "lastProgramTime": "2026-06-11 05:45",
+      "lastProgramTime": "2026-06-12 05:45",
       "descriptionCoverage": 28,
       "hasGap": false,
       "gapDetails": "",
@@ -41958,8 +41958,8 @@
         "CHANNEL10000314"
       ],
       "category": "省级",
-      "lastProgramTime": "2026-06-11 00:23",
-      "descriptionCoverage": 68,
+      "lastProgramTime": "2026-06-12 00:22",
+      "descriptionCoverage": 73,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -42253,8 +42253,8 @@
         "CHANNEL00000336"
       ],
       "category": "省级",
-      "lastProgramTime": "2026-06-11 00:22",
-      "descriptionCoverage": 49,
+      "lastProgramTime": "2026-06-12 00:14",
+      "descriptionCoverage": 52,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -42548,8 +42548,8 @@
         "CHANNEL00000338"
       ],
       "category": "省级",
-      "lastProgramTime": "2026-06-11 00:08",
-      "descriptionCoverage": 21,
+      "lastProgramTime": "2026-06-12 00:08",
+      "descriptionCoverage": 22,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -42745,8 +42745,8 @@
         "CHANNEL10000313"
       ],
       "category": "省级",
-      "lastProgramTime": "2026-06-11 00:23",
-      "descriptionCoverage": 68,
+      "lastProgramTime": "2026-06-12 00:22",
+      "descriptionCoverage": 73,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -43124,7 +43124,7 @@
         "DYTV-2"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 45,
       "hasGap": false,
       "gapDetails": "",
@@ -43297,7 +43297,7 @@
         "DYTV-1"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 45,
       "hasGap": false,
       "gapDetails": "",
@@ -43501,7 +43501,7 @@
         "CCTV-中视购物"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 00:30",
+      "lastProgramTime": "2026-06-12 00:30",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -43845,7 +43845,7 @@
         "CHANNEL00001103"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:15",
+      "lastProgramTime": "2026-06-11 22:15",
       "descriptionCoverage": 100,
       "hasGap": true,
       "gapDetails": "4处断层(最长375分钟)",
@@ -43930,7 +43930,7 @@
         "CHANNEL00001049"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 05:00",
+      "lastProgramTime": "2026-06-12 05:00",
       "descriptionCoverage": 68,
       "hasGap": true,
       "gapDetails": "6处断层(最长258分钟)",
@@ -44090,7 +44090,7 @@
         "CHANNEL00001068"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 21:40",
+      "lastProgramTime": "2026-06-11 21:40",
       "descriptionCoverage": 52,
       "hasGap": true,
       "gapDetails": "5处断层(最长358分钟)",
@@ -44257,7 +44257,7 @@
         "CHANNEL00001112"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 07:30",
+      "lastProgramTime": "2026-06-11 07:30",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -44286,7 +44286,7 @@
         "CHANNEL00001111"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 20:02",
+      "lastProgramTime": "2026-06-11 20:02",
       "descriptionCoverage": 100,
       "hasGap": true,
       "gapDetails": "2处断层(最长349分钟)",
@@ -44345,7 +44345,7 @@
       "name": "优购物",
       "aliases": [],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 01:00",
+      "lastProgramTime": "2026-06-12 01:00",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -44531,7 +44531,7 @@
         "YNTV-1"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:45",
+      "lastProgramTime": "2026-06-11 22:45",
       "descriptionCoverage": 82,
       "hasGap": true,
       "gapDetails": "3处断层(最长300分钟)",
@@ -44683,7 +44683,7 @@
         "南京新闻"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 42,
       "hasGap": false,
       "gapDetails": "",
@@ -45342,7 +45342,7 @@
         "CHANNEL00001105"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 57,
       "hasGap": false,
       "gapDetails": "",
@@ -45470,7 +45470,7 @@
         "CHANNEL00001019"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:55",
+      "lastProgramTime": "2026-06-12 06:55",
       "descriptionCoverage": 97,
       "hasGap": true,
       "gapDetails": "5处断层(最长305分钟)",
@@ -45714,7 +45714,7 @@
         "CHANNEL00001008"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:30",
+      "lastProgramTime": "2026-06-12 06:30",
       "descriptionCoverage": 96,
       "hasGap": true,
       "gapDetails": "6处断层(最长369分钟)",
@@ -45879,7 +45879,7 @@
         "CHANNEL00001070"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 07:00",
+      "lastProgramTime": "2026-06-12 07:00",
       "descriptionCoverage": 100,
       "hasGap": true,
       "gapDetails": "3处断层(最长860分钟)",
@@ -45938,7 +45938,7 @@
         "CHANNEL00001069"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 07:00",
+      "lastProgramTime": "2026-06-12 07:00",
       "descriptionCoverage": 100,
       "hasGap": true,
       "gapDetails": "3处断层(最长380分钟)",
@@ -46592,7 +46592,7 @@
         "CHANNEL00000704"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
@@ -46780,7 +46780,7 @@
       "name": "好享购物",
       "aliases": [],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:40",
+      "lastProgramTime": "2026-06-12 00:40",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -47044,7 +47044,7 @@
         "WHTV-1"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 19:52",
+      "lastProgramTime": "2026-06-11 19:52",
       "descriptionCoverage": 46,
       "hasGap": true,
       "gapDetails": "1处断层(最长418分钟)",
@@ -47093,7 +47093,7 @@
         "CHANNEL00001063"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 23:20",
+      "lastProgramTime": "2026-06-11 23:20",
       "descriptionCoverage": 98,
       "hasGap": true,
       "gapDetails": "16处断层(最长46分钟)",
@@ -47392,8 +47392,8 @@
         "CHANNEL00001022"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:55",
-      "descriptionCoverage": 83,
+      "lastProgramTime": "2026-06-12 06:55",
+      "descriptionCoverage": 85,
       "hasGap": true,
       "gapDetails": "4处断层(最长370分钟)",
       "gapList": [
@@ -47498,7 +47498,7 @@
         "CHANNEL00001054"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:45",
+      "lastProgramTime": "2026-06-11 22:45",
       "descriptionCoverage": 53,
       "hasGap": true,
       "gapDetails": "7处断层(最长160分钟)",
@@ -47696,7 +47696,7 @@
         "CHANNEL00001012"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:20",
+      "lastProgramTime": "2026-06-11 22:20",
       "descriptionCoverage": 93,
       "hasGap": true,
       "gapDetails": "3处断层(最长340分钟)",
@@ -47790,7 +47790,7 @@
         "CHANNEL00000207"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-09 23:40",
+      "lastProgramTime": "2026-06-10 23:39",
       "descriptionCoverage": 29,
       "hasGap": true,
       "gapDetails": "3处断层(最长303分钟)",
@@ -47936,7 +47936,7 @@
         "DZTV-1"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-09 23:02",
+      "lastProgramTime": "2026-06-10 23:02",
       "descriptionCoverage": 68,
       "hasGap": true,
       "gapDetails": "4处断层(最长350分钟)",
@@ -48119,7 +48119,7 @@
         "CHANNEL00001113"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:35",
+      "lastProgramTime": "2026-06-11 22:35",
       "descriptionCoverage": 50,
       "hasGap": true,
       "gapDetails": "4处断层(最长330分钟)",
@@ -48281,8 +48281,8 @@
         "CHANNEL00001100"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 21:30",
-      "descriptionCoverage": 15,
+      "lastProgramTime": "2026-06-11 21:30",
+      "descriptionCoverage": 16,
       "hasGap": true,
       "gapDetails": "4处断层(最长290分钟)",
       "gapList": [
@@ -48424,7 +48424,7 @@
         "RZTV-2"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 21:00",
+      "lastProgramTime": "2026-06-11 21:00",
       "descriptionCoverage": 45,
       "hasGap": true,
       "gapDetails": "2处断层(最长340分钟)",
@@ -48537,7 +48537,7 @@
         "RZTV-1"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 75,
       "hasGap": true,
       "gapDetails": "3处断层(最长260分钟)",
@@ -48734,7 +48734,7 @@
       "name": "早期教育",
       "aliases": [],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 06:03",
+      "lastProgramTime": "2026-06-12 00:10",
       "descriptionCoverage": 15,
       "hasGap": false,
       "gapDetails": "",
@@ -49160,7 +49160,7 @@
       "name": "时尚购物",
       "aliases": [],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 01:00",
+      "lastProgramTime": "2026-06-12 01:00",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -49343,7 +49343,7 @@
         "CHANNEL00001033"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:25",
+      "lastProgramTime": "2026-06-12 06:25",
       "descriptionCoverage": 87,
       "hasGap": true,
       "gapDetails": "7处断层(最长274分钟)",
@@ -49499,7 +49499,7 @@
         "CHANNEL00001052"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 07:00",
+      "lastProgramTime": "2026-06-12 07:00",
       "descriptionCoverage": 74,
       "hasGap": true,
       "gapDetails": "4处断层(最长360分钟)",
@@ -49592,8 +49592,8 @@
         "CHANNEL00001020"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:42",
-      "descriptionCoverage": 67,
+      "lastProgramTime": "2026-06-11 22:42",
+      "descriptionCoverage": 68,
       "hasGap": true,
       "gapDetails": "5处断层(最长280分钟)",
       "gapList": [
@@ -49731,7 +49731,7 @@
         "CHANNEL00001059"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:12",
+      "lastProgramTime": "2026-06-11 22:12",
       "descriptionCoverage": 100,
       "hasGap": true,
       "gapDetails": "3处断层(最长464分钟)",
@@ -49850,8 +49850,8 @@
         "CHANNEL00001099"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:40",
-      "descriptionCoverage": 90,
+      "lastProgramTime": "2026-06-11 22:40",
+      "descriptionCoverage": 88,
       "hasGap": true,
       "gapDetails": "5处断层(最长305分钟)",
       "gapList": [
@@ -49940,8 +49940,8 @@
         "CHANNEL00001098"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:50",
-      "descriptionCoverage": 78,
+      "lastProgramTime": "2026-06-11 22:50",
+      "descriptionCoverage": 77,
       "hasGap": true,
       "gapDetails": "6处断层(最长270分钟)",
       "gapList": [
@@ -50070,7 +50070,7 @@
         "CHANNEL00001002"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 05:55",
+      "lastProgramTime": "2026-06-12 05:55",
       "descriptionCoverage": 83,
       "hasGap": true,
       "gapDetails": "14处断层(最长75分钟)",
@@ -50443,7 +50443,7 @@
         "CHANNEL00001109"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:00",
+      "lastProgramTime": "2026-06-12 06:00",
       "descriptionCoverage": 64,
       "hasGap": true,
       "gapDetails": "5处断层(最长285分钟)",
@@ -50561,7 +50561,7 @@
         "CHANNEL00001035"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:39",
+      "lastProgramTime": "2026-06-12 06:39",
       "descriptionCoverage": 92,
       "hasGap": true,
       "gapDetails": "10处断层(最长280分钟)",
@@ -50753,7 +50753,7 @@
         "CHANNEL00001114"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:18",
+      "lastProgramTime": "2026-06-11 22:18",
       "descriptionCoverage": 72,
       "hasGap": true,
       "gapDetails": "4处断层(最长322分钟)",
@@ -50923,7 +50923,7 @@
         "济南娱乐频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 12,
       "hasGap": false,
       "gapDetails": "",
@@ -50995,7 +50995,7 @@
         "济南少儿频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 07:02",
+      "lastProgramTime": "2026-06-12 07:02",
       "descriptionCoverage": 65,
       "hasGap": false,
       "gapDetails": "",
@@ -51129,8 +51129,8 @@
         "CHANNEL00000064"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:42",
-      "descriptionCoverage": 19,
+      "lastProgramTime": "2026-06-12 06:42",
+      "descriptionCoverage": 18,
       "hasGap": true,
       "gapDetails": "4处断层(最长228分钟)",
       "gapList": [
@@ -51222,8 +51222,8 @@
         "济南生活频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 23:45",
-      "descriptionCoverage": 39,
+      "lastProgramTime": "2026-06-11 23:45",
+      "descriptionCoverage": 40,
       "hasGap": true,
       "gapDetails": "5处断层(最长263分钟)",
       "gapList": [
@@ -51342,8 +51342,8 @@
         "济南新闻"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 23:30",
-      "descriptionCoverage": 72,
+      "lastProgramTime": "2026-06-11 23:30",
+      "descriptionCoverage": 73,
       "hasGap": true,
       "gapDetails": "4处断层(最长249分钟)",
       "gapList": [
@@ -51449,7 +51449,7 @@
         "济南都市频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:58",
+      "lastProgramTime": "2026-06-12 06:58",
       "descriptionCoverage": 11,
       "hasGap": true,
       "gapDetails": "5处断层(最长300分钟)",
@@ -51546,7 +51546,7 @@
         "CHANNEL00000244"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:10",
+      "lastProgramTime": "2026-06-12 00:10",
       "descriptionCoverage": 71,
       "hasGap": true,
       "gapDetails": "3处断层(最长312分钟)",
@@ -51739,8 +51739,8 @@
         "济宁公共频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 21:20",
-      "descriptionCoverage": 26,
+      "lastProgramTime": "2026-06-11 21:20",
+      "descriptionCoverage": 27,
       "hasGap": true,
       "gapDetails": "2处断层(最长425分钟)",
       "gapList": [
@@ -51808,8 +51808,8 @@
         "济宁生活频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 23:30",
-      "descriptionCoverage": 31,
+      "lastProgramTime": "2026-06-11 23:30",
+      "descriptionCoverage": 30,
       "hasGap": true,
       "gapDetails": "4处断层(最长135分钟)",
       "gapList": [
@@ -51957,8 +51957,8 @@
         "济宁综合频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 21:30",
-      "descriptionCoverage": 68,
+      "lastProgramTime": "2026-06-11 21:30",
+      "descriptionCoverage": 69,
       "hasGap": true,
       "gapDetails": "2处断层(最长300分钟)",
       "gapList": [
@@ -52123,8 +52123,8 @@
         "CHANNEL00001101"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 07:10",
-      "descriptionCoverage": 94,
+      "lastProgramTime": "2026-06-12 07:10",
+      "descriptionCoverage": 92,
       "hasGap": true,
       "gapDetails": "3处断层(最长330分钟)",
       "gapList": [
@@ -52204,7 +52204,7 @@
         "淄博影视频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:00",
+      "lastProgramTime": "2026-06-11 22:00",
       "descriptionCoverage": 0,
       "hasGap": true,
       "gapDetails": "2处断层(最长400分钟)",
@@ -52252,7 +52252,7 @@
         "淄博文旅频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 23:10",
+      "lastProgramTime": "2026-06-11 23:10",
       "descriptionCoverage": 17,
       "hasGap": true,
       "gapDetails": "3处断层(最长400分钟)",
@@ -52326,7 +52326,7 @@
         "淄博民生频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:30",
+      "lastProgramTime": "2026-06-11 22:30",
       "descriptionCoverage": 0,
       "hasGap": true,
       "gapDetails": "3处断层(最长330分钟)",
@@ -52394,7 +52394,7 @@
         "CHANNEL00000292"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 05:00",
+      "lastProgramTime": "2026-06-12 05:00",
       "descriptionCoverage": 54,
       "hasGap": true,
       "gapDetails": "3处断层(最长270分钟)",
@@ -52507,8 +52507,8 @@
       "name": "滨城TV",
       "aliases": [],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 07:00",
-      "descriptionCoverage": 65,
+      "lastProgramTime": "2026-06-12 07:00",
+      "descriptionCoverage": 64,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -52709,7 +52709,7 @@
       "name": "滨州公共",
       "aliases": [],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:22",
+      "lastProgramTime": "2026-06-12 06:22",
       "descriptionCoverage": 82,
       "hasGap": false,
       "gapDetails": "",
@@ -52942,8 +52942,8 @@
         "滨州民生频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:22",
-      "descriptionCoverage": 90,
+      "lastProgramTime": "2026-06-12 06:22",
+      "descriptionCoverage": 89,
       "hasGap": true,
       "gapDetails": "6处断层(最长418分钟)",
       "gapList": [
@@ -53095,8 +53095,8 @@
         "CHANNEL00000220"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:24",
-      "descriptionCoverage": 87,
+      "lastProgramTime": "2026-06-12 06:24",
+      "descriptionCoverage": 86,
       "hasGap": true,
       "gapDetails": "4处断层(最长348分钟)",
       "gapList": [
@@ -53273,8 +53273,8 @@
         "WFTV-3"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 05:31",
-      "descriptionCoverage": 32,
+      "lastProgramTime": "2026-06-10 23:45",
+      "descriptionCoverage": 31,
       "hasGap": true,
       "gapDetails": "3处断层(最长260分钟)",
       "gapList": [
@@ -53507,7 +53507,7 @@
         "CHANNEL00000218"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-09 23:59",
+      "lastProgramTime": "2026-06-10 23:59",
       "descriptionCoverage": 7,
       "hasGap": true,
       "gapDetails": "1处断层(最长707分钟)",
@@ -53619,7 +53619,7 @@
         "CHANNEL00000216"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-09 21:45",
+      "lastProgramTime": "2026-06-10 23:50",
       "descriptionCoverage": 13,
       "hasGap": true,
       "gapDetails": "2处断层(最长300分钟)",
@@ -53843,8 +53843,8 @@
         "CHANNEL00000215"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 05:35",
-      "descriptionCoverage": 42,
+      "lastProgramTime": "2026-06-10 23:30",
+      "descriptionCoverage": 43,
       "hasGap": true,
       "gapDetails": "3处断层(最长280分钟)",
       "gapList": [
@@ -54044,7 +54044,7 @@
         "烟台公共频道"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:40",
+      "lastProgramTime": "2026-06-11 22:40",
       "descriptionCoverage": 55,
       "hasGap": true,
       "gapDetails": "4处断层(最长135分钟)",
@@ -54228,7 +54228,7 @@
         "CHANNEL00000282"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 23:20",
+      "lastProgramTime": "2026-06-11 23:20",
       "descriptionCoverage": 48,
       "hasGap": true,
       "gapDetails": "3处断层(最长270分钟)",
@@ -54352,7 +54352,7 @@
         "CHANNEL00000280"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 85,
       "hasGap": true,
       "gapDetails": "7处断层(最长175分钟)",
@@ -54557,7 +54557,7 @@
         "CHANNEL00001061"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:20",
+      "lastProgramTime": "2026-06-11 22:20",
       "descriptionCoverage": 89,
       "hasGap": true,
       "gapDetails": "2处断层(最长420分钟)",
@@ -54646,7 +54646,7 @@
         "CHANNEL00001062"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 21:20",
+      "lastProgramTime": "2026-06-11 21:20",
       "descriptionCoverage": 67,
       "hasGap": true,
       "gapDetails": "3处断层(最长330分钟)",
@@ -54720,7 +54720,7 @@
         "CHANNEL00000332"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 76,
       "hasGap": false,
       "gapDetails": "",
@@ -55036,7 +55036,7 @@
         "CHANNEL00000251"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:00",
+      "lastProgramTime": "2026-06-12 00:00",
       "descriptionCoverage": 75,
       "hasGap": false,
       "gapDetails": "",
@@ -55107,7 +55107,7 @@
         "CHANNEL00001074"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 07:00",
+      "lastProgramTime": "2026-06-12 07:00",
       "descriptionCoverage": 95,
       "hasGap": true,
       "gapDetails": "9处断层(最长289分钟)",
@@ -55351,8 +55351,8 @@
         "苏州新闻综合"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 00:00",
-      "descriptionCoverage": 57,
+      "lastProgramTime": "2026-06-12 00:00",
+      "descriptionCoverage": 58,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -55506,7 +55506,7 @@
         "CHANNEL00001014"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 21:45",
+      "lastProgramTime": "2026-06-11 21:45",
       "descriptionCoverage": 29,
       "hasGap": true,
       "gapDetails": "3处断层(最长265分钟)",
@@ -55803,7 +55803,7 @@
         "CHANNEL00001067"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 23:00",
+      "lastProgramTime": "2026-06-11 23:00",
       "descriptionCoverage": 100,
       "hasGap": true,
       "gapDetails": "4处断层(最长325分钟)",
@@ -55910,7 +55910,7 @@
         "CHANNEL00000232"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:00",
+      "lastProgramTime": "2026-06-12 06:00",
       "descriptionCoverage": 68,
       "hasGap": true,
       "gapDetails": "4处断层(最长197分钟)",
@@ -56129,7 +56129,7 @@
         "CHANNEL00000234"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 23:45",
+      "lastProgramTime": "2026-06-11 23:45",
       "descriptionCoverage": 28,
       "hasGap": true,
       "gapDetails": "3处断层(最长318分钟)",
@@ -56384,7 +56384,7 @@
         "CHANNEL00001038"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 22:30",
+      "lastProgramTime": "2026-06-11 22:25",
       "descriptionCoverage": 68,
       "hasGap": true,
       "gapDetails": "5处断层(最长230分钟)",
@@ -56516,7 +56516,7 @@
         "CHANNEL00001090"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 21:15",
+      "lastProgramTime": "2026-06-11 21:15",
       "descriptionCoverage": 100,
       "hasGap": true,
       "gapDetails": "4处断层(最长192分钟)",
@@ -56636,8 +56636,8 @@
         "CHANNEL00001082"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 23:08",
-      "descriptionCoverage": 74,
+      "lastProgramTime": "2026-06-11 22:55",
+      "descriptionCoverage": 75,
       "hasGap": true,
       "gapDetails": "6处断层(最长179分钟)",
       "gapList": [
@@ -56816,8 +56816,8 @@
         "CHANNEL00000500"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-09 22:30",
-      "descriptionCoverage": 51,
+      "lastProgramTime": "2026-06-10 22:13",
+      "descriptionCoverage": 53,
       "hasGap": true,
       "gapDetails": "5处断层(最长172分钟)",
       "gapList": [
@@ -57061,7 +57061,7 @@
         "CHANNEL00000501"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 05:43",
+      "lastProgramTime": "2026-06-11 05:41",
       "descriptionCoverage": 88,
       "hasGap": false,
       "gapDetails": "",
@@ -57364,7 +57364,7 @@
         "CHANNEL00000502"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-09 21:16",
+      "lastProgramTime": "2026-06-10 21:09",
       "descriptionCoverage": 80,
       "hasGap": true,
       "gapDetails": "3处断层(最长298分钟)",
@@ -57424,7 +57424,7 @@
         "CHANNEL00000503"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 05:22",
+      "lastProgramTime": "2026-06-11 05:22",
       "descriptionCoverage": 59,
       "hasGap": true,
       "gapDetails": "1处断层(最长90分钟)",
@@ -57670,7 +57670,7 @@
         "CHANNEL00000505"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 06:05",
+      "lastProgramTime": "2026-06-11 06:05",
       "descriptionCoverage": 24,
       "hasGap": true,
       "gapDetails": "4处断层(最长227分钟)",
@@ -57882,7 +57882,7 @@
         "CHANNEL00001108"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 20:48",
+      "lastProgramTime": "2026-06-11 20:48",
       "descriptionCoverage": 100,
       "hasGap": true,
       "gapDetails": "9处断层(最长185分钟)",
@@ -58042,7 +58042,7 @@
         "CHANNEL00001107"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-11 06:55",
+      "lastProgramTime": "2026-06-12 06:55",
       "descriptionCoverage": 99,
       "hasGap": true,
       "gapDetails": "5处断层(最长336分钟)",
@@ -58195,7 +58195,7 @@
         "CHANNEL00001087"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 21:35",
+      "lastProgramTime": "2026-06-11 21:35",
       "descriptionCoverage": 67,
       "hasGap": true,
       "gapDetails": "5处断层(最长205分钟)",
@@ -58520,7 +58520,7 @@
         "CHANNEL00001005"
       ],
       "category": "市级",
-      "lastProgramTime": "2026-06-10 23:08",
+      "lastProgramTime": "2026-06-11 22:56",
       "descriptionCoverage": 90,
       "hasGap": true,
       "gapDetails": "12处断层(最长47分钟)",
@@ -58856,5 +58856,5 @@
       ]
     }
   ],
-  "updateTime": 1781027986.598384
+  "updateTime": 1781032274.9623215
 }
