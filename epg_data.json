@@ -3531,9 +3531,45 @@
       "category": "央视",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 51,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "7处断层(最长50分钟)",
+      "gapList": [
+        {
+          "after": "08:58",
+          "before": "09:44",
+          "minutes": 46
+        },
+        {
+          "after": "10:31",
+          "before": "11:11",
+          "minutes": 40
+        },
+        {
+          "after": "12:01",
+          "before": "12:29",
+          "minutes": 28
+        },
+        {
+          "after": "14:47",
+          "before": "15:33",
+          "minutes": 46
+        },
+        {
+          "after": "15:35",
+          "before": "16:25",
+          "minutes": 50
+        },
+        {
+          "after": "18:00",
+          "before": "18:28",
+          "minutes": 28
+        },
+        {
+          "after": "21:36",
+          "before": "22:25",
+          "minutes": 49
+        }
+      ],
       "todaySchedule": [
         {
           "start": "06:00",
@@ -3870,9 +3906,15 @@
       "category": "央视",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 33,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "1处断层(最长36分钟)",
+      "gapList": [
+        {
+          "after": "20:03",
+          "before": "20:39",
+          "minutes": 36
+        }
+      ],
       "todaySchedule": [
         {
           "start": "07:00",
@@ -8233,9 +8275,15 @@
       "category": "卫视",
       "lastProgramTime": "2026-06-11 00:10",
       "descriptionCoverage": 99,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "1处断层(最长420分钟)",
+      "gapList": [
+        {
+          "after": "00:00",
+          "before": "07:00",
+          "minutes": 420
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:10",
@@ -13660,9 +13708,25 @@
       "category": "付费",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 43,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "3处断层(最长42分钟)",
+      "gapList": [
+        {
+          "after": "07:00",
+          "before": "07:42",
+          "minutes": 42
+        },
+        {
+          "after": "07:42",
+          "before": "08:12",
+          "minutes": 30
+        },
+        {
+          "after": "12:13",
+          "before": "12:43",
+          "minutes": 30
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:38",
@@ -13965,12 +14029,57 @@
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 33,
       "hasGap": true,
-      "gapDetails": "1处断层(最长7分钟)",
+      "gapDetails": "10处断层(最长475分钟)",
       "gapList": [
         {
           "after": "00:07",
           "before": "08:02",
-          "minutes": 7
+          "minutes": 475
+        },
+        {
+          "after": "08:32",
+          "before": "09:02",
+          "minutes": 30
+        },
+        {
+          "after": "10:33",
+          "before": "11:23",
+          "minutes": 50
+        },
+        {
+          "after": "12:18",
+          "before": "12:48",
+          "minutes": 30
+        },
+        {
+          "after": "13:49",
+          "before": "14:19",
+          "minutes": 30
+        },
+        {
+          "after": "15:40",
+          "before": "16:06",
+          "minutes": 26
+        },
+        {
+          "after": "17:02",
+          "before": "17:32",
+          "minutes": 30
+        },
+        {
+          "after": "19:03",
+          "before": "19:53",
+          "minutes": 50
+        },
+        {
+          "after": "20:48",
+          "before": "21:18",
+          "minutes": 30
+        },
+        {
+          "after": "22:19",
+          "before": "22:49",
+          "minutes": 30
         }
       ],
       "todaySchedule": [
@@ -14280,9 +14389,15 @@
       "category": "付费",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 74,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "1处断层(最长40分钟)",
+      "gapList": [
+        {
+          "after": "10:39",
+          "before": "11:19",
+          "minutes": 40
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:15",
@@ -14940,9 +15055,15 @@
       "category": "付费",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 81,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "1处断层(最长1409分钟)",
+      "gapList": [
+        {
+          "after": "00:00",
+          "before": "23:29",
+          "minutes": 1409
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:10",
@@ -15118,9 +15239,20 @@
       "category": "付费",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 54,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "2处断层(最长46分钟)",
+      "gapList": [
+        {
+          "after": "13:28",
+          "before": "14:14",
+          "minutes": 46
+        },
+        {
+          "after": "21:25",
+          "before": "21:47",
+          "minutes": 22
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:15",
@@ -16086,9 +16218,15 @@
       "category": "付费",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 80,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "1处断层(最长46分钟)",
+      "gapList": [
+        {
+          "after": "18:41",
+          "before": "19:27",
+          "minutes": 46
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:18",
@@ -16882,9 +17020,25 @@
       "category": "付费",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 74,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "3处断层(最长83分钟)",
+      "gapList": [
+        {
+          "after": "07:47",
+          "before": "07:52",
+          "minutes": 5
+        },
+        {
+          "after": "13:07",
+          "before": "14:30",
+          "minutes": 83
+        },
+        {
+          "after": "19:31",
+          "before": "20:17",
+          "minutes": 46
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:33",
@@ -17490,9 +17644,20 @@
       "category": "付费",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 71,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "2处断层(最长44分钟)",
+      "gapList": [
+        {
+          "after": "13:30",
+          "before": "14:14",
+          "minutes": 44
+        },
+        {
+          "after": "17:41",
+          "before": "18:11",
+          "minutes": 30
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:43",
@@ -36066,12 +36231,27 @@
       "lastProgramTime": "2026-06-10 22:15",
       "descriptionCoverage": 100,
       "hasGap": true,
-      "gapDetails": "1处断层(最长6分钟)",
+      "gapDetails": "4处断层(最长375分钟)",
       "gapList": [
+        {
+          "after": "07:01",
+          "before": "09:00",
+          "minutes": 119
+        },
+        {
+          "after": "09:20",
+          "before": "12:00",
+          "minutes": 160
+        },
         {
           "after": "12:10",
           "before": "18:25",
-          "minutes": 6
+          "minutes": 375
+        },
+        {
+          "after": "20:10",
+          "before": "22:00",
+          "minutes": 110
         }
       ],
       "todaySchedule": [
@@ -36128,9 +36308,40 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 05:00",
       "descriptionCoverage": 68,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "6处断层(最长258分钟)",
+      "gapList": [
+        {
+          "after": "06:30",
+          "before": "07:00",
+          "minutes": 30
+        },
+        {
+          "after": "07:01",
+          "before": "08:00",
+          "minutes": 59
+        },
+        {
+          "after": "08:42",
+          "before": "12:00",
+          "minutes": 198
+        },
+        {
+          "after": "12:44",
+          "before": "17:02",
+          "minutes": 258
+        },
+        {
+          "after": "17:40",
+          "before": "18:30",
+          "minutes": 50
+        },
+        {
+          "after": "19:56",
+          "before": "23:00",
+          "minutes": 184
+        }
+      ],
       "todaySchedule": [
         {
           "start": "05:30",
@@ -36242,12 +36453,32 @@
       "lastProgramTime": "2026-06-10 21:40",
       "descriptionCoverage": 52,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "5处断层(最长358分钟)",
       "gapList": [
+        {
+          "after": "06:30",
+          "before": "07:00",
+          "minutes": 30
+        },
+        {
+          "after": "07:15",
+          "before": "08:10",
+          "minutes": 55
+        },
+        {
+          "after": "08:50",
+          "before": "11:15",
+          "minutes": 145
+        },
         {
           "after": "12:15",
           "before": "18:13",
-          "minutes": 5
+          "minutes": 358
+        },
+        {
+          "after": "20:20",
+          "before": "21:10",
+          "minutes": 50
         }
       ],
       "todaySchedule": [
@@ -36392,12 +36623,17 @@
       "lastProgramTime": "2026-06-10 20:02",
       "descriptionCoverage": 100,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "2处断层(最长349分钟)",
       "gapList": [
+        {
+          "after": "07:50",
+          "before": "12:00",
+          "minutes": 250
+        },
         {
           "after": "12:41",
           "before": "18:30",
-          "minutes": 5
+          "minutes": 349
         }
       ],
       "todaySchedule": [
@@ -36465,12 +36701,22 @@
       "lastProgramTime": "2026-06-10 22:45",
       "descriptionCoverage": 82,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "3处断层(最长300分钟)",
       "gapList": [
+        {
+          "after": "08:00",
+          "before": "11:40",
+          "minutes": 220
+        },
         {
           "after": "12:50",
           "before": "17:50",
-          "minutes": 5
+          "minutes": 300
+        },
+        {
+          "after": "20:10",
+          "before": "22:25",
+          "minutes": 135
         }
       ],
       "todaySchedule": [
@@ -37270,12 +37516,32 @@
       "lastProgramTime": "2026-06-11 06:55",
       "descriptionCoverage": 97,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "5处断层(最长305分钟)",
       "gapList": [
+        {
+          "after": "07:50",
+          "before": "11:39",
+          "minutes": 229
+        },
+        {
+          "after": "11:53",
+          "before": "12:15",
+          "minutes": 22
+        },
         {
           "after": "12:49",
           "before": "17:54",
-          "minutes": 5
+          "minutes": 305
+        },
+        {
+          "after": "17:58",
+          "before": "18:23",
+          "minutes": 25
+        },
+        {
+          "after": "20:53",
+          "before": "23:45",
+          "minutes": 172
         }
       ],
       "todaySchedule": [
@@ -37465,12 +37731,37 @@
       "lastProgramTime": "2026-06-11 06:30",
       "descriptionCoverage": 96,
       "hasGap": true,
-      "gapDetails": "1处断层(最长6分钟)",
+      "gapDetails": "6处断层(最长369分钟)",
       "gapList": [
+        {
+          "after": "06:40",
+          "before": "07:00",
+          "minutes": 20
+        },
+        {
+          "after": "07:01",
+          "before": "07:30",
+          "minutes": 29
+        },
+        {
+          "after": "07:45",
+          "before": "11:50",
+          "minutes": 245
+        },
         {
           "after": "12:20",
           "before": "18:29",
-          "minutes": 6
+          "minutes": 369
+        },
+        {
+          "after": "19:55",
+          "before": "22:10",
+          "minutes": 135
+        },
+        {
+          "after": "22:35",
+          "before": "23:30",
+          "minutes": 55
         }
       ],
       "todaySchedule": [
@@ -37588,12 +37879,22 @@
       "lastProgramTime": "2026-06-11 07:00",
       "descriptionCoverage": 100,
       "hasGap": true,
-      "gapDetails": "1处断层(最长14分钟)",
+      "gapDetails": "3处断层(最长860分钟)",
       "gapList": [
+        {
+          "after": "07:01",
+          "before": "07:30",
+          "minutes": 29
+        },
         {
           "after": "07:40",
           "before": "22:00",
-          "minutes": 14
+          "minutes": 860
+        },
+        {
+          "after": "22:10",
+          "before": "23:00",
+          "minutes": 50
         }
       ],
       "todaySchedule": [
@@ -37633,12 +37934,22 @@
       "lastProgramTime": "2026-06-11 07:00",
       "descriptionCoverage": 100,
       "hasGap": true,
-      "gapDetails": "1处断层(最长6分钟)",
+      "gapDetails": "3处断层(最长380分钟)",
       "gapList": [
+        {
+          "after": "07:10",
+          "before": "12:00",
+          "minutes": 290
+        },
         {
           "after": "12:10",
           "before": "18:30",
-          "minutes": 6
+          "minutes": 380
+        },
+        {
+          "after": "20:15",
+          "before": "22:50",
+          "minutes": 155
         }
       ],
       "todaySchedule": [
@@ -37699,9 +38010,15 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 27,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "1处断层(最长415分钟)",
+      "gapList": [
+        {
+          "after": "00:00",
+          "before": "06:55",
+          "minutes": 415
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:00",
@@ -37850,9 +38167,15 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 00:08",
       "descriptionCoverage": 100,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "1处断层(最长420分钟)",
+      "gapList": [
+        {
+          "after": "00:00",
+          "before": "07:00",
+          "minutes": 420
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:08",
@@ -37899,9 +38222,15 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 01:00",
       "descriptionCoverage": 37,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "1处断层(最长415分钟)",
+      "gapList": [
+        {
+          "after": "00:00",
+          "before": "06:55",
+          "minutes": 415
+        }
+      ],
       "todaySchedule": [
         {
           "start": "01:00",
@@ -38129,9 +38458,15 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 00:31",
       "descriptionCoverage": 56,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "1处断层(最长410分钟)",
+      "gapList": [
+        {
+          "after": "00:00",
+          "before": "06:50",
+          "minutes": 410
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:31",
@@ -38611,9 +38946,15 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 26,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "1处断层(最长420分钟)",
+      "gapList": [
+        {
+          "after": "00:00",
+          "before": "07:00",
+          "minutes": 420
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:00",
@@ -39169,12 +39510,12 @@
       "lastProgramTime": "2026-06-10 19:52",
       "descriptionCoverage": 45,
       "hasGap": true,
-      "gapDetails": "1处断层(最长6分钟)",
+      "gapDetails": "1处断层(最长418分钟)",
       "gapList": [
         {
           "after": "12:35",
           "before": "19:33",
-          "minutes": 6
+          "minutes": 418
         }
       ],
       "todaySchedule": [
@@ -39213,9 +39554,95 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 23:20",
       "descriptionCoverage": 98,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "17处断层(最长70分钟)",
+      "gapList": [
+        {
+          "after": "07:05",
+          "before": "07:30",
+          "minutes": 25
+        },
+        {
+          "after": "08:00",
+          "before": "08:45",
+          "minutes": 45
+        },
+        {
+          "after": "08:46",
+          "before": "09:31",
+          "minutes": 45
+        },
+        {
+          "after": "09:33",
+          "before": "10:33",
+          "minutes": 60
+        },
+        {
+          "after": "11:12",
+          "before": "11:57",
+          "minutes": 45
+        },
+        {
+          "after": "12:12",
+          "before": "12:40",
+          "minutes": 28
+        },
+        {
+          "after": "12:42",
+          "before": "13:27",
+          "minutes": 45
+        },
+        {
+          "after": "13:30",
+          "before": "14:15",
+          "minutes": 45
+        },
+        {
+          "after": "14:17",
+          "before": "15:02",
+          "minutes": 45
+        },
+        {
+          "after": "15:04",
+          "before": "15:50",
+          "minutes": 46
+        },
+        {
+          "after": "15:53",
+          "before": "16:40",
+          "minutes": 47
+        },
+        {
+          "after": "16:42",
+          "before": "17:27",
+          "minutes": 45
+        },
+        {
+          "after": "17:30",
+          "before": "18:26",
+          "minutes": 56
+        },
+        {
+          "after": "19:40",
+          "before": "19:52",
+          "minutes": 12
+        },
+        {
+          "after": "20:20",
+          "before": "21:30",
+          "minutes": 70
+        },
+        {
+          "after": "21:34",
+          "before": "22:00",
+          "minutes": 26
+        },
+        {
+          "after": "22:32",
+          "before": "23:17",
+          "minutes": 45
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:30",
@@ -39403,12 +39830,27 @@
       "lastProgramTime": "2026-06-11 06:55",
       "descriptionCoverage": 85,
       "hasGap": true,
-      "gapDetails": "1处断层(最长6分钟)",
+      "gapDetails": "4处断层(最长370分钟)",
       "gapList": [
+        {
+          "after": "07:30",
+          "before": "08:00",
+          "minutes": 30
+        },
+        {
+          "after": "08:20",
+          "before": "12:00",
+          "minutes": 220
+        },
         {
           "after": "12:20",
           "before": "18:30",
-          "minutes": 6
+          "minutes": 370
+        },
+        {
+          "after": "19:55",
+          "before": "22:20",
+          "minutes": 145
         }
       ],
       "todaySchedule": [
@@ -39483,9 +39925,50 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 22:45",
       "descriptionCoverage": 54,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "8处断层(最长160分钟)",
+      "gapList": [
+        {
+          "after": "07:12",
+          "before": "07:44",
+          "minutes": 32
+        },
+        {
+          "after": "08:40",
+          "before": "11:20",
+          "minutes": 160
+        },
+        {
+          "after": "11:30",
+          "before": "12:00",
+          "minutes": 30
+        },
+        {
+          "after": "12:40",
+          "before": "14:15",
+          "minutes": 95
+        },
+        {
+          "after": "14:55",
+          "before": "17:23",
+          "minutes": 148
+        },
+        {
+          "after": "17:33",
+          "before": "17:57",
+          "minutes": 24
+        },
+        {
+          "after": "20:21",
+          "before": "20:31",
+          "minutes": 10
+        },
+        {
+          "after": "20:43",
+          "before": "22:10",
+          "minutes": 87
+        }
+      ],
       "todaySchedule": [
         {
           "start": "07:00",
@@ -39613,12 +40096,22 @@
       "lastProgramTime": "2026-06-10 22:20",
       "descriptionCoverage": 90,
       "hasGap": true,
-      "gapDetails": "1处断层(最长6分钟)",
+      "gapDetails": "3处断层(最长360分钟)",
       "gapList": [
+        {
+          "after": "07:25",
+          "before": "12:02",
+          "minutes": 277
+        },
         {
           "after": "12:30",
           "before": "18:30",
-          "minutes": 6
+          "minutes": 360
+        },
+        {
+          "after": "19:50",
+          "before": "22:02",
+          "minutes": 132
         }
       ],
       "todaySchedule": [
@@ -39707,12 +40200,27 @@
       "lastProgramTime": "2026-06-10 22:35",
       "descriptionCoverage": 50,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "4处断层(最长340分钟)",
       "gapList": [
+        {
+          "after": "06:00",
+          "before": "07:00",
+          "minutes": 60
+        },
+        {
+          "after": "07:40",
+          "before": "12:00",
+          "minutes": 260
+        },
         {
           "after": "12:40",
           "before": "18:20",
-          "minutes": 5
+          "minutes": 340
+        },
+        {
+          "after": "20:15",
+          "before": "21:40",
+          "minutes": 85
         }
       ],
       "todaySchedule": [
@@ -39829,9 +40337,30 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 21:30",
       "descriptionCoverage": 16,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "4处断层(最长290分钟)",
+      "gapList": [
+        {
+          "after": "06:00",
+          "before": "06:50",
+          "minutes": 50
+        },
+        {
+          "after": "08:30",
+          "before": "11:20",
+          "minutes": 170
+        },
+        {
+          "after": "13:20",
+          "before": "18:10",
+          "minutes": 290
+        },
+        {
+          "after": "19:15",
+          "before": "19:45",
+          "minutes": 30
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:15",
@@ -39937,17 +40466,17 @@
       "lastProgramTime": "2026-06-10 21:00",
       "descriptionCoverage": 45,
       "hasGap": true,
-      "gapDetails": "2处断层(最长5分钟)",
+      "gapDetails": "2处断层(最长340分钟)",
       "gapList": [
         {
           "after": "07:15",
           "before": "12:55",
-          "minutes": 5
+          "minutes": 340
         },
         {
           "after": "13:30",
           "before": "18:55",
-          "minutes": 5
+          "minutes": 325
         }
       ],
       "todaySchedule": [
@@ -40037,9 +40566,30 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 75,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "4处断层(最长260分钟)",
+      "gapList": [
+        {
+          "after": "08:00",
+          "before": "11:30",
+          "minutes": 210
+        },
+        {
+          "after": "13:20",
+          "before": "17:40",
+          "minutes": 260
+        },
+        {
+          "after": "20:50",
+          "before": "21:10",
+          "minutes": 20
+        },
+        {
+          "after": "21:30",
+          "before": "23:05",
+          "minutes": 95
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:00",
@@ -40222,9 +40772,45 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 06:25",
       "descriptionCoverage": 87,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "7处断层(最长274分钟)",
+      "gapList": [
+        {
+          "after": "06:30",
+          "before": "07:00",
+          "minutes": 30
+        },
+        {
+          "after": "07:11",
+          "before": "11:45",
+          "minutes": 274
+        },
+        {
+          "after": "12:10",
+          "before": "13:10",
+          "minutes": 60
+        },
+        {
+          "after": "13:15",
+          "before": "17:20",
+          "minutes": 245
+        },
+        {
+          "after": "17:40",
+          "before": "18:10",
+          "minutes": 30
+        },
+        {
+          "after": "20:15",
+          "before": "22:00",
+          "minutes": 105
+        },
+        {
+          "after": "22:10",
+          "before": "23:00",
+          "minutes": 50
+        }
+      ],
       "todaySchedule": [
         {
           "start": "06:25",
@@ -40328,12 +40914,27 @@
       "lastProgramTime": "2026-06-11 07:00",
       "descriptionCoverage": 74,
       "hasGap": true,
-      "gapDetails": "1处断层(最长6分钟)",
+      "gapDetails": "4处断层(最长360分钟)",
       "gapList": [
+        {
+          "after": "07:01",
+          "before": "12:00",
+          "minutes": 299
+        },
         {
           "after": "12:30",
           "before": "18:30",
-          "minutes": 6
+          "minutes": 360
+        },
+        {
+          "after": "20:00",
+          "before": "22:00",
+          "minutes": 120
+        },
+        {
+          "after": "22:15",
+          "before": "23:45",
+          "minutes": 90
         }
       ],
       "todaySchedule": [
@@ -40397,9 +40998,35 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 22:42",
       "descriptionCoverage": 68,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "5处断层(最长280分钟)",
+      "gapList": [
+        {
+          "after": "07:20",
+          "before": "12:00",
+          "minutes": 280
+        },
+        {
+          "after": "12:20",
+          "before": "14:00",
+          "minutes": 100
+        },
+        {
+          "after": "14:47",
+          "before": "18:30",
+          "minutes": 223
+        },
+        {
+          "after": "19:30",
+          "before": "20:00",
+          "minutes": 30
+        },
+        {
+          "after": "20:43",
+          "before": "22:00",
+          "minutes": 77
+        }
+      ],
       "todaySchedule": [
         {
           "start": "07:00",
@@ -40497,12 +41124,22 @@
       "lastProgramTime": "2026-06-10 22:12",
       "descriptionCoverage": 100,
       "hasGap": true,
-      "gapDetails": "1处断层(最长7分钟)",
+      "gapDetails": "3处断层(最长464分钟)",
       "gapList": [
+        {
+          "after": "07:45",
+          "before": "12:00",
+          "minutes": 255
+        },
         {
           "after": "12:16",
           "before": "20:00",
-          "minutes": 7
+          "minutes": 464
+        },
+        {
+          "after": "20:13",
+          "before": "22:00",
+          "minutes": 107
         }
       ],
       "todaySchedule": [
@@ -41043,17 +41680,27 @@
       "lastProgramTime": "2026-06-10 22:40",
       "descriptionCoverage": 92,
       "hasGap": true,
-      "gapDetails": "2处断层(最长5分钟)",
+      "gapDetails": "4处断层(最长357分钟)",
       "gapList": [
         {
           "after": "07:30",
           "before": "12:40",
-          "minutes": 5
+          "minutes": 310
         },
         {
           "after": "12:55",
           "before": "18:52",
-          "minutes": 5
+          "minutes": 357
+        },
+        {
+          "after": "19:45",
+          "before": "20:30",
+          "minutes": 45
+        },
+        {
+          "after": "20:50",
+          "before": "22:25",
+          "minutes": 95
         }
       ],
       "todaySchedule": [
@@ -41105,12 +41752,37 @@
       "lastProgramTime": "2026-06-10 22:50",
       "descriptionCoverage": 77,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "6处断层(最长320分钟)",
       "gapList": [
+        {
+          "after": "07:01",
+          "before": "07:40",
+          "minutes": 39
+        },
+        {
+          "after": "08:10",
+          "before": "08:55",
+          "minutes": 45
+        },
+        {
+          "after": "09:30",
+          "before": "12:20",
+          "minutes": 170
+        },
         {
           "after": "12:40",
           "before": "18:00",
-          "minutes": 5
+          "minutes": 320
+        },
+        {
+          "after": "19:38",
+          "before": "19:55",
+          "minutes": 17
+        },
+        {
+          "after": "20:05",
+          "before": "22:10",
+          "minutes": 125
         }
       ],
       "todaySchedule": [
@@ -41191,9 +41863,80 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 05:55",
       "descriptionCoverage": 83,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "14处断层(最长50分钟)",
+      "gapList": [
+        {
+          "after": "07:15",
+          "before": "08:00",
+          "minutes": 45
+        },
+        {
+          "after": "08:10",
+          "before": "08:50",
+          "minutes": 40
+        },
+        {
+          "after": "09:00",
+          "before": "09:40",
+          "minutes": 40
+        },
+        {
+          "after": "09:50",
+          "before": "10:30",
+          "minutes": 40
+        },
+        {
+          "after": "11:00",
+          "before": "11:40",
+          "minutes": 40
+        },
+        {
+          "after": "12:15",
+          "before": "13:00",
+          "minutes": 45
+        },
+        {
+          "after": "13:10",
+          "before": "13:55",
+          "minutes": 45
+        },
+        {
+          "after": "14:00",
+          "before": "14:50",
+          "minutes": 50
+        },
+        {
+          "after": "15:00",
+          "before": "15:50",
+          "minutes": 50
+        },
+        {
+          "after": "16:00",
+          "before": "16:30",
+          "minutes": 30
+        },
+        {
+          "after": "16:40",
+          "before": "17:20",
+          "minutes": 40
+        },
+        {
+          "after": "20:30",
+          "before": "21:10",
+          "minutes": 40
+        },
+        {
+          "after": "21:15",
+          "before": "22:00",
+          "minutes": 45
+        },
+        {
+          "after": "22:30",
+          "before": "23:10",
+          "minutes": 40
+        }
+      ],
       "todaySchedule": [
         {
           "start": "05:55",
@@ -41476,9 +42219,35 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 06:00",
       "descriptionCoverage": 64,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "5处断层(最长285分钟)",
+      "gapList": [
+        {
+          "after": "07:00",
+          "before": "11:45",
+          "minutes": 285
+        },
+        {
+          "after": "12:15",
+          "before": "16:58",
+          "minutes": 283
+        },
+        {
+          "after": "17:10",
+          "before": "18:30",
+          "minutes": 80
+        },
+        {
+          "after": "20:05",
+          "before": "21:40",
+          "minutes": 95
+        },
+        {
+          "after": "22:00",
+          "before": "23:40",
+          "minutes": 100
+        }
+      ],
       "todaySchedule": [
         {
           "start": "06:30",
@@ -41557,9 +42326,60 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 06:39",
       "descriptionCoverage": 92,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "10处断层(最长280分钟)",
+      "gapList": [
+        {
+          "after": "06:42",
+          "before": "07:00",
+          "minutes": 18
+        },
+        {
+          "after": "07:01",
+          "before": "08:30",
+          "minutes": 89
+        },
+        {
+          "after": "08:38",
+          "before": "11:58",
+          "minutes": 200
+        },
+        {
+          "after": "12:15",
+          "before": "12:55",
+          "minutes": 40
+        },
+        {
+          "after": "13:00",
+          "before": "17:40",
+          "minutes": 280
+        },
+        {
+          "after": "18:00",
+          "before": "18:30",
+          "minutes": 30
+        },
+        {
+          "after": "19:33",
+          "before": "19:58",
+          "minutes": 25
+        },
+        {
+          "after": "20:15",
+          "before": "20:25",
+          "minutes": 10
+        },
+        {
+          "after": "20:29",
+          "before": "22:00",
+          "minutes": 91
+        },
+        {
+          "after": "22:15",
+          "before": "23:10",
+          "minutes": 55
+        }
+      ],
       "todaySchedule": [
         {
           "start": "06:39",
@@ -41681,12 +42501,27 @@
       "lastProgramTime": "2026-06-10 22:18",
       "descriptionCoverage": 72,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "4处断层(最长322分钟)",
       "gapList": [
+        {
+          "after": "07:30",
+          "before": "08:00",
+          "minutes": 30
+        },
+        {
+          "after": "08:16",
+          "before": "12:30",
+          "minutes": 254
+        },
         {
           "after": "13:08",
           "before": "18:30",
-          "minutes": 5
+          "minutes": 322
+        },
+        {
+          "after": "20:15",
+          "before": "22:00",
+          "minutes": 105
         }
       ],
       "todaySchedule": [
@@ -42004,12 +42839,27 @@
       "lastProgramTime": "2026-06-11 06:42",
       "descriptionCoverage": 20,
       "hasGap": true,
-      "gapDetails": "1处断层(最长6分钟)",
+      "gapDetails": "4处断层(最长412分钟)",
       "gapList": [
         {
           "after": "09:37",
           "before": "16:29",
-          "minutes": 6
+          "minutes": 412
+        },
+        {
+          "after": "17:15",
+          "before": "20:10",
+          "minutes": 175
+        },
+        {
+          "after": "20:30",
+          "before": "21:03",
+          "minutes": 33
+        },
+        {
+          "after": "21:58",
+          "before": "23:49",
+          "minutes": 111
         }
       ],
       "todaySchedule": [
@@ -42067,9 +42917,40 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 23:45",
       "descriptionCoverage": 39,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "6处断层(最长213分钟)",
+      "gapList": [
+        {
+          "after": "06:24",
+          "before": "08:33",
+          "minutes": 129
+        },
+        {
+          "after": "09:36",
+          "before": "10:47",
+          "minutes": 71
+        },
+        {
+          "after": "11:29",
+          "before": "11:49",
+          "minutes": 20
+        },
+        {
+          "after": "12:29",
+          "before": "16:02",
+          "minutes": 213
+        },
+        {
+          "after": "18:58",
+          "before": "20:10",
+          "minutes": 72
+        },
+        {
+          "after": "21:13",
+          "before": "22:55",
+          "minutes": 102
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:15",
@@ -42156,9 +43037,30 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 23:30",
       "descriptionCoverage": 73,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "4处断层(最长249分钟)",
+      "gapList": [
+        {
+          "after": "09:09",
+          "before": "12:02",
+          "minutes": 173
+        },
+        {
+          "after": "13:21",
+          "before": "17:30",
+          "minutes": 249
+        },
+        {
+          "after": "19:33",
+          "before": "21:06",
+          "minutes": 93
+        },
+        {
+          "after": "21:50",
+          "before": "22:33",
+          "minutes": 43
+        }
+      ],
       "todaySchedule": [
         {
           "start": "07:30",
@@ -42232,9 +43134,40 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 06:58",
       "descriptionCoverage": 11,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "6处断层(最长240分钟)",
+      "gapList": [
+        {
+          "after": "07:24",
+          "before": "11:24",
+          "minutes": 240
+        },
+        {
+          "after": "12:28",
+          "before": "14:58",
+          "minutes": 150
+        },
+        {
+          "after": "15:51",
+          "before": "17:28",
+          "minutes": 97
+        },
+        {
+          "after": "18:00",
+          "before": "20:01",
+          "minutes": 121
+        },
+        {
+          "after": "21:05",
+          "before": "23:05",
+          "minutes": 120
+        },
+        {
+          "after": "23:31",
+          "before": "23:46",
+          "minutes": 15
+        }
+      ],
       "todaySchedule": [
         {
           "start": "06:58",
@@ -42302,12 +43235,22 @@
       "lastProgramTime": "2026-06-11 00:10",
       "descriptionCoverage": 72,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "3处断层(最长312分钟)",
       "gapList": [
+        {
+          "after": "08:50",
+          "before": "11:00",
+          "minutes": 130
+        },
         {
           "after": "13:03",
           "before": "18:15",
-          "minutes": 5
+          "minutes": 312
+        },
+        {
+          "after": "21:05",
+          "before": "22:35",
+          "minutes": 90
         }
       ],
       "todaySchedule": [
@@ -42462,12 +43405,17 @@
       "lastProgramTime": "2026-06-10 21:20",
       "descriptionCoverage": 27,
       "hasGap": true,
-      "gapDetails": "1处断层(最长7分钟)",
+      "gapDetails": "2处断层(最长425分钟)",
       "gapList": [
+        {
+          "after": "08:25",
+          "before": "12:00",
+          "minutes": 215
+        },
         {
           "after": "12:20",
           "before": "19:25",
-          "minutes": 7
+          "minutes": 425
         }
       ],
       "todaySchedule": [
@@ -42519,9 +43467,30 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 23:30",
       "descriptionCoverage": 30,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "4处断层(最长135分钟)",
+      "gapList": [
+        {
+          "after": "07:21",
+          "before": "08:20",
+          "minutes": 59
+        },
+        {
+          "after": "10:18",
+          "before": "12:00",
+          "minutes": 102
+        },
+        {
+          "after": "14:15",
+          "before": "16:30",
+          "minutes": 135
+        },
+        {
+          "after": "19:45",
+          "before": "21:30",
+          "minutes": 105
+        }
+      ],
       "todaySchedule": [
         {
           "start": "07:00",
@@ -42632,12 +43601,17 @@
       "lastProgramTime": "2026-06-10 21:30",
       "descriptionCoverage": 68,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "2处断层(最长300分钟)",
       "gapList": [
+        {
+          "after": "08:05",
+          "before": "10:10",
+          "minutes": 125
+        },
         {
           "after": "12:50",
           "before": "17:50",
-          "minutes": 5
+          "minutes": 300
         }
       ],
       "todaySchedule": [
@@ -42773,12 +43747,22 @@
       "lastProgramTime": "2026-06-11 07:10",
       "descriptionCoverage": 95,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "3处断层(最长330分钟)",
       "gapList": [
+        {
+          "after": "08:30",
+          "before": "12:30",
+          "minutes": 240
+        },
         {
           "after": "13:00",
           "before": "18:30",
-          "minutes": 5
+          "minutes": 330
+        },
+        {
+          "after": "20:30",
+          "before": "22:30",
+          "minutes": 120
         }
       ],
       "todaySchedule": [
@@ -42837,12 +43821,17 @@
       "lastProgramTime": "2026-06-10 22:00",
       "descriptionCoverage": 0,
       "hasGap": true,
-      "gapDetails": "1处断层(最长6分钟)",
+      "gapDetails": "2处断层(最长400分钟)",
       "gapList": [
         {
           "after": "11:30",
           "before": "18:10",
-          "minutes": 6
+          "minutes": 400
+        },
+        {
+          "after": "18:30",
+          "before": "21:40",
+          "minutes": 190
         }
       ],
       "todaySchedule": [
@@ -42889,12 +43878,22 @@
       "lastProgramTime": "2026-06-10 23:10",
       "descriptionCoverage": 17,
       "hasGap": true,
-      "gapDetails": "1处断层(最长6分钟)",
+      "gapDetails": "3处断层(最长400分钟)",
       "gapList": [
+        {
+          "after": "07:30",
+          "before": "12:10",
+          "minutes": 280
+        },
         {
           "after": "12:30",
           "before": "19:10",
-          "minutes": 6
+          "minutes": 400
+        },
+        {
+          "after": "19:30",
+          "before": "22:00",
+          "minutes": 150
         }
       ],
       "todaySchedule": [
@@ -42947,17 +43946,22 @@
       "lastProgramTime": "2026-06-10 22:30",
       "descriptionCoverage": 0,
       "hasGap": true,
-      "gapDetails": "2处断层(最长5分钟)",
+      "gapDetails": "3处断层(最长330分钟)",
       "gapList": [
         {
           "after": "08:00",
           "before": "13:00",
-          "minutes": 5
+          "minutes": 300
         },
         {
           "after": "13:30",
           "before": "19:00",
-          "minutes": 5
+          "minutes": 330
+        },
+        {
+          "after": "19:45",
+          "before": "22:00",
+          "minutes": 135
         }
       ],
       "todaySchedule": [
@@ -43004,9 +44008,30 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 05:00",
       "descriptionCoverage": 55,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "4处断层(最长270分钟)",
+      "gapList": [
+        {
+          "after": "08:00",
+          "before": "12:30",
+          "minutes": 270
+        },
+        {
+          "after": "13:30",
+          "before": "18:00",
+          "minutes": 270
+        },
+        {
+          "after": "20:00",
+          "before": "21:30",
+          "minutes": 90
+        },
+        {
+          "after": "21:50",
+          "before": "23:50",
+          "minutes": 120
+        }
+      ],
       "todaySchedule": [
         {
           "start": "06:40",
@@ -43323,12 +44348,37 @@
       "lastProgramTime": "2026-06-11 06:22",
       "descriptionCoverage": 90,
       "hasGap": true,
-      "gapDetails": "1处断层(最长6分钟)",
+      "gapDetails": "6处断层(最长403分钟)",
       "gapList": [
+        {
+          "after": "06:29",
+          "before": "07:15",
+          "minutes": 46
+        },
+        {
+          "after": "07:35",
+          "before": "08:25",
+          "minutes": 50
+        },
+        {
+          "after": "08:44",
+          "before": "11:48",
+          "minutes": 184
+        },
         {
           "after": "12:43",
           "before": "19:26",
-          "minutes": 6
+          "minutes": 403
+        },
+        {
+          "after": "20:12",
+          "before": "21:00",
+          "minutes": 48
+        },
+        {
+          "after": "21:33",
+          "before": "23:55",
+          "minutes": 142
         }
       ],
       "todaySchedule": [
@@ -43442,12 +44492,27 @@
       "lastProgramTime": "2026-06-11 06:24",
       "descriptionCoverage": 86,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "4处断层(最长348分钟)",
       "gapList": [
+        {
+          "after": "06:30",
+          "before": "07:00",
+          "minutes": 30
+        },
+        {
+          "after": "07:20",
+          "before": "12:00",
+          "minutes": 280
+        },
         {
           "after": "12:42",
           "before": "18:30",
-          "minutes": 5
+          "minutes": 348
+        },
+        {
+          "after": "22:26",
+          "before": "23:58",
+          "minutes": 92
         }
       ],
       "todaySchedule": [
@@ -43644,9 +44709,30 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 22:40",
       "descriptionCoverage": 55,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "4处断层(最长135分钟)",
+      "gapList": [
+        {
+          "after": "05:40",
+          "before": "06:10",
+          "minutes": 30
+        },
+        {
+          "after": "07:15",
+          "before": "08:00",
+          "minutes": 45
+        },
+        {
+          "after": "09:00",
+          "before": "11:15",
+          "minutes": 135
+        },
+        {
+          "after": "14:50",
+          "before": "16:50",
+          "minutes": 120
+        }
+      ],
       "todaySchedule": [
         {
           "start": "05:30",
@@ -43780,9 +44866,25 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 23:20",
       "descriptionCoverage": 48,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "3处断层(最长270分钟)",
+      "gapList": [
+        {
+          "after": "05:45",
+          "before": "07:50",
+          "minutes": 125
+        },
+        {
+          "after": "09:15",
+          "before": "12:16",
+          "minutes": 181
+        },
+        {
+          "after": "13:20",
+          "before": "17:50",
+          "minutes": 270
+        }
+      ],
       "todaySchedule": [
         {
           "start": "02:00",
@@ -43881,9 +44983,45 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 00:00",
       "descriptionCoverage": 85,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "7处断层(最长175分钟)",
+      "gapList": [
+        {
+          "after": "05:30",
+          "before": "06:00",
+          "minutes": 30
+        },
+        {
+          "after": "08:35",
+          "before": "11:30",
+          "minutes": 175
+        },
+        {
+          "after": "12:45",
+          "before": "13:27",
+          "minutes": 42
+        },
+        {
+          "after": "14:20",
+          "before": "16:35",
+          "minutes": 135
+        },
+        {
+          "after": "16:50",
+          "before": "18:12",
+          "minutes": 82
+        },
+        {
+          "after": "20:06",
+          "before": "22:00",
+          "minutes": 114
+        },
+        {
+          "after": "23:10",
+          "before": "23:30",
+          "minutes": 20
+        }
+      ],
       "todaySchedule": [
         {
           "start": "05:00",
@@ -44029,12 +45167,17 @@
       "lastProgramTime": "2026-06-10 22:20",
       "descriptionCoverage": 89,
       "hasGap": true,
-      "gapDetails": "1处断层(最长7分钟)",
+      "gapDetails": "2处断层(最长420分钟)",
       "gapList": [
         {
           "after": "11:30",
           "before": "18:30",
-          "minutes": 7
+          "minutes": 420
+        },
+        {
+          "after": "20:20",
+          "before": "22:00",
+          "minutes": 100
         }
       ],
       "todaySchedule": [
@@ -44104,12 +45247,22 @@
       "lastProgramTime": "2026-06-10 21:20",
       "descriptionCoverage": 67,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "3处断层(最长330分钟)",
       "gapList": [
+        {
+          "after": "08:00",
+          "before": "11:30",
+          "minutes": 210
+        },
         {
           "after": "12:00",
           "before": "17:30",
-          "minutes": 5
+          "minutes": 330
+        },
+        {
+          "after": "18:00",
+          "before": "21:00",
+          "minutes": 180
         }
       ],
       "todaySchedule": [
@@ -44497,9 +45650,55 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 07:00",
       "descriptionCoverage": 95,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "9处断层(最长289分钟)",
+      "gapList": [
+        {
+          "after": "07:01",
+          "before": "07:26",
+          "minutes": 25
+        },
+        {
+          "after": "07:31",
+          "before": "08:00",
+          "minutes": 29
+        },
+        {
+          "after": "08:15",
+          "before": "09:00",
+          "minutes": 45
+        },
+        {
+          "after": "09:31",
+          "before": "11:55",
+          "minutes": 144
+        },
+        {
+          "after": "12:32",
+          "before": "13:02",
+          "minutes": 30
+        },
+        {
+          "after": "13:07",
+          "before": "17:56",
+          "minutes": 289
+        },
+        {
+          "after": "18:01",
+          "before": "18:30",
+          "minutes": 29
+        },
+        {
+          "after": "21:06",
+          "before": "22:00",
+          "minutes": 54
+        },
+        {
+          "after": "22:26",
+          "before": "22:56",
+          "minutes": 30
+        }
+      ],
       "todaySchedule": [
         {
           "start": "07:00",
@@ -44798,9 +45997,25 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 21:45",
       "descriptionCoverage": 29,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "3处断层(最长265分钟)",
+      "gapList": [
+        {
+          "after": "08:10",
+          "before": "11:35",
+          "minutes": 205
+        },
+        {
+          "after": "13:20",
+          "before": "17:45",
+          "minutes": 265
+        },
+        {
+          "after": "17:50",
+          "before": "18:30",
+          "minutes": 40
+        }
+      ],
       "todaySchedule": [
         {
           "start": "06:25",
@@ -45042,12 +46257,27 @@
       "lastProgramTime": "2026-06-10 23:00",
       "descriptionCoverage": 100,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "4处断层(最长325分钟)",
       "gapList": [
+        {
+          "after": "06:00",
+          "before": "07:00",
+          "minutes": 60
+        },
+        {
+          "after": "07:30",
+          "before": "12:29",
+          "minutes": 299
+        },
         {
           "after": "13:00",
           "before": "18:25",
-          "minutes": 5
+          "minutes": 325
+        },
+        {
+          "after": "19:45",
+          "before": "22:50",
+          "minutes": 185
         }
       ],
       "todaySchedule": [
@@ -45123,9 +46353,30 @@
       "category": "市级",
       "lastProgramTime": "2026-06-11 06:00",
       "descriptionCoverage": 68,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "4处断层(最长167分钟)",
+      "gapList": [
+        {
+          "after": "07:30",
+          "before": "08:11",
+          "minutes": 41
+        },
+        {
+          "after": "08:30",
+          "before": "11:17",
+          "minutes": 167
+        },
+        {
+          "after": "14:18",
+          "before": "15:00",
+          "minutes": 42
+        },
+        {
+          "after": "23:00",
+          "before": "23:59",
+          "minutes": 59
+        }
+      ],
       "todaySchedule": [
         {
           "start": "06:00",
@@ -45296,12 +46547,22 @@
       "lastProgramTime": "2026-06-10 23:45",
       "descriptionCoverage": 28,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "3处断层(最长318分钟)",
       "gapList": [
+        {
+          "after": "09:20",
+          "before": "11:40",
+          "minutes": 140
+        },
         {
           "after": "12:55",
           "before": "18:13",
-          "minutes": 5
+          "minutes": 318
+        },
+        {
+          "after": "22:55",
+          "before": "23:15",
+          "minutes": 20
         }
       ],
       "todaySchedule": [
@@ -45508,9 +46769,30 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 22:30",
       "descriptionCoverage": 68,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "4处断层(最长270分钟)",
+      "gapList": [
+        {
+          "after": "08:15",
+          "before": "12:00",
+          "minutes": 225
+        },
+        {
+          "after": "12:25",
+          "before": "13:30",
+          "minutes": 65
+        },
+        {
+          "after": "14:00",
+          "before": "18:30",
+          "minutes": 270
+        },
+        {
+          "after": "20:45",
+          "before": "21:30",
+          "minutes": 45
+        }
+      ],
       "todaySchedule": [
         {
           "start": "07:00",
@@ -45613,9 +46895,30 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 21:15",
       "descriptionCoverage": 100,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "4处断层(最长192分钟)",
+      "gapList": [
+        {
+          "after": "09:18",
+          "before": "12:30",
+          "minutes": 192
+        },
+        {
+          "after": "12:55",
+          "before": "15:50",
+          "minutes": 175
+        },
+        {
+          "after": "16:00",
+          "before": "18:30",
+          "minutes": 150
+        },
+        {
+          "after": "20:10",
+          "before": "21:00",
+          "minutes": 50
+        }
+      ],
       "todaySchedule": [
         {
           "start": "01:30",
@@ -45700,9 +47003,40 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 23:08",
       "descriptionCoverage": 74,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "6处断层(最长179分钟)",
+      "gapList": [
+        {
+          "after": "07:09",
+          "before": "07:31",
+          "minutes": 22
+        },
+        {
+          "after": "07:58",
+          "before": "09:00",
+          "minutes": 62
+        },
+        {
+          "after": "10:21",
+          "before": "12:00",
+          "minutes": 99
+        },
+        {
+          "after": "12:38",
+          "before": "15:37",
+          "minutes": 179
+        },
+        {
+          "after": "16:00",
+          "before": "18:30",
+          "minutes": 150
+        },
+        {
+          "after": "21:10",
+          "before": "22:30",
+          "minutes": 80
+        }
+      ],
       "todaySchedule": [
         {
           "start": "07:00",
@@ -45905,9 +47239,55 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 20:48",
       "descriptionCoverage": 100,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "9处断层(最长185分钟)",
+      "gapList": [
+        {
+          "after": "07:01",
+          "before": "07:28",
+          "minutes": 27
+        },
+        {
+          "after": "07:40",
+          "before": "08:26",
+          "minutes": 46
+        },
+        {
+          "after": "08:28",
+          "before": "11:33",
+          "minutes": 185
+        },
+        {
+          "after": "11:35",
+          "before": "12:05",
+          "minutes": 30
+        },
+        {
+          "after": "12:07",
+          "before": "12:20",
+          "minutes": 13
+        },
+        {
+          "after": "12:53",
+          "before": "13:58",
+          "minutes": 65
+        },
+        {
+          "after": "14:53",
+          "before": "17:57",
+          "minutes": 184
+        },
+        {
+          "after": "18:05",
+          "before": "18:13",
+          "minutes": 8
+        },
+        {
+          "after": "18:16",
+          "before": "20:36",
+          "minutes": 140
+        }
+      ],
       "todaySchedule": [
         {
           "start": "00:00",
@@ -46006,12 +47386,32 @@
       "lastProgramTime": "2026-06-11 06:55",
       "descriptionCoverage": 99,
       "hasGap": true,
-      "gapDetails": "1处断层(最长5分钟)",
+      "gapDetails": "5处断层(最长336分钟)",
       "gapList": [
+        {
+          "after": "07:11",
+          "before": "07:38",
+          "minutes": 27
+        },
+        {
+          "after": "07:40",
+          "before": "12:30",
+          "minutes": 290
+        },
         {
           "after": "12:46",
           "before": "18:22",
-          "minutes": 5
+          "minutes": 336
+        },
+        {
+          "after": "20:45",
+          "before": "21:30",
+          "minutes": 45
+        },
+        {
+          "after": "21:40",
+          "before": "23:30",
+          "minutes": 110
         }
       ],
       "todaySchedule": [
@@ -46122,9 +47522,35 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 21:35",
       "descriptionCoverage": 67,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "5处断层(最长205分钟)",
+      "gapList": [
+        {
+          "after": "07:50",
+          "before": "11:10",
+          "minutes": 200
+        },
+        {
+          "after": "11:35",
+          "before": "12:00",
+          "minutes": 25
+        },
+        {
+          "after": "12:35",
+          "before": "16:00",
+          "minutes": 205
+        },
+        {
+          "after": "16:50",
+          "before": "17:15",
+          "minutes": 25
+        },
+        {
+          "after": "18:00",
+          "before": "18:30",
+          "minutes": 30
+        }
+      ],
       "todaySchedule": [
         {
           "start": "06:54",
@@ -46289,9 +47715,65 @@
       "category": "市级",
       "lastProgramTime": "2026-06-10 23:08",
       "descriptionCoverage": 90,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
+      "hasGap": true,
+      "gapDetails": "11处断层(最长59分钟)",
+      "gapList": [
+        {
+          "after": "07:05",
+          "before": "07:50",
+          "minutes": 45
+        },
+        {
+          "after": "07:57",
+          "before": "08:42",
+          "minutes": 45
+        },
+        {
+          "after": "08:47",
+          "before": "09:33",
+          "minutes": 46
+        },
+        {
+          "after": "09:38",
+          "before": "10:24",
+          "minutes": 46
+        },
+        {
+          "after": "10:28",
+          "before": "11:14",
+          "minutes": 46
+        },
+        {
+          "after": "12:36",
+          "before": "13:22",
+          "minutes": 46
+        },
+        {
+          "after": "13:27",
+          "before": "14:13",
+          "minutes": 46
+        },
+        {
+          "after": "14:18",
+          "before": "15:05",
+          "minutes": 47
+        },
+        {
+          "after": "15:11",
+          "before": "15:57",
+          "minutes": 46
+        },
+        {
+          "after": "16:02",
+          "before": "16:47",
+          "minutes": 45
+        },
+        {
+          "after": "20:31",
+          "before": "21:30",
+          "minutes": 59
+        }
+      ],
       "todaySchedule": [
         {
           "start": "06:30",
@@ -46536,5 +48018,5 @@
       ]
     }
   ],
-  "updateTime": 1781021829.0689788
+  "updateTime": 1781022244.763731
 }
