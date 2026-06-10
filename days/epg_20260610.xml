@@ -231,6 +231,8 @@
   </channel>
   <channel id="无线卫星新闻"><display-name lang="zh">无线卫星新闻</display-name><display-name lang="zh">无线卫星新闻台</display-name>
   </channel>
+  <channel id="齐河综合"><display-name lang="zh">齐河综合</display-name><display-name lang="zh">齐河综合</display-name><display-name lang="zh">CHANNEL00001056</display-name>
+  </channel>
   <channel id="CCTV央视文化精品"><display-name lang="zh">CCTV央视文化精品</display-name><display-name lang="zh">CCTV-央视文化精品</display-name><display-name lang="zh">央视文化精品</display-name><display-name lang="zh">文化精品</display-name>
   </channel>
   <channel id="河源公共"><display-name lang="zh">河源公共</display-name>
@@ -29288,5 +29290,27 @@
   <programme start="20260610230500 +0000" stop="20260610233500 +0000" channel="澳视葡文"><title lang="zh">Portugal Secreto</title>
   </programme>
   <programme start="20260610233500 +0000" stop="20260611000000 +0000" channel="澳视葡文"><title lang="zh">RTPi Directo</title>
+  </programme>
+  <programme start="20260610063000 +0800" stop="20260610064000 +0800" channel="齐河综合"><title lang="zh">彩条ok</title>
+  </programme>
+  <programme start="20260610064000 +0800" stop="20260610065000 +0800" channel="齐河综合"><title lang="zh">彩条ok</title>
+  </programme>
+  <programme start="20260610065000 +0800" stop="20260610070000 +0800" channel="齐河综合"><title lang="zh">彩条ok</title>
+  </programme>
+  <programme start="20260610070000 +0800" stop="20260610071200 +0800" channel="齐河综合"><title lang="zh">齐河新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260610120300 +0800" stop="20260610121500 +0800" channel="齐河综合"><title lang="zh">齐河新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260610183000 +0800" stop="20260610185700 +0800" channel="齐河综合"><title lang="zh">山东新闻</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
+  </programme>
+  <programme start="20260610190000 +0800" stop="20260610193500 +0800" channel="齐河综合"><title lang="zh">中央新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260610194900 +0800" stop="20260610201900 +0800" channel="齐河综合"><title lang="zh">德州新闻</title><desc>《德州新闻》是山东省德州市的本地新闻节目，主要报道德州市的政治、经济、社会、文化等方面的新闻事件和动态。该节目旨在为观众提供及时、准确的本地新闻信息，帮助观众了解德州的发展变化。</desc>
+  </programme>
+  <programme start="20260610203400 +0800" stop="20260610204600 +0800" channel="齐河综合"><title lang="zh">齐河新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260610223800 +0800" stop="20260610225000 +0800" channel="齐河综合"><title lang="zh">齐河新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260610233800 +0800" stop="20260611063000 +0800" channel="齐河综合"><title lang="zh">彩条ok</title>
   </programme>
 </tv>
