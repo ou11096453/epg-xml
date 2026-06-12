@@ -66001,7 +66001,7 @@
       "name": "热播精选",
       "aliases": [],
       "category": "港澳台",
-      "lastProgramTime": "2026-06-13 00:24",
+      "lastProgramTime": "2026-06-14 00:13",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -69785,7 +69785,7 @@
       "name": "黑莓影视",
       "aliases": [],
       "category": "港澳台",
-      "lastProgramTime": "2026-06-13 00:45",
+      "lastProgramTime": "2026-06-14 00:40",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -106663,5 +106663,5 @@
       ]
     }
   ],
-  "updateTime": 1781241093.7659779
+  "updateTime": 1781255546.806123
 }
