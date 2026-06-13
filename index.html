@@ -483,8 +483,8 @@
                 }
             },
             mounted: function() {
-                this.epgUrl = 'https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml';
-                this.epgGzUrl = 'https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml.gz';
+                this.epgUrl = 'https://epg-r2.110xg.ggff.net/epg.xml';
+                this.epgGzUrl = 'https://epg-r2.110xg.ggff.net/epg.xml.gz';
                 this.loadEpgData();
                 document.addEventListener('keydown', this.onKey);
             },
@@ -501,7 +501,7 @@
                             self.updateTime = new Date(d.updateTime * 1000).toLocaleString();
                         })
                         .catch(function() {
-                            fetch('https://raw.githubusercontent.com/sumingyd/xml/main/epg_data.json?t=' + ts)
+                            fetch('https://epg-r2.110xg.ggff.net/epg_data.json?t=' + ts)
                                 .then(function(r) { return r.json(); })
                                 .then(function(d) {
                                     self.channels = d.channels;
