@@ -42,3 +42,23 @@ jobs:
           git add epg.xml epg_data.json epg.xml.gz epg-last-updated.txt days/
           git commit -m "Update EPG data" || echo "No changes to commit"
           git push
+
+      - name: Upload EPG to R2
+        env:
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_ENDPOINT: https://146df9c3e9f729baa952eff581773a10.r2.cloudflarestorage.com
+        run: |
+          pip install boto3
+          python -c "
+          import boto3, os
+          s3 = boto3.client('s3',
+              endpoint_url=os.environ['R2_ENDPOINT'],
+              aws_access_key_id=os.environ['R2_ACCESS_KEY_ID'],
+              aws_secret_access_key=os.environ['R2_SECRET_ACCESS_KEY'])
+          for f, ct in [('epg.xml','application/xml'),('epg.xml.gz','application/gzip'),('epg_data.json','application/json')]:
+              print(f'Uploading {f}...')
+              s3.upload_file(f, 'epg-xml', f, ExtraArgs={'ContentType': ct})
+              print(f'{f} uploaded')
+          print('All files synced to R2')
+          "
