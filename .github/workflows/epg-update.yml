@@ -13,6 +13,9 @@ on:
       - main
     paths:
       - 'days/**'
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
 
 jobs:
   update-epg:
@@ -20,7 +23,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Sync days from upstream
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'github-actions@github.com'
+          git remote add upstream https://github.com/sumingyd/xml.git || true
+          git fetch upstream main --depth=1
+          # 只同步 days/ 目录
+          git checkout upstream/main -- days/
+          # 检查是否有变化
+          if git diff --cached --quiet days/; then
+            echo "No new EPG data from upstream"
+          else
+            git add days/
+            git commit -m "Sync days/ from upstream - $(date -u +%Y-%m-%d %H:%M:%S)"
+            git push
+          fi
 
       - name: Merge all day files into epg.xml
         run: python merge_epg.py
@@ -36,12 +56,9 @@ jobs:
 
       - name: Configure git and push changes
         run: |
-          git config user.name 'github-actions'
-          git config user.email 'github-actions@github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git add epg.xml epg_data.json epg.xml.gz epg-last-updated.txt days/
+          git add epg.xml epg_data.json epg.xml.gz epg-last-updated.txt
           git commit -m "Update EPG data" || echo "No changes to commit"
-          git push
+          git push || echo "Nothing to push"
 
       - name: Upload EPG to R2
         env:
