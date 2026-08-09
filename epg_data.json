@@ -639,18 +639,6 @@
       "todaySchedule": []
     },
     {
-      "id": "安多卫视",
-      "name": "安多卫视",
-      "aliases": [],
-      "category": "卫视",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 40,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "安徽卫视",
       "name": "安徽卫视",
       "aliases": [
@@ -659,7 +647,7 @@
       ],
       "category": "卫视",
       "lastProgramTime": "2026-08-08 00:59",
-      "descriptionCoverage": 71,
+      "descriptionCoverage": 72,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -1086,18 +1074,6 @@
       "todaySchedule": []
     },
     {
-      "id": "4K电视剧",
-      "name": "4K电视剧",
-      "aliases": [],
-      "category": "4K超高清",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 3,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "DOX4K",
       "name": "DOX4K",
       "aliases": [],
@@ -1351,7 +1327,7 @@
       ],
       "category": "付费",
       "lastProgramTime": "2026-08-08 00:00",
-      "descriptionCoverage": 22,
+      "descriptionCoverage": 24,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -1492,7 +1468,7 @@
       ],
       "category": "付费",
       "lastProgramTime": "2026-08-05 00:00",
-      "descriptionCoverage": 99,
+      "descriptionCoverage": 98,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -1506,7 +1482,7 @@
       ],
       "category": "付费",
       "lastProgramTime": "2026-08-04 00:00",
-      "descriptionCoverage": 66,
+      "descriptionCoverage": 100,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -1535,7 +1511,7 @@
       ],
       "category": "付费",
       "lastProgramTime": "2026-08-08 01:50",
-      "descriptionCoverage": 73,
+      "descriptionCoverage": 71,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -1591,20 +1567,6 @@
       ],
       "category": "付费",
       "lastProgramTime": "2026-08-04 04:00",
-      "descriptionCoverage": 0,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "fun探索娱乐",
-      "name": "fun探索娱乐",
-      "aliases": [
-        "fun探索娱乐台"
-      ],
-      "category": "付费",
-      "lastProgramTime": "2026-08-01 22:59",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -2283,18 +2245,6 @@
       "todaySchedule": []
     },
     {
-      "id": "现代女性",
-      "name": "现代女性",
-      "aliases": [],
-      "category": "付费",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 2,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "生态环境",
       "name": "生态环境",
       "aliases": [
@@ -2447,7 +2397,7 @@
       ],
       "category": "付费",
       "lastProgramTime": "2026-08-03 23:59",
-      "descriptionCoverage": 41,
+      "descriptionCoverage": 50,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -2651,20 +2601,6 @@
       "todaySchedule": []
     },
     {
-      "id": "CNBC 亚洲财经",
-      "name": "CNBC 亚洲财经",
-      "aliases": [
-        "CNBC Asia 财经台"
-      ],
-      "category": "国际",
-      "lastProgramTime": "2026-08-02 00:00",
-      "descriptionCoverage": 0,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "CNC中文",
       "name": "CNC中文",
       "aliases": [],
@@ -2708,7 +2644,7 @@
       "aliases": [],
       "category": "国际",
       "lastProgramTime": "2026-08-04 00:00",
-      "descriptionCoverage": 22,
+      "descriptionCoverage": 23,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -2735,7 +2671,7 @@
       "aliases": [],
       "category": "国际",
       "lastProgramTime": "2026-08-07 01:00",
-      "descriptionCoverage": 80,
+      "descriptionCoverage": 77,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -2762,20 +2698,6 @@
       "category": "国际",
       "lastProgramTime": "2026-08-04 00:00",
       "descriptionCoverage": 100,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "半岛国际新闻",
-      "name": "半岛国际新闻",
-      "aliases": [
-        "半岛国际新闻台"
-      ],
-      "category": "国际",
-      "lastProgramTime": "2026-08-02 00:00",
-      "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -2813,7 +2735,7 @@
       "aliases": [],
       "category": "港澳台",
       "lastProgramTime": "2026-08-04 00:30",
-      "descriptionCoverage": 89,
+      "descriptionCoverage": 87,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -2839,20 +2761,6 @@
       ],
       "category": "港澳台",
       "lastProgramTime": "2026-08-06 21:00",
-      "descriptionCoverage": 0,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "三立新闻",
-      "name": "三立新闻",
-      "aliases": [
-        "三立新闻iNEWS"
-      ],
-      "category": "港澳台",
-      "lastProgramTime": "2026-08-01 23:00",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -2957,7 +2865,7 @@
       "aliases": [],
       "category": "港澳台",
       "lastProgramTime": "2026-08-04 00:00",
-      "descriptionCoverage": 91,
+      "descriptionCoverage": 96,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -2990,18 +2898,6 @@
       "todaySchedule": []
     },
     {
-      "id": "大爱电视",
-      "name": "大爱电视",
-      "aliases": [],
-      "category": "港澳台",
-      "lastProgramTime": "2026-08-02 00:00",
-      "descriptionCoverage": 0,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "娱乐新闻",
       "name": "娱乐新闻",
       "aliases": [
@@ -3022,21 +2918,6 @@
       "category": "港澳台",
       "lastProgramTime": "2026-08-04 00:00",
       "descriptionCoverage": 40,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "影迷数位电影",
-      "name": "影迷数位电影",
-      "aliases": [
-        "影迷数位电影台",
-        "影迷数字电影台"
-      ],
-      "category": "港澳台",
-      "lastProgramTime": "2026-08-02 00:00",
-      "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -3118,7 +2999,7 @@
       ],
       "category": "港澳台",
       "lastProgramTime": "2026-08-04 00:00",
-      "descriptionCoverage": 28,
+      "descriptionCoverage": 21,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -3144,20 +3025,6 @@
       ],
       "category": "港澳台",
       "lastProgramTime": "2026-08-02 23:50",
-      "descriptionCoverage": 0,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "民视旅游",
-      "name": "民视旅游",
-      "aliases": [
-        "民视旅游台"
-      ],
-      "category": "港澳台",
-      "lastProgramTime": "2026-08-01 23:19",
       "descriptionCoverage": 0,
       "hasGap": false,
       "gapDetails": "",
@@ -3272,7 +3139,7 @@
       ],
       "category": "港澳台",
       "lastProgramTime": "2026-08-05 00:00",
-      "descriptionCoverage": 23,
+      "descriptionCoverage": 3,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -3947,7 +3814,7 @@
       "aliases": [],
       "category": "省级",
       "lastProgramTime": "2026-08-07 00:00",
-      "descriptionCoverage": 35,
+      "descriptionCoverage": 37,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -4162,18 +4029,6 @@
       "todaySchedule": []
     },
     {
-      "id": "临沂综合",
-      "name": "临沂综合",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 06:00",
-      "descriptionCoverage": 100,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "云南娱乐",
       "name": "云南娱乐",
       "aliases": [],
@@ -4380,54 +4235,6 @@
       "category": "市级",
       "lastProgramTime": "2026-08-04 00:00",
       "descriptionCoverage": 75,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "十堰影视",
-      "name": "十堰影视",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 08:00",
-      "descriptionCoverage": 45,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "十堰教育",
-      "name": "十堰教育",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 08:00",
-      "descriptionCoverage": 48,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "十堰新闻",
-      "name": "十堰新闻",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 02:00",
-      "descriptionCoverage": 32,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "十堰经济",
-      "name": "十堰经济",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 08:00",
-      "descriptionCoverage": 30,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -4742,7 +4549,7 @@
       "aliases": [],
       "category": "市级",
       "lastProgramTime": "2026-08-04 00:00",
-      "descriptionCoverage": 36,
+      "descriptionCoverage": 38,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -4845,18 +4652,6 @@
       "category": "市级",
       "lastProgramTime": "2026-08-07 19:52",
       "descriptionCoverage": 40,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "孝感影视",
-      "name": "孝感影视",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 00:33",
-      "descriptionCoverage": 54,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -5484,18 +5279,6 @@
       "category": "市级",
       "lastProgramTime": "2026-08-03 08:45",
       "descriptionCoverage": 17,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "武汉经济",
-      "name": "武汉经济",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 41,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -6645,21 +6428,6 @@
       "todaySchedule": []
     },
     {
-      "id": "聊城综合",
-      "name": "聊城综合",
-      "aliases": [
-        "CHANNEL00000250",
-        "聊城综合频道"
-      ],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 06:00",
-      "descriptionCoverage": 47,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "苏州生活",
       "name": "苏州生活",
       "aliases": [
@@ -6706,18 +6474,6 @@
       "todaySchedule": []
     },
     {
-      "id": "荆门教育",
-      "name": "荆门教育",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 06:30",
-      "descriptionCoverage": 33,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "菏泽-1",
       "name": "菏泽-1",
       "aliases": [
@@ -6742,54 +6498,6 @@
       "category": "市级",
       "lastProgramTime": "2026-08-07 23:40",
       "descriptionCoverage": 28,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "襄阳公共",
-      "name": "襄阳公共",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 07:05",
-      "descriptionCoverage": 60,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "襄阳影视",
-      "name": "襄阳影视娱乐",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 07:00",
-      "descriptionCoverage": 73,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "襄阳新闻",
-      "name": "襄阳新闻综合",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 00:20",
-      "descriptionCoverage": 43,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "襄阳经济",
-      "name": "襄阳经济",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 02:00",
-      "descriptionCoverage": 38,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -7269,54 +6977,6 @@
       "todaySchedule": []
     },
     {
-      "id": "黄冈新闻综合",
-      "name": "黄冈新闻综合",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 00:20",
-      "descriptionCoverage": 75,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "黄石公共垄上",
-      "name": "黄石公共垄上",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 06:00",
-      "descriptionCoverage": 18,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "黄石新闻",
-      "name": "黄石新闻",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 06:32",
-      "descriptionCoverage": 57,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "黄石都市",
-      "name": "黄石都市",
-      "aliases": [],
-      "category": "市级",
-      "lastProgramTime": "2026-08-02 06:30",
-      "descriptionCoverage": 28,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "黑龙江农业科教",
       "name": "黑龙江农业科教",
       "aliases": [],
@@ -7413,54 +7073,6 @@
       "todaySchedule": []
     },
     {
-      "id": "CETV早期教育",
-      "name": "CETV早期教育",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 2,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "HOY 76",
-      "name": "HOY 76",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 6,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "HOY77",
-      "name": "HOY77",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 35,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "HOY78",
-      "name": "HOY78",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 90,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "IPTV法治",
       "name": "IPTV法治",
       "aliases": [],
@@ -7485,60 +7097,12 @@
       "todaySchedule": []
     },
     {
-      "id": "NewTV中国功夫",
-      "name": "NewTV中国功夫",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 43,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV军事评论",
-      "name": "NewTV军事评论",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 53,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "NewTV军旅剧场",
       "name": "NewTV军旅剧场",
       "aliases": [],
       "category": "县级",
       "lastProgramTime": "2026-08-02 23:59",
       "descriptionCoverage": 0,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV农业致富",
-      "name": "NewTV农业致富",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 100,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV动作电影",
-      "name": "NewTV动作电影",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 89,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -7557,228 +7121,12 @@
       "todaySchedule": []
     },
     {
-      "id": "NewTV家庭剧场",
-      "name": "NewTV家庭剧场",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 26,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV怡伴健康",
-      "name": "NewTV怡伴健康",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 31,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV惊悚悬疑",
-      "name": "NewTV惊悚悬疑",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 39,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV明星大片",
-      "name": "NewTV明星大片",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 23,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV海外剧场",
-      "name": "NewTV海外剧场",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 32,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV潮妈辣婆",
-      "name": "NewTV潮妈辣婆",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 31,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV炫舞未来",
-      "name": "NewTV炫舞未来",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 9,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV热播精选",
-      "name": "NewTV热播精选",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 3,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV烽烟剧场",
-      "name": "NewTV烽烟剧场",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 11,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV爱情喜剧",
-      "name": "NewTV爱情喜剧",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 59,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV精品体育",
-      "name": "NewTV精品体育",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 7,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV精品大剧",
-      "name": "NewTV精品大剧",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 88,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV精品萌宠",
-      "name": "NewTV精品萌宠",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 61,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "NewTV谍战大剧",
-      "name": "NewTV谍战大剧",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 32,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "RTHK31",
-      "name": "RTHK31",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:30",
-      "descriptionCoverage": 12,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "RTHK32",
-      "name": "RTHK32",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:30",
-      "descriptionCoverage": 2,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "TVB星河",
-      "name": "TVB星河",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 46,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "东海新闻",
       "name": "东海新闻",
       "aliases": [],
       "category": "县级",
       "lastProgramTime": "2026-08-05 06:30",
       "descriptionCoverage": 25,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "中视",
-      "name": "中视",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 90,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -8070,42 +7418,6 @@
       "todaySchedule": []
     },
     {
-      "id": "十堰导视",
-      "name": "十堰导视",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-02 02:00",
-      "descriptionCoverage": 68,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "十堰武当",
-      "name": "十堰武当",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-02 08:30",
-      "descriptionCoverage": 50,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "华视",
-      "name": "华视",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 100,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "历城综合",
       "name": "历城综合",
       "aliases": [
@@ -8174,18 +7486,6 @@
       "category": "县级",
       "lastProgramTime": "2026-08-06 23:59",
       "descriptionCoverage": 22,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "台视",
-      "name": "台视",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 92,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -8351,18 +7651,6 @@
       "category": "县级",
       "lastProgramTime": "2026-08-05 23:59",
       "descriptionCoverage": 69,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "孝感孝南",
-      "name": "孝感孝南",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-02 02:00",
-      "descriptionCoverage": 56,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -8708,18 +7996,6 @@
       "category": "县级",
       "lastProgramTime": "2026-08-03 08:16",
       "descriptionCoverage": 0,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "武汉文体",
-      "name": "武汉文体",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 23:59",
-      "descriptionCoverage": 60,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -9153,7 +8429,7 @@
       "aliases": [],
       "category": "县级",
       "lastProgramTime": "2026-08-03 00:00",
-      "descriptionCoverage": 28,
+      "descriptionCoverage": 34,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -9284,18 +8560,6 @@
       "todaySchedule": []
     },
     {
-      "id": "美亚电影",
-      "name": "美亚电影",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-01 22:55",
-      "descriptionCoverage": 0,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
       "id": "美人",
       "name": "美人",
       "aliases": [],
@@ -9404,18 +8668,6 @@
       "category": "县级",
       "lastProgramTime": "2026-08-05 00:06",
       "descriptionCoverage": 0,
-      "hasGap": false,
-      "gapDetails": "",
-      "gapList": [],
-      "todaySchedule": []
-    },
-    {
-      "id": "葛洲坝台",
-      "name": "葛洲坝台",
-      "aliases": [],
-      "category": "县级",
-      "lastProgramTime": "2026-08-02 08:30",
-      "descriptionCoverage": 85,
       "hasGap": false,
       "gapDetails": "",
       "gapList": [],
@@ -9730,5 +8982,5 @@
       "todaySchedule": []
     }
   ],
-  "updateTime": 1786158877.2300606
+  "updateTime": 1786245729.153432
 }
